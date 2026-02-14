@@ -16,7 +16,7 @@ from pathlib import Path
 
 OUTPUT_DIR = Path("output")
 TRACTATE_DIR = OUTPUT_DIR / "tractates"
-FRONT_MATTER_DIR = OUTPUT_DIR / "front_matter"
+FRONT_MATTER_DIR = OUTPUT_DIR / "supplementary"
 
 
 # ---------------------------------------------------------------------------

@@ -7,7 +7,7 @@ PDF page offset: book page + 16 = PDF page (0-indexed: book page + 15).
 
 Output:
   output/tractates/          — Individual markdown files per tractate
-  output/front_matter/       — Introduction, Preface, etc.
+  output/supplementary/       — Introduction, Preface, etc.
   output/index.json          — Machine-readable index of all tractates
 """
 import json
@@ -26,7 +26,7 @@ PDF_PATH = Path("data/The Nag Hammadi Library. The Definitive Translation of the
 
 OUTPUT_DIR = Path("output")
 TRACTATE_DIR = OUTPUT_DIR / "tractates"
-FRONT_MATTER_DIR = OUTPUT_DIR / "front_matter"
+FRONT_MATTER_DIR = OUTPUT_DIR / "supplementary"
 
 # PDF page 1 (0-indexed: 0) corresponds to nothing useful (blank).
 # Book page 1 = PDF page 17 (0-indexed: 16).  Offset = 16.
@@ -504,7 +504,7 @@ def make_tractate_markdown(entry: dict, text: str) -> str:
     return '\n'.join(lines)
 
 
-def make_front_matter_markdown(entry: dict, text: str) -> str:
+def make_supplementary_markdown(entry: dict, text: str) -> str:
     """Format a front matter section as markdown."""
     lines = []
     lines.append(f"# {entry['title']}")
@@ -538,7 +538,7 @@ def main():
     print("\n--- Front Matter ---")
     for fm in FRONT_MATTER:
         text = extract_pages(doc, fm["pdf_start"], fm["pdf_end"])
-        md = make_front_matter_markdown(fm, text)
+        md = make_supplementary_markdown(fm, text)
         out_path = FRONT_MATTER_DIR / fm["filename"]
         out_path.write_text(md, encoding="utf-8")
         print(f"  {fm['filename']} ({fm['pdf_end'] - fm['pdf_start']} pages)")
