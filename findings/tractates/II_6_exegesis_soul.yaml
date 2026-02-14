@@ -1,0 +1,100 @@
+tractate: "II,6"
+title: "The Exegesis on the Soul"
+filename: "II_6_exegesis_soul.md"
+status: complete
+richness: rich
+
+summary: >
+  A step-by-step narration of the regeneration cycle using the soul-as-woman
+  correspondence. The soul begins virginal and androgynous with the Father,
+  falls into a body, is prostituted by many lovers, bears defective children,
+  repents, is cleansed, and is reunited with her bridegroom. The text
+  explicitly identifies each stage and draws parallels to Homer's Odyssey
+  (Odysseus = soul longing for home) and Old Testament marriage metaphors.
+  Regeneration described as narrative, not as doctrine.
+
+findings:
+  - id: ES-001
+    category: structural_principle
+    passage: >
+      The soul is female, virginal and androgynous, dwelling with the Father.
+      She falls into a body and is "prostituted" by many lovers. Her children
+      by adulterers are "dumb, blind, and sickly." The Father makes her womb
+      turn inward. The bridegroom is sent from heaven. Marriage in the bridal
+      chamber restores unity: "they become a single life."
+    location: "Entire text"
+    finding: >
+      The complete regeneration cycle in narrative form:
+      1. Original state: unity with the father (love and wisdom undivided)
+      2. Fall: entry into the natural plane / body (separation)
+      3. Prostitution: attachment to false loves (ruling loves oriented to self)
+      4. Defective offspring: thoughts/affections from false principles are dysfunctional
+      5. Repentance: recognition of the problem (self-knowledge through suffering)
+      6. Turning inward: the womb turns from external to internal (spiritual circumcision)
+      7. Cleansing: purification of understanding
+      8. Reunion: the bridegroom (truth from above) unites with the soul (good)
+      9. Restoration: "This is the resurrection that is from the dead"
+    principles:
+      - regeneration
+      - bridal_chamber
+      - correspondence
+    confidence: strong
+    notes: >
+      The text maps precisely onto Swedenborg's regeneration sequence.
+      The key insight: regeneration is not mechanical progress but a
+      love story — the soul longing for what she lost and being reunited.
+
+  - id: ES-002
+    category: explicit_statement
+    passage: >
+      "Sons of Egypt, men great of flesh — this is the domain of the
+      flesh and the perceptible realm and the affairs of the earth."
+    location: "Middle section"
+    finding: >
+      The text explicitly decodes its own correspondence: "sons of Egypt" =
+      the domain of the flesh and the perceptible realm. Egypt corresponds
+      to the natural/sensory plane. The text tells you what Egypt means in
+      the spiritual sense.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      Self-decoding correspondences like this are rare and valuable —
+      the text does the interpretive work for you.
+
+  - id: ES-003
+    category: explicit_statement
+    passage: >
+      "This is the resurrection that is from the dead. This is the
+      ransom from captivity. This is the upward journey of ascent
+      to heaven. This is the way of ascent to the father."
+    location: "Late section"
+    finding: >
+      The text explicitly identifies the reunion narrative as resurrection,
+      ransom, ascent — all standard theological terms decoded as the
+      completion of the regeneration cycle. Resurrection is not future
+      body-reanimation but present spiritual reunification.
+    principles:
+      - regeneration
+      - correspondence
+    confidence: strong
+    notes: ""
+
+  - id: ES-004
+    category: cross_reference
+    passage: >
+      "It is not, therefore, due to rote phrases or to professional
+      skills or to book learning. Rather it is the grace of God."
+    location: "Conclusion"
+    finding: >
+      Regeneration cannot be achieved through external means (rote phrases,
+      professional skills, book learning). It is grace — influx from above.
+      This is anti-systematic in the best sense: the text warns against
+      treating the process it describes as a technique.
+    principles:
+      - influx
+    confidence: strong
+    notes: >
+      A crucial corrective for anyone who reads the regeneration cycle
+      as a how-to manual. The stages describe what happens; grace is
+      the agent, not human effort.

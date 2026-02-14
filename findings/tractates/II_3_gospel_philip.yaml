@@ -1,0 +1,394 @@
+tractate: "II,3"
+title: "The Gospel of Philip"
+filename: "II_3_gospel_philip.md"
+status: in_progress
+richness: extraordinary
+
+summary: >
+  The most systematic text in the collection for correspondential theory.
+  Where Thomas announces the correspondential structure (Saying 1) and
+  practices it, Philip *theorizes* about it. Philip explicitly teaches
+  that truth comes in types and images, that names are deceptive, that
+  animals in human form are affections, that the world receives truth
+  only through natural forms, and that the bridal chamber is the union
+  of good and truth. Philip is less a gospel and more a correspondential
+  handbook — a series of meditations on how the spiritual and natural
+  degrees relate. The text deploys virtually every major correspondence
+  (light, fire, water, garment, seed, pearl, farming, glass, animals,
+  bridal chamber, dye, mirror) with explicit commentary on why each
+  works the way it does.
+
+findings:
+  - id: GP-001
+    category: explicit_statement
+    passage: >
+      "Names given to the worldly are very deceptive, for they divert
+      our thoughts from what is correct to what is incorrect."
+    location: "Opening section"
+    finding: >
+      Philip begins by teaching that natural-level naming (worldly names)
+      is systematically misleading. The names point away from the reality
+      they claim to designate. This is not a casual observation — it is
+      the hermeneutic key to the entire text: do not trust the natural
+      sense of words; look for the spiritual reality behind them.
+    principles:
+      - correspondence
+      - opposite_sense
+    confidence: strong
+    notes: >
+      This opening directly supports the correspondential reading method:
+      the natural sense (names) must be penetrated to reach the spiritual
+      sense (what is correct).
+
+  - id: GP-002
+    category: explicit_statement
+    passage: >
+      "Truth did not come into the world naked, but it came in types
+      and images. The world will not receive truth in any other way."
+    location: "Middle section"
+    finding: >
+      The clearest ancient statement of correspondential epistemology.
+      Truth (spiritual reality) cannot enter the natural degree "naked"
+      (without form). It must come in "types and images" (natural forms
+      that correspond to the spiritual reality). The world (natural plane)
+      can only receive truth through these forms. This is correspondence
+      described not as interpretation method but as cosmological necessity.
+    principles:
+      - correspondence
+      - discrete_degrees
+      - accommodation
+    confidence: strong
+    notes: >
+      This is the doctrine stated — not practiced incidentally but
+      articulated as principle. Philip knows what correspondence IS
+      and tells you.
+
+  - id: GP-003
+    category: correspondence
+    passage: >
+      "God is a dyer. As the good dyes, which are called 'true,'
+      dissolve with the things dyed in them, so it is with those whom
+      God has dyed. Since his dyes are immortal, they become immortal
+      by means of his colors. Now God dips what he dips in water."
+    location: "Early section"
+    finding: >
+      Dyeing = transformation by immersion in truth. Colors = specific
+      qualities of truth. Water = truth in the natural degree (the medium
+      of baptism). The 72 colors that all come out white = the diversity
+      of specific truths that, when traced to their source, are one
+      (purity). The one who is dyed "becomes immortal by means of his
+      colors" — takes on the quality of what they are immersed in.
+    principles:
+      - correspondence
+      - regeneration
+    confidence: strong
+    notes: ""
+
+  - id: GP-004
+    category: explicit_statement
+    passage: >
+      "In this world those who put on garments are better than the
+      garments. In the kingdom of heaven the garments are better than
+      those that put them on."
+    location: "Early section"
+    finding: >
+      Garments = external truths / coverings. In the natural world, the
+      person (interior) is more valuable than the clothes (exterior). In
+      the spiritual world, the truths (garments) are more valuable than
+      the one wearing them — because in heaven, the truths ARE the person's
+      spiritual substance. This is a teaching about discrete degrees: the
+      relationship between interior and exterior *reverses* depending on
+      which degree you are speaking from.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      A subtle and precise observation about how correspondences operate
+      differently at different degrees.
+
+  - id: GP-005
+    category: explicit_statement
+    passage: >
+      "The forms of evil and the forms of good both exist. While we
+      are in this world it is fitting for us to acquire the resurrection."
+    location: "Middle section"
+    finding: >
+      Good and evil both have natural "forms" — both express themselves
+      through correspondence into the natural degree. Acquiring the
+      resurrection while in the body means the spiritual transformation
+      (regeneration) is meant to happen NOW, in the natural plane, not
+      after death. The natural life is the context for spiritual acquisition.
+    principles:
+      - correspondence
+      - regeneration
+    confidence: strong
+    notes: ""
+
+  - id: GP-006
+    category: correspondence
+    passage: >
+      "You saw the spirit, you became spirit. You saw Christ, you became
+      Christ. You saw [the father, you] shall become father."
+    location: "Early section"
+    finding: >
+      Seeing = becoming. Perception in the spiritual degree is not observation
+      from outside — it is participation. To see a spiritual reality is to
+      take on its quality. This is influx operating through perception: the
+      act of spiritual seeing is itself the mechanism of transformation.
+    principles:
+      - influx
+      - correspondence
+    confidence: strong
+    notes: >
+      This dissolves the subject/object distinction that governs natural
+      perception. In the spiritual degree, seeing and being are the same act.
+
+  - id: GP-007
+    category: explicit_statement
+    passage: >
+      "His flesh is the word, and his blood is the holy spirit."
+    location: "Sacramental section"
+    finding: >
+      Flesh corresponds to the Word (truth in its natural expression).
+      Blood corresponds to the Holy Spirit (divine proceeding / love in
+      its flowing form). This is a direct body-to-spiritual mapping —
+      the eucharistic elements decoded correspondentially. Flesh = truth
+      made perceptible; blood = love circulating through the system.
+    principles:
+      - correspondence
+      - divine_human
+    confidence: strong
+    notes: ""
+
+  - id: GP-008
+    category: explicit_statement
+    passage: >
+      "There are domestic animals, like the bull and the ass and others
+      of this kind. Others are wild and live apart in the deserts. Man
+      ploughs the field by means of the domestic animals, and from this
+      he is nourished, he and the animals, whether tame or wild. Compare
+      the perfect man. It is through the powers which are submissive
+      that he ploughs, preparing for everything to come into being."
+    location: "Middle section"
+    finding: >
+      Animals = affections/powers. Domestic animals = submissive affections
+      (those aligned with the person's spiritual work). Wild animals =
+      rebellious or untamed affections. The "perfect man" works through
+      his submissive powers (aligned affections) to cultivate — ploughing
+      = preparing the ground of the mind for truth to grow. This nourishes
+      both tame and wild — spiritual work transforms even the rebellious
+      affections by feeding the whole person.
+    principles:
+      - correspondence
+      - ruling_love
+    confidence: strong
+    notes: >
+      Philip makes the correspondence explicit: the comparison word
+      ("Compare the perfect man") tells you this is NOT naturalistic
+      farming advice.
+
+  - id: GP-009
+    category: correspondence
+    passage: >
+      "A glass decanters and earthenware jugs are both made by means
+      of fire. But if glass decanters break they are done over, for
+      they came into being through a breath. If earthenware jugs break,
+      however, they are destroyed, for they came into being without
+      breath."
+    location: "Middle section"
+    finding: >
+      Glass = vessels formed by breath/spirit. When broken, they can be
+      re-formed (regenerated) because they contain the spiritual principle.
+      Earthenware = vessels without breath/spirit. When broken, they are
+      destroyed because there is nothing to re-form them from. This is a
+      correspondence map of spiritual vs. natural-only existence: what
+      has received the spirit can be renewed; what has not is perishable.
+    principles:
+      - correspondence
+      - regeneration
+    confidence: strong
+    notes: ""
+
+  - id: GP-010
+    category: correspondence
+    passage: >
+      "A pearl, if it is cast down into the mud, is not thereby of less
+      value, nor if it is anointed with balsam oil will it become more
+      precious. But it always has value in the eyes of its owner."
+    location: "Middle section"
+    finding: >
+      Pearl = one precious truth (the essential knowledge). Mud = the
+      grossness of the natural plane. Balsam oil = external enhancement.
+      The pearl's value is inherent — it is not diminished by contact with
+      the natural (mud) nor increased by external application (oil). The
+      value exists "in the eyes of the owner" — the one who possesses
+      the truth knows its worth regardless of external circumstances.
+    principles:
+      - correspondence
+      - constant_state_variable_form
+    confidence: strong
+    notes: >
+      Cf. Thomas Saying 76 (the merchant and the pearl). The pearl as
+      one essential truth appears across multiple NHL texts.
+
+  - id: GP-011
+    category: correspondence
+    passage: >
+      "Winter is the world, summer is the other eternal realm."
+    location: "Middle section"
+    finding: >
+      Winter = the world (the natural plane — cold, dormant, death-like).
+      Summer = the spiritual realm (warm, fruitful, life-giving).
+      A compact seasonal correspondence applied to the two planes of existence.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: ""
+
+  - id: GP-012
+    category: structural_principle
+    passage: >
+      "When Eve was still in Adam death did not exist. When she was
+      separated from him death came into being. If he enters again and
+      attains his former self, death will be no more."
+    location: "Bridal chamber section"
+    finding: >
+      Adam-Eve unity = original wholeness of the human (love and wisdom,
+      will and understanding, undivided). Separation = death — the
+      division of what was one. Re-entering and attaining the "former self"
+      = restoration of unity (the bridal chamber). Death is not biological
+      but structural: it is the state of being divided.
+    principles:
+      - bridal_chamber
+      - regeneration
+    confidence: strong
+    notes: >
+      This directly parallels Thomas's repeated "make the two one" teaching.
+
+  - id: GP-013
+    category: structural_principle
+    passage: >
+      "In this world the slaves serve the free. In the kingdom of heaven
+      the free will minister to the slaves."
+    location: "Middle section"
+    finding: >
+      The relationship between higher and lower reverses between degrees.
+      In the natural world, the lower serves the higher (social hierarchy).
+      In the spiritual world, the higher serves the lower — because true
+      freedom (spiritual openness) expresses itself as service. This is
+      influx described socially: what flows from above nourishes what is below.
+    principles:
+      - discrete_degrees
+      - influx
+    confidence: moderate
+    notes: ""
+
+  - id: GP-014
+    category: correspondence
+    passage: >
+      "Farming in the world requires the cooperation of four essential
+      elements. A harvest is gathered into the barn only as a result
+      of the natural action of water, earth, wind and light. God's
+      farming likewise has four elements — faith, hope, love, and
+      knowledge. Faith is our earth, that in which we take root.
+      And hope is the water through which we are nourished. And love
+      is the wind through which we grow. And knowledge, then, is the
+      light through which we ripen."
+    location: "Middle section"
+    finding: >
+      A complete four-element correspondence system applied to spiritual
+      growth: earth/faith (the ground), water/hope (nourishment),
+      wind/love (movement/growth), light/knowledge (ripening/completion).
+      This is correspondential farming — the natural agricultural process
+      AS the spiritual regeneration process. Each element corresponds to
+      a specific spiritual quality, and the sequence describes how
+      regeneration works.
+    principles:
+      - correspondence
+      - regeneration
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      Philip doesn't just assert the correspondences — he explains WHY
+      each works: earth is what we root in, water is what nourishes, etc.
+      The correspondence is grounded in function.
+
+  - id: GP-015
+    category: structural_principle
+    passage: >
+      "The veil at first concealed how God controlled the creation. But
+      when the veil is rent and the things inside are revealed, this
+      house will be left desolate, or rather will be destroyed. And the
+      whole divinity will retreat from these places... The veil was rent
+      from top to bottom. For it was fitting for some from below to go
+      upward."
+    location: "Late section"
+    finding: >
+      The veil = the separation between natural and spiritual degrees.
+      Rent from top to bottom = the opening proceeds from the divine
+      downward (top-down, influx direction). "Some from below go upward"
+      = when the barrier is removed, what was in the natural degree can
+      ascend to the spiritual. The temple veil as a correspondence for
+      the barrier between degrees.
+    principles:
+      - discrete_degrees
+      - influx
+    confidence: strong
+    notes: >
+      "From top to bottom" — the direction is critical. The opening
+      comes from above, consistent with influx. The natural does not
+      tear its way upward.
+
+  - id: GP-016
+    category: accommodation
+    passage: >
+      "The master of the house has possessions of every sort, be they
+      children, or slaves, or cattle, or dogs, or pigs, or corn or
+      barley or chaff or grass or [...] or meat and acorn. Now he is
+      a sensible fellow and he knows what the food is for each one.
+      He served the children bread [...]. He served the slaves [...]
+      meal and the cattle [barley] and chaff and grass. He threw the
+      dogs bones, and to the pigs he tossed acorns and slop."
+    location: "Middle section"
+    finding: >
+      Each creature receives food appropriate to its nature. The
+      householder (teacher/divine) knows what each one needs and
+      serves accordingly. This is the doctrine of accommodation —
+      the same truth delivered at different levels for different
+      capacities. Children receive bread (simple, nourishing truth);
+      cattle receive barley (coarser truth for natural understanding);
+      pigs receive acorns (the lowest natural sustenance). Not hierarchy
+      of value but differentiation of reception.
+    principles:
+      - accommodation
+      - correspondence
+    confidence: strong
+    notes: >
+      Philip continues: "Compare the disciple of God" — making the
+      comparison explicit. The true teacher reads the soul-state of
+      each and serves what that soul can receive.
+
+  - id: GP-017
+    category: structural_principle
+    passage: >
+      "The mysteries of truth are revealed, though in type and image.
+      The bridal chamber, however, remains hidden. It is the holy in
+      the holy."
+    location: "Bridal chamber section"
+    finding: >
+      Even within the correspondential system there are degrees of
+      interiority. Mysteries are revealed in type and image (the
+      correspondential method opens them). But the bridal chamber —
+      the ultimate union of good and truth — "remains hidden." It is
+      "the holy in the holy" (the holy of holies). The innermost
+      reality cannot be opened by the same method that opens the outer
+      mysteries; it requires actual union, not just perception.
+    principles:
+      - bridal_chamber
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      This is Philip acknowledging the limit of correspondential reading:
+      correspondence opens the intermediate degrees, but the innermost
+      (union itself) is experienced, not read.

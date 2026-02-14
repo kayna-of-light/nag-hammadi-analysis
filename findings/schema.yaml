@@ -1,0 +1,147 @@
+# ============================================================================
+# Nag Hammadi Library — Correspondential Findings Schema
+# ============================================================================
+#
+# This file defines the structure for per-tractate findings files.
+# Each tractate under analysis gets a YAML file in findings/tractates/
+# mirroring the filename from output/cleaned/tractates/.
+#
+# The findings system captures what emerges when the NHL texts are read
+# through the correspondential lens — not as an overlay imposed on the texts,
+# but as the mode of reading the texts describe for themselves (Thomas, Saying 1).
+#
+# ============================================================================
+
+# ---------------------------------------------------------------------------
+# Top-Level Tractate Metadata
+# ---------------------------------------------------------------------------
+# tractate:     Codex reference (e.g., "II,1")
+# title:        Full tractate title
+# filename:     Matching filename in output/cleaned/tractates/
+# status:       Analysis progress
+#                 not_started   — Not yet analyzed
+#                 in_progress   — Partially analyzed; more findings expected
+#                 complete      — Fully analyzed; all identifiable findings recorded
+# richness:     Overall correspondential density assessment
+#                 extraordinary — The text is saturated with correspondential content
+#                 rich          — Multiple deep correspondential patterns throughout
+#                 moderate      — Some clear correspondences; mixed with other material
+#                 sparse        — Few correspondential elements; mostly other register
+#                 resistant     — The text does not yield to correspondential reading
+# summary:      Free-form overall assessment (multi-line)
+
+# ---------------------------------------------------------------------------
+# Finding Categories
+# ---------------------------------------------------------------------------
+# correspondence:
+#   A specific natural→spiritual mapping identified in the text.
+#   The core unit: this natural image corresponds to this spiritual reality.
+#   Example: "animals in human form" = affections made visible (Philip)
+#
+# explicit_statement:
+#   The text explicitly teaches, names, or describes correspondence theory
+#   or a related structural principle. These are passages where the text
+#   steps back and tells you how to read it.
+#   Example: "Truth did not come into the world naked, but in types and images" (Philip)
+#
+# structural_principle:
+#   An instance of a correspondential principle operating in the text's structure,
+#   not merely as isolated imagery but as an organizing principle of the discourse.
+#   Example: Trimorphic Protennoia's three descents as Voice→Speech→Word = discrete degrees
+#
+# divine_human_anatomy:
+#   Body-part, substance, or organ→spiritual-power mappings.
+#   The Grand Man material — the human form as the divine in ultimates.
+#   Example: "goodness created a bone-soul" (Apocryphon of John)
+#
+# cross_reference:
+#   A connection to another tractate, to Swedenborg, to Zoroastrian tradition,
+#   or to another ancient source — evidence of a shared correspondential substrate.
+#   Example: "it is written in the book of Zoroaster" (Apocryphon of John)
+#
+# anomaly:
+#   Something that resists, complicates, or contradicts the correspondential reading.
+#   Honest reporting of where the framework does not fit.
+#   Example: Christianized editorial layers that break internal logic
+
+# ---------------------------------------------------------------------------
+# Framework Principles
+# ---------------------------------------------------------------------------
+# Each finding evidences one or more framework principles:
+#
+# correspondence         — Natural→spiritual mapping (the basic unit)
+# discrete_degrees       — Celestial/spiritual/natural stratification
+# influx                 — Divine truth/good flowing into natural forms
+# constant_state_variable_form — Same reality, different perceptual expressions
+# opposite_sense         — Same symbol meaning good or evil depending on context
+# regeneration           — The spiritual transformation process
+# proprium               — Self-love claiming what it receives; the obstacle
+# divine_human           — The Grand Man; body-correspondence system
+# ancient_word           — Evidence for pre-literary correspondential knowledge
+# bridal_chamber         — Union of good and truth; celestial marriage
+# ruling_love            — Core orientation determining everything else
+# accommodation          — Truth delivered at different levels for different receivers
+
+# ---------------------------------------------------------------------------
+# Finding Structure
+# ---------------------------------------------------------------------------
+# - id:          Unique within tractate. Format: ABBREV-NNN (e.g., AJ-001, GT-015)
+#   category:    One of the categories above
+#   passage:     The relevant text (quoted or summarized)
+#   location:    Line reference in the cleaned tractate file, or Robinson page ref
+#   finding:     What was found — the observation itself (multi-line)
+#   principles:  List of framework principles this finding evidences
+#   confidence:  strong | moderate | tentative
+#   notes:       Additional context, cross-references, qualifications (multi-line, optional)
+
+# ---------------------------------------------------------------------------
+# Abbreviations for Finding IDs
+# ---------------------------------------------------------------------------
+# AJ   — Apocryphon of John (II,1)
+# GT   — Gospel of Thomas (II,2)
+# GP   — Gospel of Philip (II,3)
+# HA   — Hypostasis of the Archons (II,4)
+# OW   — On the Origin of the World (II,5)
+# ES   — Exegesis on the Soul (II,6)
+# BT   — Book of Thomas the Contender (II,7)
+# AJm  — Apocryphon of James (I,2)
+# GV   — Gospel of Truth (I,3)
+# TR   — Treatise on the Resurrection (I,4)
+# TT   — Tripartite Tractate (I,5)
+# GE   — Gospel of the Egyptians (III,2)
+# EU   — Eugnostos / Sophia of Jesus Christ (III,3)
+# DS   — Dialogue of the Savior (III,5)
+# AP   — Apocalypse of Paul (V,2)
+# AJ1  — First Apocalypse of James (V,3)
+# AJ2  — Second Apocalypse of James (V,4)
+# AA   — Apocalypse of Adam (V,5)
+# AT   — Acts of Peter and the Twelve (VI,1)
+# TH   — Thunder, Perfect Mind (VI,2)
+# AU   — Authoritative Teaching (VI,3)
+# CP   — Concept of Our Great Power (VI,4)
+# D89  — Discourse on the Eighth and Ninth (VI,6)
+# AS   — Asclepius (VI,8)
+# PS   — Paraphrase of Shem (VII,1)
+# GS   — Second Treatise of the Great Seth (VII,2)
+# APt  — Apocalypse of Peter (VII,3)
+# TS   — Teachings of Silvanus (VII,4)
+# SS   — Three Steles of Seth (VII,5)
+# ZO   — Zostrianos (VIII,1)
+# LP   — Letter of Peter to Philip (VIII,2)
+# MZ   — Melchizedek (IX,1)
+# TN   — Thought of Norea (IX,2)
+# TT2  — Testimony of Truth (IX,3)
+# MA   — Marsanes (X,1)
+# IK   — Interpretation of Knowledge (XI,1)
+# VE   — Valentinian Exposition (XI,2)
+# AL   — Allogenes (XI,3)
+# HY   — Hypsiphrone (XI,4)
+# SX   — Sentences of Sextus (XII,1)
+# TP   — Trimorphic Protennoia (XIII,1)
+# GM   — Gospel of Mary (BG 1)
+# APe  — Act of Peter (BG 4)
+
+# ---------------------------------------------------------------------------
+# Example Tractate File
+# ---------------------------------------------------------------------------
+# See findings/tractates/II_2_gospel_thomas.yaml for a complete example.

@@ -1,0 +1,81 @@
+tractate: "V,5"
+title: "The Apocalypse of Adam"
+filename: "V_5_apocalypse_adam.md"
+status: complete
+richness: rich
+
+summary: >
+  A structural key to the collection. The thirteen kingdoms passage is a
+  sustained demonstration of how ruling truths organize systems — each
+  kingdom routes the Illuminator through its own construct. The generation
+  without a king receives directly. The "Words of Imperishability and Truth"
+  existing ON a high mountain (not written on it) is one of the clearest
+  ancient statements of knowledge preserved in form rather than text.
+
+findings:
+  - id: AA-001
+    category: structural_principle
+    passage: >
+      Thirteen kingdoms each give an account of the Illuminator's origin.
+      Each routes him through a different construct: a great spirit, a
+      virgin, a prophet, two illuminators, a cloud, fire, etc.
+    location: "77,27–83,4 (Robinson pagination)"
+    finding: >
+      Each kingdom is a system built on a ruling truth (the "king"). The
+      ruling truth determines how everything within the system is organized.
+      Each account of the Illuminator is filtered through the system's
+      foundational principle. None are "wrong" — they are inadequate because
+      they explain direct influx through a construct. The thirteen accounts
+      demonstrate constant state (the Illuminator) and variable form (the
+      constructs through which he is perceived).
+    principles:
+      - constant_state_variable_form
+      - ruling_love
+      - accommodation
+    confidence: strong
+    notes: ""
+
+  - id: AA-002
+    category: structural_principle
+    passage: >
+      "But the generation without a king over it says that God chose him
+      from all the aeons."
+    location: "82,19–83,4"
+    finding: >
+      The generation without a king does not lack a ruling principle. The
+      ruling principle is rooted in living reality rather than abstracted
+      into a system. They receive the Illuminator directly, as presence,
+      not through a construct. This is the difference between correspondential
+      reception (direct) and systematic reception (mediated by constructs).
+    principles:
+      - ruling_love
+      - influx
+    confidence: strong
+    notes: ""
+
+  - id: AA-003
+    category: explicit_statement
+    passage: >
+      "The words they have kept, of the God of the aeons, were not
+      committed to the book, nor were they written. But angelic beings
+      will bring them, whom all the generations of men will not know.
+      For they will be on a high mountain, upon a rock of truth.
+      Therefore they will be named 'The Words of Imperishability
+      and Truth.'"
+    location: "85,19–31"
+    finding: >
+      Not "written on" a mountain. The words ARE on the mountain — they
+      exist as the mountain, as the rock. "Rock of truth" is not a surface
+      on which truth is carved. The rock IS truth in its ultimate natural
+      form — truth solidified. The mountain IS the elevated state. Knowledge
+      preserved in form, not in text. This is the Ancient Word: a knowledge
+      system that exists in the structure of things, not in written records.
+    principles:
+      - ancient_word
+      - correspondence
+    confidence: strong
+    notes: >
+      "Angelic beings will bring them, whom all the generations of men
+      will not know" — the knowledge comes through influx from spiritual
+      beings, not through human transmission. Hidden from "all generations"
+      = not accessible through natural-plane knowing.

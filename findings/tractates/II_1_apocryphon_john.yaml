@@ -1,0 +1,433 @@
+tractate: "II,1"
+title: "The Apocryphon of John"
+filename: "II_1_apocryphon_john.md"
+status: in_progress
+richness: extraordinary
+
+summary: >
+  The longest text in the collection and one of the richest. At the surface level
+  it presents a cosmogonic myth — the emanation from the Invisible Spirit through
+  Barbelo and the aeons, Sophia's error, the creation of Yaldabaoth, the formation
+  of the human body, and the struggle between light and darkness for the divine spark
+  in humanity.
+
+  At the correspondential level, it is a systematic map: the Monad described via
+  apophasis (what cannot be said about the infinite); four luminaries with twelve
+  sub-aeons as a calendar of spiritual states; seven archons with animal faces
+  as affections of the proprium; seven substance-souls mapping spiritual powers
+  to bodily structures (the divine human anatomy); 365 body-part angels as a
+  comprehensive correspondence map of the human form; four passions (pleasure,
+  desire, grief, fear) with cascading derivatives; and three descents of Pronoia
+  as progressive influx. The text explicitly attributes its body-correspondence
+  system to "the book of Zoroaster" — direct evidence for the Ancient Word.
+
+  Scholarship treats the enumeration lists as tedious or magical. They are
+  correspondence maps: the human body described as the divine in ultimates.
+
+findings:
+  - id: AJ-001
+    category: structural_principle
+    passage: >
+      "For from the light, which is the Christ, and the indestructibility,
+      through the gift of the Spirit the four lights appeared from the divine
+      Autogenes... And grace belongs to the light-aeon Armozel... grace, truth,
+      and form. And the second light is Oriel... conception, perception, and
+      memory. And the third light is Daveithai... understanding, love, and idea.
+      And the fourth aeon was placed over the fourth light Eleleth... perfection,
+      peace, and wisdom."
+    location: "Lines 67-68"
+    finding: >
+      Four luminaries, each with three sub-aeons = 12 total aeons. This is a
+      systematic architecture of spiritual states, organized like a calendar:
+      Armozel (grace/truth/form), Oriel (conception/perception/memory),
+      Daveithai (understanding/love/idea), Eleleth (perfection/peace/wisdom).
+      These are not random names — they describe four domains of spiritual life,
+      each with three articulations, totaling twelve states of the heavenly human.
+    principles:
+      - discrete_degrees
+      - divine_human
+    confidence: strong
+    notes: >
+      The parallel with the Enochian calendar of luminaries is striking.
+      Both organize spiritual states in systematic enumeration with numerical
+      structure (4 × 3 = 12). The four lights also govern four categories of
+      souls placed within them (Adamas, Seth, seed of Seth, those who repent).
+
+  - id: AJ-002
+    category: structural_principle
+    passage: >
+      "And the archons created seven powers for themselves... the first is
+      Athoth, he has a sheep's face; the second is Eloaiou, he has a donkey's
+      face; the third is Astaphaios, he has a hyena's face; the fourth is Yao,
+      he has a serpent's face with seven heads; the fifth is Sabaoth, he has a
+      dragon's face; the sixth is Adonin, he had a monkey's face; the seventh
+      is Sabbede, he has a shining fire-face."
+    location: "Line 85"
+    finding: >
+      Seven archons with animal faces. Animals = affections. Each archon
+      embodies the quality of the affection its animal represents: sheep
+      (following/compliance), donkey (stubbornness/servility), hyena
+      (scavenging on what others produce), serpent with seven heads
+      (sensory deception multiplied), dragon (power of self-love), monkey
+      (imitation without understanding), fire-face (consuming passion).
+      These are the proprium's powers — affections of self-love given form.
+    principles:
+      - correspondence
+      - proprium
+    confidence: moderate
+    notes: >
+      Philip explicitly teaches that "animals in human form" are affections.
+      The Apocryphon applies the same principle to the archontic powers:
+      each is an affection of the proprium given a face.
+
+  - id: AJ-003
+    category: structural_principle
+    passage: >
+      "He named each power beginning with the highest: the first is
+      goodness with the first authority, Athoth; the second is
+      foreknowledge with the second one, Eloaio; the third is divinity
+      with Astraphaio; the fourth is lordship with Yao; the fifth is
+      kingdom with Sabaoth; the sixth is envy with Adonein; the seventh
+      is understanding with Sabbateon."
+    location: "Line 87"
+    finding: >
+      Seven powers paired with seven archons. The powers are spiritual
+      qualities: goodness, foreknowledge, divinity, lordship, kingdom,
+      envy, understanding. These are the same qualities that later create
+      the seven substance-souls of the human body. The archons receive
+      these as "names" — external attributions of power they do not
+      truly possess. The text explicitly states the names given by the
+      Originator carry power, but names given "according to the glory
+      which belongs to heaven" mean "destruction and powerlessness" —
+      opposite sense operating at the level of naming itself.
+    principles:
+      - opposite_sense
+      - correspondence
+    confidence: strong
+    notes: >
+      "Two names" = each power has a genuine spiritual quality AND a
+      proprium-distorted expression. This is opposite sense applied
+      systematically to an entire hierarchy.
+
+  - id: AJ-004
+    category: explicit_statement
+    passage: >
+      "And he said to the authorities which attend him, 'Come, let us
+      create a man according to the image of God and according to our
+      likeness, that his image may become a light for us.' And they
+      created by means of their respective powers in correspondence
+      with the characteristics which were given."
+    location: "Line 103"
+    finding: >
+      The text uses the word "correspondence" explicitly. Each power
+      creates "in correspondence with" its characteristic — the body
+      part corresponds to the spiritual quality of the power that created
+      it. This is the doctrine of correspondence stated as the operating
+      principle of human creation: each part of the body IS the spiritual
+      power that created it, expressed in ultimates.
+    principles:
+      - correspondence
+      - divine_human
+    confidence: strong
+    notes: >
+      The word "correspondence" appears in the Robinson translation.
+      This is not a modern overlay — the text describes its own method.
+
+  - id: AJ-005
+    category: divine_human_anatomy
+    passage: >
+      "The powers began: the first one, goodness, created a bone-soul;
+      and the second, foreknowledge, created a sinew-soul; the third,
+      divinity, created a flesh-soul; and the fourth, the lordship,
+      created a marrow-soul; the fifth, kingdom created a blood-soul;
+      the sixth, envy, created a skin-soul; the seventh, understanding,
+      created a hair-soul."
+    location: "Line 105"
+    finding: >
+      Seven substance-souls mapping spiritual powers to bodily structures.
+      The progression moves from structural interior to exterior:
+
+      1. Bone (goodness) — structural foundation; what is good holds everything up
+      2. Sinew (foreknowledge) — binding/connecting; foreknowledge links states
+      3. Flesh (divinity) — visible substance; divinity made perceptible
+      4. Marrow (lordship) — innermost life-generating; lordship at the core
+      5. Blood (kingdom) — flowing vitality; kingdom as circulating life
+      6. Skin (envy) — outermost boundary; envy as the surface reaction
+      7. Hair (understanding) — ultimate extension; understanding as what reaches out
+
+      This is not random assignment. It is a correspondence map of the human
+      body's substance-layers, each with a spiritual-power creator.
+    principles:
+      - divine_human
+      - correspondence
+      - influx
+    confidence: strong
+    notes: >
+      The interior→exterior progression mirrors influx: the deepest
+      structures (bone, marrow) correspond to the most foundational
+      qualities (goodness, lordship), while outermost (skin, hair)
+      correspond to qualities that interact with the exterior (envy
+      as boundary-reaction, understanding as what extends outward).
+
+  - id: AJ-006
+    category: divine_human_anatomy
+    passage: >
+      "The first one began to create the head. Eteraphaope-Abron created
+      his head; Meniggesstroeth created the brain; Asterechme created the
+      right eye; Thaspomocha created the left eye..."
+      [continues for 365 body-part assignments]
+    location: "Lines 107-115 (approximately)"
+    finding: >
+      The 365-angel body-creation list is a comprehensive correspondence
+      map of the human form. Each body part has a specific spiritual power
+      (angel) responsible for it. The number 365 corresponds to the days
+      of the solar year — the human body as a complete temporal cycle of
+      spiritual states. This is the Grand Man described part by part:
+      every organ, bone, sinew, and joint has a spiritual power that
+      brought it forth and sustains it.
+    principles:
+      - divine_human
+      - correspondence
+      - ancient_word
+    confidence: strong
+    notes: >
+      Scholarship has treated this list as tedious magical enumeration.
+      It is a correspondence map — the most detailed ancient attempt to
+      map the human body as the spiritual in ultimates. The number 365
+      is not arbitrary; it links the body to the solar cycle, making the
+      human form a microcosm of the cosmic year.
+
+  - id: AJ-007
+    category: structural_principle
+    passage: >
+      "The origin of the demons which are in the whole body is determined
+      to be four: heat, cold, wetness, and dryness... The four chief demons
+      are: Ephememphi who belongs to pleasure, Yoko who belongs to desire,
+      Nenentophni who belongs to grief, Blaomen who belongs to fear."
+    location: "Lines 117-119"
+    finding: >
+      Four elemental qualities (heat/cold/wet/dry) map to four fundamental
+      passions (pleasure/desire/grief/fear). This is a systematic architecture
+      of the affective life — not random demonology but a correspondence map
+      of the human emotional structure. The four elements are the natural
+      substrate; the four passions are the spiritual reality operating through them.
+    principles:
+      - correspondence
+      - divine_human
+    confidence: strong
+    notes: >
+      The Hippocratic four-humour system may derive from the same ancient
+      source. Both map elemental qualities to psychological states.
+
+  - id: AJ-008
+    category: explicit_statement
+    passage: >
+      "And from grief came envy, jealousy, distress, trouble, pain,
+      callousness, anxiety, mourning, etc. And from pleasure much
+      wickedness arises, and empty pride, and similar things. And from
+      desire comes anger, wrath, and bitterness, and bitter passion,
+      and unsatedness, and similar things. And from fear comes dread,
+      fawning, agony, and shame. All of these are like useful things
+      as well as evil things."
+    location: "Lines 119-121"
+    finding: >
+      Each of the four primary passions produces a cascade of secondary
+      passions. This is a taxonomy of the affective life. Then the crucial
+      statement: "All of these are like useful things as well as evil things."
+      This is opposite sense stated explicitly — every passion has both
+      a positive and a negative expression depending on its orientation.
+      Grief can be repentance (useful) or despair (evil). Desire can be
+      aspiration (useful) or lust (evil). The same affection serves good
+      or evil depending on the ruling love.
+    principles:
+      - opposite_sense
+      - ruling_love
+    confidence: strong
+    notes: >
+      This is remarkable — the text explicitly teaches opposite sense
+      applied to the entire emotional architecture of the human being.
+
+  - id: AJ-009
+    category: cross_reference
+    passage: >
+      "But if you wish to know them, it is written in the book of Zoroaster."
+    location: "Line 123"
+    finding: >
+      The text explicitly attributes its body-correspondence system to
+      Zoroastrian tradition. "The book of Zoroaster" is named as the
+      source of the detailed body-angel mapping. This is direct evidence
+      for the Ancient Word hypothesis — a pre-literary correspondential
+      knowledge system preserved in the East (what Swedenborg called
+      "Great Tartary").
+    principles:
+      - ancient_word
+      - cross_reference
+    confidence: strong
+    notes: >
+      The Zoroastrian mēnōg/gētīg ontology (spiritual/material) exactly
+      parallels the correspondence doctrine. The lost Avestan Damdat Nask
+      classified animals based on spiritual alignment, not morphology —
+      the same principle as this text's animal-faced archons. Swedenborg
+      claimed the Science of Correspondences was the shared heritage of
+      ancient Iranian and Semitic worlds. This passage confirms the link.
+
+  - id: AJ-010
+    category: structural_principle
+    passage: >
+      "I am God and there is no other God beside me."
+    location: "Line 83"
+    finding: >
+      Yaldabaoth's declaration — the proprium's fundamental statement.
+      The text immediately identifies this as ignorance: "for he is
+      ignorant of his strength, the place from which he had come."
+      The proprium receives influx (power from the mother), does not
+      know its origin, and claims ownership. This is not mythology —
+      it is a structural description of how self-love operates: receiving,
+      forgetting the source, declaring sovereignty.
+    principles:
+      - proprium
+    confidence: strong
+    notes: >
+      The immediate divine response is provided by a voice from above:
+      "The Man exists and the son of Man." The proprium's claim to be
+      the only God is answered not by argument but by revelation of
+      what exists above it.
+
+  - id: AJ-011
+    category: structural_principle
+    passage: >
+      "And when the light had mixed with the darkness, it caused the
+      darkness to shine. And when the darkness had mixed with the light,
+      it darkened the light and it became neither light nor dark,
+      but it became dim."
+    location: "Line 79"
+    finding: >
+      Light entering darkness makes darkness shine (truth illuminates
+      ignorance). But darkness mixing with light darkens the light —
+      falsity obscuring truth. The result is "dim" — neither fully
+      illuminated nor fully dark. This describes the mixed state of
+      natural human consciousness: neither pure truth nor pure falsity,
+      but a twilight where both operate simultaneously.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: ""
+
+  - id: AJ-012
+    category: correspondence
+    passage: >
+      "The tree of their life they had placed in the midst of paradise...
+      The root of this tree is bitter and its branches are death, its shadow
+      is hate and deception is in its leaves, and its blossom is the ointment
+      of evil, and its fruit is death and desire is its seed."
+    location: "Lines 131-133"
+    finding: >
+      The archons' "tree of life" is a complete correspondence pattern:
+      root (bitter) = the foundation is self-love; branches (death) =
+      what extends from it kills; shadow (hate) = what it produces in
+      others; leaves (deception) = its outward appearance; blossom
+      (ointment of evil) = what it offers as attractive; fruit (death) =
+      what it ultimately produces; seed (desire) = what it reproduces.
+      Every part of the tree corresponds to an aspect of the proprium's
+      operation. This is opposite-sense correspondence: the "tree of life"
+      IS a tree of death.
+    principles:
+      - correspondence
+      - opposite_sense
+      - proprium
+    confidence: strong
+    notes: >
+      Contrast with the tree of knowledge, which the text describes as
+      Epinoia of the light — the good tree. Philip similarly teaches
+      two trees in paradise, one bearing animals (affections) and one
+      bearing men (spiritual beings).
+
+  - id: AJ-013
+    category: correspondence
+    passage: >
+      "This is the tomb of the newly-formed body with which the robbers
+      had clothed the man, the bond of forgetfulness; and he became a
+      mortal man."
+    location: "Line 129"
+    finding: >
+      Material body = tomb (soma/sema). Bond of forgetfulness = the
+      body is specifically identified as what causes forgetting of spiritual
+      origin. Robbers = the archons, who clothe the man in matter to trap
+      the light. The body is not evil per se but functions as a container
+      that obscures: a tomb that holds life but hides it from view.
+    principles:
+      - correspondence
+      - proprium
+    confidence: strong
+    notes: >
+      The body as tomb/forgetfulness is also found in Exegesis on the Soul
+      and Hypostasis of the Archons. The deep sleep of Adam (AJ-014)
+      complements this — ignorance as sleep, body as tomb.
+
+  - id: AJ-014
+    category: explicit_statement
+    passage: >
+      "And the archons took him and placed him in paradise. And they
+      said to him, 'Eat, that is at leisure,' for their luxury is bitter
+      and their beauty is depraved. And their luxury is deception and
+      their trees are godlessness and their fruit is deadly poison and
+      their promise is death."
+    location: "Line 131"
+    finding: >
+      The archons' paradise is an opposite-sense paradise — every quality
+      is inverted. Luxury = bitterness, beauty = depravity, fruit = poison,
+      promise = death. This is not an external description but a
+      correspondential reading of what the proprium's "paradise" actually
+      IS when perceived from the spiritual degree. What appears good at
+      the natural level (luxury, beauty) IS its opposite at the spiritual
+      level (bitterness, depravity).
+    principles:
+      - opposite_sense
+      - proprium
+    confidence: strong
+    notes: ""
+
+  - id: AJ-015
+    category: structural_principle
+    passage: >
+      "And I shall teach you what is the mystery of their life, which is
+      the plan which they made together, which is the likeness of their
+      spirit."
+    location: "Line 131"
+    finding: >
+      The Revealer explicitly frames what follows as the "likeness of their
+      spirit" — the natural forms ARE the likeness of the spiritual reality
+      operating through them. This is the correspondential principle stated
+      as hermeneutic instruction: read the natural description as the likeness
+      of the spirit behind it.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: ""
+
+  - id: AJ-016
+    category: structural_principle
+    passage: >
+      "I entered into the midst of the underworld, and I shone down upon
+      the darkness. It is I who poured forth the water. It is I who am
+      hidden within the radiant waters... I am the Pronoia of the pure light...
+      Arise and remember that it is you who hearkened, and follow your root,
+      which is I, the merciful one, and guard yourself against all the angels
+      of poverty and the demons of chaos."
+    location: "Final Pronoia hymn (last ~30 lines)"
+    finding: >
+      Three descents of Pronoia (parallel to Trimorphic Protennoia's
+      Voice/Speech/Word structure). Each descent is more determinate:
+      first just presence, then shining in darkness, then entering the
+      underworld and speaking directly. This is influx described as
+      progressive: the divine approaches through discrete degrees of
+      articulation, each more specific and more intimate than the last.
+    principles:
+      - influx
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      The Pronoia hymn at the end of the Apocryphon of John is essentially
+      the same text as Trimorphic Protennoia XIII,1 — confirming the
+      three-descent structure as an independent tradition.

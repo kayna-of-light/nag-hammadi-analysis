@@ -1,0 +1,455 @@
+tractate: "II,2"
+title: "The Gospel of Thomas"
+filename: "II_2_gospel_thomas.md"
+status: complete
+richness: extraordinary
+
+summary: >
+  The Gospel of Thomas is the single most important text in the collection for
+  the correspondential reading hypothesis. Saying 1 is the only text in the
+  ancient record that directly announces its own correspondential structure —
+  "Whoever finds the interpretation of these sayings will not experience death."
+  The singular "interpretation" (not "interpretations") indicates a specific
+  interior sense, not hermeneutic pluralism.
+
+  The 114 sayings deploy correspondential imagery with extraordinary density
+  and consistency: light/darkness, fire, seeds, garments, animals, bridal chamber,
+  inside/outside, pearl, leaven, water, mountains. Many sayings are opaque or
+  paradoxical at the natural level and transparent at the correspondential level.
+  The text does not use correspondences incidentally — the correspondential
+  reading IS the text's stated purpose.
+
+findings:
+  - id: GT-001
+    category: explicit_statement
+    passage: >
+      "Whoever finds the interpretation of these sayings
+      will not experience death."
+    location: "Saying 1"
+    finding: >
+      Direct editorial instruction: the text has an exterior (the sayings)
+      and an interior ("the interpretation" — singular). Finding the interior
+      is the stated purpose. "Will not experience death" = will pass from
+      natural understanding to spiritual understanding, which is life.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      The only text in the ancient record that directly announces its own
+      correspondential structure. This is the key taped to the box.
+
+  - id: GT-002
+    category: structural_principle
+    passage: >
+      "Let him who seeks continue seeking until he finds. When he finds,
+      he will become troubled. When he becomes troubled, he will be
+      astonished, and he will rule over the all."
+    location: "Saying 2"
+    finding: >
+      The process of correspondential reading described sequentially:
+      seek (effort) → find (recognition) → troubled (the natural sense
+      overturned) → astonished (the spiritual degree opens) → rule over
+      the all (perception from the universal — seeing particulars from the
+      whole rather than assembling the whole from parts).
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      "Rule over the all" is not power — it is the celestial perspective
+      where the whole is seen in every part.
+
+  - id: GT-003
+    category: structural_principle
+    passage: >
+      "If those who lead you say to you, 'See, the kingdom is in the sky,'
+      then the birds of the sky will precede you. If they say to you, 'It is
+      in the sea,' then the fish will precede you. Rather, the kingdom is
+      inside of you, and it is outside of you."
+    location: "Saying 3"
+    finding: >
+      The kingdom is not located in a natural place — it is the relationship
+      between inside and outside. The kingdom is "inside of you and outside
+      of you" because the inside produces the outside. The same reality,
+      perceived at different degrees: interior (spiritual) and exterior (natural).
+    principles:
+      - correspondence
+      - influx
+    confidence: strong
+    notes: ""
+
+  - id: GT-004
+    category: correspondence
+    passage: >
+      "Blessed is the lion which becomes man when consumed by man; and
+      cursed is the man whom the lion consumes, and the lion becomes man."
+    location: "Saying 7"
+    finding: >
+      Lion = strength of the natural will / self-love in its power aspect.
+      When man (spiritual understanding) consumes the lion (masters the
+      natural will), the natural will is elevated — "blessed." When the lion
+      consumes man (self-love overpowers understanding), the spiritual is
+      degraded — "cursed." The lion "becomes man" in both cases: the natural
+      will takes on a human form, but the quality depends on which consumed which.
+    principles:
+      - correspondence
+      - opposite_sense
+      - ruling_love
+    confidence: moderate
+    notes: >
+      The opposite-sense structure is clear: the same process (lion becomes man)
+      is blessed or cursed depending on direction. Philip's "animals in human
+      form" may be the same principle stated differently.
+
+  - id: GT-005
+    category: correspondence
+    passage: >
+      "I have cast fire upon the world, and see, I am guarding it
+      until it blazes."
+    location: "Saying 10"
+    finding: >
+      Fire = love / divine will. "Cast fire upon the world" = divine love
+      introduced into the natural plane. Guarding it until it blazes =
+      the process by which love takes hold and transforms — regeneration
+      as a fire that must be tended until it catches.
+    principles:
+      - correspondence
+      - influx
+    confidence: strong
+    notes: ""
+
+  - id: GT-006
+    category: structural_principle
+    passage: >
+      "His disciples said to him, 'When will the repose of the dead
+      come about, and when will the new world come?' He said to them,
+      'What you look forward to has already come, but you do not
+      recognize it.'"
+    location: "Saying 51"
+    finding: >
+      The kingdom/new world already exists — it is not a future event
+      but a present reality not perceived. This is constant state,
+      variable form applied temporally: the spiritual reality is already
+      here; what varies is the capacity to perceive it.
+    principles:
+      - constant_state_variable_form
+    confidence: strong
+    notes: >
+      Reinforced by Saying 113: "The kingdom of the father is spread out
+      upon the earth, and men do not see it."
+
+  - id: GT-007
+    category: explicit_statement
+    passage: >
+      "Jesus said, 'I took my place in the midst of the world, and I
+      appeared to them in flesh. I found all of them intoxicated; I found
+      none of them thirsty. And my soul became afflicted for the sons
+      of men, because they are blind in their hearts and do not have
+      sight; for empty they came into the world, and empty too they
+      seek to leave the world.'"
+    location: "Saying 28"
+    finding: >
+      Intoxication = state of being absorbed in natural-sense truths to the
+      point of stupor; not seeking interior truth (not thirsty). Blind in
+      their hearts = intelligence (sight) not operating in the will (heart).
+      Empty = without spiritual content; only natural-plane existence.
+    principles:
+      - correspondence
+      - proprium
+    confidence: strong
+    notes: >
+      "Thirst" as desire for truth appears across multiple traditions.
+      The passage describes the human condition as seen from the spiritual
+      degree: people are drunk on the natural sense and don't know they're
+      missing anything.
+
+  - id: GT-008
+    category: correspondence
+    passage: >
+      "If the flesh came into being because of spirit, it is a wonder.
+      But if spirit came into being because of the body, it is a wonder
+      of wonders."
+    location: "Saying 29"
+    finding: >
+      Flesh from spirit = the natural degree produced by the spiritual —
+      this is influx, and it is wonderful. Spirit from body = the spiritual
+      produced by the natural — this would be the reversal of influx,
+      a "wonder of wonders" (impossibility/paradox). The saying asserts
+      the directionality: spirit produces flesh, not the reverse.
+    principles:
+      - influx
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      This is essentially the anti-materialist thesis in a single sentence.
+      Consciousness does not arise from matter; matter is consciousness
+      in its ultimate form.
+
+  - id: GT-009
+    category: correspondence
+    passage: >
+      "When you disrobe without being ashamed and take up your garments
+      and place them under your feet like little children and tread on
+      them, then [will you see] the son of the living one, and you
+      will not be afraid."
+    location: "Saying 37"
+    finding: >
+      Garments = external truths / natural-sense coverings. Disrobing =
+      setting aside the natural sense. Placing garments under feet =
+      subordinating natural truth to what it rests upon (the spiritual).
+      "Like little children" = innocence, the state of receiving without
+      the proprium's resistance. Nakedness = the spiritual state itself,
+      not clothed in natural forms.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: ""
+
+  - id: GT-010
+    category: structural_principle
+    passage: >
+      "We came from the light, the place where the light came into being
+      on its own accord and established [itself] and became manifest
+      through their image."
+    location: "Saying 50"
+    finding: >
+      Light = wisdom/truth in its origin. "The place where the light came
+      into being on its own accord" = the source that is self-generating
+      (the Divine, which is not produced by anything external). "Became
+      manifest through their image" = truth made visible through natural
+      forms (images). The passage describes the descent from celestial
+      origin through manifestation in the natural degree.
+    principles:
+      - influx
+      - discrete_degrees
+    confidence: strong
+    notes: ""
+
+  - id: GT-011
+    category: correspondence
+    passage: >
+      "Whoever has come to understand the world has found (only) a
+      corpse, and whoever has found a corpse is superior to the world."
+    location: "Saying 56 (cf. Saying 80)"
+    finding: >
+      World as corpse = the natural plane without its spiritual interior
+      is dead matter. Recognizing this is "superior to the world" —
+      seeing the natural degree as ultimate (corpse) means you have
+      already perceived from a higher degree. You cannot see something
+      as dead unless you are alive in a way it is not.
+    principles:
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      Repeated in different words in Saying 80. The repetition indicates
+      this is a central teaching, not incidental.
+
+  - id: GT-012
+    category: structural_principle
+    passage: >
+      "If he is destroyed he will be filled with light, but if he is
+      divided, he will be filled with darkness."
+    location: "Saying 61"
+    finding: >
+      Destroyed = the proprium's claim dissolved; the self as separate
+      entity ceases. When this happens, light (truth/wisdom) fills the
+      space. Divided = the self maintained as split between spiritual and
+      natural (or between two masters). When this persists, darkness
+      (ignorance/falsity) fills. The saying describes the binary: unity
+      with the source yields light; maintained division yields darkness.
+    principles:
+      - proprium
+      - correspondence
+    confidence: moderate
+    notes: ""
+
+  - id: GT-013
+    category: structural_principle
+    passage: >
+      "That which you have will save you if you bring it forth from
+      yourselves. That which you do not have within you [will] kill you
+      if you do not have it within you."
+    location: "Saying 70"
+    finding: >
+      "What you have" = the spiritual interior, the good and truth received
+      through influx. It saves if brought forth (expressed, lived, actualized
+      from interior to exterior). What you do not have within = spiritual content
+      not yet received or appropriated. Without it, the exterior has no living
+      interior and is a corpse (Sayings 56/80 again). The direction is inside→outside:
+      what is within must be brought forth.
+    principles:
+      - influx
+      - correspondence
+    confidence: strong
+    notes: ""
+
+  - id: GT-014
+    category: correspondence
+    passage: >
+      "Many are standing at the door, but it is the solitary who will
+      enter the bridal chamber."
+    location: "Saying 75"
+    finding: >
+      Bridal chamber = union of good and truth. Solitary (monachos) =
+      the undivided person — one whose will and understanding are unified.
+      The "many standing at the door" are those who approach the union
+      from the natural level but remain divided. Only the unified person
+      enters the union.
+    principles:
+      - bridal_chamber
+      - ruling_love
+    confidence: strong
+    notes: >
+      Philip develops the bridal chamber theology far more extensively.
+      Thomas states it as a saying; Philip theorizes it as sacrament.
+
+  - id: GT-015
+    category: correspondence
+    passage: >
+      "Split a piece of wood, and I am there. Lift up the stone, and
+      you will find me there."
+    location: "Saying 77"
+    finding: >
+      The divine presence is in every natural object — not as pantheistic
+      diffusion but as correspondence: the spiritual is present in the
+      natural because the spiritual produces the natural. Split the wood
+      (open the exterior form) and the interior reality is found.
+      Lift the stone (move aside the hard natural surface) and the living
+      truth is beneath.
+    principles:
+      - correspondence
+      - influx
+    confidence: strong
+    notes: >
+      This is the doctrine of correspondence as description of divine
+      omnipresence through influx.
+
+  - id: GT-016
+    category: explicit_statement
+    passage: >
+      "The images are manifest to man, but the light in them remains
+      concealed in the image of the light of the father. He will become
+      manifest, but his image will remain concealed by his light."
+    location: "Saying 83"
+    finding: >
+      Images = natural forms (manifest, visible). Light = the spiritual
+      reality within them (concealed). The light remains "concealed in
+      the image" — the spiritual is hidden within the natural form.
+      This explicitly teaches the correspondential structure: visible
+      forms contain invisible realities.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      Saying 84 continues the theme with images and likenesses — the
+      natural form vs. the spiritual prototype.
+
+  - id: GT-017
+    category: explicit_statement
+    passage: >
+      "Why do you wash the outside of the cup? Do you not realize that
+      he who made the inside is the same one who made the outside?"
+    location: "Saying 89"
+    finding: >
+      Rhetorical question teaching the directionality of correspondence.
+      Inside and outside have the same maker — but the making flows from
+      within outward. If you clean the inside, the outside follows because
+      the inside produces the outside. Working on effects (external behavior)
+      while ignoring causes (internal states) is the fundamental error of
+      natural-plane thinking.
+    principles:
+      - influx
+      - correspondence
+    confidence: strong
+    notes: >
+      This is influx described in a single domestic image.
+
+  - id: GT-018
+    category: correspondence
+    passage: >
+      "The kingdom of the father is like a certain woman. She took
+      a little leaven, [concealed] it in some dough, and made it into
+      large loaves. Let him who has ears hear."
+    location: "Saying 96"
+    finding: >
+      Leaven = a small truth with transformative power when concealed
+      (internalized) in the larger mass (the natural person/understanding).
+      The kingdom operates by interior transformation of the whole from
+      a small interior principle — not by external imposition.
+    principles:
+      - correspondence
+      - influx
+    confidence: strong
+    notes: ""
+
+  - id: GT-019
+    category: correspondence
+    passage: >
+      "The kingdom of the [father] is like a certain woman who was
+      carrying a [jar] full of meal. While she was walking [on the]
+      road, still some distance from home, the handle of the jar broke
+      and the meal emptied out behind her [on] the road. She did not
+      realize it; she had noticed no accident. When she reached her
+      house, she set the jar down and found it empty."
+    location: "Saying 97"
+    finding: >
+      Jar = the vessel of understanding. Meal = good/spiritual sustenance.
+      Walking on the road = progression through life. The handle breaks
+      and the good leaks out gradually, without the person noticing.
+      She arrives home (end of life/return to spiritual state) and finds
+      nothing left. This is the process by which spiritual good is lost
+      without awareness — the proprium leaking what it received because
+      it was not attending to the interior.
+    principles:
+      - correspondence
+      - proprium
+    confidence: strong
+    notes: >
+      One of the most striking sayings in Thomas. Haunting because the
+      loss is imperceptible to the one experiencing it. The opposite of
+      regeneration: degeneration without awareness.
+
+  - id: GT-020
+    category: structural_principle
+    passage: >
+      "When you make the two one, you will become the sons of man, and
+      when you say, 'Mountain, move away,' it will move away."
+    location: "Saying 106"
+    finding: >
+      "Make the two one" = unify the will and understanding, the interior
+      and exterior, the spiritual and natural. When this unity is achieved
+      ("sons of man" = fully human in the correspondential sense), the
+      mountain moves — obstacles that appeared immovable from the divided
+      state are resolved. Not magic but correspondence: unity of being
+      produces power that division cannot.
+    principles:
+      - bridal_chamber
+      - correspondence
+    confidence: moderate
+    notes: >
+      Cf. Saying 22 on making the two one, male and female, inside and
+      outside, above and below. Thomas returns to this repeatedly.
+
+  - id: GT-021
+    category: explicit_statement
+    passage: >
+      "The kingdom of the father is spread out upon the earth, and
+      men do not see it."
+    location: "Saying 113"
+    finding: >
+      The spiritual reality (kingdom) is present in the natural world
+      (spread out upon the earth) but invisible to those who perceive
+      only the natural degree. The kingdom is not hidden — it is
+      "spread out." The problem is perception, not availability. This
+      is constant state, variable form applied to the relationship
+      between the spiritual and natural planes.
+    principles:
+      - constant_state_variable_form
+      - correspondence
+    confidence: strong
+    notes: >
+      This is the thesis statement of the entire correspondential
+      reading project: the spiritual is here, in the natural, and the
+      only obstacle is the mode of perception.
