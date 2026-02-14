@@ -1,0 +1,57 @@
+tractate: "VII,2"
+title: "The Second Treatise of the Great Seth"
+filename: "VII_2_second_treatise_great_seth.md"
+status: complete
+richness: moderate
+
+summary: >
+  A revelation by the "Great Seth" (Christ) featuring a docetic crucifixion
+  and the proclamation "I was altering my shapes, changing from form to
+  form" — a direct expression of constant state, variable form. The
+  bridal chamber correspondence is explicitly developed. Contains another
+  instance of the archon's proprium declaration.
+
+findings:
+  - id: 2TGS-001
+    category: explicit_statement
+    passage: >
+      "I was altering my shapes, changing from form to form."
+    location: "VII 56.20-25"
+    finding: >
+      CONSTANT STATE, VARIABLE FORM stated as personal experience:
+      the spiritual being (constant state) moves through different
+      natural forms (variable form). The "I" remains unchanged while
+      the shapes change. This is not shape-shifting as magic but the
+      experiential description of a spiritual reality expressing
+      through multiple natural forms.
+    principles:
+      - constant_state_variable_form
+    confidence: strong
+    notes: >
+      Compare the Being of Light in NDE data showing constant
+      experiential properties despite variable naming. The text
+      describes the same principle from the other direction — not
+      the perceiver experiencing constant form despite different
+      names, but the BEING himself moving through different forms
+      while remaining one.
+
+  - id: 2TGS-002
+    category: correspondence
+    passage: >
+      Bridal chamber as the place of union between the spiritual
+      and its earthly expression.
+    location: "VII 67.20-30"
+    finding: >
+      The bridal chamber = the space of union between good and truth,
+      spiritual and natural, the redeemer and the redeemed. As in GP
+      and AT, the bridal chamber is not a metaphor for intimacy but
+      IS the joining of complementary spiritual principles into
+      operative unity.
+    principles:
+      - bridal_chamber
+    confidence: moderate
+    notes: >
+      The bridal chamber appears across Sethian and Valentinian
+      texts — its consistent meaning (union of complementaries)
+      across independent traditions suggests it is recognized,
+      not invented.

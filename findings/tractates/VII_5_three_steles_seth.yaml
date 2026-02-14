@@ -1,0 +1,82 @@
+tractate: "VII,5"
+title: "The Three Steles of Seth"
+filename: "VII_5_three_steles_seth.md"
+status: complete
+richness: moderate
+
+summary: >
+  Three ascending hymnic prayers addressed to Autogenes, Barbelo, and
+  the Pre-existent One — structured as three discrete degrees of worship.
+  Contains "We are each a shadow of thee as thou art a shadow of that
+  first pre-existent one" — shadow as correspondence at a lower degree,
+  not as deficiency. Also preserves "The way of ascent is the way of
+  descent" — a reciprocal principle of influx and return.
+
+findings:
+  - id: 3SS-001
+    category: structural_principle
+    passage: >
+      Three steles = three ascending prayers: (1) to Autogenes,
+      (2) to Barbelo, (3) to the Pre-existent One.
+    location: "VII 118-127"
+    finding: >
+      Three steles as three discrete degrees of worship. Each prayer
+      addresses a higher plane, and the quality of address shifts:
+      the first is concrete and naming, the second more interior,
+      the third approaches via negativa. The STRUCTURE of the text
+      enacts the doctrine it teaches — worship itself has a celestial,
+      spiritual, and natural degree.
+    principles:
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      Compare TP's three descents (Voice, Speech, Word) and VE's
+      three baptismal layers. The same three-level structure appears
+      as three steles here, each constituting a complete prayer at
+      its own level.
+
+  - id: 3SS-002
+    category: explicit_statement
+    passage: >
+      "We are each a shadow of thee as thou art a shadow of that
+      first pre-existent one."
+    location: "VII 121.20-25"
+    finding: >
+      SHADOW AS CORRESPONDENCE: shadow is not deficiency but
+      the natural-degree IMAGE of a higher reality. Each level is
+      a "shadow" of the level above — a correspondence in the
+      technical sense. The chain is explicit: we are shadow of
+      Barbelo, Barbelo is shadow of the Pre-existent One (who is
+      not a shadow of anything, being the source). Influx flows
+      downward; each level IS the higher at a lower degree.
+    principles:
+      - correspondence
+      - discrete_degrees
+      - influx
+    confidence: strong
+    notes: >
+      "Shadow" here anticipates Swedenborg's language of the
+      natural as the "theatre representative" of the spiritual.
+      The text even captures the chain-structure: each level
+      corresponds to the next, all the way back to the source.
+
+  - id: 3SS-003
+    category: explicit_statement
+    passage: >
+      "The way of ascent is the way of descent."
+    location: "VII (hymnic section)"
+    finding: >
+      Influx and return use the same path — what descends as
+      revelation ascends as worship. The structure through which
+      divine truth flows down into ultimates is the same structure
+      through which regenerated consciousness ascends toward the
+      source. This is bidirectional on the SAME vertical axis, not
+      bidirectional correspondence (which remains inside→outside).
+    principles:
+      - influx
+      - discrete_degrees
+    confidence: moderate
+    notes: >
+      This principle appears in VE's Jordan imagery (descent-as-
+      ascent) and in TP's three descents that enable recognition
+      of three ascents. One vertical axis, two directions.

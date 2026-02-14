@@ -1,0 +1,102 @@
+tractate: "III,5"
+title: "The Dialogue of the Savior"
+filename: "III_5_dialogue_savior.md"
+status: complete
+richness: rich
+
+summary: >
+  A discourse in which the Savior teaches Judas, Matthew, and Mary through
+  systematic correspondences for fire, water, wind, and garments. The text
+  explicitly operates by presenting a natural image and then decoding its
+  spiritual meaning. The garment = temporal authority correspondence and the
+  stripping = return to spiritual state pattern are central. Lightning as
+  the Word's manifestation and sword/spirit as the discriminating faculty
+  are particularly well-developed.
+
+findings:
+  - id: DS-001
+    category: correspondence
+    passage: >
+      "The garment of this world... the garment of this one who has been
+      honored in the world... when you strip yourselves and are not
+      ashamed."
+    location: "III 143.1-15"
+    finding: >
+      Garment = temporal authority and external identity. Stripping =
+      removing the natural coverings to reveal the spiritual. When
+      the garment is removed and there is no shame, the spiritual
+      state is exposed directly. The garment is not clothing as
+      decoration but clothing as FUNCTION — it covers, presents,
+      and identifies, which is what external truths do for
+      spiritual realities.
+    principles:
+      - correspondence
+      - regeneration
+    confidence: strong
+    notes: >
+      The garment/stripping correspondence is one of the most
+      pervasive in the NHL — see GTh Saying 37, GP, TTr's six
+      names for baptism including "garment," and VE.
+
+  - id: DS-002
+    category: correspondence
+    passage: >
+      "The word is like lightning... the spirit like a sword."
+    location: "III 139.10-20"
+    finding: >
+      Two correspondences for divine communication: Word = lightning
+      (sudden, illuminating, visible across a wide field — the Word
+      manifests instantaneously and unmistakably in the natural degree),
+      Spirit = sword (discriminating, cutting, separating — the Spirit
+      cuts between true and false, between degrees). Both are
+      functionally grounded.
+    principles:
+      - correspondence
+      - influx
+    confidence: strong
+    notes: >
+      Lightning as Word parallels the "flash" quality of spiritual
+      insight. The sword/spirit correspondence echoes TT's "saw"
+      as the separating Word.
+
+  - id: DS-003
+    category: structural_principle
+    passage: >
+      "Fire, water, and wind" — systematic teaching on the three elements
+      as spiritual principles.
+    location: "III 134-137"
+    finding: >
+      The Savior teaches through fire, water, and wind as a systematic
+      triad of spiritual elements: fire = love/will (active, consuming
+      or warming), water = truth (flowing, sustaining, cleansing),
+      wind = spirit (invisible, pervading, animating). Each element
+      is taught in turn, building a complete correspondential
+      vocabulary for the three aspects of spiritual reality.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: moderate
+    notes: >
+      The fire/water/wind triad maps onto love/truth/spirit (or
+      celestial/spiritual/natural) — three discrete degrees
+      expressed through elemental correspondences.
+
+  - id: DS-004
+    category: correspondence
+    passage: >
+      "What you see before you, that which no one can take from you,
+      is the place of the mind."
+    location: "III 132.5-10"
+    finding: >
+      Vision = mind/understanding. What is "seen" spiritually cannot
+      be stolen because it is not external property but internal
+      state. "Before you" = present to consciousness, not spatially
+      ahead. The spatial language IS correspondential: "before" =
+      present to perception, "place" = spiritual state.
+    principles:
+      - correspondence
+    confidence: moderate
+    notes: >
+      Spatial terms as correspondences for states of consciousness
+      recur throughout the NHL — height for elevation of state,
+      before/behind for presence/absence to awareness.

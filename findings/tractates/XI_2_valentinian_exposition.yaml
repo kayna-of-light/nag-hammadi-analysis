@@ -1,0 +1,184 @@
+tractate: "XI,2"
+title: "A Valentinian Exposition, On Baptism A & B, On Eucharist A & B"
+filename: "XI_2_valentinian_exposition.md"
+status: complete
+richness: rich
+
+summary: >
+  The only firsthand Valentinian account of the Sophia myth (vs. the
+  Tripartite Tractate's Logos variant). Extraordinarily rich in systematic
+  correspondences: the Tetrad (Word/Life/Man/Church) mapped to glory
+  correspondences, the calendar as Pleroma (Decad+Dodecad+Triacontad=360),
+  and the liturgical appendices containing some of the most explicit
+  correspondential statements in the NHL. On Baptism B's systematic
+  paired correspondences and On Baptism A's paradoxical "Jordan = the
+  descent which is the upward progression" are remarkable.
+
+findings:
+  - id: VE-001
+    category: structural_principle
+    passage: >
+      "He is the one who has the authority to enter the Holies of Holies,
+      revealing the glory of the Aeons and bringing forth the abundance
+      to fragrance."
+    location: "XI 25.30-35"
+    finding: >
+      The Son entering the Holy of Holies = accessing the innermost
+      divine degree. The Temple's structure (outer court → holy place →
+      Holy of Holies) IS the discrete degree system architecturally:
+      natural → spiritual → celestial. Fragrance = spiritual perception
+      at the highest degree — a correspondence for what is perceived
+      when the innermost is opened.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: strong
+    notes: >
+      The Temple as correspondence for discrete degrees is consistent
+      with Swedenborg's reading of the Tabernacle structure. The
+      fragrance corresponds to GT's "fragrance of the Father."
+
+  - id: VE-002
+    category: explicit_statement
+    passage: >
+      "Word is for the glory of the Ineffable One while Life is for the
+      glory of Silence, and Man is for his own glory while Church is for
+      the glory of Truth."
+    location: "XI 29.25-30"
+    finding: >
+      The four members of the Tetrad (Word, Life, Man, Church) are
+      systematically mapped to glory-correspondences: Word→Ineffable,
+      Life→Silence, Man→his own, Church→Truth. This is a four-fold
+      correspondence table — each emanation reflects and glorifies
+      its own source. The structure is not arbitrary: Word makes the
+      Ineffable speakable; Life makes Silence active; Man stands
+      self-witnessing; Church makes Truth communal.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      This is one of the most systematic correspondence tables in
+      the NHL. Each pairing is functionally grounded.
+
+  - id: VE-003
+    category: structural_principle
+    passage: >
+      "Ten aeons came forth from Word and Life, and twelve aeons from
+      Man and Church... the Triacontad of aeons... 360... the Pleroma
+      of the year."
+    location: "XI 29.30-30.15"
+    finding: >
+      The calendar AS the Pleroma: Decad (10) + Dodecad (12) = 22 aeons,
+      expanding to a Triacontad (30), becoming 360 = the days of the year.
+      This is a SECOND INSTANCE of calendar-as-correspondence (after
+      Eugnostos/Sophia's 12 months = 12 powers, 360 days = 360 powers).
+      Two independent Valentinian texts use the same system — the temporal
+      cycle IS the structure of the divine fullness expressed in ultimates.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      The calendar correspondence appearing independently in Eugnostos
+      and VE is significant: it's not one author's invention but a
+      shared Valentinian recognition that temporal cycles correspond
+      to aeonic structure.
+
+  - id: VE-004
+    category: correspondence
+    passage: >
+      "Jesus... created the creature from the passions themselves...
+      the better passions he introduced into the spirit and the worse
+      ones into the carnal."
+    location: "XI 35.10-20"
+    finding: >
+      Jesus as the sorter of passions across degrees: better passions →
+      spirit (higher degree), worse passions → flesh (lower degree). This
+      is not destruction of passion but REDISTRIBUTION according to
+      quality — each passion finds its appropriate level. The natural
+      (carnal) receives what belongs at the natural level; the spiritual
+      receives what belongs at the spiritual level.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: moderate
+    notes: >
+      This passage describes regeneration as a sorting process
+      operating through discrete degrees — compare TS on the
+      "inner man" being dressed vs. the "outer man" being unclothed.
+
+  - id: VE-005
+    category: explicit_statement
+    passage: >
+      "The interpretation of John is the Aeon, while the interpretation
+      of that which is the Jordan is the descent which is the upward
+      progression, that is, our exodus from the world into the Aeon."
+    location: "XI On Baptism A, 40.1-10"
+    finding: >
+      TRIPLE EXPLICIT CORRESPONDENCE: John = the Aeon (the temporal
+      minister corresponds to the eternal source), Jordan = descent-that-
+      is-ascent (the downward flow of water IS the upward progression of
+      the soul), exodus from world into Aeon. The Jordan paradox is
+      especially striking — the river flows DOWN but baptism moves the
+      soul UP. The correspondence holds because divine influx descends
+      so that the recipient may ascend.
+    principles:
+      - correspondence
+      - influx
+    confidence: strong
+    notes: >
+      The Jordan = descent-that-is-ascent is one of the most
+      theologically dense correspondential statements in the NHL.
+      Influx descends so that what receives it may ascend.
+
+  - id: VE-006
+    category: explicit_statement
+    passage: >
+      "From the world into the Jordan... from the blindness into sight
+      of God, from the carnal into the spiritual, from the physical into
+      the angelic, from the created into the Pleroma, from the world into
+      the Aeon, from the servitudes into sonship, from entanglements into
+      one another, from the desert into our village, from the cold into
+      the hot."
+    location: "XI On Baptism B, 42.1-20"
+    finding: >
+      A SYSTEMATIC TABLE of ten paired correspondences for baptismal
+      transformation. Each pair maps a natural-state to a spiritual-state:
+      blindness→sight, carnal→spiritual, physical→angelic, etc. This is
+      the most explicitly tabular correspondential statement in the NHL —
+      the text IS a correspondence table. Every pair is functionally
+      grounded: blindness literally cannot-see; sight literally can-see.
+    principles:
+      - correspondence
+      - discrete_degrees
+      - regeneration
+    confidence: strong
+    notes: >
+      This passage alone would justify the correspondential reading
+      of the NHL. Ten systematic pairings linking natural states to
+      spiritual states is not metaphor — it is a correspondence map
+      presented as liturgical instruction.
+
+  - id: VE-007
+    category: correspondence
+    passage: >
+      "The Demiurge created man according to his image on the one hand
+      and on the other according to the likeness of those who exist from
+      the first."
+    location: "XI 37.1-5"
+    finding: >
+      Two-level image doctrine: man created according to (1) the
+      Demiurge's image AND (2) the likeness of the pre-existent ones.
+      "Image" and "likeness" are not synonymous but two discrete degrees
+      of the same creative act — the Demiurge provides the natural form,
+      the pre-existent ones provide the spiritual template. Man is the
+      meeting point of two directions of correspondence.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: moderate
+    notes: >
+      This two-level image doctrine parallels Genesis 1:26 ("image
+      and likeness") read correspondentially — two distinct levels
+      of the creative act, not redundancy.

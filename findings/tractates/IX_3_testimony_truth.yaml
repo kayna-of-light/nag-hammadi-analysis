@@ -1,0 +1,108 @@
+tractate: "IX,3"
+title: "The Testimony of Truth"
+filename: "IX_3_testimony_truth.md"
+status: complete
+richness: moderate
+
+summary: >
+  An encratic Christian Gnostic polemic notable for its TRIPLE EXPLICIT
+  CORRESPONDENCE of the Jordan baptism scene (Jordan = body/senses,
+  water = sexual desire, John = archon of the womb). Contains the most
+  radical re-reading of Genesis in the NHL: the serpent as Christ-figure,
+  the Creator as "malicious grudger." Also: the saw as discriminating
+  Word, true baptism as renunciation rather than water, and rare
+  inter-gnostic polemics against Valentinus and Basilides.
+
+findings:
+  - id: TT-001
+    category: explicit_statement
+    passage: >
+      "The Jordan river is the power of the body, that is, the senses
+      of pleasures. The water of the Jordan is the desire for sexual
+      intercourse. John is the archon of the womb."
+    location: "IX 30.18-31.5"
+    finding: >
+      TRIPLE EXPLICIT CORRESPONDENCE DECLARATION — three natural
+      images decoded in direct sequence: (1) Jordan river = the body's
+      sensory power, (2) water of Jordan = sexual desire, (3) John =
+      the ruling principle of procreation. Each correspondence is
+      STATED by the text, not inferred by the reader. This is the
+      most compact explicit correspondential statement in the NHL —
+      three natural→spiritual mappings in three consecutive sentences.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      Compare VE On Baptism A's "the interpretation of John is the
+      Aeon, the interpretation of the Jordan is the descent which is
+      the upward progression" — a DIFFERENT correspondential reading
+      of the same natural images. The same object (Jordan, John)
+      can correspond differently depending on context and level.
+
+  - id: TT-002
+    category: correspondence
+    passage: >
+      "The serpent was wiser than all the animals... In what way is
+      this serpent identified? The serpent is Christ."
+    location: "IX 45.23-49.7"
+    finding: >
+      The serpent as Christ — a correspondential reading where the
+      serpent's FUNCTION (bringing knowledge, opening eyes) corresponds
+      to Christ's function (illumination, revelation). The serpent is
+      not evil but wise; the Creator is the one withholding knowledge.
+      The bronze serpent of Numbers is cited as confirmation: "those
+      who believed in him have received life."
+    principles:
+      - correspondence
+      - opposite_sense
+    confidence: strong
+    notes: >
+      This is opposite sense in action: the same symbol (serpent)
+      means wisdom/Christ in one context and deception in another.
+      The text explicitly argues for the positive reading through
+      functional analysis of the serpent's role.
+
+  - id: TT-003
+    category: correspondence
+    passage: >
+      "Isaiah... sawed with a saw... a type of the body of the Son
+      of Man. The saw is the Word of the Son of Man which separates
+      us from the error of the angels."
+    location: "IX 40.23-41.4"
+    finding: >
+      Saw = the discriminating Word. The saw's FUNCTION is to cut/
+      separate, which IS what the Word does spiritually: it separates
+      truth from falsity, spiritual from natural, receiver from error.
+      The martyrdom narrative IS the correspondence: Isaiah's physical
+      sawing corresponds to the spiritual operation of the Word
+      dividing the self.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      Compare DS's sword = spirit (discriminating faculty) and the
+      general principle that cutting/dividing instruments correspond
+      to truth's function of distinguishing.
+
+  - id: TT-004
+    category: explicit_statement
+    passage: >
+      "The Son of Man did not baptize any of his disciples... The
+      baptism of truth is something else; it is by renunciation of
+      the world that it is found."
+    location: "IX 69.7-22"
+    finding: >
+      True baptism = renunciation, not water. The text explicitly
+      separates the spiritual reality (baptism of truth = internal
+      transformation through renunciation) from its natural-degree
+      correspondence (water baptism = external washing). The natural
+      form without the spiritual content is empty; the spiritual
+      content without the natural form is the real baptism.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      The anti-baptismal stance reads as a correspondential argument:
+      don't mistake the natural sign for the spiritual reality.
+      Compare OW's three baptisms and PS's anti-baptismal stance.

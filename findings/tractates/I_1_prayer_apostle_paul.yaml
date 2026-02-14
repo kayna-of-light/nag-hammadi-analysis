@@ -1,0 +1,35 @@
+tractate: "I,1"
+title: "The Prayer of the Apostle Paul"
+filename: "I_1_prayer_apostle_paul.md"
+status: complete
+richness: sparse
+
+summary: >
+  A brief Valentinian prayer on the flyleaf of Codex I. Very short
+  but contains the invocation "You are my mind; bring me forth!" —
+  addressing the divine as the mind-faculty, which IS a correspondence:
+  the divine is not distant but identical with the highest faculty in
+  the person. Minimal material for analysis.
+
+findings:
+  - id: PAP-001
+    category: explicit_statement
+    passage: >
+      "You are my mind; bring me forth!"
+    location: "I A.1-10"
+    finding: >
+      The divine addressed as the praying person's own mind. This
+      is not metaphor but IDENTIFICATION: the mind-faculty IS the
+      divine operating at the human degree. "Bring me forth" = the
+      divine (mind) is asked to actualize the person — the influx
+      IS the identity. The person does not have a mind that contacts
+      God; the mind IS God at the human degree.
+    principles:
+      - influx
+      - correspondence
+    confidence: moderate
+    notes: >
+      Brief but significant — this is the prayer-form of the
+      principle expressed didactically in SS 394-395 ("know who
+      is the one who thinks in you"). In prayer, the realization
+      becomes direct address.

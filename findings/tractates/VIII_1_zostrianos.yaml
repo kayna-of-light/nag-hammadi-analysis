@@ -1,0 +1,153 @@
+tractate: "VIII,1"
+title: "Zostrianos"
+filename: "VIII_1_zostrianos.md"
+status: complete
+richness: rich
+
+summary: >
+  The longest work in Codex VIII, a heavenly journey apocalypse severely
+  damaged but preserving key systematic structures. Zostrianos ascends
+  through three Barbelo aeons (Autogenes, Protophanes, Kalyptos), each
+  with its own water, and receives progressive baptisms. The text's most
+  important features: (1) perception-faculty correspondence (each faculty
+  perceives its own level), (2) three waters for three aeons, (3) four
+  elements replicated at each level but qualitatively transformed, and
+  (4) "reflection of a reflection" as two degrees of removal from the
+  source. Bears the subtitle "Teachings of Zoroaster" — explicit
+  connection to the Ancient Word.
+
+findings:
+  - id: Zost-001
+    category: explicit_statement
+    passage: >
+      "He can see with his perfect soul those who belong to Autogenes;
+      with his mind, those who belong to the Triple Male, and with his
+      holy spirit, those who belong to Protophanes."
+    location: "VIII 24.1-10"
+    finding: >
+      PERCEPTION-FACULTY CORRESPONDENCE: soul perceives the Autogenes
+      level, mind perceives the Triple Male level, holy spirit perceives
+      the Protophanes level. Each cognitive faculty is tuned to its own
+      discrete degree. This is not metaphor but a functional description
+      of how perception works across levels — you can only see what your
+      current faculty is calibrated to receive.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: strong
+    notes: >
+      This is one of the most explicit statements of the doctrine that
+      each degree has its own organ of perception — compare Allogenes'
+      graduated meditation and Swedenborg's doctrine that celestial
+      angels, spiritual angels, and natural minds perceive differently.
+
+  - id: Zost-002
+    category: structural_principle
+    passage: >
+      "Water of Life (Autogenes), water of Blessedness (Protophanes),
+      water of Existence (Kalyptos)."
+    location: "VIII 15-17"
+    finding: >
+      Three waters for three aeons — each aeon has its own quality of
+      water corresponding to its essential property: Life, Blessedness,
+      Existence. Water at each level IS that level's fundamental quality.
+      The water doesn't symbolize the quality — water at the Autogenes
+      level IS living water because Autogenes IS life.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: strong
+    notes: >
+      Compare OW's three baptisms (spiritual/fire/water) and VE's
+      Jordan = descent-as-ascent. Each system recognizes that water/
+      baptism operates at multiple discrete levels.
+
+  - id: Zost-003
+    category: structural_principle
+    passage: >
+      "A living earth, a living water, air made of light and a fire
+      that cannot burn."
+    location: "VIII 27.1-10"
+    finding: >
+      Four elements replicated at each aeon level but qualitatively
+      transformed: earth is LIVING, water is LIVING, air is LIGHT,
+      fire CANNOT BURN. The same four elements exist at each degree
+      but partake of that degree's quality. This is not the natural
+      earth/water/air/fire but their spiritual correspondents —
+      what earth/water/air/fire ARE at the spiritual level.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: strong
+    notes: >
+      "Fire that cannot burn" is especially significant — fire at
+      the spiritual level retains its nature (love/warmth) without
+      its destructive natural property. This demonstrates opposite
+      sense: same element, different quality at different degrees.
+
+  - id: Zost-004
+    category: structural_principle
+    passage: >
+      "With a reflection of a reflection he worked at producing the
+      world."
+    location: "VIII 9.15-20"
+    finding: >
+      The world produced from "a reflection of a reflection" — TWO
+      degrees of removal from the original reality. Each reflection
+      is a discrete step: original → first reflection (spiritual) →
+      second reflection (natural/material). The world is not a direct
+      emanation but a twice-mediated expression, accounting for its
+      distance from the source.
+    principles:
+      - discrete_degrees
+      - influx
+    confidence: strong
+    notes: >
+      "Reflection of a reflection" is the philosophical equivalent
+      of Swedenborg's "natural is the effect of the spiritual which
+      is the effect of the celestial." Three levels: source,
+      first image, image of image.
+
+  - id: Zost-005
+    category: structural_principle
+    passage: >
+      "Angels of the angels, souls of the souls, living beings of
+      the living beings, trees of the trees."
+    location: "VIII 114-115"
+    finding: >
+      RECURSIVE CORRESPONDENCE: each degree contains its own version
+      of every created thing. Angels have their angels above them;
+      souls have their souls; trees have their trees. The same form
+      exists at every level but as the form proper to that level.
+      This is discrete degrees applied to all creation: every natural
+      thing has a spiritual original and a celestial original above that.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: strong
+    notes: >
+      This passage states the doctrine of discrete degrees applied
+      universally — nothing exists at only one level. Everything has
+      its correspondent above and below.
+
+  - id: Zost-006
+    category: cross_reference
+    passage: >
+      "Zostrianos / Oracles of Truth of Zostrianos / God of Truth /
+      Teachings of Zoroaster"
+    location: "VIII subscript, final line"
+    finding: >
+      The subscript explicitly attributes the text to "Zoroaster" —
+      the same figure whose "book" is cited in ApJ for the 365-angel
+      body-correspondence system. Combined with Porphyry's testimony
+      that these texts circulated as "revelations by Zoroaster and
+      Zostrianos and... Allogenes," this places Zostrianos squarely
+      in the Ancient Word transmission tradition.
+    principles:
+      - ancient_word
+    confidence: strong
+    notes: >
+      Three independent testimonies link this text to Zoroaster:
+      (1) the subscript, (2) Porphyry's report, (3) ApJ's citation
+      of "the book of Zoroaster." The Zoroastrian-Gnostic connection
+      is not speculative but textually documented.

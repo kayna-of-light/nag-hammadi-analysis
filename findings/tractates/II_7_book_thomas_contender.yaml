@@ -1,0 +1,78 @@
+tractate: "II,7"
+title: "The Book of Thomas the Contender"
+filename: "II_7_book_thomas_contender.md"
+status: complete
+richness: moderate
+
+summary: >
+  A dialogue between Jesus and his "twin" Thomas emphasizing self-knowledge
+  as the prerequisite for all knowledge. Fire is the central correspondential
+  image — both purifying and consuming. The temple/tomb inversion appears
+  here: "You were a temple... you have made yourself a tomb." The body
+  as visible fire and the passions as invisible fire create a two-level
+  fire correspondence.
+
+findings:
+  - id: BTC-001
+    category: explicit_statement
+    passage: >
+      "He who has not known himself has known nothing, but he who has
+      known himself has at the same time already achieved knowledge
+      about the depth of the all."
+    location: "II 138.16-20"
+    finding: >
+      Self-knowledge = knowledge of the whole — not through accumulation
+      of external information but through interior exploration. The self
+      IS the all in microcosm (the divine human principle). Knowing
+      oneself is not narcissism but correspondential discovery: the
+      structure within corresponds to the structure of everything.
+    principles:
+      - correspondence
+      - divine_human
+    confidence: strong
+    notes: >
+      Compare GTh Saying 3 ("When you come to know yourselves, then
+      you will become known"), GM ("The Son of Man is within you"),
+      and SS (394/395: "know who is the one who thinks in you").
+
+  - id: BTC-002
+    category: correspondence
+    passage: >
+      "You were a temple, but you have made yourself a tomb."
+    location: "II 143.10-12"
+    finding: >
+      Temple→tomb inversion: the same structure changes function
+      when the interior state changes. Temple = vessel for the
+      divine presence; tomb = container for what is dead. The
+      physical form is identical — what changes is the spiritual
+      influx. When the interior orients toward life, the body is
+      a temple; when toward death (passions, self-love), a tomb.
+    principles:
+      - correspondence
+      - opposite_sense
+    confidence: strong
+    notes: >
+      Same inversion appears in Asc (Egypt's sacred sites becoming
+      tombs). The building IS the spiritual state expressed
+      architecturally.
+
+  - id: BTC-003
+    category: correspondence
+    passage: >
+      Fire as central image — the visible fire of the body and the
+      invisible fire of passions.
+    location: "II 141-143"
+    finding: >
+      Two-level fire correspondence: visible fire = the body's
+      metabolism (the natural degree), invisible fire = the passions
+      driving behavior from within (the spiritual degree). Both are
+      fire — both consume, both transform — but at different levels.
+      The visible is the ultimate expression of the invisible.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: moderate
+    notes: >
+      Fire operating at multiple levels echoes OW's phoenix
+      correspondence (three phoenixes, three relationships to fire)
+      and the pervasive fire = love/will principle.

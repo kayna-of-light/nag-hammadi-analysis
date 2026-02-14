@@ -1,0 +1,154 @@
+tractate: "XI,3"
+title: "Allogenes"
+filename: "XI_3_allogenes.md"
+status: complete
+richness: rich
+
+summary: >
+  A revelation discourse in which Allogenes ("Stranger") receives graded
+  visions from the female deity Youel. Structured as an ascent through
+  discrete levels — Autogenes → Protophanes → Kalyptos → Barbelo →
+  Triple-Powered Invisible Spirit — with explicit meditation instructions
+  at each stage. The via negativa passage is one of the most sustained
+  in the NHL. The text explicitly recognizes that its teachings operate
+  as a transferable PATTERN. The Existence-Vitality-Mentality triad is
+  philosophically significant (possibly the source of Proclus' triad).
+  Connected to Zostrianos and Three Steles of Seth.
+
+findings:
+  - id: Allog-001
+    category: structural_principle
+    passage: >
+      "He is Vitality and Mentality and That-Which-Is. For then
+      That-Which-Is constantly possesses its Vitality and Mentality,
+      and (Life has) Vitality possesses (non)-Being and Mentality.
+      Mentality possesses Life and That-Which-Is. And the three are
+      one, although individually they are three."
+    location: "XI 49.26-38"
+    finding: >
+      The Existence-Vitality-Mentality triad: three distinct properties
+      that are simultaneously one and three. Each contains the other two
+      within itself while remaining distinct — this IS the doctrine of
+      discrete degrees stated philosophically. Existence provides the
+      ground, Vitality provides the activity, Mentality provides the
+      self-knowledge. One reality perceived at three levels.
+    principles:
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      This triad may be the gnostic source of Proclus' Being-Life-
+      Intellect triad (5th century). The editor's introduction notes
+      this is "not attested in Neoplatonism before Proclus."
+
+  - id: Allog-002
+    category: structural_principle
+    passage: >
+      "Withdraw to the Vitality... and you will find it standing and
+      at rest... And if you wish to stand, withdraw to the Existence,
+      and you will find it standing and at rest after the likeness of
+      the One who is truly at rest."
+    location: "XI 59.28-60.12"
+    finding: >
+      Meditation instructions structured as progressive withdrawal through
+      discrete degrees: first withdraw to Vitality (life/activity), then
+      to Existence (being/rest). Each stage has its own quality — Vitality
+      is "moving," Existence is "standing and at rest." The practitioner
+      traverses the degrees experientially, not conceptually.
+    principles:
+      - discrete_degrees
+      - regeneration
+    confidence: strong
+    notes: >
+      These are practical instructions for traversing discrete degrees
+      through contemplative practice — the degrees are not just
+      cosmological but experiential.
+
+  - id: Allog-003
+    category: explicit_statement
+    passage: >
+      "He is not corporeal. He is not incorporeal. He is not great.
+      He is not small. He is not a number. He is not a creature. Nor
+      is he something that exists, that one can know."
+    location: "XI 62.28-63.14"
+    finding: >
+      Extended via negativa: the Unknowable One transcends every pair
+      of opposites — corporeal/incorporeal, great/small, number/creature.
+      He is "nonbeing Existence" and "insubstantial substance." This
+      negation operates correspondentially: every natural category
+      (size, number, materiality) is a correspondence FOR something;
+      the Source transcends all correspondences while being their origin.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: strong
+    notes: >
+      The sustained via negativa (spanning several pages) is the most
+      extensive in the NHL. The Unknowable One is beyond all
+      correspondence while generating all correspondence.
+
+  - id: Allog-004
+    category: explicit_statement
+    passage: >
+      "Do not know him, for it is impossible; but if by means of an
+      enlightened thought you should know him, be ignorant of him."
+    location: "XI 59.32-60.2"
+    finding: >
+      Knowing through unknowing: ordinary knowledge (natural faculty)
+      cannot reach the Source. But "enlightened thought" (spiritual
+      faculty) can — and what it achieves is a kind of knowing that
+      INCLUDES its own impossibility. This is not paradox for its own
+      sake but a description of how perception works at the boundary
+      between discrete degrees: the higher degree cannot be grasped
+      by the lower degree's tools.
+    principles:
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      Compare Zostrianos' perception-faculty correspondence: "He can
+      see with his perfect soul those who belong to Autogenes; with
+      his mind, those who belong to the Triple Male." Each faculty
+      perceives its own level.
+
+  - id: Allog-005
+    category: explicit_statement
+    passage: >
+      "Know likewise that it is this way in all such (matters) after
+      this (very) pattern."
+    location: "XI 60.18-20"
+    finding: >
+      The instruction explicitly recognizes that the teaching operates
+      as a TRANSFERABLE PATTERN — not a single-use revelation but a
+      template applicable to "all such matters." This is a meta-
+      correspondential statement: the pattern of graduated withdrawal
+      through discrete degrees is universal, not specific to this
+      particular ascent.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      This is the text self-identifying its own method as pattern-
+      based — the same structure recurs across all contexts. Compare
+      GTh Saying 1 ("finds the interpretation") and GP ("truth came
+      in types and images").
+
+  - id: Allog-006
+    category: cross_reference
+    passage: >
+      "Plotinus attacked certain Gnostics who produced revelations by
+      Zoroaster and Zostrianos and Nicotheos and Allogenes and Messos."
+    location: "Editor's Introduction (Porphyry, Vit. Plot. 16)"
+    finding: >
+      Porphyry's testimony confirms that Allogenes circulated alongside
+      Zostrianos (which bears the subtitle "Teachings of Zoroaster") in
+      circles that Neoplatonists considered serious philosophical rivals.
+      The gnostic-Neoplatonist rivalry was not polemical dismissal but
+      genuine competition over the same metaphysical territory — the
+      structure of the One.
+    principles:
+      - ancient_word
+    confidence: strong
+    notes: >
+      The Zoroaster connection links Allogenes to the Ancient Word
+      tradition. Neoplatonists recognized these texts as containing
+      genuine philosophical insight, not mere "mythology."

@@ -1,0 +1,99 @@
+tractate: "III,3-4 / V,1 / BG 3"
+title: "Eugnostos the Blessed / The Sophia of Jesus Christ"
+filename: "III_3_eugnostos_sophia.md"
+status: complete
+richness: rich
+
+summary: >
+  Eugnostos is a non-Christian cosmological epistle; Sophia of Jesus Christ
+  reframes the same material as a post-resurrection dialogue. Together they
+  preserve a systematic number-correspondence system (monads→decads→hundreds→
+  thousands→ten-thousands) and the calendar-as-correspondence (12 months = 12
+  powers, 360 days = 360 powers). The explicit instruction "Come from invisible
+  things to the end of those that are visible" states the correspondential
+  direction. The number system is the most explicitly mathematical
+  correspondential structure in the NHL.
+
+findings:
+  - id: Eug-001
+    category: explicit_statement
+    passage: >
+      "The monad is first... thinkings for decads, hundreds for teachings,
+      thousands for counsels, ten thousands for powers."
+    location: "III 75.1-10 / V 7.1-10"
+    finding: >
+      A SYSTEMATIC NUMBER-CORRESPONDENCE TABLE: units = thinkings (basic
+      mental acts), tens = decads (systematic thought), hundreds = teachings
+      (organized knowledge), thousands = counsels (wisdom applied), ten
+      thousands = powers (active forces). Each order of magnitude corresponds
+      to a higher level of spiritual operation. This is not numerology but
+      functional correspondence — each number scale IS the spiritual
+      operation at that level.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      The most explicitly mathematical correspondence system in the NHL.
+      Numbers are not arbitrary but functionally grounded in the SCALE
+      of spiritual operation.
+
+  - id: Eug-002
+    category: structural_principle
+    passage: >
+      "Twelve powers... twelve months... 360 days... 360 powers."
+    location: "III 83.1-20"
+    finding: >
+      The calendar as a correspondence map: 12 months = 12 ruling powers,
+      360 days = 360 subordinate powers. The temporal cycle is not an
+      analogy for the divine hierarchy — it IS the divine hierarchy in
+      its natural-degree expression. Time itself is a correspondence.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      This calendar-as-correspondence appears independently in VE
+      (Decad+Dodecad+Triacontad=360=Pleroma of the year), confirming
+      it as a shared Valentinian/Gnostic recognition rather than
+      individual invention.
+
+  - id: Eug-003
+    category: explicit_statement
+    passage: >
+      "Come from invisible things to the end of those that are visible."
+    location: "V 3.1-5"
+    finding: >
+      An explicit instruction in correspondential methodology: start
+      from the invisible (spiritual/interior) and follow through to
+      the visible (natural/ultimate). This IS the direction of
+      correspondence: inside→outside. The visible is the "end" — the
+      terminus, the ultimate expression — of what began invisibly.
+    principles:
+      - correspondence
+      - influx
+    confidence: strong
+    notes: >
+      This single instruction encapsulates the entire correspondential
+      method. "End" here means terminus/ultimate expression, not
+      cessation.
+
+  - id: Eug-004
+    category: correspondence
+    passage: >
+      "Immortal Man is called 'the Father'... His consort is the Great
+      Sophia... Their son is called 'First-Begetter Son of God.'"
+    location: "III 81.1-82.10"
+    finding: >
+      The divine family structure as correspondence: Father = generative
+      principle, Sophia = receptive wisdom, Son = what is generated when
+      love meets wisdom. The family is not a metaphor projected onto God
+      but the natural family IS the divine creative structure in its
+      human-relational ultimate form.
+    principles:
+      - correspondence
+      - divine_human
+    confidence: moderate
+    notes: >
+      The family correspondence — Father/Mother/Son — recurs across
+      Sethian, Valentinian, and Hermetic texts as the basic generative
+      triad.

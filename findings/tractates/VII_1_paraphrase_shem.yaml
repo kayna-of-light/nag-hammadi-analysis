@@ -1,0 +1,98 @@
+tractate: "VII,1"
+title: "The Paraphrase of Shem"
+filename: "VII_1_paraphrase_shem.md"
+status: complete
+richness: moderate
+
+summary: >
+  A lengthy cosmogonic revelation to Shem featuring a three-root system
+  (Light/Spirit/Darkness) that maps onto discrete degrees. The text's
+  most distinctive correspondential feature is its MULTIPLE GARMENTS
+  FOR DIFFERENT LEVELS: garment of light (spiritual), garment of fire
+  (psychic), garment of beast (natural). Also contains gemstone cloud
+  correspondences and a strong anti-baptismal polemic. Fish = Mind in
+  natural manifestation is an unusual correspondence.
+
+findings:
+  - id: PS-001
+    category: structural_principle
+    passage: >
+      "Three roots: Light, Spirit, Darkness."
+    location: "VII 1.5-15"
+    finding: >
+      Three-root cosmogony: Light (highest), Spirit (middle), Darkness
+      (lowest) = three discrete degrees as cosmic principles. Each root
+      is complete in itself and generates its own domain. The three are
+      not a continuum but discrete origins of different qualities of reality.
+    principles:
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      Most gnostic cosmogonies assume a binary (light/dark); the
+      three-root system with Spirit as middle term is unusual and
+      maps more precisely onto the celestial/spiritual/natural
+      triad.
+
+  - id: PS-002
+    category: correspondence
+    passage: >
+      "Garment of light... garment of fire... garment of the beast."
+    location: "VII (throughout)"
+    finding: >
+      Three garments for three levels: garment of light = spiritual
+      covering (the truths of the celestial degree), garment of fire =
+      psychic covering (the truths of the spiritual degree), garment
+      of beast = natural covering (the body/animal nature). The garment
+      is appropriate to the level — each degree is "clothed" in its own
+      quality. Changing garments = transitioning between degrees.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      Compare TTr's six names for baptism including "garment," DS's
+      stripping, and the pervasive garment correspondence across
+      the NHL. PS is unusual in providing three distinct garments
+      for three discrete degrees.
+
+  - id: PS-003
+    category: correspondence
+    passage: >
+      "The cloud of beryl... the cloud of emerald... the cloud of
+      amaranth... the cloud of jacinth."
+    location: "VII (cosmogonic sections)"
+    finding: >
+      Gemstone cloud correspondences: each cloud type is characterized
+      by a specific precious stone whose quality (color, transparency,
+      hardness) corresponds to the spiritual quality of that cosmic
+      zone. Gemstones in correspondence traditions are never arbitrary —
+      each stone's natural properties (how it transmits light, its
+      color, its durability) ground the correspondence.
+    principles:
+      - correspondence
+    confidence: moderate
+    notes: >
+      Gemstone correspondences appear in Revelation 21 (New Jerusalem
+      foundations) and across ancient Near Eastern traditions. Each
+      stone's relationship to light IS its spiritual quality.
+
+  - id: PS-004
+    category: correspondence
+    passage: >
+      Fish = Mind in natural/aquatic manifestation.
+    location: "VII (scattered)"
+    finding: >
+      Fish as the mind operating in the natural waters (the sense
+      world). The fish lives IN water (truth at the natural level)
+      and navigates through it — as the mind lives in natural truth
+      and navigates through sensory experience. An unusual but
+      functionally grounded correspondence.
+    principles:
+      - correspondence
+    confidence: tentative
+    notes: >
+      Fish correspondences are complex — the fish's relationship to
+      water (living within truth at the natural degree) and its
+      movement (navigating, finding sustenance within that medium)
+      ground the correspondence. Compare AT's fishing allegory
+      where the adversary's catching of fish = capturing the mind.

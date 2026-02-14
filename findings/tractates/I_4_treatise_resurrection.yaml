@@ -1,0 +1,78 @@
+tractate: "I,4"
+title: "The Treatise on the Resurrection"
+filename: "I_4_treatise_resurrection.md"
+status: complete
+richness: moderate
+
+summary: >
+  An epistle to "Rheginos" on the nature of resurrection. Its most
+  extraordinary feature: the text explicitly identifies its own language
+  as correspondential — "These are the symbols and the images of the
+  resurrection." It also describes experiencers as "beams" of the Savior,
+  uses the inner/outer members distinction, and frames spiritual reality
+  as MORE real than the natural — "this world is an illusion."
+
+findings:
+  - id: TRes-001
+    category: explicit_statement
+    passage: >
+      "These are the symbols and the images of the resurrection."
+    location: "I 48.38-49.1"
+    finding: >
+      THE TEXT EXPLICITLY IDENTIFIES ITS OWN LANGUAGE AS
+      CORRESPONDENTIAL. "Symbols and images" = natural-degree
+      expressions of spiritual realities. The author steps back
+      and tells the reader: what I have been writing is in
+      correspondence — the narrative IS the spiritual reality
+      expressed in natural forms.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      This is one of only a handful of NHL passages where the text
+      identifies its own method. Compare GTh Saying 1 ("finds the
+      interpretation"), GP ("truth came in types and images").
+
+  - id: TRes-002
+    category: correspondence
+    passage: >
+      "We are beams, that is, we are embraced by him until our
+      setting, that is our death in this life. We are drawn to
+      heaven by him, like beams by the sun."
+    location: "I 45.28-39"
+    finding: >
+      Experiencers as beams of the Savior = emanations of light
+      from a source. The sun/beam correspondence: the sun IS the
+      source of light, beams ARE the light in its extended form.
+      Setting = death (the "setting" of the beam as the sun "sets").
+      Being drawn to heaven = beams returning to their source. Every
+      element of the solar image is functionally grounded.
+    principles:
+      - correspondence
+      - influx
+    confidence: strong
+    notes: >
+      Light/sun correspondences are among the most fundamental — light
+      = wisdom, sun = the divine source of wisdom. Beams = persons as
+      expressions of that source.
+
+  - id: TRes-003
+    category: structural_principle
+    passage: >
+      "The inner members and the outer."
+    location: "I 47.38-48.3"
+    finding: >
+      Inner vs. outer members — the spiritual body has members
+      corresponding to the natural body's members. The "inner"
+      members persist through death; the "outer" members are
+      the natural-degree expression. Two discrete levels of
+      embodiment, one within the other.
+    principles:
+      - discrete_degrees
+      - divine_human
+    confidence: moderate
+    notes: >
+      The inner/outer member correspondence is consistent with
+      ApJ's divine human anatomy and with Swedenborg's doctrine
+      that the spiritual body has all the members of the natural
+      body in spiritual form.

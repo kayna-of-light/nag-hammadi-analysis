@@ -1,0 +1,131 @@
+tractate: "II,5"
+title: "On the Origin of the World"
+filename: "II_5_origin_of_world.md"
+status: complete
+richness: rich
+
+summary: >
+  A cosmogonic treatise that systematically organizes creation through sets
+  of three — three Adams, three phoenixes, three baptisms — each set mapping
+  directly onto the three discrete degrees. The text's distinctive feature
+  is its use of the phoenix myth as a three-tiered correspondence: immortal
+  phoenix (spirit), 1000-year phoenix (soul), consumed phoenix (body). The
+  treatment of the "four races" echoes the Apocalypse of Adam's generation
+  without a king. Dense with systematic correspondential structures.
+
+findings:
+  - id: OW-001
+    category: structural_principle
+    passage: >
+      "The first Adam of light is spirit-endowed and appeared on the first
+      day. The second Adam is soul-endowed and appeared on the sixth day...
+      The third Adam is a creature of the earth, that is, the man of the
+      law, and he appeared on the eighth day."
+    location: "II 117.28-118.2"
+    finding: >
+      Three Adams as three discrete degrees: spirit-endowed (celestial),
+      soul-endowed (spiritual), earth-creature (natural). Each appears on
+      a different "day" — the days are not temporal but correspondential
+      markers for levels of creation. The numbering (1st, 6th, 8th) follows
+      its own symbolic logic rather than simple sequence.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: strong
+    notes: >
+      This three-Adam system is one of the clearest discrete-degree
+      anthropologies in the NHL. Compare ApJ's creation of the
+      psychic body followed by the material body followed by the
+      spiritual awakening.
+
+  - id: OW-002
+    category: correspondence
+    passage: >
+      "The first phoenix... is immortal. The second phoenix arises from
+      itself and lives a thousand years. After the thousand years pass,
+      the light consumes everything... The third phoenix is consumed."
+    location: "II 122.1-20"
+    finding: >
+      The phoenix myth recast as a three-tiered correspondence: the immortal
+      phoenix = spiritual degree (incorruptible), the 1000-year phoenix =
+      psychic degree (enduring but finite, self-generating), the consumed
+      phoenix = natural degree (destroyed in the process). The fire that
+      consumes operates differently at each level — at the highest it
+      IS the phoenix; at the lowest it destroys it. Opposite sense of
+      fire across degrees.
+    principles:
+      - discrete_degrees
+      - correspondence
+      - opposite_sense
+    confidence: strong
+    notes: >
+      A remarkably precise use of a single mythic image to illustrate
+      how the same principle (regeneration through fire) operates
+      differently at each discrete degree.
+
+  - id: OW-003
+    category: structural_principle
+    passage: >
+      "Three baptisms exist — the first is the spiritual, the second
+      is by fire, and the third is by water."
+    location: "II 122.20-25"
+    finding: >
+      Three baptisms mapped onto three degrees: spiritual baptism
+      (celestial/highest), fire baptism (spiritual/middle), water
+      baptism (natural/lowest). The ranking reverses the canonical
+      Christian emphasis on water baptism, placing it at the natural
+      degree — the ultimate, not the origin.
+    principles:
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      Compare VE On Baptism B's transformation sequence and TT's
+      anti-water-baptismal polemic. The three-baptism system
+      treats baptism itself as operating at discrete degrees.
+
+  - id: OW-004
+    category: structural_principle
+    passage: >
+      "There are four races. Three belong to the kings of the eighth
+      heaven. But the fourth race is kingless and perfect, being the
+      highest of all."
+    location: "II 127.1-10"
+    finding: >
+      Four races, of which three are governed and the fourth is "kingless
+      and perfect." The generation without a king receives directly from
+      the source rather than through mediated authority. This parallels
+      the Apocalypse of Adam's thirteen kingdoms versus the generation
+      without a king — governed reception vs. unmediated reception.
+    principles:
+      - discrete_degrees
+      - influx
+    confidence: strong
+    notes: >
+      The "kingless" state is not anarchy but direct reception — no
+      intermediate authority stands between the soul and the source.
+      Cross-reference AA's generation without a king.
+
+  - id: OW-005
+    category: correspondence
+    passage: >
+      "The bottomless darkness... when Pistis saw what had resulted from
+      her defect, she became disturbed. And the disturbance appeared as
+      a fearful product."
+    location: "II 98.11-25"
+    finding: >
+      Darkness as the correspondent of spiritual deficiency — not
+      physical absence of photons but the RESULT of wisdom's "defect."
+      The disturbance (emotional state) produces a "fearful product"
+      (Yaldabaoth) — interior state directly generating exterior
+      form. This is influx in the negative direction: deficient
+      spiritual state flowing into monstrous natural expression.
+    principles:
+      - correspondence
+      - influx
+      - proprium
+    confidence: moderate
+    notes: >
+      Sophia's "defect" producing darkness and then the Demiurge
+      illustrates how spiritual error flows into natural manifestation
+      through correspondence — the natural world IS the spiritual
+      error expressed in ultimates.

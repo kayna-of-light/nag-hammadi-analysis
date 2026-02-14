@@ -1,0 +1,80 @@
+tractate: "V,3"
+title: "The First Apocalypse of James"
+filename: "V_3_first_apocalypse_james.md"
+status: complete
+richness: moderate
+
+summary: >
+  A revelation dialogue in which Jesus prepares James for his martyrdom
+  by teaching him formulas for ascending past toll-collectors. The
+  twelve hebdomads = seventy-two heavens is a systematic number
+  correspondence. The Sophia/Achamoth distinction (higher/lower Sophia)
+  maps discrete degrees within a single figure. "Your garments were
+  not soiled" = spiritual integrity maintained while walking through
+  the natural degree.
+
+findings:
+  - id: 1AJ-001
+    category: structural_principle
+    passage: >
+      "Twelve hebdomads... seventy-two heavens."
+    location: "V 26.2-10"
+    finding: >
+      Number correspondence: 12 hebdomads × 7 = 84 (or the implied
+      72 heavens = 12 × 6). The number system maps a hierarchical
+      structure where 12 (administrative completeness) × the hebdomad
+      (7 = rest/completion at the natural level) generates the total
+      heavenly architecture. Numbers are not arbitrary quantities but
+      structural correspondences.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: moderate
+    notes: >
+      72 heavens = 72 nations = the traditional number of wholeness
+      in ancient Near Eastern counting. Compare Eug's number-
+      correspondence system.
+
+  - id: 1AJ-002
+    category: correspondence
+    passage: >
+      "You walked in mud, and your garments were not soiled."
+    location: "V 31.5-8"
+    finding: >
+      Mud = the natural/material degree at its most opaque; garments =
+      external spiritual truths covering the soul. Walking through
+      mud without soiling the garment = passing through the material
+      world without contaminating the spiritual covering. The garment
+      FUNCTIONS as a barrier between the interior self and the exterior
+      condition — its integrity demonstrates the soul's protection.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      Compare GE's "put on Jesus as a garment" and the pervasive
+      garment correspondence across NHL texts. Here the garment
+      specifically protects through the mud of material existence.
+
+  - id: 1AJ-003
+    category: structural_principle
+    passage: >
+      Toll-collector formulas: specific statements to be declared
+      at each heavenly gate to pass the archons.
+    location: "V 33-34"
+    finding: >
+      The toll-collector system operates as a correspondence between
+      knowledge and passage: at each degree-boundary, the ascending
+      soul must demonstrate knowledge of that boundary's archon.
+      The "formula" is not a magic password but the APPROPRIATE
+      knowledge for each level — knowing the archon's nature is
+      what allows passage, because knowledge = spiritual light that
+      dissolves the darkness of that level's authority.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: moderate
+    notes: >
+      Toll-collector systems appear in GM, ApPaul, and PS.
+      Each represents the same principle: passage between
+      degrees requires the faculty/knowledge appropriate to
+      that boundary.
