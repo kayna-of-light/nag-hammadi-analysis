@@ -28,6 +28,7 @@ from typing import Any, Optional
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 TRACTATES_DIR = PROJECT_ROOT / "output" / "cleaned" / "tractates"
+SUPPLEMENTARY_DIR = PROJECT_ROOT / "output" / "cleaned" / "supplementary"
 OUTPUT_ROOT = PROJECT_ROOT / "output" / "pdfs"
 CACHE_DIR = PROJECT_ROOT / "cache"
 ASSETS_DIR = SCRIPT_DIR / "assets"
@@ -44,6 +45,7 @@ EDITOR_NOTES_FOLDER_NAME = "Editor Notes"
 SUPPLEMENTARY_FOLDER_NAME = "Supplementary"
 
 # Files routed to the Supplementary folder instead of the tractates root
+# (Also, all files from SUPPLEMENTARY_DIR are routed there automatically)
 SUPPLEMENTARY_PREFIXES = ("ZZ_",)
 
 
@@ -311,23 +313,33 @@ def build_and_upload(
     index = _load_build_index(index_path)
 
     main_pdf_dir = output_root / "tractates"
+    supp_pdf_dir = output_root / "supplementary"
     notes_pdf_dir = output_root / "editor_notes"
     _safe_mkdir(main_pdf_dir)
+    _safe_mkdir(supp_pdf_dir)
     _safe_mkdir(notes_pdf_dir)
 
     # Resolve file list
+    supplementary_dir = tractates_dir.parent / "supplementary"
     if only:
         md_files = []
         for name in only:
+            # Check tractates dir first, then supplementary
             p = tractates_dir / name
             if not p.suffix:
                 p = p.with_suffix(".md")
+            if not p.exists() and supplementary_dir.exists():
+                p = supplementary_dir / name
+                if not p.suffix:
+                    p = p.with_suffix(".md")
             if not p.exists():
-                print(f"WARNING: {p} not found, skipping")
+                print(f"WARNING: {name} not found in tractates or supplementary, skipping")
                 continue
             md_files.append(p)
     else:
         md_files = iter_tractate_files(tractates_dir)
+        if supplementary_dir.exists():
+            md_files.extend(iter_tractate_files(supplementary_dir))
 
     if limit is not None:
         md_files = md_files[:limit]
@@ -355,10 +367,18 @@ def build_and_upload(
         md_text = md_path.read_text(encoding="utf-8")
         md_sha = _sha256_str(md_text)
 
-        main_text, editor_notes = split_tractate(md_text)
-        is_supplementary = any(filename.startswith(p) for p in SUPPLEMENTARY_PREFIXES)
+        is_supplementary = (
+            any(filename.startswith(p) for p in SUPPLEMENTARY_PREFIXES)
+            or md_path.parent.name == "supplementary"
+        )
 
-        main_pdf = main_pdf_dir / f"{filename}.pdf"
+        # Supplementary files are not tractates — skip the split
+        if is_supplementary:
+            main_text, editor_notes = md_text, None
+        else:
+            main_text, editor_notes = split_tractate(md_text)
+
+        main_pdf = (supp_pdf_dir if is_supplementary else main_pdf_dir) / f"{filename}.pdf"
         notes_pdf = notes_pdf_dir / f"{filename}_notes.pdf"
 
         # Cache keys
