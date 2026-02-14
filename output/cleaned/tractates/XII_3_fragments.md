@@ -12,16 +12,25 @@
 
 ---
 
-FRAGMENTS  
-XII 1A, 6–29  
-1B, 6–29  
-2A, 24–29  
-2B, 24–29
+## Fragments
 
-(Fragment 1A) [...] 10 us as it is 1 [fitting. ...] each other, but 1 [...] a crowd to receive 1 [...] they speak ill 1 [...] live by wickedness 15 [...] the [...] 1 work evil things to 1 [...] the good things, and they 1 [...] do their own things 1 [...] strangers. There are 20 [...] do their own things 1 [...] works which [... 1 we] ourselves do [... 1 works] of those [...] 1 evil works [...] 25 that which we shall [... 1 the] works which [...] 1 that which [...] 1 every one [...]
+XII 1A, 6-29  
+1B, 6-29  
+2A, 24-29  
+2B, 24-29
 
-(Fragment 1B) [...]. 9 For I speak the [ . . . ] ' know [God ...] 1 gave their [...] 1 error. But [...] 1 they are worthy of the [...] ' into God [...]. 15 And already they have [...] 1 the ignorance [...] 1 the righteousness [...] 1 these were worthy [of ...]. 1 He [ . . . ] 20 my Father who is [ . . . ] ' not to them a father [...] 1 I think that [ . . . ] ' this which the [...] 1 I give again to the [...] 25 they forgive [...] 1 spoke it [.. .] 1 it [•••]
+### (Fragment 1A)
 
-(Fragment 2A) [...] 26 philosopher [...] 1 they are not able to [ 1 philosopher 1 [...] world [...]
+[...] us as it is [fitting. ...] each other, but [...] a crowd to receive [...] they speak ill [...] live by wickedness [...] the [...] work evil things to [...] the good things, and they [...] do their own things [...] strangers. There are [...] do their own things [...] works which [... we] ourselves do [... works] of those [...] evil works [...] that which we shall [... the] works which [...] that which [...] every one [...]
 
-(Fragment 2B) [...] 27 her [...] 1 begot him [...] 1 think that [
+### (Fragment 1B)
+
+[...]. For I speak the [ . . . ] "know [God ...] gave their [...] error. But [...] they are worthy of the [...] into God [...]. And already they have [...] the ignorance [...] the righteousness [...] these were worthy [of ...]. He [ . . . ] my Father who is [ . . . ] "not to them a father [...] I think that [ . . . ] "this which the [...] I give again to the [...] they forgive [...] spoke it [.. .] it [•••]
+
+### (Fragment 2A)
+
+[...] philosopher [...] they are not able to [philosopher ...] world [...]
+
+### (Fragment 2B)
+
+[...] her [...] begot him [...] think that [...]
