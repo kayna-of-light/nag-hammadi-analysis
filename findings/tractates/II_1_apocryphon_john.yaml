@@ -454,3 +454,230 @@ findings:
       The Pronoia hymn at the end of the Apocryphon of John is essentially
       the same text as Trimorphic Protennoia XIII,1 — confirming the
       three-descent structure as an independent tradition.
+  - id: AJ-017
+    category: divine_human_anatomy
+    passage: >
+      The entire 365-angel body-creation list: "Eteraphaope-Abron created
+      his head; Meniggesstroeth created the brain; Asterechme (created)
+      the right eye..." [through to] "Miamai (created) the nails of the
+      feet; Labernioum—" Plus the second list of angels "particularly
+      active in the limbs," the four elemental rulers, and the four
+      passion-demons.
+    location: "Lines 107-121"
+    finding: >
+      The angel names are NOT arbitrary magical gibberish. They are a
+      MULTILINGUAL CORRESPONDENTIAL LEXICON — Greek, Hebrew, Aramaic,
+      and Egyptian roots encoding the spiritual quality of each body part
+      IN THE NAME of the power that created it. The angel IS the function,
+      and the name IS the correspondence.
+
+      Key examples establishing the pattern:
+
+      GREEK ROOTS: Meniggesstroeth (brain) from μήνιγγες (meninges);
+      Asterechme (right eye) from ἀστήρ (star) — the eye IS the star
+      at the human degree; Phloxopha (ruler of heat) from φλόξ (flame);
+      Aesthesis-Ouch-Epi-Ptoe (mother of passions) is a complete Greek
+      compound meaning "sensation-not-upon-alarm" = undifferentiated
+      perception prior to the four-passion split.
+
+      HEBREW ROOTS: Amen (teeth) from אמן = firmness/truth — teeth as
+      what tests substance; Senaphim (abdomen) from שרפים (seraphim) =
+      fiery ones — the digestive fire; Achiel (right knee) from
+      אחי-אל (brother of God) — the knee that bends in prayer.
+
+      STRUCTURAL FORMATION PRINCIPLE: Chnoumeninorin (bones) carries
+      the same root as the Egyptian Khnum, the ram-headed former of
+      bodies. But the principle is NOT named after the god — the god
+      IS the downward perception of a spiritual principle. At the
+      mythological-cultural degree, the structural-formation principle
+      appears as a deity (Khnum); at the correspondential degree it
+      appears as an angel name; both are the same spiritual reality
+      perceived at different levels. The "fallen perception" is when
+      the principle is worshipped AS a deity rather than recognized
+      AS a correspondence.
+
+      Each "angel" (ἄγγελος = messenger = carrier of influx) represents
+      a SPIRITUAL COMMUNITY — a society in the spiritual world whose
+      collective quality, expressed at the natural degree, sustains and
+      becomes the corresponding body part. The 365-angel list is therefore
+      a MAP OF THE SPIRITUAL WORLD organized through the human form —
+      the Grand Man (Maximus Homo) charted from the body outward to the
+      spiritual communities that constitute it. The names encode each
+      community's quality; the body parts show where that quality
+      terminates in ultimates; the relationships between organs mirror
+      the relationships between communities. The seven "overseers"
+      governing body REGIONS are higher-order communities coordinating
+      the societies within their domain.
+
+      This demonstrates that the text is a CORRESPONDENTIAL CARTOGRAPHY
+      OF THE SPIRITUAL WORLD in angel-name form. The community that
+      produced it operated fluidly across Greek philosophical,
+      Hebrew liturgical, and Egyptian cosmological vocabularies —
+      consistent with a scholarly community with multilingual library
+      access, not a mystery cult improvising fantastical names.
+
+      See accompanying document: AJ_angel_name_translations.yaml for
+      the complete systematic translation of all names.
+    principles:
+      - divine_human
+      - correspondence
+      - ancient_word
+    confidence: strong
+    notes: >
+      This finding, combined with AJ-009 (direct access to "the book
+      of Zoroaster"), constitutes the strongest evidence in the NHL
+      for the Ancient Word hypothesis. The names ARE the correspondences,
+      encoded in multilingual form — precisely what you would expect
+      from a tradition transmitted through the Aramaic-speaking
+      cultural zone where Greek, Hebrew, and Egyptian vocabularies
+      converged. The "book of Zoroaster" may itself have been a
+      multilingual correspondential lexicon of which this body-list
+      is an excerpt.
+
+  - id: AJ-018
+    category: structural_principle
+    passage: >
+      "And the powers began: the first one, goodness, created a bone-soul;
+      and the second, foreknowledge, created a sinew-soul; the third,
+      divinity, created a flesh-soul; and the fourth, the lordship,
+      created a marrow-soul; the fifth, kingdom created a blood-soul;
+      the sixth, envy, created a skin-soul; the seventh, understanding,
+      created a hair-soul."
+    location: "Line 103"
+    finding: >
+      The seven substance-souls are the PRIMARY PRINCIPLES from which
+      the entire 365-community map derives. Their ORDER is not arbitrary
+      — it traces a derivation from innermost structural foundation to
+      outermost emanation:
+
+      1. GOODNESS → bone = absolute structural foundation
+      2. FOREKNOWLEDGE → sinew = connection between structures
+      3. DIVINITY → flesh = substance filling the connected structure
+      4. LORDSHIP → marrow = generative life INSIDE the foundation
+      5. KINGDOM → blood = circulation distributing what marrow generates
+      6. ENVY → skin = boundary containing it all (the proprium)
+      7. UNDERSTANDING → hair = outermost emanation beyond the boundary
+
+      The first five are qualities of LOVE/WILL. The sixth is the
+      SELF-BOUNDARY (proprium). The seventh and last is UNDERSTANDING.
+      This exactly mirrors Swedenborg's ontological priority of will
+      over understanding — will/love is the foundation (1st), and
+      understanding is the outermost derivative (7th).
+
+      The sixth placement is critical: ENVY creates SKIN. Envy =
+      awareness of separation between self and other. Skin = the
+      physical separation between self and world. The quality that
+      generates the experience of "I am not you" is the same quality
+      that generates the body's boundary. This IS the proprium encoded
+      as a substance-soul — and it is SIXTH, not first. The proprium
+      derives from goodness; goodness does not derive from the proprium.
+      But the proprium is necessary (without skin, no containment).
+
+      The nesting of 4th inside 1st is precise: lordship (marrow)
+      lives INSIDE goodness (bone). The lord dwells within the
+      structural foundation. Marrow generates blood cells from within
+      bone. What the lord generates (marrow→blood), the kingdom
+      distributes to all.
+
+      Every body part in the 365-angel list is a specific
+      differentiation of these seven substances. The head-to-feet
+      order of the body list then traces how influx flows from the
+      primary receiving organ to the most ultimate expression. The
+      whole structure reads as: seven primary spiritual communities →
+      365 differentiated communities → head-to-feet derivation order →
+      governance hierarchy (overseers→senses→elements→passions).
+    principles:
+      - discrete_degrees
+      - correspondence
+      - divine_human
+      - ruling_love
+    confidence: strong
+    notes: >
+      This finding establishes that the 365-angel body map is not a
+      flat list but a DERIVED HIERARCHY. The seven substance-souls
+      are the primary community-types from which all 365 communities
+      differentiate. The order encodes the ontological priority
+      structure of the spiritual world. Combined with AJ-017 (angel
+      names as multilingual lexicon) and AJ-009 (direct access to
+      Zoroastrian sources), this gives us: primary principles →
+      derived communities → named by quality → organized head-to-feet
+      = a complete correspondential cartography of the spiritual world
+      expressed through the human form.
+
+      See AJ_angel_name_translations.yaml, Section 0 for the full
+      analysis of the sevenfold derivation.
+
+  - id: AJ-019
+    category: structural_principle
+    passage: >
+      "And the origin of the demons which are in the whole body is
+      determined to be four: heat, cold, wetness, and dryness. And the
+      mother of all of them is matter. And he who reigns over the heat
+      (is) Phloxopha; and he who reigns over the cold is Oroorrothos;
+      and he who reigns over what is dry (is) Erimacho; and he who
+      reigns over the wetness (is) Athuro. And the mother of all of
+      these, Onorthochrasaei, stands in their midst since she is
+      illimitable, and she mixes with all of them. And she is truly matter."
+    location: "Line 115"
+    finding: >
+      The four "elemental demons" are the FOUR CARDINAL DIRECTIONS of
+      the spiritual world — the same compass Swedenborg maps in Heaven
+      and Hell:
+
+      Heat (Phloxopha)  = EAST  — the Lord as Sun, source of love
+      Cold (Oroorrothos) = WEST  — diminished love, distance from source
+      Wet  (Athuro)     = SOUTH — truth in full light, flowing uninterrupted
+      Dry  (Erimacho)   = NORTH — truth absent/obscure, desert of ignorance
+
+      Water = truth. The South is where truth flows in fully and
+      without interruption — therefore WET. The North is where truth
+      is absent and the seeker struggles in darkness — therefore DRY
+      (desert). The correspondence is grounded in function: water
+      sustains life as truth sustains understanding; where truth is
+      abundant (South), there is water; where truth is absent (North),
+      there is desert.
+
+      These are not describing the body's material chemistry. They are
+      describing the body's POSITION within the four cardinal orientations
+      of the spiritual world. The human body sits at the intersection
+      of all four directions.
+
+      The mother Onorthochrasaei "stands in their midst" = MATTER IS
+      THE CENTER where all four converge. She "mixes with all of them"
+      because every material thing participates in all four directions
+      simultaneously. She is "illimitable" because there is no point in
+      the material world that escapes this intersection.
+
+      The angel names confirm the compass:
+      - Phloxopha = φλόξ + σοφία = "flame-wisdom" — the East where
+        love and wisdom are one in the divine Sun
+      - Athuro = Ḥwt-Ḥr = "House of Horus/Light" — the South where
+        truth is fully at home, flowing and nourishing
+      - Erimacho = ἔρημος + μάχη = "desert-battle" — the North where
+        truth is absent and the seeker struggles in desolation
+
+      This means the entire body-creation passage encodes:
+      (1) Seven primary substances (spiritual qualities → materials)
+      (2) 365 communities (differentiated by body part, head-to-feet)
+      (3) Four cardinal orientations (the spiritual compass)
+      (4) Matter as the center point of intersection
+      = A COMPLETE MAP of the spiritual world in which the human form
+      exists.
+    principles:
+      - correspondence
+      - discrete_degrees
+      - divine_human
+    confidence: strong
+    notes: >
+      The identification of the four elements as the Swedenborgian
+      compass is significant because it shows the same spatial
+      cosmology operating in a pre-Christian text attributed to
+      Zoroastrian sources (AJ-009). The compass is not Swedenborg's
+      invention — it is his RE-OBSERVATION of a structure that the
+      Ancient Word tradition already mapped. The convergence of a
+      2nd-century Egyptian-Jewish text and an 18th-century Swedish
+      visionary on the same fourfold spatial cosmology constitutes
+      independent confirmation.
+
+      See AJ_angel_name_translations.yaml, Section 4 for the full
+      compass analysis with angel name etymologies.

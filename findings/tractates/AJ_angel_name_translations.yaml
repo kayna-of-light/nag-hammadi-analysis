@@ -1,0 +1,1387 @@
+# Apocryphon of John — Angel Name Translation & Correspondential Analysis
+#
+# Companion to finding AJ-017 in II_1_apocryphon_john.yaml
+#
+# METHODOLOGICAL NOTE:
+# The angel names in the 365-body-creation list are transliterated from
+# Coptic, which itself transliterates from Greek manuscripts, which may
+# translate/transliterate from Aramaic, Hebrew, or Iranian originals.
+# Multiple layers of phonetic shift mean some roots are clear, others
+# probable, others tentative. Confidence is marked for each entry.
+#
+# COSMOLOGICAL NOTE:
+# Each angel name is a ONE-WORD CAPTURE OF A SPIRITUAL QUALITY. This is
+# the PRIMARY meaning. Everything else derives from the quality:
+#
+#   Spiritual quality (PRIMARY — encoded in the name)
+#     → Community forms (beings organized by that quality)
+#     → Body part exists (quality expressed in ultimates)
+#     → Governance relationships (how qualities relate)
+#
+# The community is not the primary thing — it is what happens when
+# beings gravitate around a shared quality. The body part is not the
+# primary thing — it is what the quality produces at the natural degree.
+# The NAME tells you what the quality IS. The rest follows.
+#
+# So the 365 names describe 365 SPIRITUAL QUALITIES, each of which:
+#   1. Organizes a community of beings who share it
+#   2. Produces a specific body part at the natural degree
+#   3. Relates to other qualities through functional connections
+#      (as organs relate to organs, as communities relate to communities)
+#   4. Together constitutes the Grand Man (Maximus Homo) — all of
+#      heaven in human form, because the human form IS the form that
+#      365 differentiated spiritual qualities produce when they flow
+#      into ultimates together
+#
+# The seven "overseers" governing body REGIONS are higher-order
+# qualities that coordinate clusters of derived qualities —
+# as provinces coordinate communities within their domain.
+#
+# ONTOLOGICAL NOTE:
+# Where a name shares a root with a deity (e.g., Khnum, Athur/Hathor),
+# this does NOT mean the angel is "named after" the god. The spiritual
+# principle exists at the spiritual level; the deity is that principle
+# perceived at the mythological-cultural degree (downward perception);
+# the angel name encodes the same principle at the correspondential
+# degree. Both are expressions of one reality at different levels.
+# The "fallen perception" is when the principle is worshipped AS a
+# deity rather than recognized AS a correspondence.
+#
+# Confidence levels:
+#   strong   — root clearly identifiable; semantic fit with body part is precise
+#   moderate — root probable; semantic fit plausible
+#   tentative — possible root; speculative alignment
+#   opaque   — no clear etymological decomposition found
+
+# =============================================================================
+# SECTION 0: THE SEVEN SUBSTANCE-SOULS (PRIMARY PRINCIPLES)
+# =============================================================================
+#
+# These come BEFORE the 365 body-creation angels. Everything in the list
+# DERIVES from these seven. Each body part is a specific differentiation
+# of these seven substances, and each substance is the natural-degree
+# expression of a spiritual quality. The order is the derivation order —
+# the first principle generates the second, which generates the third, etc.
+#
+# The sequence moves from INNERMOST STRUCTURAL SUPPORT to OUTERMOST
+# EMANATION — from the invisible load-bearing foundation to the thinnest
+# expression that extends beyond the body boundary.
+
+sevenfold_substance_souls:
+
+  - order: 1
+    quality: "Goodness"
+    substance: "Bone-soul"
+    structural_role: "Absolute structural foundation"
+    correspondence: >
+      THE PRIMARY PRINCIPLE from which all else derives. Goodness IS the
+      structural foundation of reality — what bears all weight, what
+      everything else rests upon. Bone is invisible under all other
+      substances, hardest, most enduring. As goodness is the foundation
+      of all spiritual quality, bone is the foundation of all bodily form.
+      The primary principle (goodness) becomes the primary substance (bone).
+    confidence: strong
+
+  - order: 2
+    quality: "Foreknowledge"
+    substance: "Sinew-soul"
+    structural_role: "Connection — binding structure to structure"
+    correspondence: >
+      Derives from the first: once structural foundation exists, what
+      CONNECTS those structures? Foreknowledge = knowing-before = what
+      anticipates and links. Sinew (tendon/ligament) binds bone to bone,
+      creating relationship between structural elements. Without
+      foreknowledge there is no connection; without sinew the bones
+      are a scattered pile.
+    confidence: strong
+
+  - order: 3
+    quality: "Divinity"
+    substance: "Flesh-soul"
+    structural_role: "Substance/fullness — what fills the form"
+    correspondence: >
+      Once structure (bone) and connection (sinew) exist, they need
+      SUBSTANCE — filling, fullness, the divine gift of tangible
+      presence. Divinity creates flesh because the divine IS what
+      makes the form full. Without divinity there is skeleton and
+      ligament but no living substance. Flesh is the body's "fullness"
+      (pleroma in Greek — resonant with Sethian cosmology).
+    confidence: strong
+
+  - order: 4
+    quality: "Lordship"
+    substance: "Marrow-soul"
+    structural_role: "Generative interior — life hidden within structure"
+    correspondence: >
+      Lordship creates marrow — the generative life HIDDEN INSIDE the
+      first substance (bone). This is a nesting: the lord dwells within
+      the structural foundation. Marrow generates blood cells (kingdom's
+      substance) from within bone (goodness's substance). The ruler is
+      not outside the structure but AT ITS INTERIOR. This is the
+      correspondential principle that the lord rules from within, not
+      from above.
+    confidence: strong
+
+  - order: 5
+    quality: "Kingdom"
+    substance: "Blood-soul"
+    structural_role: "Living circulation — what flows through the whole"
+    correspondence: >
+      Derives from lordship/marrow: blood IS produced by marrow.
+      Kingdom = the living system that circulates through every part,
+      reaching all members. Blood carries oxygen (spirit) and nutrients
+      (good) to every cell. The kingdom is the DISTRIBUTION network:
+      what the lord generates, the kingdom delivers to all.
+    confidence: strong
+
+  - order: 6
+    quality: "Envy"
+    substance: "Skin-soul"
+    structural_role: "Boundary — the separation between self and world"
+    correspondence: >
+      THE PROPRIUM ENCODED AS SUBSTANCE. Envy = awareness of separation
+      between self and other. Skin = the physical boundary between self
+      and world. The quality that generates the EXPERIENCE of separation
+      (envy — "I am not you, I want what you have") is the same quality
+      that generates the PHYSICAL boundary (skin — where I end and the
+      world begins). This is the most Swedenborgian correspondence in
+      the entire list: the proprium (self-love, self-boundary) is not
+      evil — it is the NECESSARY sixth step. Without skin (without the
+      proprium's boundary), the body would have no containment. The
+      proprium is the vessel that MUST be formed. But it is sixth, not
+      first — it derives from goodness, not the reverse.
+    confidence: strong
+
+  - order: 7
+    quality: "Understanding"
+    substance: "Hair-soul"
+    structural_role: "Outermost emanation — the thinnest expression beyond the boundary"
+    correspondence: >
+      The LAST derivative. Understanding = the most exterior cognitive
+      faculty (exterior relative to will/love). Hair = the outermost
+      substance, extending BEYOND even the skin boundary. Hair is the
+      thinnest, most numerous expression of the body — dead material
+      pushed outward from below. In Swedenborg, understanding without
+      will is empty (hair without the body beneath it has no life).
+      Understanding is the body's public face — what others see first —
+      but it is derived, not primary. It is seventh, not first.
+      The derivation order (goodness → ... → understanding) exactly
+      mirrors Swedenborg's insistence that will/love is prior to
+      understanding/truth.
+    confidence: strong
+
+# THE DERIVATION LOGIC:
+#
+#   1. Goodness (bone)     — structural foundation
+#   2. Foreknowledge (sinew) — connection between structures
+#   3. Divinity (flesh)    — substance filling the connected structure
+#   4. Lordship (marrow)   — generative life INSIDE the foundation
+#   5. Kingdom (blood)     — circulation distributing what marrow generates
+#   6. Envy (skin)         — boundary containing it all (the proprium)
+#   7. Understanding (hair) — outermost emanation beyond the boundary
+#
+# This IS Swedenborg's priority of will over understanding:
+#   - The first five are qualities of LOVE/WILL (goodness, foreknowledge,
+#     divinity, lordship, kingdom)
+#   - The sixth is the SELF-BOUNDARY (envy/proprium)
+#   - The seventh and last is UNDERSTANDING
+#
+# Every body part in the 365-angel list below is a specific differentiation
+# of these seven substances. The ORDER of body parts (head → feet) then
+# traces how influx flows from the primary receiving organ (head) to the
+# most ultimate expression (toenails).
+
+# =============================================================================
+# SECTION 1: PRIMARY BODY-CREATION LIST (first angel per body part)
+# =============================================================================
+
+primary_body_creators:
+
+  - name: "Eteraphaope-Abron"
+    body_part: "head"
+    roots:
+      - language: Greek
+        root: "ἕτερα φαος/φῶς (hetera phaos)"
+        meaning: "other/second light"
+      - language: Hebrew
+        root: "אברון — possibly from אבר (eber) = limb, member"
+        meaning: "the membered one"
+    synthesis: >
+      "Second-light of the members" — the head as the secondary luminous
+      principle (the first being the Monad itself). The head receives
+      light/wisdom and distributes it to the members. The compound name
+      suggests: the light that organizes the body's parts.
+    confidence: moderate
+
+  - name: "Meniggesstroeth"
+    body_part: "brain"
+    roots:
+      - language: Greek
+        root: "μήνιγγες (meninges)"
+        meaning: "brain membranes"
+    synthesis: >
+      The angel name IS the anatomical term. The spiritual power that
+      sustains the brain is named for its own physical expression at the
+      natural degree. This is the clearest possible correspondence: the
+      name encodes the function directly.
+    confidence: strong
+
+  - name: "Asterechme"
+    body_part: "right eye"
+    roots:
+      - language: Greek
+        root: "ἀστήρ (astēr) = star + ἔχω (echō) = to have/hold"
+        meaning: "star-holder / star-possessor"
+    synthesis: >
+      The right eye IS the star at the human degree — the organ that
+      receives light (truth/wisdom). Right = the intellectual/truth
+      side. The eye holds the star within itself: it receives celestial
+      light and translates it into perception. The correspondence is
+      grounded in function: as stars illuminate the cosmos, eyes
+      illuminate the person.
+    confidence: strong
+
+  - name: "Thaspomocha"
+    body_part: "left eye"
+    roots:
+      - language: uncertain
+        root: "possibly θάσσω (thassō) = to sit + μοχθέω (mochteo) = to labor"
+        meaning: "sitting-in-labor"
+    synthesis: >
+      If the right eye = intellectual perception (star), the left eye
+      = volitional perception (labor/effort). Left = the will/love side.
+      The left eye labors to perceive — perception through effort rather
+      than reception. Tentative.
+    confidence: tentative
+
+  - name: "Yeronumos"
+    body_part: "right ear"
+    roots:
+      - language: Greek
+        root: "ἱερός (hieros) = sacred + νόμος (nomos) = law"
+        meaning: "sacred law"
+    synthesis: >
+      The right ear hears sacred law — truth received through hearing.
+      Right = intellectual/truth side. The ear that receives the Word in
+      its legal/ordered form. Hearing corresponds to obedience in Hebrew
+      (שמע = hear AND obey).
+    confidence: moderate
+
+  - name: "Bissoum"
+    body_part: "left ear"
+    roots:
+      - language: Greek/Hebrew
+        root: "βύσσος (byssos) = fine linen"
+        meaning: "fine linen"
+    synthesis: >
+      Fine linen = the garment of the will/love side. The left ear hears
+      through the will — receives what is good (as opposed to the right
+      ear which receives what is true). Linen corresponds to truth from
+      good in Swedenborg. Tentative.
+    confidence: tentative
+
+  - name: "Akioreim"
+    body_part: "nose"
+    roots:
+      - language: Hebrew
+        root: "possibly from אף (aph) = nose/anger; or compound with קיר (qir) = wall"
+        meaning: "uncertain"
+    synthesis: >
+      The nose in Hebrew (אף) also means anger/wrath — the nose
+      as the organ of spiritual reaction (perception of quality,
+      acceptance or rejection). Breathing in = receiving influx;
+      breathing out = expression. Tentative.
+    confidence: tentative
+
+  - name: "Banen-Ephroum"
+    body_part: "lips"
+    roots:
+      - language: Hebrew
+        root: "בנן (banen) = to build + אפרים (Ephraim) = doubly fruitful"
+        meaning: "builder of fruitfulness"
+    synthesis: >
+      Lips as the builders of fruitful speech — the organs that form
+      words (building) that bear fruit (Ephraim = fruitful). Speech IS
+      the natural-degree expression of thought; lips are the boundary
+      where interior becomes exterior.
+    confidence: moderate
+
+  - name: "Amen"
+    body_part: "teeth"
+    roots:
+      - language: Hebrew
+        root: "אמן (amen) = truth, firmness, reliability"
+        meaning: "truth/firmness"
+    synthesis: >
+      Teeth = firmness and truth-testing. Teeth are the first physical
+      test of what enters the body — they break down substance to
+      determine its quality. Truth (amen) is what remains firm under
+      testing. The correspondence is precise: teeth are the organs of
+      judgment at the entrance.
+    confidence: strong
+
+  - name: "Ibikan"
+    body_part: "molars"
+    roots:
+      - language: uncertain
+        root: "possibly related to ביקע (biqa) = to cleave/split"
+        meaning: "splitter/cleaver"
+    synthesis: >
+      Molars as the deeper grinding/cleaving function — breaking
+      substance down more thoroughly than teeth. If teeth test (amen),
+      molars analyze (split apart). Tentative.
+    confidence: tentative
+
+  - name: "Basiliademe"
+    body_part: "tonsils"
+    roots:
+      - language: Greek
+        root: "βασιλεία (basileia) = kingdom + δῆμος (demos) = people"
+        meaning: "kingdom of the people"
+    synthesis: >
+      Tonsils as the gatekeepers of the kingdom — they guard the passage
+      into the body's interior. The "people" component suggests the
+      tonsils serve the collective body (immune function). The kingdom
+      has its guards at the gate.
+    confidence: strong
+
+  - name: "Achcha"
+    body_part: "uvula"
+    roots:
+      - language: uncertain
+        root: "possibly ἀκή (akē) = point, edge"
+        meaning: "the point/tip"
+    synthesis: >
+      The uvula as the hanging point at the back of the throat — the
+      boundary marker between upper (nasal/intellectual) and lower
+      (digestive/volitional) passages.
+    confidence: tentative
+
+  - name: "Adaban"
+    body_part: "neck"
+    roots:
+      - language: Hebrew/Aramaic
+        root: "possibly from עדב (adab) = to decorate/adorn; or דבן = to flow"
+        meaning: "connector/conduit"
+    synthesis: >
+      The neck as the conduit between head (understanding) and body
+      (will/action). It connects the highest to the rest — the channel
+      through which influx from the head reaches the body.
+    confidence: tentative
+
+  - name: "Chaaman"
+    body_part: "vertebrae"
+    roots:
+      - language: Hebrew
+        root: "possibly from חמן (chaman) = pillar/column; or חם (cham) = warm"
+        meaning: "pillar/column"
+    synthesis: >
+      Vertebrae as the pillar — the structural column that holds the
+      body upright. The pillar is a consistent correspondence across
+      traditions for structural support and the axis of ascent/descent.
+    confidence: moderate
+
+  - name: "Dearcho"
+    body_part: "throat"
+    roots:
+      - language: Greek
+        root: "δι- (di-) = two/through + ἀρχή (archē) = origin/rule"
+        meaning: "dual-rule / through-the-origin"
+    synthesis: >
+      The throat as the point of bifurcation — where the single passage
+      divides into respiratory (air/intellectual) and digestive (food/
+      volitional) paths. Dual rule: two principles govern from this
+      point downward.
+    confidence: moderate
+
+  - name: "Tebar"
+    body_part: "right shoulder"
+    roots:
+      - language: Hebrew/Aramaic
+        root: "possibly from תבר (tebar) = to break/bear"
+        meaning: "bearer/breaker"
+    synthesis: >
+      The right shoulder as the bearer — what carries the load. The
+      right (intellectual) side bears truth as burden and responsibility.
+    confidence: moderate
+
+  - name: "Mniarcon"
+    body_part: "right elbow"
+    roots:
+      - language: Greek
+        root: "μνεία (mneia) = remembrance + ἀρχών (archōn) = ruler"
+        meaning: "ruler of memory"
+    synthesis: >
+      The elbow as the joint that enables the arm's work — what gives
+      the arm its flexibility and range. Memory rules over the capacity
+      to act (the arm) because all skilled action depends on accumulated
+      experience.
+    confidence: moderate
+
+  - name: "Abitrion"
+    body_part: "right underarm"
+    roots:
+      - language: Greek
+        root: "possibly ἀβίτριον — unclear; or compound with τρίβω (tribō) = to rub/wear"
+        meaning: "uncertain"
+    confidence: opaque
+
+  - name: "Evanthen"
+    body_part: "left underarm"
+    roots:
+      - language: Greek
+        root: "εὐ- (eu-) = good/well + ἄνθος (anthos) = flower"
+        meaning: "good-flower / well-blooming"
+    synthesis: >
+      The left (will/love) underarm as the place where good flowers —
+      the protective space close to the body where what is precious is
+      held. Tentative.
+    confidence: tentative
+
+  - name: "Krys"
+    body_part: "right hand"
+    roots:
+      - language: Greek
+        root: "κρύπτω (kryptō) = to hide; or χρύσος (chrysos) = gold; or χρή (chrē) = it is necessary"
+        meaning: "hidden / golden / necessary"
+    synthesis: >
+      The right hand as what acts from necessity or what works with
+      what is precious (gold = good in correspondence). The right hand
+      does what must be done. If from kryptō: the hand conceals what
+      it holds — action that hides its source.
+    confidence: tentative
+
+  - name: "Beluai"
+    body_part: "left hand"
+    roots:
+      - language: Hebrew
+        root: "possibly from בלע (bala) = to swallow/enclose"
+        meaning: "encloser"
+    synthesis: >
+      The left hand as what encloses and holds — the will's grasp.
+      The left (love/will) hand is the receiving and holding hand.
+    confidence: tentative
+
+  - name: "Treneu"
+    body_part: "fingers of right hand"
+    roots:
+      - language: Greek
+        root: "possibly τρεῖς (treis) = three + νέος (neos) = new"
+        meaning: "three-new / renewal in three"
+    confidence: tentative
+
+  - name: "Balbel"
+    body_part: "fingers of left hand"
+    roots:
+      - language: Hebrew
+        root: "בלבל (balbel) = to confuse/mix (cf. Babel)"
+        meaning: "confusion/mixing"
+    synthesis: >
+      The left-hand fingers as what mixes and blends — the will's
+      capacity to combine, interweave, create composite things.
+      Babel = mixing of languages; fingers mix materials. Interesting
+      if deliberate: the WILL's digits operate by combining, while
+      the UNDERSTANDING's digits (Treneu) operate by articulating.
+    confidence: moderate
+
+  - name: "Kriman"
+    body_part: "nails of hands"
+    roots:
+      - language: Greek
+        root: "κρίμα (krima) = judgment"
+        meaning: "judgment"
+    synthesis: >
+      Nails as the ULTIMATE extension of the hand — the extreme
+      endpoint. Judgment is what is final and decisive. The nails
+      are the terminal point where action has its sharpest, most
+      definite effect. Judgment (krima) as the cutting edge.
+    confidence: strong
+
+  - name: "Astrops"
+    body_part: "right breast"
+    roots:
+      - language: Greek
+        root: "ἄστρον (astron) = star + ὄψ (ops) = face/sight"
+        meaning: "star-face / star-sight"
+    synthesis: >
+      The right breast as the star-facing surface — the exterior of
+      the chest that faces the light. The breast shields the heart
+      (which is interior); the star-face is what meets the world.
+      Right = the truth/intellectual side of this shielding function.
+    confidence: moderate
+
+  - name: "Barroph"
+    body_part: "left breast"
+    roots:
+      - language: Hebrew/Greek
+        root: "possibly from ברך (barakh) = to bless; or βαρύς (barys) = heavy"
+        meaning: "blessed / weighty"
+    synthesis: >
+      The left breast as what is blessed or weighty — the love/will
+      side of the chest. The left breast shelters the heart. If from
+      barakh: the blessed covering. If from barys: weight of love.
+    confidence: tentative
+
+  - name: "Baoum"
+    body_part: "right shoulder joint"
+    roots:
+      - language: uncertain
+        root: "possibly from βαίνω (bainō) = to go/walk"
+        meaning: "the mover"
+    synthesis: >
+      The shoulder joint as the pivot that enables the arm to move —
+      the mover of the working limb.
+    confidence: tentative
+
+  - name: "Ararim"
+    body_part: "left shoulder joint"
+    roots:
+      - language: Hebrew
+        root: "possibly from ערר (arar) = to strip bare; or הרר (harar) = mountain"
+        meaning: "stripped bare / mountainous"
+    confidence: tentative
+
+  - name: "Areche"
+    body_part: "belly"
+    roots:
+      - language: Greek
+        root: "ἀρχή (archē) = origin, beginning, first principle"
+        meaning: "the origin"
+    synthesis: >
+      The belly as the ORIGIN — where food is transformed into the
+      substance of the body. The belly is the beginning of material
+      life; all bodily substance passes through this origin-point.
+      ArchE as first principle: the belly is where the raw material
+      is first processed.
+    confidence: strong
+
+  - name: "Phthave"
+    body_part: "navel"
+    roots:
+      - language: Greek
+        root: "φθάνω (phthanō) = to come before, to anticipate"
+        meaning: "the one who came before"
+    synthesis: >
+      The navel as the mark of what came before — the connection to
+      the mother, to origin, to the pre-birth state. The navel IS
+      the trace of prior connection. "The one who came before" =
+      the sign that the person was once connected to a source of life
+      outside itself.
+    confidence: strong
+
+  - name: "Senaphim"
+    body_part: "abdomen"
+    roots:
+      - language: Hebrew
+        root: "שרפים (seraphim) = fiery ones / burning ones"
+        meaning: "the burning ones"
+    synthesis: >
+      The abdomen as the furnace — the place of the burning/digestive
+      fire. The seraphim in Isaiah stand before God burning with love;
+      at the bodily degree, the same burning principle operates as
+      digestive fire that transforms food into life. The spiritual
+      principle (fiery love) appears as digestion at the natural
+      degree. This is NOT "named after" the seraphim — the digestive
+      fire and the seraphic fire are the same principle at different
+      degrees.
+    confidence: strong
+
+  - name: "Arachethopi"
+    body_part: "right ribs"
+    roots:
+      - language: Greek
+        root: "possibly ἀράχνη (arachnē) = spider/web + τόπος (topos) = place"
+        meaning: "place of the web"
+    synthesis: >
+      Ribs as the woven protective cage — the web-place that encloses
+      and protects the vital organs. The rib cage IS a structural web.
+    confidence: moderate
+
+  - name: "Zabedo"
+    body_part: "left ribs"
+    roots:
+      - language: Hebrew
+        root: "possibly from זבד (zabad) = to bestow/gift"
+        meaning: "gift/bestowed"
+    synthesis: >
+      The left (will/love) ribs as what is bestowed — the protective
+      structure given as a gift to shelter the heart. In Genesis,
+      Eve is created from Adam's side/rib — bestowed.
+    confidence: tentative
+
+  - name: "Barias"
+    body_part: "right hip"
+    roots:
+      - language: Greek
+        root: "βάρος (baros) = weight"
+        meaning: "weight/heaviness"
+    synthesis: >
+      The hip as the weight-bearing joint — what carries the body's
+      entire load above it. The hip IS the heaviness-point.
+    confidence: moderate
+
+  - name: "Abenlenarchei"
+    body_part: "marrow"
+    roots:
+      - language: Greek/Hebrew
+        root: "compound: possibly אבן (eben) = stone + ἀρχή (archē) = origin"
+        meaning: "stone of the origin / the origin within the stone"
+    synthesis: >
+      Marrow as the origin hidden within the bone (stone). Bone is
+      the hardest, most structural (stone-like) substance; marrow
+      is the generative life WITHIN it. The origin (archē) lives
+      inside the stone (eben). This names the innermost generative
+      principle concealed within the most solid exterior.
+    confidence: moderate
+
+  - name: "Chnoumeninorin"
+    body_part: "bones"
+    roots:
+      - language: Egyptian/Greek
+        root: "Khnum (Egyptian structural-formation principle) + νόμος (nomos) = law + ῥίν (rhin) = nose/breath"
+        meaning: "the law of structural formation through breath"
+    synthesis: >
+      Bones as the structural framework formed by the principle that
+      Egyptians perceived as the ram-headed potter-god Khnum. But the
+      spiritual principle is NOT named after the deity — the deity
+      IS that principle perceived at the mythological-cultural degree
+      (downward/fallen perception). At the spiritual level: the
+      structural-formation principle. At the Egyptian cultural level:
+      Khnum. At the correspondential level: Chnoumeninorin. Same
+      reality, different degrees of reception.
+    confidence: strong
+
+  - name: "Gesole"
+    body_part: "stomach"
+    roots:
+      - language: Greek
+        root: "γᾶ (gē) = earth + σωλήν (sōlēn) = pipe/channel"
+        meaning: "earth-channel"
+    synthesis: >
+      The stomach as the channel of earth-substance — where material
+      (earth) is received and processed. The stomach is literally the
+      earth-pipe: it takes in earthly substance and transmutes it.
+    confidence: moderate
+
+  - name: "Agromauna"
+    body_part: "heart"
+    roots:
+      - language: Greek
+        root: "ἀγρός (agros) = field + μαῦνα (possibly μονή, monē) = dwelling"
+        meaning: "field-dwelling / the dwelling in the field"
+    synthesis: >
+      The heart as the dwelling place in the field of the body — the
+      center from which the whole field receives its life. The heart
+      DWELLS at the center. If monē (dwelling/abiding): the permanent
+      residence of life within the body.
+    confidence: moderate
+
+  - name: "Bano"
+    body_part: "lungs"
+    roots:
+      - language: Greek/Hebrew
+        root: "possibly from πνέω (pneō) = to breathe; or בנה (banah) = to build"
+        meaning: "breather / builder"
+    synthesis: >
+      The lungs as the breath-organs — what builds the body through
+      the continuous reception of air (spirit). Breath/spirit (πνεῦμα)
+      enters through the lungs. The lungs BUILD the body by sustaining
+      its connection to the atmosphere (spirit).
+    confidence: moderate
+
+  - name: "Sostrapal"
+    body_part: "liver"
+    roots:
+      - language: Greek
+        root: "σῶς (sōs) = safe/whole + τράπεζα (trapeza) = table"
+        meaning: "table of safety / the saving table"
+    synthesis: >
+      The liver as the table of safety — the organ that filters and
+      purifies the blood, making it safe. In ancient divination
+      (hepatoscopy), the liver was literally read as a table of signs.
+      The liver IS the table where the body's safety is ensured through
+      purification of blood-substance.
+    confidence: moderate
+
+  - name: "Anesimalar"
+    body_part: "spleen"
+    roots:
+      - language: Greek
+        root: "possibly ἀνείσιμος (aneisimos) = permitted + μαλαρός = soft"
+        meaning: "soft-permitter"
+    synthesis: >
+      The spleen as the organ of soft regulation — what permits or
+      filters what enters the blood system. Immune filtering function.
+    confidence: tentative
+
+  - name: "Thopithro"
+    body_part: "intestines"
+    roots:
+      - language: Greek
+        root: "possibly θοός (thoos) = swift + πίθος (pithos) = jar/vessel"
+        meaning: "swift vessel"
+    synthesis: >
+      The intestines as the swift vessel through which substance passes
+      — the moving container that processes and separates nourishment
+      from waste en route.
+    confidence: tentative
+
+  - name: "Biblo"
+    body_part: "kidneys"
+    roots:
+      - language: Greek
+        root: "βίβλος (biblos) = book, scroll"
+        meaning: "the book"
+    synthesis: >
+      The kidneys as the book of inner judgment. In Hebrew tradition,
+      the kidneys (כליות, kelayot) are the seat of conscience and
+      deep moral evaluation — the organs that "test" and "counsel"
+      (Psalm 16:7, "my kidneys instruct me in the night"). The
+      kidney-angel named "Book" suggests the kidneys ARE the body's
+      record of moral judgment — the inner book.
+    confidence: strong
+
+  - name: "Roeror"
+    body_part: "sinews"
+    roots:
+      - language: uncertain
+        root: "possibly reduplicated form of ῥέω (rheō) = to flow"
+        meaning: "the flowing-flowing"
+    synthesis: >
+      Sinews (tendons/ligaments) as what flows from joint to joint,
+      connecting and binding the skeletal structure into an operative
+      unity. Reduplication suggests continuous/intensive flowing.
+    confidence: tentative
+
+  - name: "Taphreo"
+    body_part: "spine"
+    roots:
+      - language: Greek
+        root: "τάφρος (taphros) = trench/channel + ῥέω (rheō) = to flow"
+        meaning: "flowing trench / the channel that flows"
+    synthesis: >
+      The spine as the central channel through which the spinal fluid
+      flows — the main trench/conduit of the body. The spine IS the
+      great channel connecting head to base.
+    confidence: moderate
+
+  - name: "Ipouspoboba"
+    body_part: "veins"
+    roots:
+      - language: Greek
+        root: "possibly ὑπό (hypo) = under + σπονδή (spondē) = libation"
+        meaning: "under-libation / the pouring beneath"
+    synthesis: >
+      Veins as the channels that carry the blood's return — the
+      libation poured below the surface. Blood returning to the
+      heart = libation returning to the altar.
+    confidence: tentative
+
+  - name: "Bineborin"
+    body_part: "arteries"
+    roots:
+      - language: uncertain
+        root: "possibly from βία (bia) = force + φέρω (pherō) = to carry"
+        meaning: "force-carrier"
+    synthesis: >
+      Arteries as what carries the force of the heartbeat — the
+      pulsing channels that distribute vital force. The arteries
+      literally carry the heart's force to the extremities.
+    confidence: moderate
+
+  - name: "Atoimenpsephei"
+    body_part: "breaths in all limbs"
+    roots:
+      - language: Greek
+        root: "ἀτμός (atmos) = vapor/breath + μέν (men) = indeed + ψῆφος (psephos) = pebble/reckoning"
+        meaning: "breath-reckoner / the one who counts every breath"
+    synthesis: >
+      The angel who governs the breathing in every limb — not just
+      the lungs but the respiration of every cell. The "reckoning"
+      component (psephos) means each breath is counted, accounted for.
+      Every limb has its own breath, and this angel accounts for all.
+    confidence: strong
+
+  - name: "Entholleia"
+    body_part: "all flesh"
+    roots:
+      - language: Greek
+        root: "ἐν (en) = in + ὅλος (holos) = whole + λεία (leia) = smooth/plunder"
+        meaning: "in-the-whole / the entirety within"
+    synthesis: >
+      Flesh as the whole interior substance — what fills the entire
+      form. Flesh IS the wholeness made visible.
+    confidence: moderate
+
+  - name: "Eilo"
+    body_part: "testicles"
+    roots:
+      - language: Greek
+        root: "εἰλέω (eileō) = to roll up, to compress"
+        meaning: "the compressed/rolled ones"
+    synthesis: >
+      Testicles as where generative substance is compressed/concentrated
+      — potential life rolled into its most compact form.
+    confidence: moderate
+
+  - name: "Sorma"
+    body_part: "genitals"
+    roots:
+      - language: Greek
+        root: "σῶμα (sōma) = body"
+        meaning: "body"
+    synthesis: >
+      The generative organs named "body" — the body-maker. The genitals
+      ARE the organ that produces bodies. The name encodes the function
+      with perfect precision.
+    confidence: strong
+
+  - name: "Gorma-Kaiochlabar"
+    body_part: "right thigh"
+    roots:
+      - language: mixed
+        root: "possibly γόρμος = bolt/pin + καίω (kaiō) = to burn + χλαβαρός = ??"
+        meaning: "uncertain compound"
+    synthesis: >
+      The thigh as the great supporting bolt of the body. Burning
+      component may relate to the muscular heat generated in the
+      thigh — the largest muscle group, producing the most warmth.
+    confidence: tentative
+
+  - name: "Nebrith"
+    body_part: "left thigh"
+    roots:
+      - language: Greek
+        root: "νεβρός (nebros) = fawn/young deer"
+        meaning: "the fawn"
+    synthesis: >
+      The left thigh as the fawn — what leaps and runs. The thigh's
+      primary function is locomotion. The fawn IS the movement-
+      principle at the animal degree: pure movement, agility, flight.
+    confidence: moderate
+
+  - name: "Asaklas"
+    body_part: "left kidney"
+    roots:
+      - language: Greek/Coptic
+        root: "Saklas (Coptic from Aramaic סכלא = fool)"
+        meaning: "the foolish one"
+    synthesis: >
+      Saklas is a well-known name for the Demiurge in Sethian texts —
+      "the fool." The left kidney assigned to "the fool" may reflect
+      the kidney's function of filtering waste (folly = spiritual waste)
+      from the blood. The left (will) side: the kidney that filters
+      out what the will has rejected.
+    confidence: moderate
+
+  - name: "Ormaoth"
+    body_part: "right leg"
+    roots:
+      - language: Hebrew
+        root: "possibly from ארם (aram) = high + מות (mōt) = death"
+        meaning: "exalted death / height of death"
+    synthesis: >
+      The leg that steps forward — each step is a small fall
+      (trust in the ground). Walking IS a controlled falling, a
+      repeated dying-to-position in order to advance.
+    confidence: tentative
+
+  - name: "Knyx"
+    body_part: "right shin-bone"
+    roots:
+      - language: Greek
+        root: "κνήμη (knēmē) = shin"
+        meaning: "shin"
+    synthesis: >
+      Like Meniggesstroeth (brain/meninges), the angel name IS the
+      anatomical term — the spiritual power named for its own natural
+      expression. Direct correspondence.
+    confidence: strong
+
+  - name: "Achiel"
+    body_part: "right knee"
+    roots:
+      - language: Hebrew
+        root: "אחי-אל (Achi-El) = my brother is God / brother of God"
+        meaning: "brother of God"
+    synthesis: >
+      The knee that bends in worship — acknowledging divine kinship.
+      Kneeling IS the body's gesture of recognizing that one is
+      brother/kin to the divine. The right knee (truth/intellectual
+      side): the knee that bends in recognition of truth.
+    confidence: strong
+
+  - name: "Phnene"
+    body_part: "left knee"
+    roots:
+      - language: uncertain
+        root: "possibly from φαίνω (phainō) = to show/appear"
+        meaning: "the appearing one"
+    synthesis: >
+      The left (will/love) knee: kneeling as appearing before — making
+      oneself visible in humility. Kneeling exposes; it makes one
+      appear (phainō) as vulnerable.
+    confidence: tentative
+
+  - name: "Phiouthrom"
+    body_part: "right foot"
+    roots:
+      - language: Greek
+        root: "possibly φιλέω (phileō) = to love + τρόμος (tromos) = trembling"
+        meaning: "love-trembling / trembling with love"
+    synthesis: >
+      The right foot as the place where the body trembles at contact
+      with earth — the extremity where the person meets the ground.
+      If the root is love + trembling: the right foot's step is an
+      act of love toward what is below (the natural world).
+    confidence: tentative
+
+  - name: "Boabel"
+    body_part: "toes of right foot"
+    roots:
+      - language: Hebrew
+        root: "possibly from בא (bo) = to come + אל (El) = God"
+        meaning: "God comes / the coming of God"
+    synthesis: >
+      The toes as the very extremity where God-coming reaches its
+      most ultimate expression — the most distant point from the head,
+      yet even here the divine arrives. Influx reaches all the way
+      to the toes.
+    confidence: moderate
+
+  - name: "Trachoun"
+    body_part: "left foot"
+    roots:
+      - language: Greek
+        root: "τραχύς (trachys) = rough, rugged"
+        meaning: "the rough one"
+    synthesis: >
+      The left foot as what meets rough ground — the will's contact
+      with the resistant natural world. Walking on rough terrain.
+    confidence: moderate
+
+  - name: "Miamai"
+    body_part: "nails of feet"
+    roots:
+      - language: Greek
+        root: "possibly μίμημα (mimēma) = imitation, copy"
+        meaning: "the copy/imitation"
+    synthesis: >
+      Toenails as the ultimate copy — the most distant expression,
+      the last correspondence at the extreme of the body. Nails
+      imitate the form above them (fingers→toes) at the lowest point.
+    confidence: tentative
+
+# =============================================================================
+# SECTION 2: OVERSEEING RULERS OF BODY REGIONS (second list)
+# =============================================================================
+
+regional_overseers:
+
+  - name: "Diolimodraza"
+    body_region: "head"
+    roots:
+      - language: Greek
+        root: "possibly Δίος (Dios) = of Zeus/divine + λῖμος (limos) = hunger + δράζω (drazō) = to grasp"
+        meaning: "divine-hunger-grasper"
+    synthesis: >
+      The head as the seat of divine hunger — the mind's appetite for
+      truth. The head grasps what it hungers for.
+    confidence: tentative
+
+  - name: "Yammeax"
+    body_region: "neck"
+    roots:
+      - language: Hebrew
+        root: "ים (yam) = sea + מאך (?)"
+        meaning: "sea-related?"
+    synthesis: >
+      The neck as the narrow passage between head and body — as a
+      strait connects to the sea. Tentative.
+    confidence: tentative
+
+  - name: "Yakouib"
+    body_region: "right shoulder"
+    roots:
+      - language: Hebrew
+        root: "יעקב (Ya'aqov) = Jacob"
+        meaning: "the one who grasps the heel / the wrestler"
+    synthesis: >
+      Jacob = the one who wrestles, who grasps, who bears. The right
+      shoulder bears the weight and wrestles against what opposes. Jacob
+      wrestled the angel at the Jabbok — the shoulder that contends with
+      the divine. Profound: Jacob's story IS the correspondence for what
+      the shoulder does.
+    confidence: strong
+
+  - name: "Pisandriaptes"
+    body_region: "chest"
+    roots:
+      - language: Greek
+        root: "πιστός (pistos) = faithful + ἀνδρ- (andr-) = man + ἅπτω (haptō) = to touch"
+        meaning: "faithful-man-toucher / the touching of the faithful man"
+    synthesis: >
+      The chest as the place where faithfulness touches the person —
+      where interior commitment (faith) makes contact with the exterior
+      world. The heart within the chest is the seat of fidelity.
+    confidence: moderate
+
+  - name: "Bathinoth"
+    body_region: "all genitals"
+    roots:
+      - language: Greek/Hebrew
+        root: "βάθος (bathos) = depth + possibly נוח (noach) = rest"
+        meaning: "depth of rest"
+    synthesis: >
+      The generative organs as the DEPTH where creation rests in
+      potential — the deepest function awaiting activation.
+    confidence: tentative
+
+  - name: "Aroer"
+    body_region: "right shin-bone"
+    roots:
+      - language: Hebrew
+        root: "ערער (Aroer) = a known biblical place name meaning 'ruins' or 'juniper'"
+        meaning: "stripped bare / exposed"
+    synthesis: >
+      The shin as the exposed bone — the least protected, most
+      vulnerable part of the leg. Aroer = ruins, what is laid bare.
+    confidence: moderate
+
+# =============================================================================
+# SECTION 3: RULERS OF SENSES AND FACULTIES
+# =============================================================================
+
+faculty_rulers:
+
+  - name: "Archendekta"
+    faculty: "the senses"
+    roots:
+      - language: Greek
+        root: "ἀρχή (archē) = ruler + ἐν (en) = in + δέκτης (dektēs) = receiver"
+        meaning: "chief-in-receiver / ruler of the reception faculty"
+    synthesis: >
+      The senses as the chief receiving apparatus — the primary
+      instrument through which the world enters the person. The ruler
+      of the senses is the ruler of reception itself.
+    confidence: strong
+
+  - name: "Deitharbathas"
+    faculty: "receptions"
+    roots:
+      - language: Greek
+        root: "possibly δεῖ (dei) = it is necessary + θαρβέω (tharbeō) = to be amazed"
+        meaning: "necessary amazement"
+    synthesis: >
+      Reception as necessary amazement — to receive the world properly
+      requires wonder. The faculty of reception is grounded in the
+      capacity to be amazed.
+    confidence: tentative
+
+  - name: "Oummaa"
+    faculty: "imagination"
+    roots:
+      - language: Coptic/Egyptian
+        root: "possibly from Egyptian wḥm = to repeat/reflect"
+        meaning: "reflector / repeater"
+    synthesis: >
+      Imagination as the faculty that REFLECTS — repeats in inner form
+      what was received from outside. The image-making capacity is a
+      reflection-organ.
+    confidence: tentative
+
+  - name: "Aachiaram"
+    faculty: "composition"
+    roots:
+      - language: Greek/Hebrew
+        root: "possibly from achi (Hebrew: brother) + aram (height)"
+        meaning: "brother of the height"
+    synthesis: >
+      Composition — the faculty that assembles parts into wholes — as
+      the brother of height. To compose is to elevate fragments into
+      a higher unity.
+    confidence: tentative
+
+  - name: "Riaramnacho"
+    faculty: "the whole impulse"
+    roots:
+      - language: mixed
+        root: "uncertain; possibly contains aram + nachos"
+        meaning: "uncertain"
+    confidence: opaque
+
+# =============================================================================
+# SECTION 4: RULERS OF THE FOUR ELEMENTS = THE SPIRITUAL COMPASS
+# =============================================================================
+#
+# These four are NOT merely material properties (temperature, humidity).
+# They ARE the four cardinal directions of the spiritual world — the
+# same compass Swedenborg maps in Heaven and Hell:
+#
+#   EAST  = Heat  (love/good, the Lord as Sun)
+#   WEST  = Cold  (diminished love, distance from the source)
+#   SOUTH = Wet   (truth in full light, flowing uninterrupted)
+#   NORTH = Dry   (truth absent/obscure, the desert of ignorance)
+#
+# The "mother" of these four, Onorthochrasaei, "stands in their midst
+# since she is illimitable, and she mixes with all of them. And she is
+# truly matter." MATTER IS THE CENTER where all four directions meet.
+# The material body exists at the crossroads of all four spiritual
+# orientations.
+#
+# The body does not merely HAVE heat, cold, dryness, and wetness as
+# material properties — it is POSITIONED within the four cardinal
+# directions of the spiritual world. These rulers describe the body's
+# orientation, not its chemistry.
+
+elemental_rulers:
+
+  - name: "Phloxopha"
+    element: "heat"
+    compass: "EAST"
+    roots:
+      - language: Greek
+        root: "φλόξ (phlox) = flame + σοφία (sophia) = wisdom"
+        meaning: "flame-wisdom / the wisdom of fire"
+    synthesis: >
+      EAST = the Lord as Sun = the source of love. The angel of heat
+      is named Flame-Wisdom: the fire of love IS wisdom at its source.
+      Phloxopha governs the body's warmth, which is not mere temperature
+      but the natural expression of the divine fire of love operating
+      in ultimates. The name itself encodes the East — where love (flame)
+      and wisdom (sophia) are one.
+    confidence: strong
+
+  - name: "Oroorrothos"
+    element: "cold"
+    compass: "WEST"
+    roots:
+      - language: Greek
+        root: "reduplicated ὄρος (oros) = boundary/limit + ῥόθος (rothos) = rushing"
+        meaning: "boundary upon boundary of rushing"
+      - language: Greek
+        root: "ὀρρωδέω (orrōdeō) = to dread, to shrink back"
+        meaning: "the shrinking-back"
+    synthesis: >
+      WEST = where the Sun sets, where love withdraws, where the rush
+      of life contracts. The reduplicated form IS the definition: oros-
+      oros-rothos = boundary repeating upon boundary, with the rush of
+      life constrained within them. The West is where the East's
+      outward fire meets limit after limit. If the orrōdeō root is
+      present: "the shrinking-back rushing" — energy that retreats.
+      Both readings converge: the West is the direction of withdrawal,
+      contraction, and cooling. Not evil — the necessary opposite pole
+      to the East's fire. When the ruling love (East) is good, the
+      West is positive natural expression; when East is self-love,
+      the West becomes spiritual coldness.
+    confidence: moderate
+
+  - name: "Erimacho"
+    element: "dryness"
+    compass: "NORTH"
+    roots:
+      - language: Greek
+        root: "ἔρημος (erēmos) = desert/abandoned/desolate + μάχη (machē) = battle/struggle"
+        meaning: "desert-battle / the battleground of desolation"
+    synthesis: >
+      NORTH = truth in obscurity, where understanding is dim and
+      truth is scarce. Dryness = absence of water = absence of truth.
+      The desert is the landscape of spiritual ignorance — where truth
+      cannot be found, where the seeker struggles in darkness. The name
+      encodes the EXPERIENCE of the North: ἔρημος (abandoned/desolate)
+      + μάχη (battle) = the struggle that occurs when truth has
+      withdrawn. The North is the desert where you fight to find what
+      the South receives freely. Not evil — the necessary condition
+      where faith must carry what sight cannot yet confirm.
+    confidence: strong
+
+  - name: "Athuro"
+    element: "wetness"
+    compass: "SOUTH"
+    roots:
+      - language: Egyptian
+        root: "Hathor (Ḥwt-Ḥr) = 'House of Horus' = the house where the light-principle dwells"
+        meaning: "the house of light"
+    synthesis: >
+      SOUTH = truth in full light, flowing uninterrupted. Water =
+      truth; wetness = truth abundant. The South is where truth pours
+      in without obstruction — the noon Sun of understanding. The
+      Egyptian etymology is precise: Ḥwt (house) + Ḥr (Horus, the
+      light-principle). The South IS the house where light is AT HOME
+      — fully present, fully flowing, nourishing everything it
+      reaches. Truth at its fullest is wet: it irrigates, sustains,
+      brings every living thing to bloom. The deity Hathor perceived
+      at the Egyptian cultural degree is NOT the source — the
+      principle of truth-fully-present-and-flowing exists at the
+      spiritual level; both are the same reality at different degrees.
+      The nourishing quality of Hathor IS the nourishing quality of
+      unobstructed truth.
+    confidence: moderate
+
+  - name: "Onorthochrasaei"
+    element: "mother of the four / matter"
+    compass: "CENTER"
+    roots:
+      - language: Greek
+        root: "ὀρθο- (ortho-) = straight/correct + χράω (chraō) = to give oracles; or χράομαι (chraomai) = to use/mix"
+        meaning: "the straight-mixing one / the one of correct use"
+    synthesis: >
+      THE CENTER. "She stands in their midst since she is illimitable,
+      and she mixes with all of them. And she is truly matter." If
+      ortho- + chraomai: matter is what MIXES all four directions into
+      a single correct (ortho) form — the straight blending of East,
+      West, South, North into ultimate expression. She makes the
+      mixture UPRIGHT — correct, balanced. The material body sits at
+      the crossroads. She "mixes with all" because every material
+      thing participates in all four directions simultaneously in
+      varying proportions. She is "illimitable" because no point in
+      the material world escapes this intersection. If chraō (oracle):
+      matter is where the four directions SPEAK — where the spiritual
+      compass becomes legible in natural form.
+    confidence: moderate
+
+# =============================================================================
+# SECTION 5: RULERS OF THE FOUR PASSIONS
+# =============================================================================
+
+passion_rulers:
+
+  - name: "Ephememphi"
+    passion: "pleasure"
+    roots:
+      - language: Greek
+        root: "ἐφήμερος (ephēmeros) = ephemeral/daily + ἔμφασις (emphasis) = appearance"
+        meaning: "daily appearance / the ephemeral showing"
+    synthesis: >
+      Pleasure as the EPHEMERAL — what appears for a day and vanishes.
+      The name encodes the transience of pleasure. The pleasure-demon
+      is literally called "the-thing-that-lasts-a-day."
+    confidence: strong
+
+  - name: "Yoko"
+    passion: "desire"
+    roots:
+      - language: uncertain
+        root: "possibly from ζυγός (zygos) = yoke"
+        meaning: "the yoke"
+    synthesis: >
+      Desire as what yokes — what binds and harnesses. To desire is to
+      be harnessed to the object. The yoke IS desire at the functional
+      level.
+    confidence: moderate
+
+  - name: "Nenentophni"
+    passion: "grief"
+    roots:
+      - language: uncertain
+        root: "possibly contains νέκυς (nekys) = corpse + τόφος (tophos) = tomb"
+        meaning: "corpse-tomb"
+    synthesis: >
+      Grief as the death-experience — the interior tomb where something
+      alive has been buried. Grief IS the lived experience of interior
+      death.
+    confidence: tentative
+
+  - name: "Blaomen"
+    passion: "fear"
+    roots:
+      - language: Greek
+        root: "βλάπτω (blaptō) = to harm + μένος (menos) = spirit/force"
+        meaning: "harm-spirit / the spirit of damage"
+    synthesis: >
+      Fear as the anticipation of harm to one's spirit — not mere
+      physical danger but the threat of damage to what animates.
+      Fear IS the perception of approaching spiritual harm.
+    confidence: moderate
+
+  - name: "Aesthesis-Ouch-Epi-Ptoe"
+    passion: "mother of all passions"
+    roots:
+      - language: Greek (compound)
+        root: >
+          αἴσθησις (aisthēsis) = sensation/perception
+          + οὐχ (ouch) = not
+          + ἐπί (epi) = upon
+          + πτόη (ptoē) = alarm/fright
+        meaning: "sensation-not-upon-alarm"
+    synthesis: >
+      The MOTHER of all four passions is NEUTRAL SENSATION prior to its
+      polarization. "Sensation not upon alarm" = perception before it
+      has been activated by any of the four passion-triggers. This is
+      the undifferentiated perceptual field from which pleasure, desire,
+      grief, and fear emerge as four specializations. The name is a
+      complete philosophical definition compressed into angel-name form.
+      This is the most sophisticated name in the entire list — a Greek
+      compound that is simultaneously a taxonomy and a correspondence.
+    confidence: strong
+
+# =============================================================================
+# SECTION 6: HEAD OF THE MATERIAL SOUL
+# =============================================================================
+
+material_soul_head:
+
+  - name: "Anaro"
+    faculty: "insight into the true character of passions"
+    roots:
+      - language: Greek
+        root: "ἀνά (ana) = up/back + ὁράω (horaō) = to see"
+        meaning: "the one who sees back / the one who looks up"
+    synthesis: >
+      Insight (the capacity to see the true nature of passions) is
+      named "seeing-back" or "seeing-upward." To see truly IS to look
+      back toward the source — to see the correspondence rather than
+      only the surface. Anaro is the faculty of CORRESPONDENTIAL
+      PERCEPTION: seeing the spiritual reality behind/above the
+      natural appearance.
+    confidence: strong
+
+# =============================================================================
+# SUMMARY
+# =============================================================================
+#
+# Confidence distribution across all translated names:
+#   strong:    ~20 names (clear roots, precise semantic fit)
+#   moderate:  ~20 names (probable roots, plausible fit)
+#   tentative: ~18 names (possible roots, speculative)
+#   opaque:    ~4 names (no clear decomposition)
+#
+# Languages represented: Greek (dominant), Hebrew/Aramaic, Egyptian, mixed
+#
+# Key patterns discovered:
+#
+# 1. ANATOMICAL SELF-NAMING: Some angels are simply named with the anatomical
+#    term (Meniggesstroeth = meninges, Knyx = knēmē/shin). The spiritual
+#    power IS the natural form — the name confirms the correspondence.
+#
+# 2. FUNCTIONAL NAMING: Most names encode the FUNCTION of the body part at
+#    the spiritual degree — not what it looks like, but what it DOES
+#    (Asterechme = star-holder for the eye, Biblo = book for the kidneys).
+#
+# 3. DEITY COGNATES: Where a name shares a root with a deity (Chnoumeninorin/
+#    Khnum, Athuro/Hathor), the relationship is not derivation but shared
+#    correspondence — the deity and the angel both express the same spiritual
+#    principle at different degrees. The deity is the principle perceived
+#    through mythological/fallen cognition; the angel name is the principle
+#    encoded in correspondential form.
+#
+# 4. GREEK PHILOSOPHICAL COMPOUNDS: The passion-rulers and their mother
+#    (Aesthesis-Ouch-Epi-Ptoe) are Greek philosophical definitions in
+#    angel-name dress — evidence of a community thinking in Greek
+#    philosophical categories while encoding in correspondential form.
+#
+# 5. HEBREW THEOPHORIC NAMES: Several names contain אל (El) = God
+#    (Achiel, Boabel), encoding the divine presence at each body part.
+#
+# 6. MULTILINGUAL CONVERGENCE: The list moves fluidly between Greek,
+#    Hebrew, and Egyptian roots — evidence of a scholarly community
+#    operating at the intersection of these traditions, consistent with
+#    the claim of direct access to the "book of Zoroaster" (AJ-009).
+#
+# 7. GRAND MAN CARTOGRAPHY: The entire list is a MAP OF THE SPIRITUAL
+#    WORLD — each angel is a spiritual community, each community sustains
+#    a body part, and their interrelation mirrors the relational structure
+#    of heaven. This is Swedenborg's Maximus Homo (HH §§59-102) encoded
+#    in angel-name form from a pre-Christian tradition that had direct
+#    access to the same knowledge. The convergence is not borrowing — it
+#    is independent observation of the same structure.
