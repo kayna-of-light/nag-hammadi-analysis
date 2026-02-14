@@ -61,13 +61,25 @@ the printed book actually says, removing only artifacts of the PDF-to-text extra
 
 5. **Bare page numbers**: Remove standalone page numbers that appear between paragraphs.
 
-6. **Italic "of" artifacts**: The PDF sometimes renders italic "of" as "o f" with a space. \
+6. **Embedded Coptic manuscript line numbers**: The critical edition prints small line numbers \
+   (1, 5, 10, 15, 20, 25, 30, 35) in the running text to mark line positions in the Coptic \
+   manuscript. These appear as bare numbers interrupting the English text, e.g. \
+   "Let him who seeks continue seeking until he 1 finds" or "said to him, 35 You are like a \
+   wise philosopher". REMOVE ALL of these embedded line numbers. They are typographic \
+   apparatus, not part of the translated text. Also remove Coptic manuscript page numbers \
+   that appear inline (e.g. "33", "34", "35" as standalone numbers marking manuscript page \
+   boundaries). The ONLY numbers to preserve are: saying numbers in texts like Gospel of Thomas \
+   (which you format as **(1)**, **(2)**, etc.), numbers that are part of the actual content \
+   ("five thousand years", "twelve aeons", "114 sayings"), and codex references in the \
+   header/introduction.
+
+7. **Italic "of" artifacts**: The PDF sometimes renders italic "of" as "o f" with a space. \
    Fix: "o f" → "of" (but only where this is clearly an artifact, not intentional spacing).
 
-7. **Quotation spacing**: The PDF sometimes adds a space after opening quotes or before \
+8. **Quotation spacing**: The PDF sometimes adds a space after opening quotes or before \
    closing quotes: '" word' → '"word'. Clean these up.
 
-8. **Excessive line breaks**: Collapse multiple blank lines to at most one blank line \
+9. **Excessive line breaks**: Collapse multiple blank lines to at most one blank line \
    between paragraphs.
 
 ## STRUCTURE TO PRODUCE
@@ -100,7 +112,8 @@ of the document. Format it with proper markdown to make it readable:
 - For texts with clear structural divisions (steles, chapters, sections), \
   use ### subheadings where the text itself signals them
 - Preserve ALL textual apparatus: lacuna markers [...], editorial insertions \
-  in (parentheses), manuscript page references, etc.
+  in (parentheses), alternative readings — but REMOVE embedded line numbers \
+  (bare numbers 1-35 interrupting the running text)
 - Make the text breathe — a reader should be able to sit down and read this \
   as a text, not parse a wall of undifferentiated prose]
 ```
@@ -110,7 +123,11 @@ of the document. Format it with proper markdown to make it readable:
 - **DO NOT alter the content of the translation.** Every word of the translated text \
   must be preserved exactly. You are only fixing extraction artifacts.
 - **DO NOT remove textual apparatus** — lacuna brackets [...], editorial notes in \
-  parentheses, manuscript page/line references — these are part of the scholarly edition.
+  parentheses, alternative readings (or: ...). BUT DO remove embedded line numbers \
+  (bare numbers 1-35 appearing in the running text) as described above.
+- **DO NOT confuse line numbers with content numbers** — "five thousand" stays, \
+  "the twelve aeons" stays, saying numbers stay. Only bare numbers that interrupt \
+  the flow of English text are line-number artifacts.
 - **DO NOT add commentary or interpretation.**
 - **DO NOT change British/American spelling variants** in the translation.
 - **DO preserve cross-references** to other tractates (e.g., "cf. Gos. Thom. 13").
