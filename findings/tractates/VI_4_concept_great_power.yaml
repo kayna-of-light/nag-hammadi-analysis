@@ -1,0 +1,58 @@
+tractate: "VI,4"
+title: "The Concept of Our Great Power"
+filename: "VI_4_concept_great_power.md"
+status: complete
+richness: moderate
+
+summary: >
+  An apocalyptic text describing three aeons (flesh, psychic, spiritual)
+  as discrete epochal degrees. Fire plays a dual role — judging AND
+  purifying — depending on what it encounters. "Holy garments which the
+  fire cannot touch" echo Zostrianos' "fire that cannot burn" at the
+  spiritual level. The three-aeon structure is the clearest temporal
+  application of discrete degrees in the NHL.
+
+findings:
+  - id: CGP-001
+    category: structural_principle
+    passage: >
+      "The aeon of the flesh... the psychic aeon... the spiritual aeon."
+    location: "VI 36-40"
+    finding: >
+      Three aeons as three discrete epochal degrees: fleshly (natural/
+      lowest), psychic (soul/intermediate), spiritual (highest). Each
+      aeon is not just a time period but a QUALITY of reality — the
+      entire cosmos operates at a different level during each aeon.
+      This is the first text to apply discrete degrees to temporal
+      epochs rather than spatial levels or anthropological types.
+    principles:
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      This temporal application of discrete degrees is significant —
+      the same three-level structure that appears as three Adams
+      (OW), three baptisms (OW), and three humanity types (TTr)
+      here appears as three historical periods.
+
+  - id: CGP-002
+    category: correspondence
+    passage: >
+      Fire as both judgment and purification — destroying the wicked
+      but cleansing the holy. "Holy garments, which the fire cannot
+      touch."
+    location: "VI 41.1-15"
+    finding: >
+      Fire in opposite sense: the same fire destroys the carnal and
+      purifies the spiritual. "Holy garments which the fire cannot
+      touch" = spiritual truths that are not consumed because they
+      partake of fire's own nature (love). At the natural degree,
+      fire consumes; at the spiritual degree, fire vitalizes. This
+      echoes Zost's "fire that cannot burn" at the aeonic level.
+    principles:
+      - opposite_sense
+      - correspondence
+    confidence: strong
+    notes: >
+      Fire's opposite sense is one of the most consistent
+      correspondences across traditions — divine love AND self-love/
+      destruction have the same correspondent object.

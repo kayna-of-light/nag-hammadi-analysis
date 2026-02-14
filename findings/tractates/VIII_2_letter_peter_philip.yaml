@@ -1,0 +1,79 @@
+tractate: "VIII,2"
+title: "The Letter of Peter to Philip"
+filename: "VIII_2_letter_peter_philip.md"
+status: complete
+richness: moderate
+
+summary: >
+  An apostolic-era text combining ecclesial narrative with Gnostic
+  cosmogony. Contains "image in place of image" as degree of removal
+  from the original, "strip off what is corrupted" for illumination,
+  and "the archons are fighting against the inner man" — a concise
+  formulation of the inner/outer anthropology with spiritual warfare
+  mapped to degrees.
+
+findings:
+  - id: LPP-001
+    category: correspondence
+    passage: >
+      "Image in place of image" — the created world as an image
+      derived from an image.
+    location: "VIII 135.10-15"
+    finding: >
+      Image-of-image = correspondence at two removes from the
+      original. The Pleroma produces an image (first degree of
+      correspondence); the material world is an image of THAT
+      image (second degree). Each step down is a discrete degree
+      of attenuation — the form persists but the content
+      diminishes. This IS the doctrine of discrete degrees
+      applied to ontological distance from the source.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: moderate
+    notes: >
+      Compare 3SS's chain of shadows (we are shadow of Barbelo
+      who is shadow of Pre-existent One). Both texts describe
+      cascading degrees of correspondence.
+
+  - id: LPP-002
+    category: correspondence
+    passage: >
+      "When you strip off what is corrupted, you become
+      illuminators."
+    location: "VIII 137.5-10"
+    finding: >
+      Stripping = removal of natural-degree corruption to reveal
+      the spiritual-degree luminosity that was always present
+      within. The soul does not ACQUIRE light but UNCOVERS it by
+      removing obstructions. This is regeneration as subtraction
+      (removing the proprium's accretions) rather than addition.
+    principles:
+      - regeneration
+      - correspondence
+    confidence: strong
+    notes: >
+      The garment/stripping correspondence is now documented across
+      15+ NHL texts. Here in its most concise form: strip what is
+      corrupt → become what you are (illuminator).
+
+  - id: LPP-003
+    category: structural_principle
+    passage: >
+      "The archons are fighting against the inner man."
+    location: "VIII 137.15-20"
+    finding: >
+      The inner man (spiritual degree of the person) is the target
+      of archonic attack. The "inner man" is not a metaphor but a
+      discrete degree of the human — the spiritual level that the
+      natural-degree powers (archons/proprium) seek to dominate.
+      Spiritual warfare IS warfare between degrees for control of
+      the vessel.
+    principles:
+      - discrete_degrees
+      - proprium
+    confidence: moderate
+    notes: >
+      "Inner man" appears across Pauline epistles, GM, SS,
+      and here. Consistently denotes the spiritual degree of
+      the human, distinct from the outer/natural person.

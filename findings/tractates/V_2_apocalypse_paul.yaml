@@ -1,0 +1,78 @@
+tractate: "V,2"
+title: "The Apocalypse of Paul"
+filename: "V_2_apocalypse_paul.md"
+status: complete
+richness: moderate
+
+summary: >
+  A heavenly ascent narrative through the 4th-10th heaven. Contains
+  the soul judgment scene with three witnesses testifying at specific
+  hours (a structured correspondence between time, testimony, and
+  spiritual assessment). The old man in the 7th heaven blocking
+  ascent = the archon at the degree-boundary. In the 10th heaven:
+  "I greeted my fellow spirits" — recognition at the highest level.
+
+findings:
+  - id: ApPaul-001
+    category: structural_principle
+    passage: >
+      Ascent through heavens 4-10, with distinct encounters and
+      qualities at each level.
+    location: "V 19-24"
+    finding: >
+      Progressive heavenly ascent through discrete levels, each with
+      its own character, inhabitants, and challenges. The numbered
+      heavens ARE discrete degrees in cosmological form — they are
+      not stations on a continuous path but qualitatively different
+      states of being, each complete in itself.
+    principles:
+      - discrete_degrees
+    confidence: moderate
+    notes: >
+      The multi-heaven ascent is common across Sethian, Hermetic,
+      and Jewish apocalyptic traditions. The numbering system is a
+      correspondence for hierarchical ordering of states.
+
+  - id: ApPaul-002
+    category: correspondence
+    passage: >
+      The soul judged by three witnesses who testify at the first,
+      second, and third hours.
+    location: "V 22.1-23.10"
+    finding: >
+      Judgment organized by three witnesses at three temporal markers
+      (hours). Time IS correspondence here — each "hour" corresponds
+      to a specific dimension of the soul's evaluation. Three witnesses
+      at three times = a complete assessment through three distinct
+      perspectives (possibly will, understanding, action — or love,
+      wisdom, use).
+    principles:
+      - correspondence
+    confidence: tentative
+    notes: >
+      The triple-witness structure echoes legal/biblical precedent
+      (Deut 19:15) but applied to spiritual judgment. The time-
+      correspondence (hours as assessment dimensions) is suggestive
+      but not explicit in the text.
+
+  - id: ApPaul-003
+    category: correspondence
+    passage: >
+      "An old man" in the 7th heaven who blocks ascent — the spirit
+      must be overcome to proceed.
+    location: "V 22.23-23.1"
+    finding: >
+      The old man at the 7th heaven = the archon governing the
+      boundary between the planetary spheres and the fixed stars
+      (the traditional cosmological divide). "Old man" = the
+      entrenched, habituated natural mind that resists transition
+      to the spiritual degree. A figure of authority that must
+      be passed, not destroyed.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: moderate
+    notes: >
+      The gatekeeper figure at degree-boundaries appears across
+      NHL ascent texts — see GM's four powers, 1AJ's toll-collector
+      formulas, and DS's archonic encounters.

@@ -1,0 +1,79 @@
+tractate: "III,2"
+title: "The Gospel of the Egyptians (The Holy Book of the Great Invisible Spirit)"
+filename: "III_2_gospel_egyptians.md"
+status: complete
+richness: moderate
+
+summary: >
+  A Sethian salvation history featuring complex heavenly bureaucracy
+  and ritual sequences. Correspondential content includes the vowel
+  sequences as vibratory correspondence (iiiii eeeee ooooo uuuuu),
+  "putting on Jesus as a garment," Seth passing through ages "secretly
+  through the virgin," and Sakla's proprium declaration. The text is
+  more liturgical/ritual than conceptual, with correspondences embedded
+  in the ritual structure rather than explicitly stated.
+
+findings:
+  - id: GE-001
+    category: correspondence
+    passage: >
+      "He put on Jesus as a garment."
+    location: "III 63.25-64.1"
+    finding: >
+      Jesus as garment = the natural-degree expression that the
+      spiritual being "wears" in the world. Putting on Jesus as a
+      garment means assuming the visible form of Jesus while the
+      spiritual identity (Seth/the Illuminator) remains the interior
+      wearer. The garment is not the person — it is the person's
+      expression at the natural level.
+    principles:
+      - correspondence
+      - constant_state_variable_form
+    confidence: strong
+    notes: >
+      This inverts the more common pattern where the human "puts on"
+      the divine. Here the divine "puts on" the human form. Both
+      directions confirm the garment = external expression principle.
+
+  - id: GE-002
+    category: structural_principle
+    passage: >
+      Vowel sequences: "iiiii eeeee ooooo uuuuuu aaaa oooo..."
+      as liturgical invocations.
+    location: "III 44.1-10, 66.1-20"
+    finding: >
+      Vowel sequences as vibratory correspondences: each vowel sound
+      corresponds to a specific quality of spiritual reality. The
+      sequences are not nonsense but a SOUND-based correspondence
+      system where the acoustic quality of each vowel IS the spiritual
+      quality it expresses. This is correspondence through sound
+      rather than through visual imagery.
+    principles:
+      - correspondence
+      - ancient_word
+    confidence: moderate
+    notes: >
+      Compare Mars's alphabet mysticism (systematic letter-to-divine-
+      being correspondence). The vowel system may be part of the
+      Ancient Word transmission — a pre-literary correspondence
+      system preserved in sound.
+
+  - id: GE-003
+    category: correspondence
+    passage: >
+      Sakla said, "I am God and there is no other beside me."
+    location: "III 58.23-59.1"
+    finding: >
+      The proprium's fundamental declaration: receiving influx,
+      forgetting the source, claiming ownership. Sakla (the Demiurge)
+      IS the proprium in cosmological form — a created being who
+      mistakes the power flowing through him for his own possession
+      and declares independence from the source.
+    principles:
+      - proprium
+    confidence: strong
+    notes: >
+      This proprium declaration appears across multiple NHL texts
+      (ApJ, HA, OW) — always attributed to the Demiurge,
+      always with the same structure: "I am [God/the only one]
+      and there is no other."

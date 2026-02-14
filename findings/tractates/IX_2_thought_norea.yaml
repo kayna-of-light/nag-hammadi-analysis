@@ -1,0 +1,37 @@
+tractate: "IX,2"
+title: "The Thought of Norea"
+filename: "IX_2_thought_norea.md"
+status: complete
+richness: sparse
+
+summary: >
+  A brief Sethian hymn about Norea's place in the divine Pleroma.
+  Contains a divine triad — Father (Mind/Adamas), Mother (Thought/
+  Ennoia), Son (Mind/Logos/Autogenes) — and the principle that "two
+  names which create a single name." Very short but the union-of-
+  names principle is significant.
+
+findings:
+  - id: TN-001
+    category: structural_principle
+    passage: >
+      "Two names which create a single name."
+    location: "IX 28.25-30"
+    finding: >
+      Two names → one name: the union of two distinct spiritual
+      realities into a single operative unity. This IS the bridal-
+      chamber principle stated abstractly: when two complementary
+      principles (good and truth, love and wisdom, Father and Mother)
+      unite, they produce not a combination but a NEW single name —
+      a reality that is neither component alone but the unity of both.
+      The "name" is the spiritual identity; two names creating one
+      name IS the ontology of union.
+    principles:
+      - bridal_chamber
+      - correspondence
+    confidence: moderate
+    notes: >
+      Compare GP's extensive bridal-chamber teaching and GTh Saying
+      22 ("make the two one"). The Thought of Norea reduces the
+      principle to its most abstract formulation: identity (name)
+      emerges from the union of two names.

@@ -1,0 +1,97 @@
+tractate: "I,2"
+title: "The Apocryphon of James"
+filename: "I_2_apocryphon_james.md"
+status: complete
+richness: moderate
+
+summary: >
+  A post-resurrection dialogue framed as a secret revelation to James and
+  Peter. Contains striking correspondences: the head of prophecy cut off
+  with John, the Word as grain of wheat, houses "unceiled" (open to
+  receive from above), and an ascent where faculties are progressively
+  silenced across degree-boundaries. The agricultural metaphors are
+  particularly well-developed.
+
+findings:
+  - id: AJas-001
+    category: correspondence
+    passage: >
+      "The head of prophecy was cut off with John."
+    location: "I 6.21-22"
+    finding: >
+      Head = the governing principle; prophecy = reception of divine
+      truth. John's execution corresponds to the termination of a
+      particular mode of divine communication. "Cutting off the head"
+      is not just a historical reference but IS the spiritual event
+      expressed in its natural-degree form: the governing faculty
+      of prophecy was severed.
+    principles:
+      - correspondence
+    confidence: moderate
+    notes: >
+      The head correspondence (governing principle) is consistent
+      across Swedenborgian and gnostic usage.
+
+  - id: AJas-002
+    category: correspondence
+    passage: >
+      "The word is like a grain of wheat: when someone sowed it, he
+      had faith in it; and when it sprouted, he loved it."
+    location: "I 8.16-23"
+    finding: >
+      The Word as grain of wheat — seed correspondence. The seed
+      contains the whole plant in potentia. Sowing = faith (initial
+      reception), sprouting = love (first responsive growth). The
+      agricultural sequence IS the spiritual sequence: reception →
+      faith → growth → love. Not metaphor but the life-cycle of a
+      plant IS the life-cycle of truth in the soul.
+    principles:
+      - correspondence
+      - regeneration
+    confidence: strong
+    notes: >
+      Compare GTh Saying 9 (sower parable), TTr on aeons as "seed"
+      and "fetus." The seed/plant lifecycle is one of the most
+      pervasive correspondential structures in the NHL.
+
+  - id: AJas-003
+    category: structural_principle
+    passage: >
+      "Their houses were unceiled."
+    location: "I 9.18"
+    finding: >
+      Houses unceiled = minds open to receive from above. The ceiling
+      IS the barrier between the natural mind and influx from higher
+      degrees. Removing the ceiling = removing the obstacle to reception.
+      The architectural image is functionally grounded: a ceiling
+      literally blocks what comes from above.
+    principles:
+      - correspondence
+      - influx
+    confidence: moderate
+    notes: >
+      Architectural correspondences are precise — ceiling = upper
+      boundary of the natural degree that blocks influx from the
+      spiritual degree.
+
+  - id: AJas-004
+    category: structural_principle
+    passage: >
+      During the ascent, ears and eyes are "not permitted to see or
+      hear anything" — the boundary between degrees silences natural
+      faculties.
+    location: "I 15.5-15"
+    finding: >
+      At the transition between discrete degrees, natural sense
+      faculties cease functioning. Eyes/ears (natural perception
+      organs) are not "permitted" at the higher level — not because
+      of prohibition but because natural instruments cannot register
+      what belongs to a higher degree. This is the faculty-limitation
+      inherent in discrete degrees.
+    principles:
+      - discrete_degrees
+    confidence: moderate
+    notes: >
+      Compare Zost's perception-faculty correspondence and Allog's
+      "do not know him, for it is impossible" — each degree requires
+      its own faculty.

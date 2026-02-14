@@ -1,0 +1,79 @@
+tractate: "VI,6"
+title: "The Discourse on the Eighth and Ninth"
+filename: "VI_6_discourse_eighth_ninth.md"
+status: complete
+richness: moderate
+
+summary: >
+  A Hermetic initiation dialogue in which the initiate ascends to the
+  eighth and ninth heavenly spheres. Contains the remarkable "I am Mind
+  and I see another Mind" — Mind perceiving Mind across degrees — and
+  the instrument/plectrum correspondence for the human as instrument of
+  the divine. Silence plays a key role as spiritual communication beyond
+  natural language.
+
+findings:
+  - id: D89-001
+    category: explicit_statement
+    passage: >
+      "I am Mind and I see another Mind, the one that moves the soul!"
+    location: "VI 58.28-30"
+    finding: >
+      Mind perceiving Mind across degrees: the initiate's mind recognizes
+      a higher Mind that "moves the soul." This is perception at the
+      boundary between discrete degrees — the spiritual faculty (mind)
+      becomes aware of the same faculty operating at a higher level.
+      "Another Mind" is not a different thing but the SAME faculty at
+      a higher degree.
+    principles:
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      Compare Zost's perception-faculty correspondence and Allog's
+      graduated meditation. The faculty at each level perceives its
+      own kind at the next level.
+
+  - id: D89-002
+    category: correspondence
+    passage: >
+      "I am the instrument of your spirit; Mind is your plectrum.
+      And your counsel plucks me."
+    location: "VI 58.7-13"
+    finding: >
+      The human as musical instrument, the divine spirit as musician,
+      the mind as plectrum (the pick that activates the instrument).
+      This is a three-part correspondence: instrument = the natural
+      vessel, plectrum = the mediating faculty (mind), musician =
+      the divine source. The FUNCTION is exact: the instrument
+      produces sound only when played; the human produces spiritual
+      expression only when activated by divine influx through mind.
+    principles:
+      - correspondence
+      - influx
+    confidence: strong
+    notes: >
+      The musical instrument correspondence is functionally precise —
+      the instrument contributes its tonal quality (individual
+      character) but the music comes from the player (the divine).
+      The human doesn't produce the content; they shape its expression.
+
+  - id: D89-003
+    category: structural_principle
+    passage: >
+      Silence at the highest stages of initiation — beyond the eighth
+      and ninth, communication ceases to operate through language.
+    location: "VI 59-60"
+    finding: >
+      Silence = spiritual communication beyond natural language. At
+      the highest degree, speech (natural communication) gives way
+      to silence (direct spiritual communion). This is not absence
+      of communication but communication at a degree where natural
+      language cannot reach — the transition from external to internal
+      mode.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: moderate
+    notes: >
+      Compare TTr's inclusion of "silence" as one of the six names
+      for baptism, and VE's Father dwelling "in Silence."

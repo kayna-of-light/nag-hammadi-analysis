@@ -1,0 +1,58 @@
+tractate: "VI,1"
+title: "The Acts of Peter and the Twelve Apostles"
+filename: "VI_1_acts_peter_twelve.md"
+status: complete
+richness: moderate
+
+summary: >
+  A narrative allegory of a pearl merchant (Lithargoel) and the apostles'
+  journey to his city. Contains systematic animal-danger correspondences
+  (dogs/wolves/lions/bulls as obstacles on the path) and the distinction
+  between physicians of the body and "physicians of souls who heal the
+  heart." The pearl-city journey IS the correspondential structure:
+  the pearl = truth, the city = spiritual state, the journey = regeneration.
+
+findings:
+  - id: APT-001
+    category: correspondence
+    passage: >
+      "Dogs... wolves... lions... bulls" — specific animals as dangers
+      requiring specific provisions on the journey.
+    location: "VI 5.19-6.8"
+    finding: >
+      Systematic animal-danger correspondences: each animal type
+      represents a specific category of spiritual obstacle requiring
+      a specific response. Dogs (aggressive pursuit), wolves
+      (predatory cunning), lions (dominating power), bulls
+      (charging force) — each animal's natural behavior IS the
+      spiritual threat it corresponds to. Different provisions
+      protect against different dangers.
+    principles:
+      - correspondence
+    confidence: moderate
+    notes: >
+      Animals as affections/threats is pervasive in the NHL —
+      see GTh Saying 7 (lion), ApJ's animal-form archons, and
+      the schema principle that animals = affections.
+
+  - id: APT-002
+    category: correspondence
+    passage: >
+      "Physicians of souls who heal the heart."
+    location: "VI 11.26-12.1"
+    finding: >
+      The physician correspondence operating at two levels: body
+      physicians heal physical ailments (natural level), soul
+      physicians heal the heart (spiritual level). The heart IS the
+      will in correspondence. "Healing the heart" = rectifying the
+      will — the physician's function (diagnosing and treating) is
+      the same at both levels, but the organ and the disease change
+      with the degree.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      Heart = will/love is one of the most consistent correspondences
+      across traditions. The physician operating at the spiritual level
+      echoes AT's Word as medicine.

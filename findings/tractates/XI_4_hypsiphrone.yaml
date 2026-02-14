@@ -1,0 +1,38 @@
+tractate: "XI,4"
+title: "Hypsiphrone"
+filename: "XI_4_hypsiphrone.md"
+status: complete
+richness: sparse
+
+summary: >
+  An extremely fragmentary text — barely two pages survive. A female
+  figure descends from the "place of virginity" into the world, where
+  Phainops presides over a "fount of blood." The descent from virginity
+  into embodiment at the material degree is the only extractable
+  correspondential pattern. Too fragmentary for substantive analysis.
+
+findings:
+  - id: Hyps-001
+    category: correspondence
+    passage: >
+      Descent from "the place of virginity" into the world below.
+    location: "XI 69.21-70.5"
+    finding: >
+      "Place of virginity" = pre-material spiritual state — undefiled,
+      unparticularized, not yet expressed in natural forms. Descent
+      from this state = the entry of a spiritual reality into
+      material expression. This IS the influx pattern: from internal
+      (virginal, untouched) to external (embodied, particularized).
+      "Virginity" here is ontological, not moral — it describes the
+      state of a spiritual reality before it takes on natural-degree
+      form.
+    principles:
+      - influx
+      - correspondence
+    confidence: tentative
+    notes: >
+      The extreme fragmentation makes any finding tentative. Compare
+      GP's treatment of the "virgin" who was defiled, and the
+      restoration of virginity through the bridal chamber. If this
+      text were complete, it might evidence a descent-and-return
+      narrative parallel to ExSoul.

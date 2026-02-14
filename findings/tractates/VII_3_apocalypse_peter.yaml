@@ -1,0 +1,58 @@
+tractate: "VII,3"
+title: "The Apocalypse of Peter"
+filename: "VII_3_apocalypse_peter.md"
+status: complete
+richness: moderate
+
+summary: >
+  A revelation in which Peter witnesses the crucifixion and sees TWO
+  figures — the fleshly substitute being nailed and the "laughing living
+  Jesus" standing above. This two-figure scene is a visual enactment of
+  discrete degrees: the natural form suffers while the spiritual reality
+  is untouched. Also contains "dry canals" as a correspondence for
+  truth-without-spiritual-content (the form of truth emptied of life).
+
+findings:
+  - id: ApPet-001
+    category: structural_principle
+    passage: >
+      "He whom they crucified is the first-born... But he who stands
+      near him is the living Jesus."
+    location: "VII 81.15-82.3"
+    finding: >
+      Two-figure crucifixion: the fleshly substitute (natural form)
+      suffers on the cross while the laughing living Jesus (spiritual
+      reality) stands apart, untouched. This IS the doctrine of
+      discrete degrees staged as a visible event — the natural
+      degree undergoes destruction while the spiritual degree
+      remains integral. They are not two persons but one reality
+      perceived at two levels.
+    principles:
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      The "laughing" detail is significant — the spiritual degree
+      doesn't suffer because suffering is a property of the natural
+      degree. Joy at the spiritual level persists through natural-
+      degree destruction.
+
+  - id: ApPet-002
+    category: correspondence
+    passage: >
+      "Those people are dry canals."
+    location: "VII 79.25-30"
+    finding: >
+      Dry canals = structures that once carried water (truth) but
+      are now empty. The canal's FUNCTION is to convey water; when
+      dry, the form remains but the content is gone. This IS a
+      correspondence for religious institutions or teachings that
+      retain the external form of truth while the spiritual content
+      has departed — the same temple→tomb pattern applied to the
+      channel of truth.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      Compare Asc's temple→tomb, BTC's temple→tomb inversion.
+      Dry canal = structure-without-content is a precise
+      correspondential description of dead religion.

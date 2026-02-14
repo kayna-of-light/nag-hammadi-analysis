@@ -1,0 +1,86 @@
+tractate: "XI,1"
+title: "The Interpretation of Knowledge"
+filename: "XI_1_interpretation_knowledge.md"
+status: complete
+richness: moderate
+
+summary: >
+  A Valentinian ecclesial text treating the church as the Body of Christ
+  with rich correspondential language. The most striking finding: "The
+  Father has living rational elements from which he puts on my members
+  as garments" — the FATHER wears human members as garments, inverting
+  the usual garment direction. Also contains head-on-cross as the
+  bridge between degrees, root/plant correspondence for spiritual
+  community, and jealousy as demiurgic ignorance.
+
+findings:
+  - id: IK-001
+    category: explicit_statement
+    passage: >
+      "The Father has living rational elements from which he puts
+      on my members as garments."
+    location: "XI 14.30-38"
+    finding: >
+      COSMIC GARMENT REVERSAL: Here the Father wears the members
+      (humans/elements of the church) as his garments. Normally the
+      soul puts on garments (external truths, bodies). Here the
+      influx direction is explicit — the DIVINE clothes itself IN
+      the human. This is the ultimate expression of inside→outside
+      correspondence: the spiritual interior (Father) takes on
+      natural-degree form (members) as its outermost expression.
+      The church IS God's garment at the natural degree.
+    principles:
+      - correspondence
+      - influx
+      - divine_human
+    confidence: strong
+    notes: >
+      This inverts the normal garment texts (GP, GTh, DS) where
+      HUMANS put on garments. Here it is the DIVINE putting on
+      the human — the influx made explicit. Compare Swedenborg's
+      "Grand Man" in which all angels (= members) constitute the
+      body of the Lord.
+
+  - id: IK-002
+    category: structural_principle
+    passage: >
+      The head remaining on the cross as a bridge connecting heaven
+      and earth.
+    location: "XI 12.20-30"
+    finding: >
+      Head-on-cross as the nexus between discrete degrees: the head
+      (highest faculty, the intellectual principle) remains fixed on
+      the cross (the natural-degree point of maximum resistance)
+      precisely because THIS connection is what bridges the degrees.
+      Without the head's union with the cross, the spiritual and
+      natural would separate. The crucifixion IS the act that holds
+      the degrees together — not punishment but the joining.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: moderate
+    notes: >
+      Compare the Valentinian teaching that the cross is the
+      "separator" (stauros/horos) — here it functions not just
+      as separator but as connector between degrees.
+
+  - id: IK-003
+    category: correspondence
+    passage: >
+      Root and plant imagery for the spiritual community — the
+      community as a growing organism with root, trunk, and branches.
+    location: "XI (ecclesial section)"
+    finding: >
+      Root = the hidden interior principle (influx source); plant =
+      natural-degree manifestation; community members = branches
+      drawing from one root. The church is not an organization but
+      an organism whose life flows from a single hidden source.
+      This IS the seed/plant correspondence applied to ecclesiology.
+    principles:
+      - correspondence
+      - influx
+    confidence: moderate
+    notes: >
+      Root/plant correspondence recurs in GTh (Sayings 9, 20, 40),
+      GP, TTr, and Eug. Here applied specifically to the church
+      community rather than to the individual soul.

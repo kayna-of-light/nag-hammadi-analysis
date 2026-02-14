@@ -1,0 +1,107 @@
+tractate: "XII,1"
+title: "The Sentences of Sextus"
+filename: "XII_1_sentences_sextus.md"
+status: complete
+richness: moderate
+
+summary: >
+  A non-Gnostic wisdom collection, likely of Pythagorean origin,
+  that was included in the NHL library. Contains unexpectedly rich
+  correspondential content: "Say with your mind that the body is the
+  garment of your soul" (explicit garment correspondence), "the
+  philosopher according to the inner man," "know who is the one who
+  thinks in you," and the remarkable deification statement "a man who
+  is worthy of God, he is God among men, and he is the son of God."
+
+findings:
+  - id: SS-001
+    category: explicit_statement
+    passage: >
+      "Say with your mind that the body is the garment of your soul."
+    location: "Sentence 346"
+    finding: >
+      EXPLICIT GARMENT CORRESPONDENCE: The body IS the garment of
+      the soul — stated as a direct instruction to the reader. This
+      is not embedded in mythopoetic narrative but given as a plain
+      doctrinal statement. Of all the garment correspondences in
+      the NHL, this is the most explicitly didactic: the natural-
+      degree form (body) corresponds to the spiritual-degree reality
+      (soul) as garment to wearer.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      The instruction to "say with your mind" suggests this is
+      a meditative practice — training the inner perception to
+      recognize correspondence in one's own experience. The body
+      you inhabit IS the garment. Compare GP on garments, GTh 37.
+
+  - id: SS-002
+    category: structural_principle
+    passage: >
+      "The philosopher according to the inner man."
+    location: "Sentence 392"
+    finding: >
+      The "inner man" (spiritual degree of the person) is the true
+      philosopher — the one who loves wisdom. "According to" (κατά)
+      establishes that philosophy happens AT the inner-man degree,
+      not at the outer/natural degree. Outer learning without inner
+      comprehension is not philosophy. The text posits a discrete
+      degree within the human from which real knowing operates.
+    principles:
+      - discrete_degrees
+    confidence: moderate
+    notes: >
+      "Inner man" appears also in LPP ("archons fight the inner
+      man"), GM (mind between soul and spirit), and Pauline
+      literature. The Sentences of Sextus confirms this is not
+      a uniquely Gnostic concept but a shared framework term.
+
+  - id: SS-003
+    category: explicit_statement
+    passage: >
+      "Know who God is, and know who is the one who thinks in you."
+    location: "Sentences 394-395"
+    finding: >
+      Self-knowledge as God-knowledge, stated as paired imperative:
+      knowing God and knowing the "one who thinks in you" are two
+      expressions of one act. The "one who thinks in you" is not
+      the ego (proprium) but the divine influx that operates the
+      intellectual faculty. To identify who is actually thinking is
+      to discover that the source is not the self but what flows
+      through the self.
+    principles:
+      - influx
+      - correspondence
+    confidence: strong
+    notes: >
+      Compare GTh Saying 3 ("the Kingdom is inside of you and
+      outside of you — when you come to know yourselves, then you
+      will become known"), BTC ("know yourselves and you will
+      know all things"). The Sentences add precision: not just
+      "know yourself" but "know WHO is the one who thinks."
+
+  - id: SS-004
+    category: explicit_statement
+    passage: >
+      "A man who is worthy of God, he is God among men, and he is
+      the son of God."
+    location: "Sentence 376a"
+    finding: >
+      Deification through worthiness: the human who becomes
+      transparent to divine influx IS God among men. This is not
+      apotheosis (becoming a god) but correspondence achieved:
+      the person who removes the proprium-obstruction becomes the
+      natural-degree expression of the divine — "God among men."
+      "Son of God" here means the divine expressed in the human
+      vessel, not biological relationship.
+    principles:
+      - regeneration
+      - influx
+      - correspondence
+    confidence: moderate
+    notes: >
+      Compare Melchizedek's progressive identification with
+      Christ, and Swedenborg's account of glorification. The
+      Sentences state the principle universally: any human who
+      achieves transparency becomes the divine in ultimates.

@@ -1,0 +1,55 @@
+tractate: "V,4"
+title: "The Second Apocalypse of James"
+filename: "V_4_second_apocalypse_james.md"
+status: complete
+richness: moderate
+
+summary: >
+  A martyrdom account of James the Just with a pre-crucifixion revelation
+  from Jesus. Contains the archon's proprium declaration, garment/stripping
+  correspondence (stripping = return to spiritual state), and Jesus'
+  "I am" aretalogy. Less correspondentially dense than 1AJ but the
+  martyrdom narrative itself functions as a correspondence for the
+  soul's passage through death.
+
+findings:
+  - id: 2AJ-001
+    category: correspondence
+    passage: >
+      Stripping away clothing before stoning — the removal of garments
+      before martyrdom.
+    location: "V 62.1-12"
+    finding: >
+      The stripping before death = removing natural coverings as the
+      soul transitions from the material degree. The narrative detail
+      IS the correspondence — physical removal of garments corresponds
+      to spiritual shedding of the body. The martyrdom unclothes the
+      body as death unclothes the soul.
+    principles:
+      - correspondence
+      - regeneration
+    confidence: moderate
+    notes: >
+      Compare GTh Saying 37 ("When you disrobe without being ashamed"),
+      DS's stripping, and GM's soul's response to Desire ("I served
+      you as a garment").
+
+  - id: 2AJ-002
+    category: correspondence
+    passage: >
+      The archon's proprium declaration — claiming dominion over the
+      created order.
+    location: "V (archon section)"
+    finding: >
+      The Demiurge/archon declaring sovereignty = the proprium claiming
+      what flows through it as its own possession. As in every NHL
+      instance (ApJ, HA, OW, GE), the declaration has the same
+      structure: receiving power from above → forgetting the source →
+      claiming sole authority.
+    principles:
+      - proprium
+    confidence: strong
+    notes: >
+      The proprium declaration is now documented across at least 5
+      independent NHL texts — always the same structure, always
+      attributed to the Demiurge/archon figure.

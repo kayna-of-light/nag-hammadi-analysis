@@ -1,0 +1,85 @@
+tractate: "IX,1"
+title: "Melchizedek"
+filename: "IX_1_melchizedek.md"
+status: complete
+richness: moderate
+
+summary: >
+  A badly damaged Sethian text featuring Melchizedek as the heavenly
+  high-priest figure who receives a revelation and ultimately BECOMES
+  identified with Christ. Contains "put on friendship and goodness as
+  a garment" (garment of virtues), "I am truly the image of the true
+  High-Priest" (image-correspondence), and identity transformation
+  through assimilation to the divine archetype. Fragmentary state
+  limits analysis.
+
+findings:
+  - id: Melch-001
+    category: correspondence
+    passage: >
+      "Put on friendship and goodness as a garment."
+    location: "IX (exhortation section)"
+    finding: >
+      Garment of virtues: friendship and goodness are not abstract
+      qualities but external expressions (garments) that the soul
+      puts on. The garment correspondence here applies to moral
+      qualities — virtues as the outermost expression of interior
+      states. Friendship corresponds to the social expression of
+      charity; goodness to the natural-degree expression of love.
+    principles:
+      - correspondence
+    confidence: moderate
+    notes: >
+      Garment correspondence applied to virtues (not stripped off
+      but put on) — a different direction from the stripping texts.
+      Here the garment is what you SHOULD wear, not what you must
+      remove. Compare GP's garment texts, which include both
+      directions.
+
+  - id: Melch-002
+    category: explicit_statement
+    passage: >
+      "I am truly the image of the true High-Priest."
+    location: "IX (revelation section)"
+    finding: >
+      Melchizedek declares himself the IMAGE of the true High-Priest
+      = a correspondence at the natural/visible degree of a spiritual
+      archetype. The "true High-Priest" exists at the spiritual
+      plane; Melchizedek IS that High-Priest at the natural degree
+      (not a copy or substitute, but the same reality expressed in
+      ultimates). This is the ontology of correspondence stated
+      as personal identity.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      Melchizedek's self-identification parallels Christ's
+      "image of the invisible God" (Col 1:15). The "image"
+      is not lesser — it is the spiritual reality made present
+      at the natural degree.
+
+  - id: Melch-003
+    category: structural_principle
+    passage: >
+      Melchizedek progressively becomes identified with Christ
+      through the revelation.
+    location: "IX (throughout)"
+    finding: >
+      Identity transformation through assimilation: Melchizedek
+      does not remain separate from Christ but becomes Christ
+      at the earthly degree. This is not replacement but
+      correspondence achieved — the human vessel becomes so
+      transparent to influx that the distinction between vessel
+      and source dissolves. This is regeneration completed:
+      the proprium no longer stands between the person and
+      the divine.
+    principles:
+      - regeneration
+      - influx
+    confidence: moderate
+    notes: >
+      This parallels Swedenborg's account of glorification:
+      Jesus progressively uniting the human with the divine
+      until they are one. Melchizedek's process is a finite
+      version of the same pattern.

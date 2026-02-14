@@ -1,0 +1,37 @@
+tractate: "BG,4"
+title: "The Act of Peter"
+filename: "BG_4_act_peter.md"
+status: complete
+richness: sparse
+
+summary: >
+  A brief healing narrative in the Berlin Codex. Contains one
+  significant correspondential detail: Peter's daughter "saw with
+  the eyes of his flesh and the eyes of his soul" — two modes of
+  perception corresponding to two discrete degrees of the human.
+  Otherwise minimal material.
+
+findings:
+  - id: ActPet-001
+    category: correspondence
+    passage: >
+      "He saw with the eyes of his flesh and the eyes of his soul."
+    location: "BG 128.1-10"
+    finding: >
+      Two modes of seeing = two discrete degrees of perception.
+      Eyes of flesh = natural-degree perception (sensory). Eyes of
+      soul = spiritual-degree perception (interior understanding).
+      The same organ (eyes) operates at two levels. This IS the
+      doctrine of discrete degrees applied to perception — not
+      a metaphor for "understanding" but a statement that the
+      human possesses two perception faculties operating at
+      different levels of reality.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: moderate
+    notes: >
+      Compare Zost's soul/mind/spirit perception triad, GM's
+      mind between soul and spirit, and D89's Mind perceiving
+      Mind. The Act of Peter reduces this to its simplest binary:
+      flesh-sight vs. soul-sight.

@@ -1,0 +1,38 @@
+tractate: "VI,7"
+title: "The Prayer of Thanksgiving"
+filename: "VI_7_prayer_thanksgiving.md"
+status: complete
+richness: sparse
+
+summary: >
+  A brief Hermetic prayer (related to Asclepius) concluding a ritual
+  meal. Contains "Mind, so that we may understand You; speech, so that
+  we may expound You; knowledge, so that we may know You" — a triad of
+  faculties corresponding to three modes of divine reception. Short but
+  the triad is significant.
+
+findings:
+  - id: PT-001
+    category: structural_principle
+    passage: >
+      "Mind, so that we may understand You; speech, so that we may
+      expound You; knowledge, so that we may know You."
+    location: "VI 63.33-64.3"
+    finding: >
+      Mind / speech / knowledge = three faculties for three modes
+      of receiving the divine. Mind (νοῦς) = internal apprehension
+      (spiritual degree). Speech (λόγος) = external expression
+      (natural degree of communication). Knowledge (γνῶσις) =
+      experiential knowing (union). The triad moves from interior
+      reception to exterior expression to integrative knowing —
+      three discrete degrees of a single act (encountering the divine).
+    principles:
+      - discrete_degrees
+      - influx
+    confidence: moderate
+    notes: >
+      Compare TP's Voice/Speech/Word descending triad and D89's
+      Mind perceiving Mind. The prayer addresses the same vertical
+      structure from a different angle — here the human faculties
+      are the receiving end of influx, each faculty receiving at
+      its own level.

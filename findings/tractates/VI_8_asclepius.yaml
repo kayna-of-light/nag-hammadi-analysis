@@ -1,0 +1,82 @@
+tractate: "VI,8"
+title: "Asclepius 21-29"
+filename: "VI_8_asclepius.md"
+status: complete
+richness: moderate
+
+summary: >
+  A Hermetic dialogue containing the famous "Lament for Egypt" — one of
+  the most explicit correspondential statements in all ancient literature:
+  "Egypt is the image of heaven." The text develops this into a systematic
+  theology of sacred space as correspondence, where temples function as
+  vessels for spiritual presence and their desecration corresponds to
+  spiritual death. Also contains the remarkable claim that "man creates
+  gods" through the animation of natural images.
+
+findings:
+  - id: Asc-001
+    category: explicit_statement
+    passage: >
+      "Egypt is the image of heaven... the whole cosmos dwells here,
+      in this our land, as in its sanctuary."
+    location: "VI 70.3-8"
+    finding: >
+      EXPLICIT CORRESPONDENCE: Egypt = image of heaven. The entire
+      land IS a correspondence — not a metaphor for heaven but the
+      natural-degree expression of the heavenly template. "The whole
+      cosmos dwells here" means the spiritual pattern is fully
+      expressed in the natural locale. This is the doctrine of
+      correspondence applied to geography.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      This is one of the most famous passages in ancient Hermetic
+      literature. A land as the "image" of its spiritual template
+      IS correspondence applied to place.
+
+  - id: Asc-002
+    category: structural_principle
+    passage: >
+      The temple becoming a tomb — "Egypt will be forsaken, and the
+      land which was the seat of piety will be deprived of the
+      presence of the gods."
+    location: "VI 70.15-71.5"
+    finding: >
+      Temple→tomb correspondence: when the spiritual presence departs,
+      the physical structure remains but its function inverts — from
+      vessel-of-life to container-of-death. The building hasn't
+      changed physically; what changes is the spiritual influx that
+      animated it. The external form persists while the internal
+      reality dies. This IS the doctrine of correspondence applied
+      to sacred architecture.
+    principles:
+      - correspondence
+      - influx
+    confidence: strong
+    notes: >
+      Compare BTC's "You were a temple... you have made yourself a
+      tomb" — the same temple→tomb inversion. When influx ceases,
+      the form that was a vessel becomes a shell.
+
+  - id: Asc-003
+    category: correspondence
+    passage: >
+      "Man creates gods... he discovers the nature of the gods and
+      reproduces it. Our ancestors... found the art of making gods."
+    location: "VI 69.25-70.1"
+    finding: >
+      Man creating gods = crafting natural images that serve as vessels
+      for spiritual presence. This is not idolatry but the correspondential
+      principle applied to ritual: the natural image, when properly crafted,
+      can RECEIVE the spiritual influx it corresponds to. The image doesn't
+      become the god; it becomes the god's ultimate-degree expression.
+    principles:
+      - correspondence
+      - influx
+    confidence: moderate
+    notes: >
+      This passage has been controversial since antiquity (Augustine
+      attacked it). Read correspondentially, it describes the function
+      of all sacred art: creating natural forms that can receive and
+      express spiritual reality.

@@ -1,0 +1,190 @@
+tractate: "I,5"
+title: "The Tripartite Tractate"
+filename: "I_5_tripartite_tractate.md"
+status: complete
+richness: rich
+
+summary: >
+  The longest single tractate in the NHL, this Valentinian treatise is saturated
+  with correspondential language. The Father is described through systematic natural
+  correspondences (root/tree, spring/streams, seed/fetus). The text's most striking
+  feature is its use of MULTIPLE NAMES for single spiritual realities — the Logos'
+  aeon is simultaneously "Synagogue of Salvation," "Storehouse," "Bride," "Kingdom,"
+  and "Joy of the Lord." Baptism receives six correspondential names: garment,
+  confirmation, silence, bridal chamber, unfading light, eternal life. Three types of
+  humanity (spiritual/psychic/material) map exactly onto discrete degrees. This is
+  correspondential thinking operating as the structural grammar of theology.
+
+findings:
+  - id: TTr-001
+    category: correspondence
+    passage: >
+      "He is like a spring which is not diminished by the water which abundantly
+      flows from it... like a root... with trunks and branches and fruits."
+    location: "I 60.1-15"
+    finding: >
+      The Father is described through two systematic natural correspondences:
+      spring→streams (divine overflow that does not diminish the source) and
+      root→trunk→branches→fruit (organic emanation from hidden origin to
+      visible expression). Both correspondences are grounded in the objects'
+      actual functions — the spring truly overflows without depleting, the root
+      truly generates the tree from within.
+    principles:
+      - correspondence
+      - influx
+    confidence: strong
+    notes: >
+      The plant and water correspondences are not metaphors the author invented
+      but descriptions of how emanation actually works — the natural object IS
+      the spiritual reality in ultimates. Compare GP on truth coming "in types
+      and images."
+
+  - id: TTr-002
+    category: correspondence
+    passage: >
+      "He is... the form of the formless, the body of the bodiless, the face
+      of the invisible."
+    location: "I 66.13-17"
+    finding: >
+      The Son is described as the making-visible of the invisible Father through
+      paradoxical correspondence. Each pairing (form/formless, body/bodiless,
+      face/invisible) expresses the same principle: the interior reality requires
+      an ultimate expression to become apprehensible. This IS the doctrine of
+      correspondence stated as Christology.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      The via negativa structure (formless→form) perfectly illustrates how
+      each degree makes the higher degree accessible in its own terms.
+
+  - id: TTr-003
+    category: explicit_statement
+    passage: >
+      "He is called... 'Synagogue of Salvation'... 'Storehouse'... 'Bride'...
+      'Kingdom'... 'Joy of the Bridegroom'... 'Joy of the Lord.'"
+    location: "I 87.1-20"
+    finding: >
+      The aeon established by the Logos receives SIX different names, each a
+      correspondential description of a single spiritual reality from a different
+      angle: assembly-for-rescue, container-of-provision, partner-in-union,
+      domain-of-order, delight-of-intimacy, delight-of-the-source. This is
+      constant state, variable form operating as theological nomenclature —
+      the reality is one, the expressions are many.
+    principles:
+      - constant_state_variable_form
+      - correspondence
+    confidence: strong
+    notes: >
+      This parallels the Being of Light phenomenon in NDE data: one reality,
+      multiple culturally-conditioned names. The text does this deliberately
+      and systematically.
+
+  - id: TTr-004
+    category: structural_principle
+    passage: >
+      "The spiritual race... is like light from light and like spirit from
+      spirit... The psychic race is like a light from a fire... The material
+      race is alien in every way; since it is dark."
+    location: "I 118.14-119.8"
+    finding: >
+      Three types of humanity mapped onto three discrete degrees via light
+      correspondence: spiritual = light from light (direct divine emanation),
+      psychic = light from fire (derivative, mediated illumination), material =
+      darkness (absence of spiritual light). The light metaphor is not arbitrary
+      decoration — each specific quality of light corresponds to a specific
+      quality of consciousness.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: strong
+    notes: >
+      The tripartite anthropology IS a discrete degree system. The transition
+      from "light from light" to "light from fire" to "dark" is not a continuum
+      but three distinct modes of receiving/not-receiving illumination.
+
+  - id: TTr-005
+    category: structural_principle
+    passage: >
+      "There is within it [Paradise] three species. Besides these the trees
+      of the third type..."
+    location: "I 106.18-30"
+    finding: >
+      Paradise itself contains three kinds of tree, reflecting the three discrete
+      degrees within even the highest spiritual environment. The tree is not a
+      metaphor for something else — the tree IS the spiritual reality (affection,
+      growth, fruiting) in its Edenic ultimate form.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: moderate
+    notes: >
+      The three trees of Paradise echo the three types of humanity — the
+      environment reflects its inhabitants' nature.
+
+  - id: TTr-006
+    category: explicit_statement
+    passage: >
+      "It is a 'garment' which it is possible to put on and to take
+      off... it is a 'confirmation' of that which exists... 'silence,' in
+      which the great one is known... 'the bridal chamber' through the union...
+      'the light which does not set'... 'the eternal life.'"
+    location: "I 127.25-128.20"
+    finding: >
+      Baptism receives six correspondential names — garment (external truth),
+      confirmation (ratification of spiritual state), silence (mode of
+      apprehending the divine), bridal chamber (union of good and truth),
+      unfading light (permanent wisdom), eternal life. Each name is a
+      correspondence: the FUNCTION of the named thing is what baptism IS at
+      that level. One sacramental reality, six functional descriptions.
+    principles:
+      - constant_state_variable_form
+      - correspondence
+      - bridal_chamber
+    confidence: strong
+    notes: >
+      This is the most systematic example in the NHL of a single spiritual
+      event described through a cascade of correspondential names. Compare
+      VE On Baptism B's paired correspondences.
+
+  - id: TTr-007
+    category: correspondence
+    passage: >
+      "The Logos uses [the Demiurge] as a hand... and as a mouth with
+      which he would say the things which are necessary."
+    location: "I 100.30-101.5"
+    finding: >
+      The Demiurge is described through body-part correspondences: hand
+      (instrument of action) and mouth (instrument of expression). The Logos
+      operates THROUGH the Demiurge as the soul operates through the body's
+      members — inside→outside, spiritual→natural.
+    principles:
+      - correspondence
+      - influx
+      - divine_human
+    confidence: strong
+    notes: >
+      This is not a metaphor for control but a description of vertical
+      causality: the Logos is the interior agent, the Demiurge is the
+      ultimate instrument.
+
+  - id: TTr-008
+    category: correspondence
+    passage: >
+      "The aeons... are like a fetus, for they were not yet grown to maturity...
+      and like a seed, so that what would come to be was already in the seed."
+    location: "I 63.30-64.15"
+    finding: >
+      Aeons described through seed and fetus correspondences — both natural
+      objects whose FUNCTION is to contain a complete template in undeveloped
+      form. The seed IS the tree in potentia; the fetus IS the person in
+      potentia. Both ground the correspondence in organic reality, not
+      arbitrary symbol.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      Seed correspondence is one of the most pervasive in the NHL —
+      see also GT Sayings 9 (sower), 20 (mustard seed), GP on seeds of
+      the Holy Spirit.

@@ -1,0 +1,83 @@
+tractate: "X,1"
+title: "Marsanes"
+filename: "X_1_marsanes.md"
+status: complete
+richness: moderate
+
+summary: >
+  A heavily damaged but conceptually ambitious Sethian text featuring
+  thirteen seals as levels of reality, alphabet mysticism mapping
+  vowels and consonants to divine beings and aeonic levels, "soul-
+  garments" as the likenesses of the "simple ones," and extensive
+  number mysticism. The most systematic attempt in the NHL to create
+  a complete map between phonemic, numerical, and spiritual realities.
+
+findings:
+  - id: Mars-001
+    category: structural_principle
+    passage: >
+      Thirteen seals as ascending levels of reality through which
+      Marsanes travels.
+    location: "X 2-10"
+    finding: >
+      Thirteen seals = thirteen discrete levels of reality. Each
+      seal marks a boundary between degrees. The ascent through
+      seals recapitulates the chain of discrete degrees — each
+      level is complete in itself and must be traversed sequentially.
+      The "seal" metaphor suggests that each level has its own
+      authentication (you must have the seal to pass through).
+    principles:
+      - discrete_degrees
+    confidence: moderate
+    notes: >
+      Thirteen levels is more fine-grained than the standard three
+      degrees, suggesting subdivisions within each major degree.
+      Compare the seven heavens of ApPaul and the twelve hebdomads
+      of 1AJ — different numbering systems for the same vertical
+      axis.
+
+  - id: Mars-002
+    category: correspondence
+    passage: >
+      Alphabet mysticism: vowels and consonants mapped to divine
+      beings and aeonic levels.
+    location: "X 26-42"
+    finding: >
+      Vowels correspond to divine beings; consonants to aeonic
+      structures. The alphabet IS a correspondence map — each
+      letter is not an arbitrary sign but the natural-degree
+      expression (the sound-form) of a spiritual reality. This
+      is phonemic correspondence: the qualities of sound (open
+      vowel, stopped consonant, aspirated, etc.) correspond to
+      qualities of spiritual beings.
+    principles:
+      - correspondence
+      - ancient_word
+    confidence: moderate
+    notes: >
+      Compare GE's vowel-sequence hymns. Both texts treat phonemes
+      as correspondences, not arbitrary symbols. This tradition of
+      sound-correspondence may derive from the same Ancient Word
+      substrate that produced the Hebrew letter-mysticism of later
+      kabbalah.
+
+  - id: Mars-003
+    category: correspondence
+    passage: >
+      "Soul-garments, the likenesses of the simple ones."
+    location: "X (fragmentary section)"
+    finding: >
+      Soul-garments = the external form of spiritual simplicity.
+      The "simple ones" (those in celestial good, without
+      complexity of self-reflection) have garments (natural-
+      degree expressions) that are "likenesses" — correspondences.
+      The garment IS the soul made visible at the outer degree.
+    principles:
+      - correspondence
+    confidence: tentative
+    notes: >
+      The fragmentary state makes precise interpretation difficult.
+      "Simple ones" may correspond to Swedenborg's celestial angels
+      who operate from love rather than truth-reasoning. Their
+      "garments" would then correspond to the simplicity of their
+      external expression.

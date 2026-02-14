@@ -1,0 +1,82 @@
+tractate: "BG 1"
+title: "The Gospel of Mary"
+filename: "BG_1_gospel_mary.md"
+status: complete
+richness: moderate
+
+summary: >
+  A post-resurrection dialogue in which Mary Magdalene recounts a vision
+  of the soul's ascent past four powers. Contains the critical statement
+  "The Son of Man is within you" and the remarkable disclosure that the
+  vision came "not through the soul nor through the spirit, but the mind
+  which is between the two" — identifying a perception faculty operating
+  between discrete degrees. The four-power ascent with seven sub-forms
+  is a systematic correspondential map of spiritual obstacles.
+
+findings:
+  - id: GM-001
+    category: explicit_statement
+    passage: >
+      "The Son of Man is within you."
+    location: "BG 8.15-18"
+    finding: >
+      The divine-human is located within, not above. The Son of Man
+      is not a being to be found externally but a reality present
+      within each person. This is influx operating from within — the
+      divine enters through the interior, not through external
+      encounter.
+    principles:
+      - influx
+      - divine_human
+    confidence: strong
+    notes: >
+      Compare GTh Saying 3 ("the kingdom is inside of you") and
+      Silvanus ("Christ is within you"). The interiority of the
+      divine-human is consistently stated across NHL traditions.
+
+  - id: GM-002
+    category: structural_principle
+    passage: >
+      "I did not see you descending, but now I see you ascending.
+      Why do you lie, since you belong to me?" The soul answered and
+      said, "I saw you. You did not see me nor recognize me. I served
+      you as a garment, and you did not know me."
+    location: "BG 15.1-17.7"
+    finding: >
+      The soul's ascent past the four powers. Each power (Darkness,
+      Desire, Ignorance, Wrath) accuses the soul of belonging to it.
+      The soul's response to Desire is revelatory: "I served you as
+      a garment, and you did not know me" — the soul WORE desire as
+      a garment (external covering at the natural level) while the
+      soul itself was hidden within. The garment correspondence is
+      being used by the soul itself as an argument for freedom.
+    principles:
+      - correspondence
+      - discrete_degrees
+      - regeneration
+    confidence: strong
+    notes: >
+      The four powers + seven sub-forms map a systematic landscape
+      of spiritual obstacles organized as an ascent sequence.
+
+  - id: GM-003
+    category: structural_principle
+    passage: >
+      "Not through the soul nor through the spirit, but the mind
+      which is between the two."
+    location: "BG 10.14-20"
+    finding: >
+      The vision is perceived through a faculty BETWEEN soul and
+      spirit — a perception organ operating at the boundary between
+      discrete degrees. Soul = lower faculty, spirit = higher
+      faculty, mind = intermediate. This is three discrete degrees
+      with the mind as the mediating interface — not a continuum
+      but distinct levels with a specific junction point.
+    principles:
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      This passage identifies three distinct perception faculties
+      (soul, mind, spirit) arranged as discrete degrees. Compare
+      Zost's perception-faculty correspondence and Allog's graduated
+      meditation.

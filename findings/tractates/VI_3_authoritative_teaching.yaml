@@ -1,0 +1,107 @@
+tractate: "VI,3"
+title: "Authoritative Teaching"
+filename: "VI_3_authoritative_teaching.md"
+status: complete
+richness: rich
+
+summary: >
+  An extended allegory of the soul's fall, entrapment, and redemption,
+  rich in correspondences. The text's most distinctive features are
+  its DUAL correspondence for the Word (food AND medicine — two
+  functions of one reality) and its extended fishing allegory where
+  the adversary uses varied bait to catch the soul. The bridal chamber
+  = union of good and truth is explicitly developed. The "true garment
+  within" establishes the garment correspondence at the spiritual level.
+
+findings:
+  - id: AT-001
+    category: correspondence
+    passage: >
+      "The Word... nourishment... the Word is also a medicine."
+    location: "VI 31.1-15"
+    finding: >
+      The Word as BOTH food and medicine — two distinct natural
+      correspondences for a single spiritual reality. Food = what
+      sustains ongoing life (truth as regular nourishment), medicine =
+      what heals disease (truth as corrective for spiritual error).
+      One Word, two functional expressions depending on the receiver's
+      condition — healthy receiver needs food, sick receiver needs
+      medicine. This is constant state, variable form applied to
+      the Word's function.
+    principles:
+      - correspondence
+      - constant_state_variable_form
+    confidence: strong
+    notes: >
+      The food/medicine dual correspondence is functionally precise:
+      the receiver's STATE determines which aspect of the Word
+      activates. The Word itself doesn't change — the reception does.
+
+  - id: AT-002
+    category: correspondence
+    passage: >
+      "The adversary... like a fisherman... casting many kinds of food
+      before the fish... whatever [fish] he may find coming toward his
+      odor, he destroys it."
+    location: "VI 29.1-30.5"
+    finding: >
+      Extended fishing allegory: the adversary as fisherman, the soul
+      as fish, various sensory pleasures as bait. Different baits for
+      different prey — the adversary adjusts the lure to the soul's
+      particular weakness. The hook is hidden within the bait — the
+      destructive principle concealed within the attractive form. This
+      is a correspondential anatomy of temptation: the natural pleasure
+      IS the hook's concealment.
+    principles:
+      - correspondence
+      - proprium
+    confidence: strong
+    notes: >
+      The varied-bait detail is significant — the adversary knows
+      the soul's specific affection and tailors the temptation
+      accordingly. This is the ruling love being targeted through
+      its particular natural expression.
+
+  - id: AT-003
+    category: correspondence
+    passage: >
+      "Her true garment clothes her within... she is covered with
+      beauty of mind more than all external appearances."
+    location: "VI 32.16-25"
+    finding: >
+      The true garment is INTERNAL — it clothes the soul within, not
+      as external covering but as internal quality. "Beauty of mind"
+      surpasses all external appearances. The garment correspondence
+      operates at two levels: outer garment = external truths/appearances,
+      inner garment = spiritual understanding/beauty. The inside→outside
+      direction is explicit: the true covering is internal.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      This inverts the usual garment imagery — "she is clothed within"
+      rather than without. The inner garment IS the spiritual reality;
+      the outer garment is merely its natural-degree expression.
+
+  - id: AT-004
+    category: correspondence
+    passage: >
+      "She found her rising... she ran upward to her bridal chamber...
+      her bridegroom... they became a single life."
+    location: "VI 34.32-35.15"
+    finding: >
+      Bridal chamber as the union of good and truth — the soul (good/
+      receptive) reunites with her bridegroom (truth/active) and they
+      become "a single life." Running upward = ascending through degrees.
+      The union is not metaphorical marriage but the actual joining of
+      will and understanding into one operational reality.
+    principles:
+      - bridal_chamber
+      - correspondence
+      - regeneration
+    confidence: strong
+    notes: >
+      The bridal chamber correspondence is most fully developed in GP
+      but here the narrative enacts it: fall → entrapment → recognition →
+      ascent → reunion = the complete regeneration cycle.

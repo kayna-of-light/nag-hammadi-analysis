@@ -1,0 +1,42 @@
+tractate: "VI,5"
+title: "Plato, Republic 588A-589B"
+filename: "VI_5_plato_republic.md"
+status: complete
+richness: sparse
+
+summary: >
+  A Coptic translation of a short excerpt from Plato's Republic — the
+  trichotomous soul image (many-headed beast, lion, man inside a human
+  shell). Not Gnostic but included in the Nag Hammadi library, likely
+  because the three-part soul doctrine was read as confirming discrete
+  degrees of the human interior. Minimal but structurally significant.
+
+findings:
+  - id: Plato-001
+    category: structural_principle
+    passage: >
+      The trichotomous soul: a many-headed beast (appetites/baser
+      passions), a lion (spiritedness/courage), and a man (reason)
+      — all enclosed within a human outer form.
+    location: "VI 48-51"
+    finding: >
+      Three discrete interior levels within one human form: the
+      appetitive (natural degree — many and fragmented), the
+      spirited (intermediate degree — singular but forceful), and
+      the rational (highest degree — the true self). The "human
+      shell" enclosing all three IS the body as garment: the
+      exterior form that makes the multiplicity of interior degrees
+      appear as one person. Plato's image IS discrete degrees
+      presented as anatomy.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: moderate
+    notes: >
+      The inclusion of this Platonic excerpt in the NHL library
+      suggests the community read it as confirming their own
+      anthropological framework. The many-headed beast = the
+      proprium's multiplicity; the man within = the spiritual
+      degree. The lion occupies roughly the same position as
+      Swedenborg's "natural-rational" — between the lowest and
+      highest.
