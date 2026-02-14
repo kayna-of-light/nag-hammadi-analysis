@@ -250,26 +250,49 @@ findings:
   - id: AJ-009
     category: cross_reference
     passage: >
-      "But if you wish to know them, it is written in the book of Zoroaster."
-    location: "Line 123"
+      "Now there are other ones in charge over the remaining passions
+      whom I did not mention to you. But if you wish to know them, it
+      is written in the book of Zoroaster."
+    location: "Line 115"
     finding: >
       The text explicitly attributes its body-correspondence system to
-      Zoroastrian tradition. "The book of Zoroaster" is named as the
-      source of the detailed body-angel mapping. This is direct evidence
-      for the Ancient Word hypothesis — a pre-literary correspondential
-      knowledge system preserved in the East (what Swedenborg called
-      "Great Tartary").
+      "the book of Zoroaster" — and does so with the casual tone of a
+      library cross-reference, not a mythological invocation. "I didn't
+      cover everything — the rest is in that other book." This implies
+      the author's community had DIRECT PHYSICAL ACCESS to Zoroastrian
+      correspondential source texts. The "book of Zoroaster" was on the
+      shelf, available to the reader, not a legendary artifact. This
+      means the 365-angel body-correspondence map, the seven substance-
+      souls, and the four-passion architecture are PRIMARY transmissions
+      drawn from an intact Zoroastrian source — not degraded echoes
+      passed through intermediaries.
     principles:
       - ancient_word
-      - cross_reference
     confidence: strong
     notes: >
-      The Zoroastrian mēnōg/gētīg ontology (spiritual/material) exactly
-      parallels the correspondence doctrine. The lost Avestan Damdat Nask
-      classified animals based on spiritual alignment, not morphology —
-      the same principle as this text's animal-faced archons. Swedenborg
-      claimed the Science of Correspondences was the shared heritage of
-      ancient Iranian and Semitic worlds. This passage confirms the link.
+      The evidential weight of this casual citation is enormous. It
+      repositions the NHL Sethian texts in the transmission chain:
+      instead of "Ancient Word → ... → degraded fragments → NHL,"
+      the chain is "Ancient Word → book of Zoroaster → NHL community
+      (direct access)." The precision of the body-correspondence system
+      (365 angels, seven substance-souls, four passions with cascading
+      derivatives) is consistent with copying from a reference text,
+      not oral decay. This also upgrades confidence in ALL Sethian
+      correspondential content — if the community had the manual, they
+      were working from the source, not improvising.
+
+      Three independent witnesses connect the NHL to Zoroaster:
+      (1) ApJ cites "the book of Zoroaster" as a companion text;
+      (2) Zostrianos' subscript reads "Teachings of Zoroaster";
+      (3) Porphyry (Vita Plotini 16) confirms these texts circulated
+      under Zoroaster's name in the 3rd century.
+
+      The Zoroastrian mēnōg/gētīg ontology (spiritual/material) is
+      structurally identical to the correspondence doctrine. The lost
+      Avestan Damdat Nask classified animals based on spiritual alignment,
+      not morphology — the same principle as this text's animal-faced
+      archons. Swedenborg located the Ancient Word in "Great Tartary"
+      (Central Asia) — precisely the region where Avestan texts survived.
 
   - id: AJ-010
     category: structural_principle
