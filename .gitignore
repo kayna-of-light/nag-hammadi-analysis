@@ -1,0 +1,24 @@
+# Output files (regenerated from source)
+output/*.md
+output/*.txt
+output/*.tex
+
+# Keep final PDF
+!output/Proto-Luke_Jamesian_Protograph.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.conda/
+
+# Logs
+logs/
+
+# IDE
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
