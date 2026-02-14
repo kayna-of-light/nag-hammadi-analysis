@@ -262,7 +262,7 @@ def collect_files() -> list[Path]:
     files = []
 
     # Front matter
-    fm_dir = RAW_DIR / "front_matter"
+    fm_dir = RAW_DIR / "supplementary"
     if fm_dir.exists():
         files.extend(sorted(p.relative_to(RAW_DIR) for p in fm_dir.glob("*.md")))
 

@@ -5,7 +5,7 @@ from pathlib import Path
 from collections import Counter
 
 TRACTATE_DIR = Path("output/tractates")
-FRONT_MATTER_DIR = Path("output/front_matter")
+FRONT_MATTER_DIR = Path("output/supplementary")
 
 artifacts = Counter()
 
