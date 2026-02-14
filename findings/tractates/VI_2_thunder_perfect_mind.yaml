@@ -1,0 +1,98 @@
+tractate: "VI,2"
+title: "The Thunder, Perfect Mind"
+filename: "VI_2_thunder_perfect_mind.md"
+status: complete
+richness: rich
+
+summary: >
+  A unique text — entirely structured as paradoxical self-proclamation by a
+  feminine divine voice. Scholars have called it "difficult to classify" because
+  it is not Christian, Jewish, or gnostic in any standard sense. Read through the
+  correspondential lens, it is luminously clear: a single divine reality speaking
+  from every degree simultaneously. The paradoxes ARE the point — the same reality
+  appears opposite depending on which degree the perceiver occupies. Thunder
+  Perfect Mind is the doctrine of opposite sense performed as poetry.
+
+findings:
+  - id: TH-001
+    category: structural_principle
+    passage: >
+      "I am the first and the last. I am the honored one and the scorned one.
+      I am the whore and the holy one. I am the wife and the virgin.
+      I am the mother and the daughter."
+    location: "Opening proclamations"
+    finding: >
+      Each pair asserts UNITY of apparent opposites. The speaker IS both
+      ends of every duality. This is opposite sense as ontological structure:
+      the same divine reality appears as "the whore" to one perceiver and
+      "the holy one" to another — not because it changes but because
+      perception changes. The same influx that is holiness in one who
+      receives it is offense in one who resists.
+    principles:
+      - opposite_sense
+      - constant_state_variable_form
+    confidence: strong
+    notes: >
+      The entire text is structured this way — not a handful of paradoxes
+      but a sustained 200+ line performance of the principle.
+
+  - id: TH-002
+    category: explicit_statement
+    passage: >
+      "For what is inside of you is what is outside of you, and the one
+      who fashions you on the outside is the one who shaped the inside
+      of you."
+    location: "Middle section"
+    finding: >
+      Inside = outside because the same maker shaped both. The outside
+      EXPRESSES the inside — it is not a separate creation. This is the
+      correspondential principle of inside→outside causation stated as
+      autobiography by the divine voice.
+    principles:
+      - correspondence
+      - influx
+    confidence: strong
+    notes: >
+      Cf. Thomas Saying 89 (inside/outside of the cup). Thunder states
+      it as self-revelation; Thomas states it as teaching.
+
+  - id: TH-003
+    category: structural_principle
+    passage: >
+      "I am lust in outward appearance, and interior self-control
+      exists within me."
+    location: "Middle section"
+    finding: >
+      The same reality appears as "lust" at the natural degree (outward
+      appearance) and as "self-control" at the spiritual degree (interior).
+      Opposite sense applied to a single being: what the natural eye sees
+      as desire, the spiritual eye sees as mastery. The text does not say
+      "despite appearing lustful I am self-controlled." It says: the lust
+      IS the self-control perceived from outside.
+    principles:
+      - opposite_sense
+      - discrete_degrees
+    confidence: moderate
+    notes: >
+      This is a challenging passage that resists easy readings. The
+      correspondential interpretation makes it transparent — but it
+      requires accepting that natural and spiritual perceptions can
+      be genuinely opposite.
+
+  - id: TH-004
+    category: structural_principle
+    passage: >
+      "I am the one whom they call Life, and you have called Death."
+    location: "Middle section"
+    finding: >
+      "They" call her Life; "you" call her Death. Same reality, different
+      names based on the perceiver's state. Constant state (the speaker
+      does not change), variable form (Life to some, Death to others).
+      The naming reveals the perceiver, not the perceived.
+    principles:
+      - constant_state_variable_form
+    confidence: strong
+    notes: >
+      This applies broadly to the entire text: every paradox reveals
+      the perceiver's degree of reception, not a contradiction in
+      the speaker.

@@ -1,0 +1,115 @@
+tractate: "XIII,1"
+title: "Trimorphic Protennoia"
+filename: "XIII_1_trimorphic_protennoia.md"
+status: in_progress
+richness: rich
+
+summary: >
+  Three descents of divine First Thought (Protennoia) — as Voice, Speech,
+  and Word. Each descent is more determinate than the last, mirroring
+  discrete degrees of influx. Voice gives shape; Speech gives spirit/breath;
+  Word takes human form and confers the Five Seals. Genetically related to
+  the Johannine prologue. The text contains both extraordinary correspondential
+  material and Christianized editorial layers that break the pattern.
+
+findings:
+  - id: TP-001
+    category: structural_principle
+    passage: >
+      First subtractate: "I am the Voice... I cry out in everyone..."
+      Second subtractate: "I am the Speech..."
+      Third subtractate: "I am the Word... I put on Jesus..."
+    location: "Three main divisions"
+    finding: >
+      Voice → Speech → Word = three descents of increasing articulateness.
+      Voice (sound without differentiation) → Speech (structured communication)
+      → Word (specific meaning embodied). This is discrete degrees applied
+      to divine self-revelation: the same Protennoia descending through
+      celestial (Voice), spiritual (Speech), and natural (Word) degrees.
+      Each descent is the same reality expressed at a more determinate level.
+    principles:
+      - discrete_degrees
+      - influx
+      - constant_state_variable_form
+    confidence: strong
+    notes: >
+      The parallel with Pronoia's three descents in Apocryphon of John
+      confirms this as an independent tradition, not unique to this text.
+
+  - id: TP-002
+    category: correspondence
+    passage: >
+      "I am the life of my Epinoia that dwells within every Power and
+      every eternal movement, and in invisible Lights and within the
+      Archons and Angels and Demons..."
+    location: "First subtractate"
+    finding: >
+      Protennoia dwells within EVERY level — Powers, Lights, Archons, Angels,
+      Demons. Influx is not selective; it flows through every degree of
+      creation. The divine First Thought is present even within the archons
+      and demons — not as their possession but as the life that sustains
+      them. They exist BY her, whether or not they know it.
+    principles:
+      - influx
+    confidence: strong
+    notes: >
+      Cf. Thomas 77 ("Split a piece of wood, and I am there"). The divine
+      presence in all things is stated here as autobiography.
+
+  - id: TP-003
+    category: correspondence
+    passage: >
+      "A hidden Light, bearing a Fruit of Life, pouring forth a Living
+      Water from the invisible, unpolluted, immeasurable Spring."
+    location: "First subtractate"
+    finding: >
+      Light → Fruit → Water → Spring. A chain of correspondences:
+      hidden light (concealed wisdom), fruit of life (good produced by wisdom),
+      living water (truth flowing from the source), immeasurable spring
+      (the infinite origin). Each image adds specificity to the same reality —
+      the divine outpouring through successive correspondential forms.
+    principles:
+      - correspondence
+      - influx
+    confidence: strong
+    notes: ""
+
+  - id: TP-004
+    category: correspondence
+    passage: >
+      "I wore everyone's garment and I hid myself within them, and they
+      did not know the one who empowers me."
+    location: "Third subtractate"
+    finding: >
+      Garments = external forms / natural appearances. The Word "wore
+      everyone's garment" — took on the external form appropriate to each
+      receiver. Hidden within them = the spiritual reality concealed within
+      the natural form. "They did not know the one who empowers me" = the
+      natural perceiver sees the garment (form) but not what animates it.
+    principles:
+      - correspondence
+      - constant_state_variable_form
+      - accommodation
+    confidence: strong
+    notes: ""
+
+  - id: TP-005
+    category: anomaly
+    passage: >
+      "As for me, I put on Jesus. I bore him from the cursed tree, and
+      established him in the dwelling places of his Father."
+    location: "Third subtractate"
+    finding: >
+      The Christological identification feels patched-on — an editorial
+      layer superimposed on the Voice/Speech/Word structure. The earlier
+      subtractates operate at a universal level (Protennoia in all things);
+      the sudden identification with the specific historical Jesus narrows
+      the scope. This may be a Christianizing interpolation that adapts
+      an originally non-Christian Sethian text.
+    principles: []
+    confidence: moderate
+    notes: >
+      This does not invalidate the correspondential content of the first
+      two subtractates. The editorial layer is identifiable because it
+      breaks the pattern — a useful diagnostic for distinguishing original
+      correspondential material from later institutional additions.

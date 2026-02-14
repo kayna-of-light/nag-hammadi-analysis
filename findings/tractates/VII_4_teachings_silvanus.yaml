@@ -1,0 +1,139 @@
+tractate: "VII,4"
+title: "The Teachings of Silvanus"
+filename: "VII_4_teachings_silvanus.md"
+status: in_progress
+richness: rich
+
+summary: >
+  Explicitly NOT gnostic — anti-gnostic polemic, affirms divine creation,
+  rejects demiurgic dualism. Yet deploys the correspondential vocabulary
+  with complete fluency. This confirms that the correspondential system is
+  NOT a gnostic invention — it is an older substrate that gnostic AND
+  non-gnostic writers both drew upon. Silvanus explicitly uses the word
+  "correspondence," teaches a threefold human (body/soul/mind = earth/formed/
+  divine image), and identifies Christ as the Tree of Life. Reads like
+  wisdom literature — practical guidance for spiritual development, grounded
+  in correspondential understanding.
+
+findings:
+  - id: TS-001
+    category: explicit_statement
+    passage: >
+      "This image reveals the true likeness in correspondence to that
+      which is revealed."
+    location: "Middle section"
+    finding: >
+      One of the only ancient texts to use the word "correspondence"
+      explicitly in this sense. The image (natural form) reveals the
+      true likeness (spiritual reality) "in correspondence" — the natural
+      IS the spiritual made visible through the correspondential relationship.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      The Robinson translation gives "correspondence" directly. This is
+      the framework's own vocabulary appearing in an ancient text.
+
+  - id: TS-002
+    category: explicit_statement
+    passage: >
+      "Everything which is visible is a copy of that which is hidden."
+    location: "Middle section"
+    finding: >
+      Direct statement of the correspondential principle: the visible
+      world is a copy (expression in ultimates) of the hidden (spiritual)
+      world. "Copy" here means not arbitrary reproduction but organic
+      expression — the visible IS the hidden at the natural degree.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: ""
+
+  - id: TS-003
+    category: structural_principle
+    passage: >
+      "The body has come into being from the earth with a worldly
+      substance... The formed, for the sake of the soul, has come into
+      being from the thought of the Divine. The created, however, is the
+      mind, which has come into being in conformity with the image of God."
+    location: "Early section"
+    finding: >
+      Explicit threefold human anthropology:
+      1. Body — from earth (natural degree)
+      2. Soul — formed by divine thought (spiritual degree)
+      3. Mind — in conformity with divine image (celestial degree)
+
+      Three discrete degrees in the human being, each from a different origin.
+      This is not a spectrum but three distinct levels: earth/thought/image.
+    principles:
+      - discrete_degrees
+      - divine_human
+    confidence: strong
+    notes: >
+      Silvanus then teaches that casting out the mind makes you "psychic"
+      (soul-level only), and casting out even the soul makes you "fleshly"
+      (body-level only). The degrees can be lost — and the loss is
+      described as descent through discrete levels.
+
+  - id: TS-004
+    category: correspondence
+    passage: >
+      "The Tree of Life is Christ. He is Wisdom. He is also the Word.
+      He is the Life, the Power, and the Door."
+    location: "Late section"
+    finding: >
+      Tree of Life = Christ = Wisdom = Word = Life = Power = Door.
+      Multiple correspondences converging on a single reality. The Tree
+      of Life is not a separate image from Wisdom, the Word, or the Door —
+      they are all the same spiritual reality expressed through different
+      natural correspondences. Tree (living growth), wisdom (intellectual
+      illumination), word (communicable truth), door (access/opening) —
+      each captures a different aspect of the one reality.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      Contrast with Apocryphon of John's archontic "tree of life" whose
+      root is bitter and fruit is death (opposite sense). Silvanus's tree
+      is the genuine article; Ap. John's is the proprium's counterfeit.
+
+  - id: TS-005
+    category: correspondence
+    passage: >
+      "Cast out the animal nature which is within you, and do not
+      allow base thought to enter you."
+    location: "Early section"
+    finding: >
+      Animal nature = affections of the natural will that have not been
+      subordinated to spiritual guidance. Consistent with Philip's
+      "animals in human form" = affections. The instruction is not
+      ascetic suppression but spiritual reorientation: the animal nature
+      is within, and it must be cast out — replaced by the mind's guidance.
+    principles:
+      - correspondence
+      - ruling_love
+    confidence: strong
+    notes: ""
+
+  - id: TS-006
+    category: correspondence
+    passage: >
+      "You were a temple, but you have made yourself a tomb. Cease being
+      a tomb, and become again a temple."
+    location: "Late section"
+    finding: >
+      Temple = the human as vessel of the divine (receiving influx).
+      Tomb = the human as container of the dead (proprium without spirit).
+      The same structure (the person) can be either, depending on whether
+      it is open to influx (temple) or closed (tomb). This is opposite
+      sense applied to the human being itself.
+    principles:
+      - correspondence
+      - opposite_sense
+      - proprium
+    confidence: strong
+    notes: >
+      Cf. Apocryphon of John: "This is the tomb of the newly-formed body."
+      The body-as-tomb is a shared image, but Silvanus adds the crucial
+      dynamic: you can become a temple again. The tomb is not permanent.

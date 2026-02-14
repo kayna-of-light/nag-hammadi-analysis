@@ -1,0 +1,114 @@
+tractate: "II,4"
+title: "The Hypostasis of the Archons"
+filename: "II_4_hypostasis_archons.md"
+status: in_progress
+richness: rich
+
+summary: >
+  The proprium personified and narrated. Yaldabaoth is blind, says "I am God,"
+  and is immediately corrected. The spiritual Woman awakens Adam, then becomes
+  a tree when the archons pursue her — she eludes them and leaves only her shadow.
+  The snake is the Instructor (feminine spiritual principle teaching through
+  the sensory). Deep sleep is explicitly identified as ignorance. Norea refuses
+  the archons: "I am not your descendant." Rich in correspondential content
+  with a clear narrative structure.
+
+findings:
+  - id: HA-001
+    category: structural_principle
+    passage: >
+      "Their chief is blind; because of his power and his ignorance and
+      his arrogance he said, with his power, 'It is I who am God; there
+      is none apart from me.'"
+    location: "Opening"
+    finding: >
+      The proprium's defining act: blind (ignorant of what is above),
+      powerful (possessing influx from the mother), arrogant (claiming
+      the received power as his own). The blindness is not incidental —
+      it is BECAUSE of his power that he is blind. The more influx the
+      proprium receives, the more it thinks it is the source.
+    principles:
+      - proprium
+    confidence: strong
+    notes: >
+      The immediate response: "You are mistaken, Samael" — "god of the
+      blind." The divine names the proprium's condition in its name.
+
+  - id: HA-002
+    category: correspondence
+    passage: >
+      "The spiritual woman came to him... she became a tree, and left
+      before them her shadowy reflection."
+    location: "Garden narrative"
+    finding: >
+      The spiritual Woman (wisdom/Epinoia) eludes the archons by becoming
+      a tree — she transforms into a correspondential form they cannot
+      seize. The "shadowy reflection" left behind is what the archons
+      interact with — they possess only the shadow (natural-sense appearance,
+      the empty form without the living interior). The spiritual reality
+      hides in plain sight by becoming a natural form.
+    principles:
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      Trees = intelligence/states of mind. The Woman becoming a tree means
+      wisdom embodying itself as intelligence — still present but in a form
+      the archons (proprium's powers) cannot grasp.
+
+  - id: HA-003
+    category: explicit_statement
+    passage: >
+      "The deep sleep that they caused to fall upon him... is Ignorance."
+    location: "Garden narrative"
+    finding: >
+      The text explicitly decodes the correspondence: deep sleep = Ignorance.
+      Not metaphor, not simile — IS. The Adamic sleep of Genesis is
+      identified as the state of ignorance that the archons impose to
+      maintain control. This is a self-interpreting correspondence.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      Cf. Apocryphon of John on the same motif. The identification of
+      sleep with ignorance is consistent across multiple NHL texts.
+
+  - id: HA-004
+    category: correspondence
+    passage: >
+      "The snake, the wiser than all the animals... the Instructor came
+      in the form of the snake."
+    location: "Garden narrative"
+    finding: >
+      The snake = the Instructor. This is a feminine spiritual principle
+      teaching through the sensory faculty (the snake as the most
+      "earthy" of creatures). Not deception but instruction — the snake
+      correspondence in positive sense (prudence, the sensory mind used
+      wisely). The snake teaches Eve to eat from the tree of knowledge,
+      which in this text is the liberating act.
+    principles:
+      - correspondence
+      - opposite_sense
+    confidence: strong
+    notes: >
+      Opposite sense: Genesis reads the snake negatively; this text reads
+      the same image positively. Both readings are correspondentially
+      valid depending on orientation.
+
+  - id: HA-005
+    category: structural_principle
+    passage: >
+      "It is I! I am the part of my mother... I was not your descendant;
+      rather it is from the world above that I am come."
+    location: "Norea section"
+    finding: >
+      Norea's refusal to submit to the archons is the refusal of the
+      spiritual human to accept the proprium's authority. "I am not your
+      descendant" = my origin is not in the natural/archontic creation;
+      I come from above. The spiritual dimension of the person knows its
+      origin and refuses to be claimed by the natural powers.
+    principles:
+      - proprium
+      - discrete_degrees
+    confidence: strong
+    notes: ""
