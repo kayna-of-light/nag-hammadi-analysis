@@ -1,0 +1,464 @@
+# Trimorphic Protennoia
+
+**Codex Reference**: XIII,1
+**Translated by**: John D. Turner
+**Source**: Robinson, J.M. (ed.), *The Nag Hammadi Library in English*, 3rd rev. ed. (HarperSanFrancisco, 1990), p. 511ff.
+
+---
+
+Introduced and translated by 
+Jo hn D. Tu rn er
+Trimorphic Protennoia (“ The Three-formed [Divine] First Thought” ) is, in its 
+form, a Barbeloite treatise which has undergone both Sethian and Christian revi
+sions. It is roughly contemporaneous with The Apocryphon of John (mid-second 
+century C.E.), which it resembles in certain interesting ways, and is distinguished 
+by a number of striking parallels to the Fourth Gospel and especially its pro
+logue.
+The underlying basis of Trimorphic Protennoia can be seen in the series consis
+tent “ I am” self-predicatory aretalogies, in which Protennoia recites her divine 
+identity and role in the creation and salvation of the world. These are structured 
+into an introductory aretalogy (35,1-32) identifying Protennoia as the divine 
+First Thought followed by three similar aretalogies in the same style, the second 
+and third of which form separately titled subtractates in the Trimorphic Proten
+noia: First, Protennoia is the Voice of the First Thought who descends first as 
+light into darkness to give shape to her fallen members (35,32-36,27; 40,29-41,1). 
+Second, Protennoia is the Speech of the Thought who descends to empower her 
+fallen members by giving them spirit or breadth (42,4-27; 45,2-12; 45,21-46,3). 
+Third, Protennoia is the Word or Logos of the Thought who descends in the like
+ness of the powers, assumes a human appearance, introduces the illuminatory 
+baptismal rite of the Five Seals and restores her members into the light (46,5-6; 
+47,5-22; 49,15-22; 50,9-12,18-20).
+One cannot fail to notice here a striking resemblance, not only to the language 
+and structure of the Johannine prologue’s narration of the descents of the Logos, 
+but also to the similar first-person aretalogy on the three descents of Pronoia 
+found at the end of the longer version of the Apocryphon of John 
+(11,7:30,11-31,25), with which the Trimorphic Protennoia may even be geneti
+cally related.
+The underlying tripartite aretalogy has been expanded by means of six n arra
+tive doctrinal insertions (36,27-40,29; 41,1-42,2; 42,27-45,2; 46,7-47,5; 
+47,22-49,15; 49,22-50,9). Three of these insertions, whose third-person ex
+pository prose breaks the otherwise smooth flow of Protennoia’s self-referential 
+speech, are designated as “ mysteries” which Protennoia is said to have commu
+nicated to the sons of the light.
+Essentially, the scheme of the divine First Thought’s triple descent into this 
+world is a derivative of speculation at home in the Hellenistic Jewish wisdom 
+schools responsible for the personification of the figure of the divine wisdom and 
+the development of the myth concerning her role in the creation of the world and 
+in the subsequent enlightenment of mankind as it is found especially in 1 Enoch 
+42, Sirach 24, Wisdom 7-8, and in Philo. It seems that Sophia’s two unsuccessful 
+descents in 1 Enoch 42 and her successful one in Sirach 24 were combined into
+
+
+a total of three descents into the lower world, two resulting in partial liberation, 
+and the third resulting in the final awakening and salvation of those who received 
+her. This is the same pattern that underlies the Johannine prologue, which, 
+though not a Barbeloite composition, was likely also a product of a similar form 
+of wisdom speculation. The unique contribution of the Barbeloites seems to have 
+been the interpretation of the three revelatory descents: first, in terms of a primal 
+divine triad of Father, Mother and Son, second in terms of a theory of progres
+sive revelation in which each successive appearance of the revealer is charac
+terized by an increasing degree of articulateness and finality (Voice, Speech, and 
+Word) and third, the association of the final descent with a Logos figure who 
+confers final enlightenment in the form of transcendentalized baptismal rite 
+called the Five Seals.
+It is clear that the Trimorphic Protennoia has been secondarily Christianized. 
+Three glosses identifying the Autogenes Son as the Christ in the first subtractate 
+(37,[31]; 38,22; 39,6-7) probably derive from the traditional Barbeloite theogonical material common to The Apocryphon of John and Irenaeus, Haer. 1.29, 
+upon which the author drew for the first narrative insertion. These Christian 
+glosses would have been suggested by an equation between the Christian desig
+nation of Christ as monogenes and what seems to be a pre-Christian designation 
+for the third member of the Barbeloite Father-Mother-Son triad, namely the 
+Self-Begotten (autogenes) Son.
+The third subtractate narrates the incognito descent of Protennoia as the Word 
+disguised in the form of the sovereignties, powers, and angels, culminating in the 
+final revelation of herself in the human form of her members below, but it seems 
+to have been supplemented by an alien and tendentious Christological interpre
+tation. In the third subtractate, traditional Christological titles such as Christ, 
+Beloved, Son of God (i.e., “ Son of the Archigenetor” ) and Son of Man are po
+lemically interpreted in a consciously docetic fashion so as to suggest that these 
+titles were inappropriately applied to the human Jesus by the apostolic church. 
+By implication, the apostolic Jesus is shown actually to be the Christ of the evil 
+archons; the apostolic beloved is actually the Beloved of the archons; the 
+apostolic Son of God is the Son of the ignorant world creator; and the apostolic 
+Son of Man is only a human being among the sons of men.
+It is interesting that most of these reinterpretations of the Christology of the 
+apostolic church in the Trimorphic Protennoia seem to depend on key passages 
+from the Gospel of John to score their point in any acute fashion. It seems that 
+the key to the relationship between these two texts lies in the recognition that 
+Trimorphic Protennoia has undergone at least three stages of composition. First, 
+there was the original triad of the aretalogical self-predications of Protennoia as 
+Voice, Speech, and Word that were probably built up out of the Jewish wisdom 
+tradition and maybe out of The Apocryphon of John's similar Pronoia aretalogy 
+itself sometime during the first century C.E.; there is little here that seems 
+specifically gnostic or Christian or Sethian or Barbeloite. Second, this was sup
+plemented, whether by the same or by a different author, by various narrative 
+doctrinal passages based upon traditional Barbeloite theogonical materials simi
+lar to those of The Apocryphon of John and Irenaeus, Haer. 1.29. After cir
+culation as a mildly Christian Barbeloite text in this form, the third and last stage 
+of composition seems to have involved a deliberately polemical incorporation of
+
+Christian, specifically Johannine Christian, materials into the aretalogical por
+tion of the third subtractate. One might assign the third compositional stage of 
+Trimorphic Protennoia to the period of struggle over the interpretation of the 
+Christology of the Fourth Gospel witnessed by the New Testament letters of 
+John, perhaps the first quarter or half of the second century.
+XIII 35, 1-50, 24
+[I] am [Protennoia, the] Thought that 1 [dwells] in [the Light. I] am 
+the movement 1 that dwells in the [All, she in whom the] All takes 1 its 
+stand, [the first]-born 5 among those who [came to be, she who exists] 
+before 1 the All. [She (Protennoia) is called] by three names, although 
+she 1 dwells alone, [since she is perfect]. I am 1 invisible within the 
+Thought of the Invisible 1 One. I am revealed in the immeasurable, 10 
+ineffable (things). I am incomprehensible, 1 dwelling in the incompre
+hensible. I 1 move in every creature.
+I am the life 1 of my Epinoia that dwells within 1 every Power and 
+every eternal movement 15 and (in) invisible Lights and 1 within the Ar
+chons and Angels and 1 Demons and every soul dwelling 1 in [Tartaros] 
+and (in) every material soul. 1 I dwell in those who came to be. I move in 
+20 everyone and I delve into them all. 1 I walk uprightly, and those who 
+1 sleep I [awaken]. And I 1 am the sight of those who dwell in sleep.1
+I am the Invisible One within the All. 25 It is I who counsel those who 
+are hidden, since I know 1 the All that exists in it. 1 I am numberless be
+yond everyone. I 1 am immeasurable, ineffable, yet 1 whenever I [wish,
+I shall] reveal myself 30 of my own accord. I [am the head of] the All.
+I exist 1 before the [All, and] I am the All, 1 since I [exist in] everyone.
+I am a Voice 1 [speaking softly]. I exist 1 [from the first. I dwell] with
+in the Silence 35 [that surrounds every one] of them. 36 And [it is] the 
+[hidden Voice] that [dwells within] 1 me, [within the] incomprehensible,
+1 immeasurable [Thought, within the] immeasurable Silence. 1
+I [descended to the] midst of the underworld5 and I shone [down upon 
+the] darkness. It is I who 1 poured forth the [water]. It is I who am hid
+den within 1 [radiant] waters. I am the one who 1 gradually put forth the 
+All by my 1 Thought. It is I who am laden with the Voice. It 10 is 
+through me that Gnosis comes forth. [I] 1 dwell in the ineffable and 1 
+unknowable ones. I am perception and knowledge, 1 uttering a Voice by 
+means of 1 thought. [I] am the real Voice. 15 I cry out in everyone, and
+
+
+they recognize 1 it (the voice], since a seed indwells [them]. 1 I am the 
+Thought of the Father and through 1 me proceeded [the] Voice, 1 that 
+is, the knowledge of the everlasting things. I 20 exist as Thought for the 
+[All] - being joined 1 to the unknowable and incomprehensible 
+Thought - 1 I revealed myself - yes, I - among 1 all those who recog
+nize me. For it is I 1 who am joined with everyone by virtue of 25 the 
+hidden Thought and an exalted (Voice), even a Voice from 1 the invisi
+ble Thought. And it is immeasurable, 1 since it dwells in the Immeasur
+able One. It is a mystery; 1 it is [unrestrainable] 30 by [the Incomprehen
+sible One]. It is invisible 1 [to all those who are] visible 1 in the All. [It 
+is a Light] dwelling in 1 Light.
+It is we [also who] alone [have separated] 1 [from the] visible [world] 
+35 since we [are saved by the] 1 hidden [wisdom by means of the] 37 inef
+fable, immeasurable [Voice]. And he who is 1 hidden within us pays the 
+tributes of his fruit 1 to the Water of Life.
+Then 1 the Son who is perfect in every respect - that is, 5 the Word 
+who originated through that 1 Voice; who proceeded from the height; 
+who 1 has within him the Name; who is 1 a Light - he (the Son) re
+vealed the everlasting things and 1 all the unknowns were known. 10 
+And those things difficult to interpret 1 and secret, he revealed, and 1 as 
+for those who dwell in Silence with the First 1 Thought, he preached to 
+them. And 1 he revealed himself to those who dwell in darkness, and 15 
+he showed himself to those who dwell in the abyss, 1 and to those who 
+dwell in the hidden treasuries he told 1 ineffable mysteries, 1 and he 
+taught unrepeatable doctrines 1 to all those who became Sons of 20 the 
+Light.
+Now the Voice that originated 1 from my Thought exists as three 1 
+permanences: the Father, the Mother, the Son. Existing 1 perceptibly as 
+Speech, it (Voice) has 1 within it a Word endowed with 25 every <glory), 
+and it has 1 three masculinities, three powers, 1 and three names. They 
+exist in the 1 manner of Three □ □ □ - which are quadrangels - 1 se
+cretly within a silence 30 of the Ineffable One.
+[It is he] alone who came to be, 1 that [is, the Christ. And] as for me 
+I anointed him 1 as the glory [of the] Invisible [Spirit] with 1 [goodness]. 
+Now [the Three] I established 1 [alone in] eternal [glory] over 35 [the 
+Aeons in the] Living [Water], that 1 [is, the glory that surrounds him] 38 
+who first came forth to the Light 1 of those exalted Aeons, and it is in 
+glorious 1 Light that he firmly perseveres. And [he] 1 stood in his own 
+Light5 that surrounds him, that is, the Eye of the Light 1 that gloriously 
+shines on me. 1 He perpetuated the Father of all <the) Aeons, who am
+
+
+I, 1 the Thought of the Father, Protennoia, 1 that is, Barbelo, the 
+[perfect] Glory 10 and the [immeasurable] Invisible One who is hidden.
+1 I am the Image of the Invisible Spirit 1 and it is through me that the All 
+took shape, 1 and (I am) the Mother (as well as) the Light which she ap
+pointed 1 as Virgin, she who is called 15 Meirothea, the incomprehen
+sible Womb, the 1 unrestrainable and immeasurable Voice.
+Then 1 the Perfect Son revealed himself to his 1 Aeons who originated 
+through him, 1 and he revealed them and glorified them and 20 gave 
+them thrones and stood in 1 the glory with which he glorified himself. 1 
+They blessed the Perfect Son, the Christ, the 1 only-begotten God. And 
+they gave glory, saying, “ He is! He is! The Son 25 of God! The Son of 
+God! It is he who 1 is! The Aeon of Aeons beholding the 1 Aeons which 
+he begot! For thou hast 1 begotten by thine own desire! Therefore [we]
+1 glorify thee: ma mo o o o eia ei on ei! The [Aeon] 30 of [Aeons! The] 
+Aeon which he gave!”
+Then, 1 moreover, the [God who was begotten] gave them (the 
+Aeons) 1 a power of [life on which they might rely] and [he] 1 estab
+lished [them. The] first 1 Aeon, he established [over the first]: Armedon,35 Nousa[nios, Armozel; the] second 1 he established [over the sec
+ond Aeon]: 39 Phaionios, Ainios, Oroiael; the third 1 over the third 
+Aeon: Mellephaneus, 1 Loios, Daveithai; the fourth 1 over the fourth: 
+Mousanios, Amethes, 5 Eleleth. Now those Aeons were begotten 1 by 
+the God who was begotten - the 1 Christ - and these Aeons received 
+1 as well as gave glory. They were the first to appear, 1 exalted in their 
+thought, and each 10 Aeon gave myriads of glories within 1 great untraceable lights and 1 they all together blessed the Perfect 1 Son, the God 
+who was begotten.
+Then there 1 came forth a word from the great 15 Light Eleleth and 
+said, “ I 1 am King! Who belongs to Chaos and who 1 belongs to the 
+underworld?” And at that instant his Light 1 appeared radiant, en
+dowed 1 with the Epinoia. The Powers of the Powers 20 did not entreat 
+him and likewise immediately 1 there appeared the great Demon 1 who 
+rules over the lowest part of the underworld 1 and Chaos. He has 
+neither form 1 nor perfection, but on the contrary possesses 25 the form 
+of the glory of those 1 begotten in the darkness. Now he is called 1 “ Saklas,” that is, “ Samael,” “ Yaltabaoth,” 1 he who had taken power; 
+who had snatched 1 it away from the innocent one (Sophia); who had 
+earlier overpowered 30 her who is the Light’s Epinoia (Sophia) 1 who 
+had descended, her from 1 whom he (Yaltabaoth) had come forth 
+originally.
+
+
+Now when the 1 Epinoia of the [Light] realized 1 that [he (Yaltabaoth)] had begged him (the Light), 1 for another [order, even though 
+he was lower] than she, she said, 35 “ Grant [me another order so that] 
+you may become for me 1 [a dwelling place lest I dwell] in disorder 1 
+[forever.” And the order of the] entire house of 40 glory [was agreed] 
+upon her 1 word. A blessing was brought for 1 her and the higher order 
+released it 1 to her.
+And the great Demon 5 began to produce 1 aeons in the likeness of 
+the real Aeons, 1 except that he produced them out of his own power. 1
+Then I too revealed 1 my Voice secretly, 10 saying, “ Cease! Desist, 1 
+(you) who tread on matter; for behold 1 I am coming down to the world 
+1 of mortals for the sake of my portion that was in 1 that place from the 
+time when 15 the innocent Sophia was conquered, she who 1 descended, 
+so that I might thwart 1 their aim which the one revealed 1 by her ap
+points.” 1 And all were disturbed, 20 each one who dwells 1 in the house 
+of the ignorant light, 1 and the abyss trembled. And 1 the Archigenetor 
+of ignorance 1 reigned over Chaos and the underworld and 25 produced 
+a man in my likeness. But he neither 1 knew that that one would become 
+1 for him a sentence of dissolution nor 1 does he recognize the power in 
+1 him.
+But now I have come down 30 and reached down to Chaos. And 1 I 
+was [with] my own who 1 were in that place. [I am hidden] within 1 
+them, empowering [them and] giving 1 them shape. And [from the first 
+day] until 35 the day [when I will grant mighty power] 1 to those who 
+[are mine, I will reveal myself to] 1 those who have [heard my 
+mysteries], 41 that is, the [Sons] of [the] Light.
+I 1 am their Father and I shall tell you a 1 mystery, ineffable and indivulgeable 1 by [any] mouth: Every bond 5 I loosed from you, and the 1 
+chains of the Demons of the underworld, I broke, 1 these things which 
+are bound on my members, restraining them. And 1 the high walls of 
+darkness I overthrew, 1 and the secure gates of 10 those pitiless ones I 
+broke, and I smashed 1 their bars. And the evil Force and 1 the one who 
+beats you, and the one who hinders 1 you, and the Tyrant, and the Ad
+versary, 1 and the one who is King, and the present Enemy, 15 indeed all 
+these I explained to those 1 who are mine, who are the Sons of the light,
+1 in order that they might nullify them all 1 and be saved from all those 
+bonds 1 and enter into the place where they were at 20 first.
+I am the first one who descended 1 on account of my portion which 
+remains, that is, 1 the Spirit that (now) dwells in the soul, (but) which 
+originated 1 from the Water of Life and out 1 of the immersion of the
+
+
+mysteries, and I spoke, 25 I together with the Archons and Authorities.
+1 For I had gone down below their 1 language and I spoke my mysteries 
+to 1 my own - a hidden mystery - and 1 the bonds and eternal obli
+vion were nullified. 30 And I bore fruit in them, that 1 is, the Thought 
+of the unchanging Aeon, and 1 my house, and their [Father]. And I 
+went 1 down [to those who were mine] from the first and 1 I [reached 
+them and broke] the first strands 35 that [enslaved them. Then] 1 
+everyone [of those] within me shone, and 42 I prepared [a pattern] for 
+those ineffable Lights that are 1 within me. Amen. 1
+The Discourse of Protennoia: [One] 1
+I am the Voice that appeared through5 my Thought, for I am “ He who 
+is syzygetic,” 1 since I am called “ the Thought of the Invisible One.” 1 
+Since I am called “ the unchanging Speech,” 1 I am called “ She who is 
+syzygetic.”
+I am a single 1 one (fem.) since I am undefiled. I am the Mother [of] 
+10 the Voice, speaking in many ways, completing 1 the All. It is in me 
+that knowledge dwells, 1 the knowledge of <things) everlasting. It is I 
+[who] 1 speak within every creature and I was known 1 by the All. It is 
+I who lift up 15 the Speech of the Voice to the ears of those who 1 have 
+known me, that is, the Sons of the Light. 1
+Now I have come the second time in the likeness 1 of a female and 
+have spoken with them. And 1 I shall tell them of the coming end of the 
+Aeon 20 and teach them of the beginning of the Aeon 1 to come, the one 
+without change, 1 the one in which our appearance will be changed. 1 
+We shall be purified within those Aeons from which I 1 revealed myself 
+in the Thought 25 of the likeness of my masculinity. I settled 1 among 
+those who are worthy in the Thought of my 1 changeless Aeon.
+For I shall tell you a 1 mystery [of] this particular Aeon and 1 tell you 
+about the forces that are in it. 30 The birth beckons: [hour] begets 1 
+hour, [day begets day]. The months 1 made known the [month. Time] 
+has [gone round] 1 succeeding [time]. This particular Aeon 43 was com
+pleted in [this] fashion, and it was estimated, and 1 it (was) short, for it 
+was a finger that released a 1 finger and a joint that was separated from 
+1 a joint. Then when the great Authorities knew 5 that the time of ful
+fillment had appeared - 1 just as in the pangs of the parturient it (the 
+time) had drawn near, 1 so also had 1 the destruction approached - all 
+together the elements 1 trembled, and the foundations of the under
+world and the ceilings 10 of Chaos shook and a great fire shone 1 within
+
+their midst, and the rocks and the earth 1 were shaken like a reed shaken 
+by the wind. 1 And the lots of Fate and those who apportion 1 the 
+domiciles were greatly disturbed over 15 a great thunder. And the thrones 
+of 1 the Powers were disturbed since they were overturned, and their 1 
+King was afraid. And those who pursue Fate 1 paid their allotment of 
+visits to the path, and 1 they said to the Powers, “ What is this distur
+bance 20 and this shaking that has come upon us through 1 a Voice 
+(belonging) to the exalted Speech? 1 And our entire habitation has 
+been shaken, and the entire 1 circuit of our path of ascent has met with 
+1 destruction, and the path upon which we go, 25 which takes us up to 
+the Archigenetor 1 of our birth, has ceased to be established for us.” 1 
+Then the Powers answered, saying, 1 “ We too are at a loss about 1 it 
+since we did not know what was responsible for it. B ut30 arise, let us go 
+up to the Archigenetor 1 and ask him.” And the 1 Powers all gathered 
+and went up to the Archigenetor. 1 [They said to] him, “ Where is your 
+boasting 1 in which [you boast]? 35 Did we not [hear you say], ‘I 1 am 
+God [and I am] your Father 44 and it is I who [begot] you and there is 
+no [other] 1 beside me’? Now behold, there has appeared 1 [a] Voice be
+longing to that invisible Speech 1 of [the Aeon] (and) which we know 
+not. And 5 we ourselves did not recognize to whom we 1 belong, for that 
+Voice which we listened to 1 is foreign to us, and we do not recognize 1 
+it; we did not know whence it was. It came 1 and put fear in our midst 
+and weakening 10 in the members of our arms. So now let 1 us weep and 
+mourn most bitterly! 1 As for the future, let us make our entire flight 1 
+before we are imprisoned perforce and 1 taken down to the bosom of 
+the underworld. For already 15 the slackening of our bondage has ap
+proached, 1 and the times are cut short and the days have shortened 1 
+and our time has been fulfilled, and the weeping 1 of our destruction 
+has approached us so that 1 we may be taken to the place we recognize. 
+20 For as for our tree from which we grew, a fruit 1 of ignorance is what 
+it has; and 1 also its leaves, it is death that dwells in them, 1 and dark
+ness dwells under the shadow of its 1 boughs. And it was in deceit 25 and 
+lust that we harvested it, this (tree) through 1 which ignorant Chaos be
+came for us a dwelling place. 1 For behold, even he, the Archigenetor 1 
+of our birth, about whom we boast, 1 even he did not know this 
+Speech.’ ’
+So n o w ,30 O Sons of the Thought, listen to me, to the Speech 1 of the 
+M other of your mercy, for you have 1 become worthy of the mystery 
+hidden from (the beginning of) 1 the Aeons, so that [you might receive] 
+it. And the consummation 1 of this [particular] Aeon [and] of the evil
+
+life 35 [has approached and there dawns 45 the] beginning of the [Aeon 
+to come] which [has 1 no change forever].
+I am 1 androgynous. [I am Mother (and) I am] Father since [I 1 
+copulate] with myself. I [copulated] with myself 5 [and with those who 
+love] me, [and] 1 it is through me alone that the All [stands firm]. I am 
+the Womb 1 [that gives shape] to the All by giving birth to the Light that 
+1 [shines in] splendor. I am the Aeon to [come. 1 I am] the fulfillment of 
+the All, that is, Me[iroth]ea, 10 the glory of the Mother. I cast [voiced] 
+Speech 1 into the ears of those who know 1 me.
+And I am inviting you into the exalted, perfect Light. 1 Moreover (as 
+for) this (Light), when you enter 1 it you will be glorified by those [who] 
+15 give glory, and those who enthrone will 1 enthrone you. You will ac
+cept robes from 1 those who give robes and the Baptists 1 will baptize 
+you and you will become 1 gloriously glorious, the way you first were 20 
+when you were <Light). 1
+And I hid myself in everyone and revealed [myself] 1 within them, 
+and every mind seeking 1 me longed for me, for it is I 1 who gave shape 
+to the All when it had no form. 25 And I transformed their forms 1 into 
+(other) forms until the time when a form 1 will be given to the All. It is 
+through me that the Voice 1 originated and it is I who put the breath 1 
+within my own. And I cast into 30 them the eternally holy Spirit and 1 I 
+ascended and entered my Light. 1 [I went up] upon my branch and 1 sat 
+[there among the] Sons of the [holy] Light. 1 And [I withdrew] to their 
+dwelling place 46 which [...] 3 become [glorious . . . . Amen]. 1
+[On Fate: Two] 5
+I am [the Word] who dwells [in the] ineffable [Voice]. 1 I dwell in un
+defiled [Light] 1 and a Thought [revealed itself] 1 perceptibly through 
+[the great] 1 Speech of the M other, although it is a male offspring [that 
+supports me] 10 as my foundation. And it (the Speech) exists from the be
+ginning 1 in the foundations of the All.
+But there is a Light [that] 1 dwells hidden in Silence and it was first to 
+[come] 1 forth. Whereas she (the Mother) alone exists as Silence, 1 I 
+alone am the Word, ineffable, 15 unpolluted, immeasurable, inconceiv
+able. 1 It (the Word) is a hidden Light, bearing a Fruit of 1 Life, pouring 
+forth a Living Water from 1 the invisible, unpolluted, immeasurable 1 
+Spring, that is, the unreproducible Voice of the glory 20 of the Mother, 
+the glory of the offspring 1 of God; a male Virgin by 1 virtue of a hidden 
+Intellect, that is, 1 the Silence hidden from the All, being unrepro-
+
+ducible, 1 an immeasurable Light, the source of the All, 25 the Root of 
+the entire Aeon. It is the Foundation that supports 1 every movement of 
+the Aeons that 1 belong to the mighty Glory. It is the Foundation of 
+every foundation. 1 It is the Breath of the Powers. It is the Eye of the 1 
+Three Permanences, which exist as Voice 30 by virtue of Thought. And 
+it is a Word 1 by virtue of Speech; it was sent 1 to illumine those who 
+dwell in the [darkness]. 1
+Now behold [I will reveal] 1 to you [my mysteries] since 35 you are my 
+fellow [brethren, and you shall] know 1 them all [...]. 475 I [told all of 
+them about 1 my mysteries] that exist in [the 1 incomprehensible], inex
+pressible [Aeons]. I taught [them the mysteries] 1 through the [Voice 
+that 1 exists] within a perfect Intellect [and 10 I] became a foundation 
+for the All, and [I 1 empowered] them.
+The second time I came in the [Speech] 1 of my Voice. I gave shape to 
+those who [took] shape 1 until their consummation.
+The third 1 time I revealed myself to them [in] 15 their tents as Word 
+and I 1 revealed myself in the likeness of their shape. And 1 I wore 
+everyone’s garment and 1 I hid myself within them, and [they] did not 1 
+know the one who empowers me. For I dwell within 20 all the Sovereign
+ties and Powers and within 1 the Angels and in every movement [that] 
+exists 1 in all matter. And I hid myself within 1 them until I revealed 
+myself to my [brethren]. 1 And none of them (the Powers) knew me, 
+[although] 25 it is I who work in them. Rather [they thought] 1 that the 
+All was created [by them] 1 since they are ignorant, not knowing [their]
+1 root, the place in which they grew.
+[I] 1 am the Light that illumines the All. 130 am the Light that rejoices 
+[in my] 1 brethren, for I came down to the world [of] 1 mortals on ac
+count of the Spirit that remains [in] 1 that which [descended] (and) came 
+forth [from] the 1 innocent Sophia. [I came] and I delivered 35 [...] and 
+I [went] to 48 [ . . .] 6 which he had [formerly and 1 I gave to him] from 
+the Water [of Life, which 1 strips] him of the Chaos [that is 1 in the] ut
+termost [darkness] that exists [inside] 10 the entire [abyss], that is, the 
+thought of [the corporeal] 1 and the psychic. All these I 1 put on. And 
+I stripped him of it 1 and I put upon him a shining Light, that 1 is, the 
+knowledge of the Thought of the Fatherhood. 15
+And I delivered him to those who give robes - 1 Yammon, Elasso, 
+Amenai - and they [covered] 1 him with a robe from the robes of the 
+Light; 1 and I delivered him to the Baptists and they 1 baptized him - 
+Micheus, Michar,20 Mn[e]sinous - and they immersed him in the spring 
+of the [Water] 1 of Life. And I delivered him to those who 1 enthrone -
+
+Bariel, Nouthan, Sabenai - and 1 they enthroned him from the throne 
+of glory. 1 And I delivered him to those who glorify - 25 Ariom, Elien, 
+Phariel - and they glorified 1 him with the glory of the Fatherhood. 
+And 1 those who snatch away snatched away - Kamaliel. 1 [.. .]anen, 
+Samblo, the servants of <the> great 1 holy Luminaries - and they took 
+him into 30 the light-[place] of his Fatherhood. And 1 [he received] the 
+Five Seals from 1 [the Light] of the Mother, Protennoia, and 1 it was 
+[granted] him [to] partake of [the mystery] of 1 knowledge, and [he be
+came a Light] in 35 Light.
+So, now, [ .... 496 I was] dwelling in them [in the form 1 of each] 
+one. [The Archons] thought 1 [that I] was their Christ. Indeed I [dwell 
+1 in] everyone. Indeed within those in whom [I revealed 10 myself] as 
+Light [I eluded] 1 the Archons. I am their beloved, [for] 1 in that place 
+I clothed myself [as] 1 the Son of the Archigenetor, and I was like 1 him 
+until the end of his decree, which is 15 the ignorance of Chaos. And 
+among the 1 Angels I revealed myself in their likeness, 1 and among the 
+Powers as if I were one 1 of them, but among the Sons of Man as if 1 I 
+were a Son of Man, even though I am 20 Father of everyone.
+I hid myself within them 1 all until I revealed myself among my mem
+bers, 1 which are mine, and I taught them about the ineffable 1 ordi
+nances, and (about) the brethren. But they are inexpressible 1 to every 
+Sovereignty and every ruling 25 Power except to the Sons of the Light 1 
+alone, that is, the ordinances of the Father. These are 1 the glories that 
+are higher than every glory, that is, [the Five] 1 Seals complete by virtue 
+of Intellect. He 1 who possesses the Five Seals of these 30 particular 
+names has stripped off <the> garments 1 of ignorance and put on 1 a 
+shining Light. And nothing 1 will appear to him that belongs to the 
+Powers 1 of the Archons. Within those of this sort 35 darkness will dis
+solve and [ignorance] will die. 1 And the thought of the creature 1 which 
+[is scattered will] present a single appearance 1 and [dark Chaos] will 
+dissolve and 50 [...] 3 and the [...] 1 incomprehensible [...] 5 within 
+the [...] 1 until I reveal myself [to all my fellow 1 brethren] and until I 
+gather [together] 1 all [my fellow] brethren within my [eternal 1 king
+dom]. And I proclaimed to them the ineffable [Five 10 Seals in order that 
+1 I might] abide in them and they also 1 might abide in me.
+As for me, I put on 1 Jesus. I bore him from the cursed 1 wood, and 
+established him in the dwelling places 15 of his Father. And those who 
+watch over 1 their dwelling places did not recognize me. 1 For I, I am 
+unrestrainable together with my 1 Seed, and my Seed, which is mine, I 
+shall [place] 1 into the Holy Light within an 20 incomprehensible 
+Silence. Amen. 1
+
+The Discourse of the Appearance: Three
+Trimorphic Protennoia, in three parts 1
+A Sacred Scripture written by the Father 1 
+with perfect Knowledge
