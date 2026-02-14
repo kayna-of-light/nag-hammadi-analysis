@@ -41,6 +41,10 @@ DEFAULT_OAUTH_TOKEN = LIT_COMP_SECRETS / "google_drive_token.json"
 
 DRIVE_ROOT_ID = "1zWhkCJKWBbExzZpV2MskcLLqBA6tTYxF"
 EDITOR_NOTES_FOLDER_NAME = "Editor Notes"
+SUPPLEMENTARY_FOLDER_NAME = "Supplementary"
+
+# Files routed to the Supplementary folder instead of the tractates root
+SUPPLEMENTARY_PREFIXES = ("ZZ_",)
 
 
 # ── Markdown splitting ──────────────────────────────────────────────────────
@@ -331,10 +335,14 @@ def build_and_upload(
     # Drive service (lazy init)
     service = None
     editor_notes_folder_id = None
+    supplementary_folder_id = None
     if not build_only:
         service = _drive_service(oauth_client, oauth_token)
         editor_notes_folder_id = _drive_ensure_folder(
             service, drive_root_id, EDITOR_NOTES_FOLDER_NAME, dry_run
+        )
+        supplementary_folder_id = _drive_ensure_folder(
+            service, drive_root_id, SUPPLEMENTARY_FOLDER_NAME, dry_run
         )
 
     main_built = 0
@@ -348,6 +356,7 @@ def build_and_upload(
         md_sha = _sha256_str(md_text)
 
         main_text, editor_notes = split_tractate(md_text)
+        is_supplementary = any(filename.startswith(p) for p in SUPPLEMENTARY_PREFIXES)
 
         main_pdf = main_pdf_dir / f"{filename}.pdf"
         notes_pdf = notes_pdf_dir / f"{filename}_notes.pdf"
@@ -380,10 +389,11 @@ def build_and_upload(
 
         # Upload main PDF
         if service and not build_only:
+            upload_parent = supplementary_folder_id if is_supplementary else drive_root_id
             print(" → uploading...", end=" ", flush=True)
             _drive_upload_pdf(
                 service,
-                parent_id=drive_root_id,
+                parent_id=upload_parent,
                 local_pdf=main_pdf,
                 remote_name=f"{filename}.pdf",
                 dry_run=dry_run,

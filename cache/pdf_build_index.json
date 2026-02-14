@@ -1,0 +1,477 @@
+{
+  "main/II_2_gospel_thomas": {
+    "md_sha256": "4ccdf03faa44c3c7c03e67e6e8d310b48ae0ac3a44a153560c28503ef71c47ca",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/II_2_gospel_thomas": {
+    "md_sha256": "4ccdf03faa44c3c7c03e67e6e8d310b48ae0ac3a44a153560c28503ef71c47ca",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/BG_1_gospel_mary": {
+    "md_sha256": "aea395f829c23691a623aae23389e261905e33a0f54735bf6fd686dca22c69d1",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/BG_1_gospel_mary": {
+    "md_sha256": "aea395f829c23691a623aae23389e261905e33a0f54735bf6fd686dca22c69d1",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/BG_4_act_peter": {
+    "md_sha256": "e8cc51046db6d3f1d941172a5b1781f02f3227407c98cc8bdcac147e908ff78b",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/BG_4_act_peter": {
+    "md_sha256": "e8cc51046db6d3f1d941172a5b1781f02f3227407c98cc8bdcac147e908ff78b",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/I_1_prayer_apostle_paul": {
+    "md_sha256": "f97a177b59f4c5370e42d4b31b65bdeaa171c7f85c1489478837ee9ff4b3e3ad",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/I_1_prayer_apostle_paul": {
+    "md_sha256": "f97a177b59f4c5370e42d4b31b65bdeaa171c7f85c1489478837ee9ff4b3e3ad",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/I_2_apocryphon_james": {
+    "md_sha256": "8237b0c6bde65aa38a0fb2ebdfe128c8fd840bfb2f3a0ea26cc79ee982136787",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/I_2_apocryphon_james": {
+    "md_sha256": "8237b0c6bde65aa38a0fb2ebdfe128c8fd840bfb2f3a0ea26cc79ee982136787",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/I_3_gospel_of_truth": {
+    "md_sha256": "6c56c00ee2b0ad48ff54ef0fd35ef277964eabd4b4f519e73311b05528c536a7",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/I_3_gospel_of_truth": {
+    "md_sha256": "6c56c00ee2b0ad48ff54ef0fd35ef277964eabd4b4f519e73311b05528c536a7",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/I_4_treatise_resurrection": {
+    "md_sha256": "f0284d178bff224175e09c43b2bb72d02180399b3b7dbdb7f2eb29ea498abf82",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/I_4_treatise_resurrection": {
+    "md_sha256": "f0284d178bff224175e09c43b2bb72d02180399b3b7dbdb7f2eb29ea498abf82",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/I_5_tripartite_tractate": {
+    "md_sha256": "63a4b496c3cb940960229f646e8ec08dcf1c076441242f3c0a472d31bad070d5",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/I_5_tripartite_tractate": {
+    "md_sha256": "63a4b496c3cb940960229f646e8ec08dcf1c076441242f3c0a472d31bad070d5",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/II_1_apocryphon_john": {
+    "md_sha256": "8d1533b901f7deebb63ec50d080095aa32d3968d850665680afa1682c645b5d3",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/II_1_apocryphon_john": {
+    "md_sha256": "8d1533b901f7deebb63ec50d080095aa32d3968d850665680afa1682c645b5d3",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/II_3_gospel_philip": {
+    "md_sha256": "a7518337a3ab6ebfebf1c2f57a25298d1fa75ac4d4fad7bab774a6ddfc8c51cb",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/II_3_gospel_philip": {
+    "md_sha256": "a7518337a3ab6ebfebf1c2f57a25298d1fa75ac4d4fad7bab774a6ddfc8c51cb",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/II_4_hypostasis_archons": {
+    "md_sha256": "50fc6e3c8581229d1bb454653780902fc1fcc82ed14ef3bde57172c91d3dac29",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/II_4_hypostasis_archons": {
+    "md_sha256": "50fc6e3c8581229d1bb454653780902fc1fcc82ed14ef3bde57172c91d3dac29",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/II_5_origin_of_world": {
+    "md_sha256": "2950b92e43d2737daa09763606766d5802402563cccfbf809354c51668f9c14c",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/II_5_origin_of_world": {
+    "md_sha256": "2950b92e43d2737daa09763606766d5802402563cccfbf809354c51668f9c14c",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/II_6_exegesis_soul": {
+    "md_sha256": "c3dfeb77c2a852d0caa33f8fa6b003973b78f33988607a359518714cbb49ed92",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/II_6_exegesis_soul": {
+    "md_sha256": "c3dfeb77c2a852d0caa33f8fa6b003973b78f33988607a359518714cbb49ed92",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/II_7_book_thomas_contender": {
+    "md_sha256": "fef904ab4482c172088e6c02eeb895246d7fbf69d1f4a0a31e1c53ef6e0768a5",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/II_7_book_thomas_contender": {
+    "md_sha256": "fef904ab4482c172088e6c02eeb895246d7fbf69d1f4a0a31e1c53ef6e0768a5",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/III_2_gospel_egyptians": {
+    "md_sha256": "d1e0f686414ccbb48c1c8f3f35fc582caff32105d7e624fdb5700b3015179331",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/III_2_gospel_egyptians": {
+    "md_sha256": "d1e0f686414ccbb48c1c8f3f35fc582caff32105d7e624fdb5700b3015179331",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/III_3_eugnostos_sophia": {
+    "md_sha256": "8a69b47425bdf6d5789ddbe3e5016c1595646c0dc9a1ff7f3525687dcaccb4f5",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/III_3_eugnostos_sophia": {
+    "md_sha256": "8a69b47425bdf6d5789ddbe3e5016c1595646c0dc9a1ff7f3525687dcaccb4f5",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/III_5_dialogue_savior": {
+    "md_sha256": "6568586c3ca9331630752d76b2d38768ab180fb774e2aea8f46b9503f7f73874",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/III_5_dialogue_savior": {
+    "md_sha256": "6568586c3ca9331630752d76b2d38768ab180fb774e2aea8f46b9503f7f73874",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/IX_1_melchizedek": {
+    "md_sha256": "8c442535e0d264bc9ea330928648b2b1b92be01081e90ede57de7e2bb4b12925",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/IX_1_melchizedek": {
+    "md_sha256": "8c442535e0d264bc9ea330928648b2b1b92be01081e90ede57de7e2bb4b12925",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/IX_2_thought_norea": {
+    "md_sha256": "df31cbe610a29b9755d3443944ebaf7c8301a0a83e19ba761c2bb65b4d9402af",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/IX_2_thought_norea": {
+    "md_sha256": "df31cbe610a29b9755d3443944ebaf7c8301a0a83e19ba761c2bb65b4d9402af",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/IX_3_testimony_truth": {
+    "md_sha256": "90f1617ec42e21cff52b51b92d1d18cee80ddbbae7652cb317d220b53975a954",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/IX_3_testimony_truth": {
+    "md_sha256": "90f1617ec42e21cff52b51b92d1d18cee80ddbbae7652cb317d220b53975a954",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/V_2_apocalypse_paul": {
+    "md_sha256": "6185204fd996695bb7dc21f4d1a729fff88064e60689ed17f8c32ff30e9b4992",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/V_2_apocalypse_paul": {
+    "md_sha256": "6185204fd996695bb7dc21f4d1a729fff88064e60689ed17f8c32ff30e9b4992",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/V_3_first_apocalypse_james": {
+    "md_sha256": "12ab8c515c5374c1aa35be4ab43b855553c2c35c817d9fd820bc284d0be333d5",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/V_3_first_apocalypse_james": {
+    "md_sha256": "12ab8c515c5374c1aa35be4ab43b855553c2c35c817d9fd820bc284d0be333d5",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/V_4_second_apocalypse_james": {
+    "md_sha256": "ad2796ad946dd23df815aadd5f6c2d1614e8d14a023943063785132ac3b3466b",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/V_4_second_apocalypse_james": {
+    "md_sha256": "ad2796ad946dd23df815aadd5f6c2d1614e8d14a023943063785132ac3b3466b",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/V_5_apocalypse_adam": {
+    "md_sha256": "aa8cc69559628777b58c22324beddbce662faef7095d7cba6e63c76f01868086",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/V_5_apocalypse_adam": {
+    "md_sha256": "aa8cc69559628777b58c22324beddbce662faef7095d7cba6e63c76f01868086",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VI_1_acts_peter_twelve": {
+    "md_sha256": "7ec4e7f128f69844d4de91bc679ea6094b93db11ce05ca71c6df4f5b24df6dfe",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VI_1_acts_peter_twelve": {
+    "md_sha256": "7ec4e7f128f69844d4de91bc679ea6094b93db11ce05ca71c6df4f5b24df6dfe",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VI_2_thunder_perfect_mind": {
+    "md_sha256": "7d9f8620f66b6f8c10789d779a59204c76f852a6ea202f691a760b93feb35404",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VI_2_thunder_perfect_mind": {
+    "md_sha256": "7d9f8620f66b6f8c10789d779a59204c76f852a6ea202f691a760b93feb35404",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VI_3_authoritative_teaching": {
+    "md_sha256": "7d7e9c38af72f5881d07d2bf30f3ead4d71c702c02f06055a2335a3fb8cff0ae",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VI_3_authoritative_teaching": {
+    "md_sha256": "7d7e9c38af72f5881d07d2bf30f3ead4d71c702c02f06055a2335a3fb8cff0ae",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VI_4_concept_great_power": {
+    "md_sha256": "9c0a6960288eaf21981a93b80b33e012494dffc86354f9b9dff70e9cd1e3816e",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VI_4_concept_great_power": {
+    "md_sha256": "9c0a6960288eaf21981a93b80b33e012494dffc86354f9b9dff70e9cd1e3816e",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VI_5_plato_republic": {
+    "md_sha256": "72643e8f0ebc3f9e9bcb1090e071dd2766cab5352767455be39bdc1738812385",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VI_5_plato_republic": {
+    "md_sha256": "72643e8f0ebc3f9e9bcb1090e071dd2766cab5352767455be39bdc1738812385",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VI_6_discourse_eighth_ninth": {
+    "md_sha256": "4e70ae6d53e3802d9f954300c2c234c3ce23b58368558e5b9a2465d2f90b222b",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VI_6_discourse_eighth_ninth": {
+    "md_sha256": "4e70ae6d53e3802d9f954300c2c234c3ce23b58368558e5b9a2465d2f90b222b",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VI_7_prayer_thanksgiving": {
+    "md_sha256": "7dec158cfe4ebbc580ec5519f4137edf6cd3e0da79370132a3d77fd82f20abcc",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VI_7_prayer_thanksgiving": {
+    "md_sha256": "7dec158cfe4ebbc580ec5519f4137edf6cd3e0da79370132a3d77fd82f20abcc",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VI_8_asclepius": {
+    "md_sha256": "a18dbcf566613990091d7def703a040fc575ec007c0963b0164b4fc5e33ae2db",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VI_8_asclepius": {
+    "md_sha256": "a18dbcf566613990091d7def703a040fc575ec007c0963b0164b4fc5e33ae2db",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VII_1_paraphrase_shem": {
+    "md_sha256": "620eeebf66da23865744cd5953995d7a9106d62877d1e5f194f881b8b42624fd",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VII_1_paraphrase_shem": {
+    "md_sha256": "620eeebf66da23865744cd5953995d7a9106d62877d1e5f194f881b8b42624fd",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VII_2_second_treatise_great_seth": {
+    "md_sha256": "8e1f1af45f7838b4bfbf2699ffbeaed5b91bcfff13be08a3d639b43751c414be",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VII_2_second_treatise_great_seth": {
+    "md_sha256": "8e1f1af45f7838b4bfbf2699ffbeaed5b91bcfff13be08a3d639b43751c414be",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VII_3_apocalypse_peter": {
+    "md_sha256": "2a6a427daa36cdcb365aa1c6c1a01c1bbbfc26742f97f7828727cbc37e7801b3",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VII_3_apocalypse_peter": {
+    "md_sha256": "2a6a427daa36cdcb365aa1c6c1a01c1bbbfc26742f97f7828727cbc37e7801b3",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VII_4_teachings_silvanus": {
+    "md_sha256": "72e80d70d8c5cfbb07654c5a73da95c8fb9a1418ad5770c17d4f5a5b96b1a1bf",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VII_4_teachings_silvanus": {
+    "md_sha256": "72e80d70d8c5cfbb07654c5a73da95c8fb9a1418ad5770c17d4f5a5b96b1a1bf",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VII_5_three_steles_seth": {
+    "md_sha256": "fea6bfeddbbe30c89abfd5a00fe7815697bd41964edfd69cc6c91bc0466724fd",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VII_5_three_steles_seth": {
+    "md_sha256": "fea6bfeddbbe30c89abfd5a00fe7815697bd41964edfd69cc6c91bc0466724fd",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VIII_1_zostrianos": {
+    "md_sha256": "b1fc2e026e78bf060be89a49b2f905f53aec01ef5cb7a0807e665631d05c3fc5",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VIII_1_zostrianos": {
+    "md_sha256": "b1fc2e026e78bf060be89a49b2f905f53aec01ef5cb7a0807e665631d05c3fc5",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/VIII_2_letter_peter_philip": {
+    "md_sha256": "413d13f22436bdf0f7311fa88129a77ff8f4b890473ddd576e4316e782944a1a",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/VIII_2_letter_peter_philip": {
+    "md_sha256": "413d13f22436bdf0f7311fa88129a77ff8f4b890473ddd576e4316e782944a1a",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/X_1_marsanes": {
+    "md_sha256": "73e1a49aab8d889ba472972e9344f303c6184bac0457e9ba479f042e3270bf84",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/X_1_marsanes": {
+    "md_sha256": "73e1a49aab8d889ba472972e9344f303c6184bac0457e9ba479f042e3270bf84",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/XI_1_interpretation_knowledge": {
+    "md_sha256": "1d6204096ecf7d524f45f8a9d73bb5ac225cf11587b93d3de4181c7f1688a3f3",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/XI_1_interpretation_knowledge": {
+    "md_sha256": "1d6204096ecf7d524f45f8a9d73bb5ac225cf11587b93d3de4181c7f1688a3f3",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/XI_2_valentinian_exposition": {
+    "md_sha256": "454adb51b3c15d3cd32815c0c4094d0091598e675150dbd850a0c6a29a9b6d70",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/XI_2_valentinian_exposition": {
+    "md_sha256": "454adb51b3c15d3cd32815c0c4094d0091598e675150dbd850a0c6a29a9b6d70",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/XI_3_allogenes": {
+    "md_sha256": "13ac1552f5cdcc947d91b0ba1c43405a3bf984f349081cd055630e1b0216ee16",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/XI_3_allogenes": {
+    "md_sha256": "13ac1552f5cdcc947d91b0ba1c43405a3bf984f349081cd055630e1b0216ee16",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/XI_4_hypsiphrone": {
+    "md_sha256": "337b11e361bca8d707884546702e28044d8e27937243a61be8b35ca1bd526911",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/XI_4_hypsiphrone": {
+    "md_sha256": "337b11e361bca8d707884546702e28044d8e27937243a61be8b35ca1bd526911",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/XII_1_sentences_sextus": {
+    "md_sha256": "3bff9af2e4b31fbd1337c3993783ccce25141012d75c39d4c170c97c41ca561b",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/XII_1_sentences_sextus": {
+    "md_sha256": "3bff9af2e4b31fbd1337c3993783ccce25141012d75c39d4c170c97c41ca561b",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/XII_3_fragments": {
+    "md_sha256": "2de8627c6b2cd30832e4e8d2f3446d84cea5949e62a56dcaebe11cc280b193e8",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/XII_3_fragments": {
+    "md_sha256": "2de8627c6b2cd30832e4e8d2f3446d84cea5949e62a56dcaebe11cc280b193e8",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/XIII_1_trimorphic_protennoia": {
+    "md_sha256": "b6b0c515de5ba608397da98dddd20927650359d9436dcd483cfce3f5ee3c8f18",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "notes/XIII_1_trimorphic_protennoia": {
+    "md_sha256": "b6b0c515de5ba608397da98dddd20927650359d9436dcd483cfce3f5ee3c8f18",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  },
+  "main/ZZ_afterword": {
+    "md_sha256": "0d5e64fc2086279a277e2d5366d1c132655e43c8750af4ea73b9431d9a8f371f",
+    "css_sha256": "9606bf37cded6afab3d9a8148ffd03cb37e64b8f043d9a79916697db4c1d158d",
+    "template_sha256": "392499010ca7488d4f2d8f76be7882326101f628ef8b833ea8182b876d6e35b6"
+  }
+}
