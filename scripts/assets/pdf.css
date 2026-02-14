@@ -1,0 +1,195 @@
+/* Academic, LaTeX-like print styles for Nag Hammadi Library PDFs */
+
+@page {
+  size: A4;
+  margin: 25mm 24mm;
+}
+
+:root {
+  --ink: #111;
+  --muted: #555;
+  --rule: #333;
+  --light-rule: #c9c9c9;
+  --code-bg: #f6f6f6;
+  --link: #0b57d0;
+}
+
+html, body {
+  padding: 0;
+  margin: 0;
+  color: var(--ink);
+  font-family: "Latin Modern Roman", "CMU Serif", "Times New Roman", Times, serif;
+  font-size: 11.5pt;
+  line-height: 1.38;
+}
+
+body {
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+  text-align: justify;
+  hyphens: auto;
+  widows: 2;
+  orphans: 2;
+}
+
+main {
+  max-width: 100%;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  page-break-after: avoid;
+  break-after: avoid;
+  text-align: left;
+  margin: 1.2em 0 0.4em;
+}
+
+h1 {
+  font-size: 18pt;
+  font-weight: 700;
+  text-align: center;
+  margin: 0 0 0.8em;
+}
+
+h2 {
+  font-size: 14pt;
+  border-bottom: 1px solid var(--light-rule);
+  padding-bottom: 0.15em;
+}
+
+h3 { font-size: 12.2pt; }
+h4 { font-size: 11.5pt; font-weight: 600; }
+
+/* Paragraphs: LaTeX-like indenting */
+p {
+  margin: 0;
+  text-indent: 1.5em;
+}
+
+/* No indent after headings and certain blocks */
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p,
+hr + p,
+blockquote + p,
+ul + p,
+ol + p,
+pre + p,
+table + p {
+  text-indent: 0;
+}
+
+/* Spacing between paragraphs */
+p + p {
+  margin-top: 0.35em;
+}
+
+/* Links */
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Lists */
+ul, ol {
+  margin: 0.6em 0 0.6em 1.6em;
+  text-align: left;
+}
+li { margin: 0.15em 0; }
+li p { text-indent: 0; }
+
+/* Block quotes — used for editor introductions */
+blockquote {
+  margin: 0.9em 0;
+  padding: 0.0em 0 0.0em 1.0em;
+  border-left: 2px solid var(--light-rule);
+  color: var(--muted);
+}
+blockquote p { text-indent: 0; }
+
+/* Code */
+code {
+  font-family: "CMU Typewriter Text", "Cascadia Mono", Consolas, "Liberation Mono", Menlo, Monaco, monospace;
+  font-size: 10pt;
+  background: var(--code-bg);
+  padding: 0.06em 0.22em;
+  border: 1px solid #e3e3e3;
+}
+
+pre {
+  background: var(--code-bg);
+  padding: 0.7em 0.9em;
+  overflow: auto;
+  border: 1px solid #e3e3e3;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  text-align: left;
+}
+pre code {
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+/* Tables: booktabs-like */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  font-size: 10.5pt;
+}
+
+thead th {
+  font-weight: 600;
+  border-bottom: 1px solid var(--rule);
+  padding: 6px 6px;
+  text-align: left;
+}
+
+tbody td {
+  border-bottom: 1px solid var(--light-rule);
+  padding: 6px 6px;
+  vertical-align: top;
+}
+
+tbody tr:last-child td {
+  border-bottom: 1px solid var(--rule);
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 1px solid var(--light-rule);
+  margin: 1.1em 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Metadata block styling */
+.meta {
+  color: var(--muted);
+  font-size: 10pt;
+  margin-top: 0.4em;
+  text-align: center;
+}
+
+/* Codex reference styling for tractate headers */
+strong {
+  font-weight: 600;
+}
+
+/* Manuscript lacunae and editorial marks */
+em {
+  font-style: italic;
+}
+
+/* Page breaks */
+.page-break {
+  page-break-before: always;
+  break-before: page;
+}
