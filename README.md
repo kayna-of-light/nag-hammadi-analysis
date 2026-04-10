@@ -130,8 +130,8 @@ conda run -n nhl python scripts/mirror_to_drive.py --force
 
 This collection supports the research conducted in:
 
-- **[literary-compilation](https://github.com/marconian/literary-compilation)** — The Divine Bricolage framework
-- **[structured-data-analysis](https://github.com/marconian/structured-data-analysis)** — Empirical data analysis
+- **[literary-compilation](https://github.com/kayna-of-light/literary-compilation)** — The Divine Bricolage framework
+- **[structured-data-analysis](https://github.com/kayna-of-light/structured-data-analysis)** — Empirical data analysis
 
 ## Attribution
 
