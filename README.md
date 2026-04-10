@@ -75,6 +75,17 @@ Each tractate file includes:
 | BG 8502,4 | The Act of Peter | James Brashler, Douglas M. Parrott |
 | — | Afterword: The Modern Relevance of Gnosticism | Richard Smith |
 
+## Companion Repositories
+
+This project is part of a multi-repository research framework:
+
+| Repository | Purpose |
+|---|---|
+| **[literary-compilation](https://github.com/kayna-of-light/literary-compilation)** | The Divine Bricolage — research collection and synthesis across multiple channels, documenting what the data shows and how it connects |
+| **[structured-data-analysis](https://github.com/kayna-of-light/structured-data-analysis)** | Empirical data analysis — NDE phenomenology, past-life memory, MallWorld dream data |
+| **[manichaean-analysis](https://github.com/kayna-of-light/manichaean-analysis)** | Extraction of the correspondential substrate from the Kephalaia and Manichaean corpus — recovering the Ancient Word |
+| **[proto-luke-reconstruction](https://github.com/kayna-of-light/ProtoLuke)** | Proto-Luke reconstruction — the Jamesian Protograph |
+
 ## Project Structure
 
 ```
