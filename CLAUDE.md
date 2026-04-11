@@ -10,7 +10,7 @@ This is not a theological exercise. The correspondential framework is applied be
 
 | Repository | Purpose |
 |---|---|
-| **[literary-compilation](https://github.com/kayna-of-light/literary-compilation)** | The Divine Bricolage framework — knowledge graph, source documents, theological synthesis |
+| **[literary-compilation](https://github.com/kayna-of-light/literary-compilation)** | The Divine Bricolage framework — research collection, synthesis, and source documents |
 | **[structured-data-analysis](https://github.com/kayna-of-light/structured-data-analysis)** | Empirical data analysis — NDE, past-life memory, MallWorld dream phenomenology |
 | **[ProtoLuke](https://github.com/kayna-of-light/ProtoLuke)** | Proto-Luke reconstruction — the Jamesian Protograph |
 
