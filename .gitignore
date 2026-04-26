@@ -1,10 +1,8 @@
-# Output files (regenerated from source)
-output/*.md
-output/*.txt
-output/*.tex
+# Data — PDFs are source files (tracked); JSON dumps are garbage (ignored)
+data/*.json
 
-# Keep final PDF
-!output/Proto-Luke_Jamesian_Protograph.pdf
+# Generated PDFs (rebuild with mirror_to_drive.py)
+output/pdfs/
 
 # Python
 __pycache__/
@@ -26,4 +24,5 @@ secrets/
 .DS_Store
 Thumbs.db
 
+# Working files
 temp/

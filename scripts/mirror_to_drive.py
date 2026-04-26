@@ -27,8 +27,8 @@ from typing import Any, Optional
 # ── Paths ───────────────────────────────────────────────────────────────────
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-TRACTATES_DIR = PROJECT_ROOT / "output" / "cleaned" / "tractates"
-SUPPLEMENTARY_DIR = PROJECT_ROOT / "output" / "cleaned" / "supplementary"
+TRACTATES_DIR = PROJECT_ROOT / "output" / "english" / "tractates"
+SUPPLEMENTARY_DIR = PROJECT_ROOT / "output" / "english" / "supplementary"
 OUTPUT_ROOT = PROJECT_ROOT / "output" / "pdfs"
 CACHE_DIR = PROJECT_ROOT / "cache"
 ASSETS_DIR = SCRIPT_DIR / "assets"
