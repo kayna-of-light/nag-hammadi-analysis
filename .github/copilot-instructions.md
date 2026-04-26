@@ -75,29 +75,26 @@ The proprium is the sense of self as separate — self-love. It is **not evil in
 ## Repository Structure
 
 ```
-NagHammadiLibrary/
+nag-hammadi-analysis/
 ├── .github/
 │   └── copilot-instructions.md        # This file
-├── data/                               # Source PDF
+├── data/                               # Source PDFs (JSON dumps gitignored)
+│   ├── ...Robinson.pdf                 # English translations (22 MB)
+│   └── ...Linssen.pdf                  # Coptic source texts (17 MB)
 ├── output/
-│   ├── tractates/                      # Full extracted tractates (47 files)
-│   ├── cleaned/
-│   │   ├── tractates/                  # Cleaned tractates (47 files)
-│   │   └── supplementary/             # Preface, instructions, index, etc.
-│   └── pdfs/
-│       ├── tractates/                  # Individual tractate PDFs
-│       └── supplementary/             # Supplementary PDFs
+│   ├── english/
+│   │   ├── tractates/                  # Cleaned English translations (47 files)
+│   │   └── supplementary/             # Preface, Introduction, Afterword, etc.
+│   └── coptic/                         # Coptic source texts via PyMuPDF (56 files)
 ├── findings/                           # CORRESPONDENTIAL FINDINGS
 │   ├── schema.yaml                    # Schema definition & documentation
-│   └── tractates/                     # Per-tractate findings (YAML)
-│       ├── II_1_apocryphon_john.yaml
-│       ├── II_2_gospel_thomas.yaml
-│       └── ...
+│   └── tractates/                     # Per-tractate findings (YAML, 48 files)
 ├── scripts/
-│   ├── extract_tractates.py           # PDF → markdown
-│   ├── clean_with_claude.py           # Cleanup pipeline
-│   ├── reprocess_batch.py             # Batch re-cleanup
-│   └── mirror_to_drive.py            # Sync to Google Drive
+│   ├── extract_tractates.py           # Robinson PDF → English markdown
+│   ├── extract_coptic_pymupdf.py      # Linssen PDF → Coptic markdown
+│   ├── mirror_to_drive.py             # Build PDFs and sync to Google Drive
+│   └── assets/                        # CSS + HTML template for PDF generation
+├── CLAUDE.md                          # Agent instructions (Claude Code)
 ├── environment.yml                    # Conda environment (nhl)
 └── README.md
 ```
@@ -128,7 +125,7 @@ findings/
     └── ...
 ```
 
-Filenames mirror `output/cleaned/tractates/` exactly.
+Filenames mirror `output/english/tractates/` exactly.
 
 ### Finding Categories
 
@@ -297,7 +294,7 @@ The GDrive sync creates styled PDFs and uploads to a shared Google Drive folder.
 
 ### NotebookLM
 
-The project NotebookLM notebook is titled **"The Living Library — Reading the Nag Hammadi Texts in Correspondence"**. Instructions for the notebook assistant are in `output/cleaned/supplementary/00_notebooklm_instructions.md`.
+The project NotebookLM notebook is titled **"The Living Library — Reading the Nag Hammadi Texts in Correspondence"**. Instructions for the notebook assistant are in `output/english/supplementary/00_notebooklm_instructions.md`.
 
 ---
 

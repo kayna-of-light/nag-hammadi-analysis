@@ -1,26 +1,36 @@
-# The Nag Hammadi Library — Digital Tractate Collection
+# The Nag Hammadi Library — Correspondential Reading Project
 
-A structured digital edition of the complete Nag Hammadi Library, extracted from Robinson's *The Nag Hammadi Library in English* (3rd rev. ed., HarperSanFrancisco, 1990) and organized as individual tractate files for research and study.
+A structured digital edition of the complete Nag Hammadi Library, containing both English translations and Coptic source texts, organized for systematic reading through the correspondential lens.
 
-## Source
+## Sources
 
-Robinson, J.M. (ed.), *The Nag Hammadi Library in English*, 3rd revised edition, translated and introduced by members of the Coptic Gnostic Library Project of the Institute for Antiquity and Christianity (HarperSanFrancisco, 1990).
+| Source | Description |
+|--------|-------------|
+| **Robinson** | J.M. Robinson (ed.), *The Nag Hammadi Library in English*, 3rd rev. ed. (HarperSanFrancisco, 1990) — English translations |
+| **Linssen** | *Nag Hammadi Library: Complete Transcriptions* — Coptic source texts in Antinoou font (Unicode) |
 
 ## What This Repository Contains
 
-**48 tractates** extracted from the Nag Hammadi codices (I–XIII), the Berlin Gnostic Codex (BG 8502), and the Afterword, available in two forms:
+**48 English tractates** and **56 Coptic tractates** extracted from the source PDFs:
 
-| Directory | Description |
-|-----------|-------------|
-| `output/tractates/` | Full extraction with page-level formatting preserved |
-| `output/cleaned/tractates/` | Cleaned versions: OCR artifacts removed, line-break hyphenation resolved, formatting normalized |
+| Directory | Description | Files |
+|-----------|-------------|-------|
+| `output/english/tractates/` | Cleaned English translations (OCR artifacts removed, formatting normalized) | 47 |
+| `output/english/supplementary/` | Preface, Introduction, Textual Signs, Afterword | 7 |
+| `output/coptic/` | Coptic source texts extracted via PyMuPDF (Unicode, page/line referenced) | 56 + index |
+| `findings/tractates/` | Correspondential analysis findings per tractate (YAML) | 48 |
 
-Each tractate file includes:
+Each English tractate file includes:
 - Title and codex reference
 - Translator attribution
 - Source citation
 - Editor's scholarly introduction (as blockquote)
 - The complete translated text
+
+Each Coptic tractate file includes:
+- Codex, tractate, and page references
+- Folio side indicators (recto/verso)
+- Line-numbered Coptic text in Unicode
 
 ## Tractate Index
 
@@ -77,31 +87,36 @@ Each tractate file includes:
 
 ## Companion Repositories
 
-This project is part of a multi-repository research framework:
-
 | Repository | Purpose |
 |---|---|
-| **[literary-compilation](https://github.com/kayna-of-light/literary-compilation)** | The Divine Bricolage — research collection and synthesis across multiple channels, documenting what the data shows and how it connects |
+| **[literary-compilation](https://github.com/kayna-of-light/literary-compilation)** | The Divine Bricolage — research collection and synthesis |
 | **[structured-data-analysis](https://github.com/kayna-of-light/structured-data-analysis)** | Empirical data analysis — NDE phenomenology, past-life memory, MallWorld dream data |
-| **[manichaean-analysis](https://github.com/kayna-of-light/manichaean-analysis)** | Extraction of the correspondential substrate from the Kephalaia and Manichaean corpus — recovering the Ancient Word |
+| **[manichaean-analysis](https://github.com/kayna-of-light/manichaean-analysis)** | Manichaean corpus — correspondential reading of the Kephalaia and related texts |
 | **[proto-luke-reconstruction](https://github.com/kayna-of-light/ProtoLuke)** | Proto-Luke reconstruction — the Jamesian Protograph |
 
-## Project Structure
+## Attribution
+
+English translations are the work of the scholars listed above, published in Robinson's edition. Coptic transcriptions are from the Linssen edition. This repository provides a structured digital format for research purposes. No content has been altered beyond OCR artifact cleanup and formatting normalization.
 
 ```
-NagHammadiLibrary/
-├── data/                              # Source PDF
+nag-hammadi-analysis/
+├── data/                              # Source PDFs (gitignored: *.json)
+│   ├── ...Robinson.pdf                # English translations (22 MB)
+│   └── ...Linssen.pdf                 # Coptic source texts (17 MB)
 ├── output/
-│   ├── tractates/                     # Full extracted tractates (47 files)
-│   ├── cleaned/tractates/             # Cleaned tractates (47 files)
-│   ├── pdfs/                          # Individual tractate PDFs (for GDrive)
-│   └── index.json                     # Structured metadata for all tractates
+│   ├── english/
+│   │   ├── tractates/                 # 47 cleaned English translations
+│   │   └── supplementary/            # Preface, Introduction, etc.
+│   └── coptic/                        # 56 Coptic tractates (PyMuPDF)
+├── findings/
+│   ├── schema.yaml                    # Findings schema definition
+│   └── tractates/                     # Per-tractate YAML findings (48 files)
 ├── scripts/
-│   ├── extract_tractates.py           # PDF → individual markdown files
-│   ├── clean_with_claude.py           # GPT-5.2 cleanup pipeline
-│   ├── reprocess_batch.py             # Batch re-cleanup for problem files
-│   ├── mirror_to_drive.py             # Sync to Google Drive
-│   └── ...                            # Additional utility scripts
+│   ├── extract_tractates.py           # Robinson PDF → English markdown
+│   ├── extract_coptic_pymupdf.py      # Linssen PDF → Coptic markdown
+│   ├── mirror_to_drive.py             # Build PDFs and sync to Google Drive
+│   └── assets/                        # CSS and HTML template for PDF generation
+├── CLAUDE.md                          # Agent instructions
 ├── environment.yml                    # Conda environment (nhl)
 └── README.md
 ```
@@ -115,17 +130,21 @@ conda env create -f environment.yml
 conda activate nhl
 ```
 
-### Extract Tractates from Source PDF
+### Extract English Translations
 
 ```bash
 python scripts/extract_tractates.py
 ```
 
-### Clean Extracted Text
+Extracts Robinson's English translations from the source PDF into `output/english/tractates/` and `output/english/supplementary/`.
+
+### Extract Coptic Source Texts
 
 ```bash
-python scripts/clean_with_claude.py
+python scripts/extract_coptic_pymupdf.py
 ```
+
+Extracts Coptic Unicode text from the Linssen PDF into `output/coptic/`. Uses PyMuPDF to read the PDF text layer directly (the Antinoou font maps to proper Unicode Coptic codepoints U+2C80–U+2CFF).
 
 ### Sync to Google Drive
 
@@ -137,13 +156,16 @@ conda run -n nhl python scripts/mirror_to_drive.py --force --only filename.md
 conda run -n nhl python scripts/mirror_to_drive.py --force
 ```
 
+Builds styled PDFs from the English tractates and uploads them to Google Drive.
+
 ## Companion Research
 
 This collection supports the research conducted in:
 
 - **[literary-compilation](https://github.com/kayna-of-light/literary-compilation)** — The Divine Bricolage framework
 - **[structured-data-analysis](https://github.com/kayna-of-light/structured-data-analysis)** — Empirical data analysis
+- **[manichaean-analysis](https://github.com/kayna-of-light/manichaean-analysis)** — Manichaean corpus analysis
 
 ## Attribution
 
-All translations are the work of the scholars listed above, published in Robinson's edition. This repository provides a structured digital format for research purposes. No content has been altered beyond OCR artifact cleanup and formatting normalization.
+All translations are the work of the scholars listed above, published in Robinson's edition. Coptic transcriptions are from the Linssen edition. This repository provides a structured digital format for research purposes. No content has been altered beyond OCR artifact cleanup and formatting normalization.

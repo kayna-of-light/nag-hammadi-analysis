@@ -4,7 +4,7 @@
 #
 # This file defines the structure for per-tractate findings files.
 # Each tractate under analysis gets a YAML file in findings/tractates/
-# mirroring the filename from output/cleaned/tractates/.
+# mirroring the filename from output/english/tractates/.
 #
 # The findings system captures what emerges when the NHL texts are read
 # through the correspondential lens — not as an overlay imposed on the texts,
@@ -17,7 +17,7 @@
 # ---------------------------------------------------------------------------
 # tractate:     Codex reference (e.g., "II,1")
 # title:        Full tractate title
-# filename:     Matching filename in output/cleaned/tractates/
+# filename:     Matching filename in output/english/tractates/
 # status:       Analysis progress
 #                 not_started   — Not yet analyzed
 #                 in_progress   — Partially analyzed; more findings expected

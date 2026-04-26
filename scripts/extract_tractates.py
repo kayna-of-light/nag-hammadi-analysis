@@ -6,11 +6,9 @@ Uses the Robinson translation (3rd edition, HarperSanFrancisco).
 PDF page offset: book page + 16 = PDF page (0-indexed: book page + 15).
 
 Output:
-  output/tractates/          — Individual markdown files per tractate
-  output/supplementary/       — Introduction, Preface, etc.
-  output/index.json          — Machine-readable index of all tractates
+  output/english/tractates/       — Individual markdown files per tractate
+  output/english/supplementary/   — Introduction, Preface, etc.
 """
-import json
 import re
 import sys
 from pathlib import Path
@@ -25,8 +23,8 @@ PDF_PATH = Path("data/The Nag Hammadi Library. The Definitive Translation of the
                 "Gnostic Scriptures Complete in One Volume.pdf")
 
 OUTPUT_DIR = Path("output")
-TRACTATE_DIR = OUTPUT_DIR / "tractates"
-FRONT_MATTER_DIR = OUTPUT_DIR / "supplementary"
+TRACTATE_DIR = OUTPUT_DIR / "english" / "tractates"
+FRONT_MATTER_DIR = OUTPUT_DIR / "english" / "supplementary"
 
 # PDF page 1 (0-indexed: 0) corresponds to nothing useful (blank).
 # Book page 1 = PDF page 17 (0-indexed: 16).  Offset = 16.
@@ -546,9 +544,6 @@ def main():
     # ---- Extract tractates ----
     print("\n--- Tractates ---")
 
-    # Calculate page ranges: each tractate runs from its start to the next one's start
-    index_data = []
-
     for i, entry in enumerate(TRACTATES):
         start_idx = book_page_to_pdf_index(entry["book_page"])
 
@@ -566,33 +561,11 @@ def main():
         out_path = TRACTATE_DIR / filename
         out_path.write_text(md, encoding="utf-8")
 
-        # Build index entry
-        idx_entry = {
-            "title": entry["title"],
-            "codex_ref": entry.get("codex_ref"),
-            "book_page": entry["book_page"],
-            "translators": entry["translators"],
-            "filename": f"tractates/{filename}",
-            "page_count": page_count,
-            "char_count": len(text),
-        }
-        index_data.append(idx_entry)
-
         codex = entry.get("codex_ref") or ""
         print(f"  [{codex:>20s}] {entry['title'][:50]:<50s}  "
               f"({page_count} pp, {len(text):,} chars)")
 
-    # ---- Write index ----
-    index = {
-        "source": "Robinson, J.M. (ed.), The Nag Hammadi Library in English, "
-                  "3rd rev. ed. (HarperSanFrancisco, 1990)",
-        "total_tractates": len(index_data),
-        "tractates": index_data,
-    }
-    index_path = OUTPUT_DIR / "index.json"
-    index_path.write_text(json.dumps(index, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"\nIndex written to {index_path}")
-    print(f"Total: {len(index_data)} tractates extracted")
+    print(f"\nTotal: {len(TRACTATES)} tractates extracted")
 
 
 if __name__ == "__main__":
