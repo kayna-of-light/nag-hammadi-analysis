@@ -2,6 +2,21 @@
 #
 # Companion to finding AJ-017 in II_1_apocryphon_john.yaml
 #
+# COPTIC MANUSCRIPT REVIEW (2026-04-28):
+# Systematic comparison of ALL angel names against the Coptic source
+# text (NHC II,1 Folios 15-19). Key results:
+#   - 4 laterality corrections (Tebar, Mniarcon, Barias, Aroer: all LEFT
+#     not RIGHT as Robinson had — all IMPROVE Swedenborg alignment)
+#   - 1 name split (Achcha → Achchan + Staphylē = angel + "grape"/uvula)
+#   - 7 terminal consonants Robinson dropped (most significant:
+#     Mniarcon → Mniarchōn confirming archōn root; Asterechme →
+#     Asterechmēn opening star+moon reading)
+#   - 4 etymology upgrades (Yeronumos → hierōnymos "sacred name";
+#     Evanthen → euanthēs confirmed; Phnene → Phnēmē with M not N;
+#     Beluai → possible Belial connection via initial eta)
+#   - 0 new contradictions with Swedenborg mapping
+#   - coptic_form field added to entries with significant MS evidence
+#
 # METHODOLOGICAL NOTE:
 # The angel names in the 365-body-creation list are transliterated from
 # Coptic, which itself transliterates from Greek manuscripts, which may
@@ -227,11 +242,15 @@ primary_body_creators:
     confidence: strong
 
   - name: "Asterechme"
+    coptic_form: "ⲁ̅ⲥ̅ⲧ̅ⲉ̅ⲣ̅ⲉ̅ⲭ̅ⲙ̅ⲏ̅ⲛ̅ (ASTERECHMĒN — terminal N dropped by Robinson)"
     body_part: "right eye"
     roots:
       - language: Greek
         root: "ἀστήρ (astēr) = star + ἔχω (echō) = to have/hold"
         meaning: "star-holder / star-possessor"
+      - language: Greek (with terminal N)
+        root: "ἀστήρ (astēr) = star + ἔχω (echō) = to hold + μήν (mēn) = moon"
+        meaning: "star-holder of the moon"
     synthesis: >
       The right eye IS the star at the human degree — the organ that
       receives light (truth/wisdom). Right = the intellectual/truth
@@ -239,9 +258,17 @@ primary_body_creators:
       light and translates it into perception. The correspondence is
       grounded in function: as stars illuminate the cosmos, eyes
       illuminate the person.
+      COPTIC NOTE: The manuscript preserves terminal N (ⲁⲥⲧⲉⲣⲉⲭⲙⲏⲛ)
+      which Robinson drops. If the N represents μήν (moon), the right
+      eye is the "star-holder of the moon" — receiving BOTH direct
+      light (star/truth) and reflected light (moon/memory of truth).
+      In Swedenborg, the right eye = intellectual perception; receiving
+      both direct and reflected truth is a precise functional match.
+      Alternatively, -μένος (participle): "the star-held one."
     confidence: strong
 
   - name: "Thaspomocha"
+    coptic_form: "ⲑⲁ̅ⲥ̅ⲡ̅ⲟ̅ⲙ̅ⲟ̅ⲭ̅ⲁ̅ⲙ̅ (THASPOMOCHAM — terminal M dropped by Robinson)"
     body_part: "left eye"
     roots:
       - language: uncertain
@@ -251,21 +278,28 @@ primary_body_creators:
       If the right eye = intellectual perception (star), the left eye
       = volitional perception (labor/effort). Left = the will/love side.
       The left eye labors to perceive — perception through effort rather
-      than reception. Tentative.
+      than reception. COPTIC NOTE: Terminal M preserved in manuscript
+      (ⲑⲁⲥⲡⲟⲙⲟⲭⲁⲙ). May indicate Semitic ending or Greek accusative.
+      Tentative.
     confidence: tentative
 
   - name: "Yeronumos"
+    coptic_form: "ⲓ̅ⲉ̅ⲣ̅ⲱ̅ⲛⲩ̅ⲙ̅ⲟ̅ⲥ̅ (IERŌNYMOS — omega after rho confirms ōnymos)"
     body_part: "right ear"
     roots:
       - language: Greek
-        root: "ἱερός (hieros) = sacred + νόμος (nomos) = law"
-        meaning: "sacred law"
+        root: "ἱερώνυμος (hierōnymos) = ἱερός (hieros) = sacred + ὄνυμα (onyma) = name"
+        meaning: "sacred name"
     synthesis: >
-      The right ear hears sacred law — truth received through hearing.
-      Right = intellectual/truth side. The ear that receives the Word in
-      its legal/ordered form. Hearing corresponds to obedience in Hebrew
-      (שמע = hear AND obey).
-    confidence: moderate
+      The right ear hears the sacred Name — the essential Word received
+      through hearing. Right = intellectual/truth side. The ear that
+      receives the Name (the Word in its essential, not its legal, form).
+      Hearing corresponds to obedience in Hebrew (שמע = hear AND obey).
+      COPTIC NOTE: The omega (ⲱ) after rho in ⲓⲉⲣⲱⲛⲩⲙⲟⲥ confirms
+      ἱερώνυμος ("sacred name") over the earlier reading ἱερονόμος
+      ("sacred law"). The right ear receives the Name, not the Law.
+      This is a significant upgrade.
+    confidence: strong
 
   - name: "Bissoum"
     body_part: "left ear"
@@ -333,10 +367,11 @@ primary_body_creators:
     confidence: tentative
 
   - name: "Basiliademe"
+    coptic_form: "ⲃⲁ̅ⲥ̅ⲓ̅ⲗ̅ⲓ̅ⲁ̅ⲇ̅ⲏ̅ⲙ̅ⲏ̅ (BASILIADĒMĒ — terminal Ē preserved)"
     body_part: "tonsils"
     roots:
       - language: Greek
-        root: "βασιλεία (basileia) = kingdom + δῆμος (demos) = people"
+        root: "βασιλεία (basileia) = kingdom + δήμη (dēmē) = feminine form of demos"
         meaning: "kingdom of the people"
     synthesis: >
       Tonsils as the gatekeepers of the kingdom — they guard the passage
@@ -345,17 +380,28 @@ primary_body_creators:
       has its guards at the gate.
     confidence: strong
 
-  - name: "Achcha"
+  - name: "Achchan-Staphyle"
+    coptic_form: "ⲁ̅ⲭ̅ⲭ̅ⲁ̅ⲛ̅ ⲥ̅ⲧ̅ⲁ̅ⲫ̅ⲩ̅ⲗ̅ⲏ̅ (TWO WORDS — Robinson merged into 'Achcha')"
     body_part: "uvula"
     roots:
+      - language: Greek
+        root: "σταφυλή (staphylē) = grape — the Greek anatomical term for the uvula"
+        meaning: "the grape (= uvula)"
       - language: uncertain
-        root: "possibly ἀκή (akē) = point, edge"
-        meaning: "the point/tip"
+        root: "ACHCHAN — with double chi (ⲭⲭ) and terminal N; possibly ἄχθος (achthos) = burden, weight"
+        meaning: "uncertain; possibly the burden/weight"
     synthesis: >
-      The uvula as the hanging point at the back of the throat — the
-      boundary marker between upper (nasal/intellectual) and lower
-      (digestive/volitional) passages.
-    confidence: tentative
+      MAJOR COPTIC CORRECTION: The manuscript clearly shows TWO words:
+      ACHCHAN (the angel name) + STAPHYLĒ (the body part). Robinson
+      collapsed these into a single 'Achcha.' The body-part term
+      σταφυλή literally means 'grape' — the standard Greek anatomical
+      name for the uvula (so called because it hangs like a grape).
+      This follows the same pattern as Meniggesstroeth (brain =
+      μήνιγγες): the angel name stands alongside the Greek anatomical
+      term. The angel name ACHCHAN with double chi and terminal N
+      may derive from ἄχθος (weight/burden) — the uvula as the
+      hanging weight at the passage's threshold.
+    confidence: moderate
 
   - name: "Adaban"
     body_part: "neck"
@@ -395,48 +441,70 @@ primary_body_creators:
     confidence: moderate
 
   - name: "Tebar"
-    body_part: "right shoulder"
+    coptic_form: "ⲧⲏ̅ⲃ̅ⲁ̅ⲣ̅ ⲛ̅ⲧⲛⲁϩⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ (LEFT shoulder — Robinson had 'right')"
+    body_part: "left shoulder"
     roots:
       - language: Hebrew/Aramaic
         root: "possibly from תבר (tebar) = to break/bear"
         meaning: "bearer/breaker"
     synthesis: >
-      The right shoulder as the bearer — what carries the load. The
-      right (intellectual) side bears truth as burden and responsibility.
+      LATERALITY CORRECTION: The Coptic manuscript assigns Tebar to
+      the LEFT shoulder (ⲛ̅ⲧⲛⲁϩⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ), not the right as in
+      Robinson. This IMPROVES the correspondential fit: the LEFT =
+      will/love side. The bearer belongs on the will side — love is
+      what CARRIES the load, what takes on burden willingly. Truth
+      (right) sees; love (left) bears.
     confidence: moderate
 
   - name: "Mniarcon"
-    body_part: "right elbow"
+    coptic_form: "ⲙⲛ̅ⲓ̅ⲁ̅ⲣ̅ⲭ̅ⲱ̅ⲛ̅ (MNIARCHŌN — terminal N confirms ἀρχών root; LEFT elbow)"
+    body_part: "left elbow"
     roots:
       - language: Greek
         root: "μνεία (mneia) = remembrance + ἀρχών (archōn) = ruler"
-        meaning: "ruler of memory"
+        meaning: "ruler of memory / memory-archon"
     synthesis: >
-      The elbow as the joint that enables the arm's work — what gives
-      the arm its flexibility and range. Memory rules over the capacity
-      to act (the arm) because all skilled action depends on accumulated
-      experience.
-    confidence: moderate
+      LATERALITY CORRECTION + ETYMOLOGY CONFIRMATION: The Coptic
+      manuscript assigns Mniarchon to the LEFT elbow (ⲙ̅ⲡⲕⲉⲗⲉⲛⲕⲉϩ
+      ⲛ̅ϭⲃⲟⲩⲣ) and preserves the terminal N that Robinson dropped.
+      The terminal N confirms this IS μνεία + ἀρχών (memory-archon).
+      LATERALITY: The left = will/love side. Experiential, embodied,
+      kinesthetic memory — the memory of practice, of accumulated
+      doing — is a will-faculty. The left elbow enables the arm's
+      work through accumulated physical experience. Memory that rules
+      action = memory of the will, not intellectual recall.
+    confidence: strong
 
   - name: "Abitrion"
+    coptic_form: "ⲁⲃ̅ⲓ̅ⲧ̅ⲣ̅ⲓ̅ⲱ̅ⲛ̅ (ABITRIŌN — terminal N preserved; -ōn is Greek agent suffix)"
     body_part: "right underarm"
     roots:
       - language: Greek
         root: "possibly ἀβίτριον — unclear; or compound with τρίβω (tribō) = to rub/wear"
         meaning: "uncertain"
+    synthesis: >
+      COPTIC NOTE: The manuscript preserves terminal N (ⲁⲃⲓⲧⲣⲓⲱⲛ),
+      revealing a standard Greek agent-noun suffix (-ōn, as in archōn,
+      daimōn). This confirms the name is an agent noun — "the one
+      who [does X]" — though the root remains unclear. The -ōn ending
+      narrows the search: whatever the root is, the name describes
+      an agent, not an abstract quality.
     confidence: opaque
 
   - name: "Evanthen"
+    coptic_form: "ⲉ̅ⲩ̅ⲁ̅ⲛ̅ⲑ̅ⲏ̅ⲛ̅ (EUANTHĒN — terminal N confirms accusative of εὐανθής)"
     body_part: "left underarm"
     roots:
       - language: Greek
-        root: "εὐ- (eu-) = good/well + ἄνθος (anthos) = flower"
+        root: "εὐανθής (euanthēs) = good/well + ἄνθος (anthos) = flower = well-flowering"
         meaning: "good-flower / well-blooming"
     synthesis: >
       The left (will/love) underarm as the place where good flowers —
       the protective space close to the body where what is precious is
-      held. Tentative.
-    confidence: tentative
+      held. COPTIC NOTE: Terminal N (ⲉⲩⲁⲛⲑⲏⲛ) confirms the accusative
+      form of εὐανθής (well-flowering), resolving the tentative reading
+      into a confirmed Greek adjective.
+    confidence: moderate
 
   - name: "Krys"
     body_part: "right hand"
@@ -452,14 +520,23 @@ primary_body_creators:
     confidence: tentative
 
   - name: "Beluai"
+    coptic_form: "ⲃⲏ̅ⲗ̅ⲩ̅ⲁ̅ⲓ̅ (BĒLYAI — initial eta; phonetic overlap with Belial)"
     body_part: "left hand"
     roots:
       - language: Hebrew
         root: "possibly from בלע (bala) = to swallow/enclose"
         meaning: "encloser"
+      - language: Hebrew (with Coptic evidence)
+        root: "possibly related to בליעל (Belial) = worthlessness, via ⲃⲏⲗⲩⲁⲓ (BĒLYAI)"
+        meaning: "the worthless one / the swallower"
     synthesis: >
       The left hand as what encloses and holds — the will's grasp.
       The left (love/will) hand is the receiving and holding hand.
+      COPTIC NOTE: The initial eta (ⲏ) in ⲃⲏⲗⲩⲁⲓ creates phonetic
+      overlap with Belial (Βελίαρ/Βελίαλ). If the left hand angel
+      carries a form of this name, the will's grasping/consuming
+      capacity is being named — the hand that takes, swallows,
+      encloses for itself. Still tentative but with a new lead.
     confidence: tentative
 
   - name: "Treneu"
@@ -610,17 +687,24 @@ primary_body_creators:
     confidence: tentative
 
   - name: "Barias"
-    body_part: "right hip"
+    coptic_form: "ⲃⲁ̅ⲣ̅ⲓ̅ⲁ̅ⲥ̅ ⲛ̅ⲧϯⲡⲉ ⲛ̅ϭⲃⲟⲩⲣ (LEFT hip — Robinson had 'right')"
+    body_part: "left hip"
     roots:
       - language: Greek
         root: "βάρος (baros) = weight"
         meaning: "weight/heaviness"
     synthesis: >
-      The hip as the weight-bearing joint — what carries the body's
-      entire load above it. The hip IS the heaviness-point.
+      LATERALITY CORRECTION: The Coptic manuscript assigns Barias to
+      the LEFT hip (ⲛ̅ⲧϯⲡⲉ ⲛ̅ϭⲃⲟⲩⲣ), not the right as in Robinson.
+      This IMPROVES the correspondential fit: the LEFT = will/love
+      side. Weight on the left hip = the weight of commitment, of
+      what you carry because you love it. The hip bears the
+      gravitational weight of the whole body above — love is what
+      bears the weight of life.
     confidence: moderate
 
   - name: "Abenlenarchei"
+    coptic_form: "ⲁ̅ⲃ̅ⲏ̅ⲛ̅ⲗ̅ⲉ̅ⲛ̅ⲁ̅ⲣ̅ⲭ̅ⲉ̅ⲓ̅ ⲛ̅ⲛⲁⲧⲕⲁⲥ (marrow = ⲛⲁⲧⲕⲁⲥ, 'boneless')"
     body_part: "marrow"
     roots:
       - language: Greek/Hebrew
@@ -632,6 +716,12 @@ primary_body_creators:
       is the generative life WITHIN it. The origin (archē) lives
       inside the stone (eben). This names the innermost generative
       principle concealed within the most solid exterior.
+      COPTIC NOTE: The Coptic body-part term is ⲛⲁⲧⲕⲁⲥ = ⲁⲧ- (without)
+      + ⲕⲁⲥ (bone) = "BONELESS." The Coptic itself encodes the nesting:
+      marrow is what exists WITHOUT bone yet INSIDE bone. Lordship
+      (the fourth substance-soul) generates marrow = the generative
+      life hidden within goodness (bone). The Coptic word captures
+      the paradox: the boneless substance IS the essence of the bone.
     confidence: moderate
 
   - name: "Chnoumeninorin"
@@ -664,6 +754,7 @@ primary_body_creators:
     confidence: moderate
 
   - name: "Agromauna"
+    coptic_form: "ⲁⲅ̅ⲣ̅ⲟ̅ⲙ̅ⲁ̅ⲩ̅ⲙ̅ⲁ̅ ⲙ̅ⲫⲏⲧ (heart = ⲫⲏⲧ, which means BOTH heart AND mind)"
     body_part: "heart"
     roots:
       - language: Greek
@@ -674,6 +765,13 @@ primary_body_creators:
       center from which the whole field receives its life. The heart
       DWELLS at the center. If monē (dwelling/abiding): the permanent
       residence of life within the body.
+      COPTIC NOTE: The Coptic body-part term is ⲫⲏⲧ, which means BOTH
+      "heart" AND "mind." The scribe's language already unifies what
+      Swedenborg teaches: the heart = the seat of will/love AND the
+      root of understanding. The Coptic language itself preserves the
+      correspondence that Greek and English split apart. Agromauma
+      (field-dwelling) governs ⲫⲏⲧ — the dwelling place where love
+      and wisdom are one.
     confidence: moderate
 
   - name: "Bano"
@@ -754,6 +852,7 @@ primary_body_creators:
     confidence: tentative
 
   - name: "Taphreo"
+    coptic_form: "ⲧⲁⲫ̅ⲣ̅ⲉ̅ⲱ̅ ⲛ̅ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ (spine = 'the heights of the body')"
     body_part: "spine"
     roots:
       - language: Greek
@@ -763,6 +862,14 @@ primary_body_creators:
       The spine as the central channel through which the spinal fluid
       flows — the main trench/conduit of the body. The spine IS the
       great channel connecting head to base.
+      COPTIC NOTE: The Coptic body-part term is ⲛ̅ϫⲓⲥⲉ ⲙ̅ⲡⲥⲱⲙⲁ —
+      literally "the HEIGHTS of the body." This is NOT a clinical
+      term; it is a correspondential description. The spine = the
+      body's mountain range, its vertical axis, its axis of ascent.
+      In Swedenborg, height = proximity to the Lord; the spine is
+      the body's elevation, the channel through which influx descends
+      from head to base. The Coptic scribe chose a word that describes
+      the spiritual function, not the anatomical structure.
     confidence: moderate
 
   - name: "Ipouspoboba"
@@ -803,6 +910,7 @@ primary_body_creators:
     confidence: strong
 
   - name: "Entholleia"
+    coptic_form: "ⲏ̅ⲛ̅ⲑⲟⲗⲗⲉⲓⲁ̣ (ENTHOLLEIA — double lambda + initial eta)"
     body_part: "all flesh"
     roots:
       - language: Greek
@@ -811,6 +919,9 @@ primary_body_creators:
     synthesis: >
       Flesh as the whole interior substance — what fills the entire
       form. Flesh IS the wholeness made visible.
+      COPTIC NOTE: The Coptic shows initial ⲏ (eta), not epsilon,
+      and double lambda (ⲑⲟⲗⲗⲉⲓⲁ). The ἐν + ὅλος reading still
+      works phonologically; the double lambda may reflect intensification.
     confidence: moderate
 
   - name: "Eilo"
@@ -912,15 +1023,23 @@ primary_body_creators:
     confidence: strong
 
   - name: "Phnene"
+    coptic_form: "ⲫⲛ̅ⲏ̅ⲙ̅ⲏ̅ (PHNĒMĒ — M not N in penultimate; Robinson has 'Phnene')"
     body_part: "left knee"
     roots:
-      - language: uncertain
+      - language: Greek (revised)
+        root: "possibly from φήμη (phēmē) = oracle, fame, utterance"
+        meaning: "the oracle / the spoken word"
+      - language: uncertain (original)
         root: "possibly from φαίνω (phainō) = to show/appear"
         meaning: "the appearing one"
     synthesis: >
-      The left (will/love) knee: kneeling as appearing before — making
-      oneself visible in humility. Kneeling exposes; it makes one
-      appear (phainō) as vulnerable.
+      COPTIC CORRECTION: The manuscript shows ⲫⲛⲏⲙⲏ with M in the
+      penultimate position, not N. Robinson's 'Phnene' obscures this.
+      PHNĒMĒ may point to φήμη (phēmē) = oracle, fame, utterance —
+      the left knee that kneels before the spoken word/oracle. Or a
+      derivative of πνεῦμα (spirit). The M vs N distinction matters:
+      the earlier reading (φαίνω, to appear) is now less likely.
+      Still tentative but with a different and possibly stronger lead.
     confidence: tentative
 
   - name: "Phiouthrom"
@@ -1038,12 +1157,15 @@ regional_overseers:
     confidence: tentative
 
   - name: "Aroer"
-    body_region: "right shin-bone"
+    coptic_form: "ⲁⲣ̅ⲟ̅ⲏ̅ⲣ̅ ⲧⲥⲏⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ (LEFT shin — Robinson had 'right')"
+    body_region: "left shin-bone"
     roots:
       - language: Hebrew
         root: "ערער (Aroer) = a known biblical place name meaning 'ruins' or 'juniper'"
         meaning: "stripped bare / exposed"
     synthesis: >
+      LATERALITY CORRECTION: The Coptic manuscript assigns Aroer to
+      the LEFT shin (ⲧⲥⲏⲃⲉ ⲛ̅ϭⲃⲟⲩⲣ), not the right as in Robinson.
       The shin as the exposed bone — the least protected, most
       vulnerable part of the leg. Aroer = ruins, what is laid bare.
     confidence: moderate
@@ -1283,6 +1405,7 @@ passion_rulers:
     confidence: tentative
 
   - name: "Blaomen"
+    coptic_form: "ⲃⲗ̅ⲁ̅ⲟ̅ⲙ̅ⲏ̅ⲛ̅ ⲡⲉ ⲡⲁⲧⲧϩⲛϩϩⲉ (BLAOMĒN + native Coptic ⲧϩⲛϩϩⲉ for fear)"
     passion: "fear"
     roots:
       - language: Greek
@@ -1292,6 +1415,11 @@ passion_rulers:
       Fear as the anticipation of harm to one's spirit — not mere
       physical danger but the threat of damage to what animates.
       Fear IS the perception of approaching spiritual harm.
+      COPTIC NOTE: Terminal N preserved in the manuscript (ⲃⲗⲁⲟⲙⲏⲛ).
+      Crucially, the Coptic body-part term uses NATIVE Coptic ⲧϩⲛϩϩⲉ
+      ("fear") rather than Greek φόβος (phobos). This is the same
+      pattern seen throughout: the most intimate terms use the
+      vernacular, not the borrowed language.
     confidence: moderate
 
   - name: "Aesthesis-Ouch-Epi-Ptoe"
