@@ -24,6 +24,40 @@ summary: >
   Scholarship treats the enumeration lists as tedious or magical. They are
   correspondence maps: the human body described as the divine in ultimates.
 
+  COPTIC PASS (2026-08, entries AJ-023 onward). Folios 1-32 of the Linssen
+  transcription were read in full. The load-bearing evidence in this tractate is
+  LEXICAL REGISTER — which words are native Egyptian and which are Greek loans,
+  and where the text switches — and none of it survives translation. English
+  collapses ⲅⲛⲱⲥⲓⲥ/ⲥⲟⲟⲩⲛ into "knowledge", ⲭⲁⲣⲓⲥ/ϩⲙⲟⲧ into "grace", and
+  ⲥⲙⲁⲧ/ⲙⲟⲣⲫⲏ/ⲉⲓⲛⲉ/ⲧⲩⲡⲟⲥ into "form" or "likeness". Entries AJ-001 through
+  AJ-022 were made from Robinson and have NOT been re-verified line by line.
+  One of them (AJ-004) asserted a claim the Coptic does not support and has
+  been corrected in place; AJ-022 carried a quotation that is not in the
+  manuscript and has been corrected. Treat the English-derived entries as
+  provisional until checked.
+
+  Two things the Coptic shows that the English-derived entries got the wrong
+  way round. First, this tractate is NOT a matter-rejecting cosmology: it
+  declines both halves of the body / non-body dichotomy in its third folio
+  (AJ-032), defines the disorder as a SICKNESS rather than an opposing
+  substance (AJ-031), and ends with the Pronoia descending INTO the body
+  rather than calling anyone out of it. Second, it is exegesis of shared
+  scripture, not a rival mythology: it corrects the letter of Genesis three
+  times by a fixed formula and defends the method from Isaiah (AJ-028), and it
+  states outright that the familiar names are covers deliberately applied
+  (AJ-025).
+
+  Full apparatus, with folio references and an explicit [OBSERVATION] /
+  [READING] split throughout:
+    findings/II_1_apocryphon_john_the_correspondential_teaching.md
+  The same material read straight through as one continuous narrative:
+    findings/II_1_apocryphon_john_the_story_in_correspondence.md
+
+  Status remains in_progress: the 365 angel names (AJ-017 through AJ-021 and
+  the companion AJ_angel_name_translations.yaml) were derived from the English
+  and have not been checked against the Coptic, and AJ-019 in particular rests
+  on etymological reconstruction that AJ-038 flags for re-derivation.
+
 findings:
   - id: AJ-001
     category: structural_principle
@@ -110,28 +144,49 @@ findings:
       systematically to an entire hierarchy.
 
   - id: AJ-004
-    category: explicit_statement
+    category: correspondence
     passage: >
-      "And he said to the authorities which attend him, 'Come, let us
-      create a man according to the image of God and according to our
-      likeness, that his image may become a light for us.' And they
-      created by means of their respective powers in correspondence
-      with the characteristics which were given."
-    location: "Line 103"
+      ⲁⲙⲏⲉⲓⲛⲉ ⲛ̅ⲧⲛ̅ⲧⲁⲙⲓⲟ ⲛ̅ⲟⲩⲣⲱⲙⲉ ⲕⲁⲧⲁ ⲑⲓⲕⲱⲛ ⲙ̅ⲡⲛⲟⲩⲧⲉ ⲁⲩⲱ ⲕⲁⲧⲁ ⲡⲛ̅ⲉⲓⲛⲉ
+      ϫⲉⲕⲁⲁⲥ ⲁⲣⲉⲧⲉϥϩⲓⲕⲱⲛ ⲛⲁϣⲱⲡⲉ ⲛⲁⲛ ⲛ̅ⲟⲩⲟⲉⲓⲛ ⲁⲩⲱ ⲁⲩⲧⲁⲙⲓⲟ ⲉⲃⲟⲗ ϩⲓⲧⲛ̅
+      ⲛ̅ϭⲟⲙ ⲛ̅ⲛⲟⲩⲉⲣⲏⲩ˙ ⲕⲁⲧⲁ ⲙ̅ⲙⲁⲓ̈ⲛ ⲉⲛⲧⲁⲩϯ ⲙ̅ⲙⲟⲟⲩ
+
+      "Come, let us make a man according to the image (ϩⲓⲕⲱⲛ) of God and
+      according to our likeness (ⲉⲓⲛⲉ), so that his image may become a light
+      for us. And they made it by their respective powers, according to (ⲕⲁⲧⲁ)
+      the marks (ⲙⲁⲉⲓⲛ) that had been given."
+    location: "fol. 15:2-6 (Coptic); Robinson line 103"
     finding: >
-      The text uses the word "correspondence" explicitly. Each power
-      creates "in correspondence with" its characteristic — the body
-      part corresponds to the spiritual quality of the power that created
-      it. This is the doctrine of correspondence stated as the operating
-      principle of human creation: each part of the body IS the spiritual
-      power that created it, expressed in ultimates.
+      Genesis 1:26 is quoted and the motive is supplied — the archons want
+      the human image because they want light. Each authority then contributes
+      ⲟⲩⲙⲁⲉⲓⲛ, a mark or sign, into the ⲧⲩⲡⲟⲥ of the image it had seen
+      (fol. 15:7-8). The making is distributive: each power puts its own
+      signature into the composite.
+
+      Note also the register split inside the quoted Genesis line: ϩⲓⲕⲱⲛ
+      (Greek) for what belongs to God, ⲉⲓⲛⲉ (native) for what belongs to
+      them. See AJ-023.
     principles:
       - correspondence
       - divine_human
     confidence: strong
     notes: >
-      The word "correspondence" appears in the Robinson translation.
-      This is not a modern overlay — the text describes its own method.
+      CORRECTION (2026-08-05, from the Coptic). This entry previously claimed
+      "The text uses the word 'correspondence' explicitly" and treated
+      Robinson's "in correspondence with the characteristics which were given"
+      as an ancient attestation of the term. It is not. The Coptic is plain
+      ⲕⲁⲧⲁ (κατά), "according to", plus ⲙⲁⲉⲓⲛ, "sign/mark". There is no
+      Coptic or Greek word for "correspondence" here.
+
+      This is the same error class already corrected for Silvanus VII,4, where
+      Robinson's "in correspondence to that which is revealed" also renders
+      bare ⲕⲁⲧⲁ. Do not cite either tractate as an ancient use of the term.
+      The evidence that survives the correction is better than the claim it
+      replaces: the distributive ⲙⲁⲉⲓⲛ and the ϩⲓⲕⲱⲛ/ⲉⲓⲛⲉ register split.
+
+      General caution: this entry was built on an English rendering and the
+      English supplied a word the source does not have. Entries AJ-001 through
+      AJ-022 were all made from Robinson and have not been re-verified against
+      the Coptic line by line.
 
   - id: AJ-005
     category: divine_human_anatomy
@@ -939,13 +994,21 @@ findings:
   - id: AJ-022
     category: cross_reference
     passage: >
-      "And all of them were completed according to his will. And it
-      was more than the book of Zoroaster." (Apocryphon of John,
-      body-creation passage)
+      ⲉϣⲡⲉ ⲕⲟⲩⲱϣⲉ ⲇⲉ ⲁⲙ̅ⲙⲉ ⲉⲣⲟⲟⲩ ϥⲥⲏϩ ϩⲣⲁⲓ̈ ϩⲙ̅ ⲡϫⲱⲱⲙⲉ ⲛ̅ⲍⲱⲣⲟⲁⲥⲧⲣⲟⲥ
+
+      "If you want to know them, it is written in the book of Zoroaster."
+      (fol. 19:8-10)
 
       Combined with: the Zostrianos subscript "Teachings of Zoroaster"
       and Porphyry's report that the Sethian community circulated texts
       under Zoroaster's name.
+
+      CORRECTION (2026-08-05): this field previously read "And all of them
+      were completed according to his will. And it was more than the book of
+      Zoroaster." That sentence is not in the manuscript. The actual citation
+      is the one above — a citation formula (ϥⲥⲏϩ, "it is written") plus a
+      named book (ⲡϫⲱⲱⲙⲉ, the native word for book). The argument below is
+      unaffected; the quotation supporting it was wrong.
     location: "Lines 103-121 (citation); cf. VIII,1 subscript"
     finding: >
       MATERIAL EVIDENCE FOR THE "ZOROASTER AS TRADITION" HYPOTHESIS.
@@ -1047,3 +1110,743 @@ findings:
       preserves a SPECIMEN of the tradition, LABELS it with the
       tradition's name ("Zoroaster"), and WRITES it in the tradition's
       native format.
+
+  # ==========================================================================
+  # AJ-023 onward: findings from the Coptic (Linssen 2024), folios 1-32 read
+  # in full, 2026-08-03/05. Apparatus with full evidence and folio references:
+  #   findings/II_1_apocryphon_john_the_correspondential_teaching.md
+  # Continuous reading built on it:
+  #   findings/II_1_apocryphon_john_the_story_in_correspondence.md
+  # Section numbers cited below (§N) refer to the apparatus document.
+  # ==========================================================================
+
+  - id: AJ-023
+    category: structural_principle
+    passage: |
+      ⲟⲩⲉⲓⲛⲉ ⲉϥⲟ ⲛ̅ϩⲁϩ ⲙ̅ⲙⲟⲣⲫⲏ — "a likeness (ⲉⲓⲛⲉ) having many forms
+      (ⲙⲟⲣⲫⲏ)" — fol. 2:6
+
+      ⲡⲉⲥⲙⲁⲧ ⲛⲁϥⲟ ⲛ̅ϣⲟⲙⲧⲉ ⲙ̅ⲙⲟⲣⲫⲏ — "the ⲥⲙⲁⲧ was in three ⲙⲟⲣⲫⲁⲓ"
+      — fol. 2:8-9
+
+      ⲛ̣[ⲓⲥⲙⲁⲧ] ⲛⲁⲩⲟⲩⲟⲛϩ ϩⲓⲧⲛ̅ ⲛⲉⲩⲉⲣⲏ̣ⲩ̣ — "they were appearing THROUGH ONE
+      ANOTHER" — fol. 2:7-8
+
+      ⲁⲩϣⲃ̅ⲧⲟⲩϩⲙ̅ ⲡⲟⲩⲉⲓⲛⲉ — "they ALTERED THEIR ⲉⲓⲛⲉ" (the counterfeiting
+      angels) — fol. 29:26
+    location: "fol. 2:6-9, 10:3-9, 14:34, 15:8, 22:35-23:2, 23:27, 27:35, 29:26"
+    finding: |
+      The tractate holds a consistent lexical distinction across all
+      thirty-two folios: native ⲥⲙⲁⲧ / ⲉⲓⲛⲉ names what a thing IS at the
+      interior degree; Greek ⲙⲟⲣⲫⲏ / ⲧⲩⲡⲟⲥ names how it PRESENTS at the
+      exterior. It does real work at every crux:
+
+      fol. 2:6-9   — one ⲥⲙⲁⲧ, three ⲙⲟⲣⲫⲁⲓ (child, old man, servant)
+      fol. 10:3-9  — the malformation is ⲉϥϣⲃ̅ⲃⲓⲁⲉⲓⲧ ⲁⲡⲉⲥⲥⲙⲟⲧ (deviant from
+                     her ⲥⲙⲟⲧ) and ⲟⲩⲁⲧⲥⲙⲟⲧ (WITHOUT ⲥⲙⲟⲧ) relative to the
+                     ⲉⲓⲛⲉ of his mother — an appearance with no constant
+                     behind it, the exact negative of fol. 2
+      fol. 14:34 / 15:8 — the archons see only ⲡⲧⲩⲡⲟⲥ ⲛ̅ⲧϩⲓⲕⲱⲛ, the imprint
+                     OF the image
+      fol. 22:35-23:2 — a female ⲙⲟⲣⲫⲏ cast ⲕⲁⲧⲁ ⲡⲓⲛⲉ ⲛ̅ⲧⲉⲡⲓⲛⲟⲓⲁ, after the
+                     interior likeness of what could not be seized
+      fol. 27:35   — the Spirit ϩⲛ̅ ⲥⲙⲁⲧ ⲛⲓⲙ, in every ⲥⲙⲁⲧ
+
+      The boundary this draws is the finding. At fol. 2:7-8 the forms appear
+      ϩⲓⲧⲛ̅ ⲛⲉⲩⲉⲣⲏⲩ — through one another, simultaneous and mutually
+      transparent, not sequential disguises. At fol. 29:26 the counterfeiting
+      angels ALTER THE ⲉⲓⲛⲉ ITSELF.
+
+      Variable form over a constant state is revelation.
+      Altering the state to fit a form is deception.
+
+      These are not the same operation and the Coptic does not use the same
+      words for them. English renders both "changed his appearance".
+    principles:
+      - constant_state_variable_form
+      - correspondence
+      - opposite_sense
+    confidence: strong
+    notes: >
+      §25 item 1 of the apparatus recommended explicit_statement. Recorded as
+      structural_principle instead, because the tractate never steps back to
+      name the distinction — it operates it. The lexical fact is
+      observation-grade and holds without exception; the interior/exterior
+      construal of it is a reading, and is labelled as such in §1 of the
+      apparatus.
+
+      Pairs with the Silvanus εἰκών → ⲙⲉ finding (VII,4 fol. 100:27-31): two
+      independent tractates using register-shift to mark degree. Neither is
+      visible in translation.
+
+      Caution recorded in §23.1: the native/Greek split does NOT hold as a
+      general rule of this tractate's vocabulary. It holds where the text sets
+      up a doublet deliberately. Do not over-extend it. See AJ-035.
+
+  - id: AJ-024
+    category: explicit_statement
+    passage: |
+      ⲟⲩⲅⲛⲱⲥⲓⲥ ⲡⲉ ⲉϥϯ ⲛ̅ⲟⲩⲥⲟⲟⲩⲛ — "he is ⲅⲛⲱⲥⲓⲥ, giving ⲥⲟⲟⲩⲛ"
+
+      ⲟⲩⲭⲁⲣⲓⲥ ⲡⲉ ⲉϥϯ ⲛ̅ⲟⲩϩⲙⲟⲧ — "he is ⲭⲁⲣⲓⲥ, giving ϩⲙⲟⲧ"
+
+      ⲟⲩⲛⲁⲉ ⲡⲉ ⲉϥϯ ⲛ̅ⲛⲟⲩⲛⲁ ⲙⲛ̅ ⲟⲩⲥⲱⲧⲉ … ⲟⲩⲱⲛϩ ⲡⲉ ⲉϥϯ ⲛ̅ⲟⲩⲱⲛϩ
+    location: "fol. 4:1-9"
+    finding: >
+      A series of predications of the form "he is X, giving x". In the two
+      cases where Coptic offers a genuine doublet, the Greek loan names what
+      he IS and the native Egyptian word names what he GIVES: ⲅⲛⲱⲥⲓⲥ → ⲥⲟⲟⲩⲛ,
+      ⲭⲁⲣⲓⲥ → ϩⲙⲟⲧ.
+
+      In English both pairs collapse to one word said twice — "he is
+      knowledge, giving knowledge" — which reads as tautology and is not.
+
+      The construction states one reality named at two degrees, with the
+      change of degree carried by the change of register. Nothing is
+      transferred and nothing is copied: the same thing is named where it
+      originates and named again where it lands. This is influx written into
+      the vocabulary rather than asserted about it.
+    principles:
+      - influx
+      - discrete_degrees
+      - correspondence
+    confidence: strong
+    notes: >
+      The strongest single lexical finding in the tractate and invisible in
+      translation. Same device as Silvanus VII,4 fol. 100:27-31 (Greek εἰκών
+      names the outer image; native Egyptian names what it discloses).
+
+      Two independent tractates, one device. This is the register evidence
+      that the whole Coptic-first read was undertaken to recover.
+
+  - id: AJ-025
+    category: explicit_statement
+    passage: |
+      ⲛⲁⲓ̈ ⲙⲉⲛ ⲁⲩϯ ⲣⲁⲛ ⲉⲣⲟⲟ̣ⲩ ⲕⲁⲧⲁ ⲡⲉⲟⲟⲩ ⲛ̅ⲛⲁⲧⲡⲉ ⲉⲡϣⲟⲣ̣[ϣⲣ̅ ⲛ̅ⲛⲓ]ϭⲟⲙ
+      ⲛ̅ⲣⲁⲛ ⲇⲉ ⲉⲛⲧⲁⲩⲧⲁⲁⲩ ⲉⲣⲟ̣[ⲟⲩ ϩⲓⲧⲛ̅] ⲡⲟⲩⲁⲣⲭⲓⲅⲉⲛⲛⲏⲧⲱⲣ ⲉⲩⲣ̅ ϭⲟⲙ' ϩⲣⲁⲓ
+      ⲛ̅ϩⲏⲧⲟⲩ … ϩⲱⲥⲧⲉ ⲉⲩⲛ̅ⲧⲁⲩ ⲙ̅ⲙⲁⲩ ⲛ̅ⲣⲁⲛ ⲥⲛⲁⲩ
+
+      "These were given names after the glory of those above, for the
+      destruction of the powers; but the names given them by their own
+      begetter have power in them … SO THAT THEY HAVE TWO NAMES."
+      — fol. 12:26-33
+
+      ⲛⲁⲓ̈ ⲇⲉ ⲁϥⲙⲟⲩⲧⲉ ⲉⲣⲟⲟⲩ ⲛ̅ⲛⲓⲣⲁⲛ ϫⲉ ⲕⲁⲓ̈ⲛ ⲁⲩⲱ ⲁⲃⲉⲗ ⲉϥⲛⲁⲩ ⲁⲧⲉϥⲡⲁⲛⲟⲩⲣⲅⲓⲁ
+
+      "He called them by the names Cain and Abel, WITH A VIEW TO HIS OWN
+      CUNNING." — fol. 24:24-26
+    location: "fol. 12:26-33 and fol. 24:24-26"
+    finding: >
+      The tractate states the naming law outright, twice, in plain sentences.
+
+      First: each of the seven powers carries TWO names, from two directions,
+      with opposite effect — a name from above applied for the destruction of
+      what it names, and a name from its own begetter that has power in it.
+
+      Second, demonstrated on the most familiar names in the book: the
+      archon's two sons are bear-faced and cat-faced, one unjust and one just,
+      and he calls them Cain and Abel ⲉϥⲛⲁⲩ ⲁⲧⲉϥⲡⲁⲛⲟⲩⲣⲅⲓⲁ — with a view to
+      his own cunning. The received scriptural names are stated by the text to
+      be a cover deliberately applied, and the applier is named.
+
+      In this literature a name is a claim about origin, and some names are
+      applied precisely so that a thing will not be recognised. The faces are
+      the identity; the names are the concealment.
+    principles:
+      - correspondence
+      - opposite_sense
+      - ruling_love
+    confidence: strong
+    notes: >
+      This is the tractate's own warrant for the corpus-wide rule recorded in
+      findings/SYNTHESIS_the_whole_picture.md §1 — that persons in this
+      literature are read from relation and behaviour, not from names, and
+      that a doubled or split name is a signal rather than a scribal slip.
+
+      The synthesis currently INFERS that rule from cross-text behaviour.
+      This tractate STATES it. Upgrade the synthesis accordingly: the law is
+      attested, not reconstructed.
+
+      Note the second passage cuts against any reading that treats the
+      Genesis persons here as freely invented mythology. The composer is
+      telling his reader that the names in the shared account are covers —
+      an argument that only works on a reader who holds the account.
+
+  - id: AJ-026
+    category: structural_principle
+    passage: |
+      (1) ⲧⲡⲏⲅⲏ ⲙ̅ⲡⲙⲟⲟⲩ ⲛ̅ⲱⲛϩ … ⲧⲉϥϩⲓⲕⲱⲛ — the Father gazes into the spring
+          of living water and beholds his image; that beholding IS Barbelo.
+          — fol. 4:20-26
+
+      (2) ⲁⲩⲛⲁⲩ ϩⲣⲁⲓ̈ ϩⲙ̅ ⲡⲙⲟⲟⲩ ⲁⲡⲧⲩⲡⲟⲥ ⲛ̅ⲧϩⲓⲕⲱⲛ — "they saw in the water the
+          ⲧⲩⲡⲟⲥ OF the ϩⲓⲕⲱⲛ" … ⲁⲙⲏⲉⲓⲛⲉ ⲛ̅ⲧⲛ̅ⲧⲁⲙⲓⲟ ⲛ̅ⲟⲩⲣⲱⲙⲉ ⲕⲁⲧⲁ ⲑⲓⲕⲱⲛ
+          ⲙ̅ⲡⲛⲟⲩⲧⲉ … ϫⲉⲕⲁⲁⲥ ⲁⲣⲉⲧⲉϥϩⲓⲕⲱⲛ ⲛⲁϣⲱⲡⲉ ⲛⲁⲛ ⲛ̅ⲟⲩⲟⲉⲓⲛ — "so that his
+          image may become a LIGHT FOR US" — fol. 14:33-15:8
+
+      (3) ⲁⲉⲓⲥⲫⲣⲁⲅⲓⲍⲉ ⲙ̅ⲙⲟϥ ϩⲛ̅ ⲡⲟⲩⲟⲉⲓⲛ ⲙ̅ⲡⲙⲟⲟⲩ ϩⲛ̅ ϯⲉ ⲛ̅ⲥⲫⲣⲁⲅⲓⲥ ϫⲉⲕⲁⲁⲥ
+          ⲛ̅ⲛⲉⲡⲙⲟⲩ ϭⲛ̅ϭⲁⲙ ⲉⲣⲟϥ — "I sealed him in THE LIGHT OF THE WATER with
+          five seals, that death might not have power over him."
+          — fol. 31:23-25
+    location: "fol. 4:20-26, 14:33-15:8, 31:23-25"
+    finding: >
+      One image, three waters, and the third closes the circuit opened by the
+      first. Recorded as a single entry because the point IS the circuit; as
+      three separate correspondence entries the finding disappears.
+
+      Above: the Father looks into the spring and what looks back is a person
+      whose shape is human (ⲡϣⲟⲣⲡ ⲛ̅ⲣⲱⲙⲉ, the first man, fol. 5:7). The human
+      form is the FIRST thing outside the source, not the last.
+
+      Below: the rulers look into the water beneath them and see not the image
+      but the ⲧⲩⲡⲟⲥ OF the image — a print of a reflection — and build a body
+      to hold the light they cannot make. The human form reaches the bottom of
+      the world third-hand, copied by beings who never saw the original.
+
+      At the return: the one built from that print is sealed in the light of
+      the water, and death has no power over him.
+
+      The same verb governs the gaze at both ends: ⲉⲓⲱⲣⲙ, used of the Father's
+      look (fol. 5-6, the five-step emanation formula) and of the archons'
+      look (fol. 14:30, 20:32). Above it generates; below it imitates. The
+      difference is not in the act but in the state of the one acting.
+    principles:
+      - correspondence
+      - opposite_sense
+      - influx
+      - divine_human
+    confidence: strong
+    notes: >
+      The opposite sense is not an interpretive overlay applied to this text.
+      It is the text's compositional spine: the same motif carries the
+      generation of the first emanation, the counterfeiting of the human form,
+      and the restoration.
+
+      Closest external contact is the Manichaean "copy in the water" material.
+      Per the standing rule, the Kephalaia is SHARED SUBSTRATE — same
+      centuries, overlapping sources — so convergence there attests
+      transmission, not independent rediscovery. Do not report it as
+      corroboration of the kind Swedenborg provides.
+
+  - id: AJ-027
+    category: divine_human_anatomy
+    passage: |
+      Folio 12:14-25 assigns one power to each of the seven heaven-rulers.
+      Folio 15:14-23 has those same seven powers, IN THE SAME ORDER, each
+      make one substance of the body:
+
+      1  ⲧⲙ̅ⲛ̅ⲧ̅ⲭⲣⲏⲥⲧⲟⲥ  goodness       → ⲟⲩⲯⲩⲭⲏ ⲛ̅ⲕⲁⲥ      a bone-soul
+      2  ⲧⲡⲣⲟⲛⲟⲓⲁ       forethought    → ⲟⲩⲯⲩⲭⲏ ⲙ̅ⲙⲟⲩⲧ'    a sinew-soul
+      3  ⲧⲙ̅ⲛ̅ⲧ̅ⲛⲟⲩⲧⲉ    divinity       → ⲟⲩⲯⲩⲭⲏ ⲛ̅ⲥⲁⲣⲝ     a flesh-soul
+      4  ⲧⲙ̅ⲛ̅ⲧ̅ϫⲟⲉⲓⲥ    lordship       → ⲟⲩⲯⲩⲭⲏ ⲛ̅ⲁⲧⲕⲁⲥ    a marrow-soul
+      5  ⲧⲙⲛ̅ⲧⲉⲣⲟ       kingdom        → ⲟⲩⲯⲩⲭⲏ ⲛ̅ⲥⲛⲟϥ     a blood-soul
+      6  ⲡⲕⲱϩ           envy           → ⲟⲩⲯⲩⲭⲏ ⲛ̅ϣⲁⲁⲣⲉ    a skin-soul
+      7  ⲧⲙ̅ⲛ̅ⲧ̅ⲣⲙⲛ̅ϩⲏⲧ  understanding  → ⲟⲩⲯⲩⲭⲏ ⲛ̅ϥⲟⲩϩⲉ    a hair-soul
+    location: "fol. 12:14-25 and fol. 15:14-23"
+    finding: >
+      The seven rulers of the seven heavens and the seven substances of the
+      human body are the same seven, one to one, in order. The heavens are not
+      LIKE the body; the same series governs above and constitutes below.
+
+      The correspondence is CONSTRUCTED ACROSS TWO FOLIOS, not asserted. Folio
+      12 leaves the third power unnamed; folio 15 supplies it. A reader has to
+      hold the first list to see what the second one is doing.
+
+      The sixth is the load-bearing case. The power is ⲡⲕⲱϩ, envy, and it
+      makes the SKIN — the boundary where one body stops and another starts.
+      Four folios later, when the animated man begins to shine, the powers
+      ⲁⲩⲕⲱϩ ϩⲛ̅ ⲧⲟⲩⲛⲟⲩ ⲉⲧⲙ̅ⲙⲁⲩ, "envied him in that hour" (fol. 19:34). One
+      word for the affection and for the substance it produces. Envy makes the
+      surface, and the surface is where envy happens.
+
+      The text names the power, names what it makes, and then shows the power
+      operating. That is a demonstration, not a list.
+    principles:
+      - divine_human
+      - correspondence
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      This entry re-grounds AJ-003 / AJ-005 / AJ-018 in the Coptic and adds
+      what the English cannot show: the register split (ⲯⲩⲭⲏ Greek throughout;
+      six of seven substances native — ⲕⲁⲥ, ⲙⲟⲩⲧ, ⲁⲧⲕⲁⲥ, ⲥⲛⲟϥ, ϣⲁⲁⲣⲉ, ϥⲟⲩϩⲉ)
+      and the ⲕⲱϩ double duty.
+
+      Two cautions carried forward from the apparatus:
+
+      §23.2 — FLESH is the one exception to the native register, taking Greek
+      ⲥⲁⲣⲝ. No explanation offered that is not speculation. See AJ-036.
+
+      §14.1 — ⲁⲧⲕⲁⲥ (marrow) is transparently ⲁⲧ- privative + ⲕⲁⲥ (bone),
+      "the boneless within the bone". If that is live for the composer,
+      substances 1 and 4 are a matched pair. TENTATIVE — it depends on a
+      lexical judgement that cannot be settled from this text alone. Do not
+      build on it.
+
+      The interior→exterior ordering claim made in AJ-018 is a reading, not an
+      observation. The manuscript gives the order; the ontological
+      interpretation of the order is inference.
+
+  - id: AJ-028
+    category: explicit_statement
+    passage: |
+      ⲙ̅ⲡⲣ̅ⲙⲉⲉⲩⲉ ϫⲉ ⲕⲁⲧⲁ ⲑⲉ ⲉⲛⲧⲁϥϫⲟⲟⲥ ⲛ̅ϭⲓ ⲙⲱⲩ̈ⲥⲏⲥ ϩⲓϫⲛ̅ ⲙ̅ⲙⲟⲩⲉⲓⲟⲟⲩⲉ
+      — "not as Moses said, 'above the waters'" (Gen 1:2) — fol. 13:19-21
+
+      ⲕⲁⲧⲁ ⲑⲉ ⲁⲛ ⲉⲛⲧⲁ{{ϥ}}ϫⲟⲟⲥ ⲛ̅ϭⲓ ⲙⲱⲩ̈ⲥⲏⲥ ϫⲉ ⲧⲉϥⲃⲉⲧⲥⲡⲓⲣ
+      — "not as Moses said, 'his rib-bone'" (Gen 2:21) — fol. 23:3-4
+
+      ⲕⲁⲧⲁ ⲑⲉ ⲁⲛ ⲉⲛⲧⲁⲙⲱⲩ̈ⲥⲏⲥ ϫⲟⲟⲥ ϫⲉ ⲁⲩϩⲱⲡ ⲙ̅ⲙⲟⲟⲩ ϩⲛ̅ ⲟⲩⲕⲓⲃⲱⲧⲟⲥ
+      — "not as Moses said, 'they hid in an ark'" (Gen 7) — fol. 29:6-8
+
+      ⲁϥϫⲟⲟⲥ ⲅⲁⲣ ϩⲣⲁⲓ̈ ϩⲙ̅ ⲡⲉϥϣⲟⲣⲡ ⲛ̅ϫⲱⲙⲉ ϫⲉ ⲁϥϫⲧⲟ ⲙ̅ⲙⲟϥ ⲁⲗⲗⲁ ϩⲛ̅
+      ⲛⲉϥⲁⲓⲥⲑⲏⲥⲓⲥ ⲕⲁⲓ ⲅⲁⲣ ⲁϥϫⲟⲟⲥ ϩⲓⲧⲛ̅ ⲡⲉⲡⲣⲟⲫⲏⲧⲏⲥ ϫⲉ ϯⲛⲁϩⲣⲟϣ ⲉϩⲣⲁⲓ̈
+      ⲁϫⲛ̅ ⲛⲟⲩϩⲉⲧⲉ ϫⲉⲕⲁⲁⲥ ⲛ̅ⲛⲟⲩϯ ϩⲧⲏⲩ ⲟⲩⲧⲉ ⲛ̅ⲛⲟⲩⲛⲁⲩ ⲉⲃⲟⲗ
+      — "For he said in his first book, 'He made him sleep' — BUT IT WAS IN
+      HIS PERCEPTIONS. For he said through the prophet, 'I will make heavy
+      their hearts, that they may not attend and may not see.'" (Isa 6:10)
+      — fol. 22:22-28
+    location: "fol. 13:19-21, 22:22-28, 23:3-4, 29:6-8"
+    finding: >
+      The tractate corrects the literal sense of Genesis three times, with the
+      same formula, and each time supplies what it takes to be the actual
+      referent: not "above the waters" but the mother moving over the
+      deficiency; not "his rib" but ⲟⲩⲙⲉⲣⲟⲥ ⲛ̅ⲧⲉ ⲧⲉϥϭⲟⲙ, a portion of his
+      power; not "in an ark" but ϩⲛ̅ ⲟⲩⲕⲗⲟⲟⲗⲉ ⲛ̅ⲟⲩⲟⲉⲓⲛ, in a luminous cloud.
+
+      The method is then DEFENDED from another prophet: "sleep" in Genesis
+      2:21 means insensibility, and Isaiah 6:10 is cited to prove that God
+      himself is said to dull perception.
+
+      This is exegesis of shared scripture, using one text to fix the sense of
+      another. It is not the construction of a rival mythology. The composer
+      takes for granted that his reader accepts both books and can be moved by
+      an argument from them.
+
+      The same posture at fol. 13:8-13, where Exodus 20:5 is quoted verbatim
+      and reasoned from: "in saying 'I am a jealous God' he indicated that
+      another God exists; for if no other existed, of whom would he be
+      jealous?" That is a commentator's move.
+    principles:
+      - accommodation
+      - correspondence
+    confidence: strong
+    notes: >
+      For the scriptural-citation layer opened as item 14 of the synthesis
+      backlog. Add to that list from this tractate:
+        Genesis 1:2, 1:26, 2:7, 2:21, ch. 7
+        Exodus 20:5 (verbatim, twice, with argument)
+        Isaiah 6:10 (cited as ⲡⲉⲡⲣⲟⲫⲏⲧⲏⲥ, "the prophet")
+        2 Corinthians 3:15 (the ⲕⲁⲗⲩⲙⲙⲁ over the heart, fol. 23:6)
+        the synoptic saying on the sin against the Spirit (fol. 27:22-31)
+
+      This bears directly on the standing rule against mistaking the corpus's
+      vocabulary for a foreign mythology. II,1 argues with the letter
+      explicitly and expects the argument to bind.
+
+  - id: AJ-029
+    category: cross_reference
+    passage: |
+      ⲁϥⲧⲱϩⲥ̅ ⲙ̅ⲙⲟϥ ⲉⲃⲟⲗ ϩⲛ̅ ϯⲙ̅ⲛ̅ⲧⲭⲣ̅ⲥ̅ … ϣⲁⲛⲧⲉϥ ϣⲱⲡⲉ ⲛ̅ⲧⲉⲗⲉⲓⲟⲥ ⲉⲛϥϣⲁⲁⲧ
+      ⲛ̅ⲗⲁⲁⲩ ⲁⲛ — "he ANOINTED him with his goodness … until he became
+      perfect, LACKING NOTHING" — fol. 6:23-26
+
+      ⲡⲉϥϯⲟⲩⲱ ⲡⲉ ⲡⲧⲱϩ̅ⲥ̅ ⲛ̅ⲧⲡⲟⲛⲏⲣⲓⲁ — "its bloom is the ANOINTING of
+      wickedness" (the archons' tree) — fol. 21:31
+
+      ⲉⲥⲣ̅ϩⲩⲡⲟⲩⲣⲅⲉⲓ ⲛ̅ⲧⲕⲧⲓⲥⲓⲥ ⲧⲏⲣⲥ ⲉⲥϣⲉⲡ ϩⲓⲥⲉ ⲛⲙ̅ⲙⲁϥ — "serving the whole
+      creation, SUFFERING WITH HIM" (the Epinoia) — fol. 20:19-20
+
+      ⲉⲧϣⲡϩⲓⲥⲉ ⲛⲙ̅ⲙⲏⲧⲛ̅ — "who SUFFERS WITH YOU" (the Spirit) — fol. 28:1
+    location: "fol. 6:23-26, 20:19-20, 21:31, 28:1"
+    finding: >
+      Two independent pieces of evidence putting II,1 on the participation
+      side of the passion split.
+
+      First, the Christ-title is RECEIVED, not possessed by nature. The
+      Autogenes becomes ⲡⲉⲭⲣ̅ⲥ̅ by being anointed (ⲧⲱϩⲥ̅), "until he became
+      perfect, lacking nothing". That is reception language, and it lines up
+      with Philip's "he merely accepted the gift" rather than with the
+      substitute Christologies of VII,2 and VII,3.
+
+      The same verb returns inverted at the bottom of the world: ⲡⲧⲱϩ̅ⲥ̅ is
+      the bloom of the archons' tree of death. One operation, opposite sense —
+      what differs is the state it happens in.
+
+      Second, the redeemer figures SUFFER WITH. The Epinoia ⲉⲥϣⲉⲡ ϩⲓⲥⲉ ⲛⲙ̅ⲙⲁϥ
+      throughout the whole creation; the Spirit ⲉⲧϣⲡϩⲓⲥⲉ ⲛⲙ̅ⲙⲏⲧⲛ̅. Compare
+      Treatise on the Resurrection: "We suffered with him, and we arose with
+      him."
+
+      Nothing in II,1 supports a redeemer who avoids the descent by
+      substitution.
+    principles:
+      - regeneration
+      - influx
+      - opposite_sense
+    confidence: strong
+    notes: >
+      For the passion-split anomaly pair, item 12 of the synthesis backlog.
+      II,1 is a witness on the participation side, twice over and by two
+      different mechanisms (anointing-as-reception; suffering-with).
+
+      Note this does not resolve the split. It adds a witness to one side of
+      it. VII,2 and VII,3 still say what they say.
+
+  - id: AJ-030
+    category: structural_principle
+    passage: |
+      ⲡⲉϥⲟⲩⲱϣ ⲁϥϣⲱⲡⲉ ⲛ̅ⲟⲩⲉⲣⲅⲟⲛ — "his WILL (ⲟⲩⲱϣ) became a WORK (ⲉⲣⲅⲟⲛ)"
+      — fol. 7:6-7
+
+      ⲡϣⲁϫⲉ ⲁϥⲟⲩⲁϩϥ ⲛ̅ⲥⲁ ⲡⲟⲩⲱϣⲉ — "the WORD (ϣⲁϫⲉ) FOLLOWED the will"
+      — fol. 7:8-9
+
+      ⲁⲥⲙⲉⲉⲩⲉ ϩⲛ̅ ⲟⲩⲙⲉⲉⲩⲉ ⲉⲃⲟⲗ ⲛ̅ϩⲏⲧⲥ̅ — "she thought a thought OUT OF
+      HERSELF" — fol. 9:26
+
+      ⲁϫⲙ̣̅ [ⲡⲟⲩⲱ]ϣ ⲙ̅ⲡⲉⲡ̅ⲛ̅ⲁ̅ … ⲁⲩ[ⲱ ⲁϫⲙ̅ ⲡ]ⲉ̣ⲥϣⲃⲣ̅ ⲛ̅ϩⲱⲧⲣ̅ — "without the WILL
+      of the Spirit … and without her YOKE-FELLOW" — fol. 9:29-30
+
+      ⲁⲥⲙⲟⲕⲙⲉⲕ ⲇⲉ ⲭⲱⲣⲓⲥ ⲡⲟⲩⲱϣ ⲙ̅ⲡⲉⲡ̅ⲛ̅ⲁ̅ ⲁⲩⲱ ⲡⲥⲟⲟⲩⲛ ⲙ̅ⲡⲉⲥϫⲱⲛϥ — "she
+      deliberated without the will of the Spirit and the knowledge of her
+      partner" — fol. 9:34-35
+    location: "fol. 7:6-11 and fol. 9:26-35"
+    finding: >
+      The order of production is stated as a sequence with the dependency
+      given in words: will, then word, then work. The word FOLLOWED the will —
+      not simultaneous, not interchangeable. Stated at fol. 7, two folios
+      before it is needed, which is how one can tell it is a premise and not
+      an improvisation.
+
+      The disorder is narrated as the exact inversion of that sequence, in the
+      same vocabulary. Sophia's fault is named three times in one paragraph
+      and each time the missing element is ⲟⲩⲱϣ — will — or the consort who
+      supplies it. ϣⲃⲣ̅ ⲛ̅ϩⲱⲧⲣ̅ is a native compound, literally "yoke-fellow",
+      from ϩⲱⲧⲣ, to join or yoke.
+
+      This is not a general fable about pride or curiosity. It is the specific
+      inversion of the sequence the text has just established, expressed in
+      the text's own terms: wisdom moving before love, the second thing going
+      first.
+
+      The text does not condemn her. What follows is not punishment; it is
+      what happens when the order is reversed — the product comes out with
+      nothing behind it (see AJ-023 on ⲟⲩⲁⲧⲥⲙⲟⲧ, "without ⲥⲙⲟⲧ"). Her
+      repentance (fol. 13:23, 13:36-14:12) is at the centre of the repair.
+    principles:
+      - ruling_love
+      - discrete_degrees
+      - influx
+    confidence: strong
+    notes: >
+      The pivot of the tractate. Everything from folio 9 onward is the
+      correction of this inversion, which is why the cosmos and the body are
+      both repair rather than catastrophe.
+
+      On register: the corpus rule against condemning figures applies here
+      with force. The text supplies a structural account — an order reversed —
+      and no moral verdict. Record it the same way.
+
+  - id: AJ-031
+    category: explicit_statement
+    passage: |
+      ⲡⲟⲩⲟⲉⲓⲛ ⲇⲉ ⲛ̅ⲧⲁⲣⲉϥⲧⲱϩ ⲙⲛ̅ ⲡⲕⲁⲕⲉ ⲁϥⲧⲣⲉⲡⲕⲁⲕⲉ ⲣ̅ ⲟⲩⲟⲉⲓⲛ ⲡⲕⲁⲕⲉ ⲇⲉ
+      ⲛ̅ⲧⲁⲣⲉϥⲧⲱϩ ⲙⲛ̅ ⲡⲟⲩⲟⲉⲓⲛ ⲁϥϩⲧⲙ̅ⲧⲙ̅ ⲡⲟⲩⲟⲉⲓⲛ ⲁⲩⲱ ⲙ̅ⲡϥϣⲱⲡⲉ ⲛ̅ⲟⲩⲟⲉⲓⲛ
+      ⲟⲩⲧⲉ ⲛ̅ⲕⲁⲕⲉ ⲁⲗⲗⲁ ⲁϥϣⲱⲡ̣ⲉ ⲉϥϣⲟⲛⲉ
+
+      "When light mixed with darkness it made the darkness shine. When
+      darkness mixed with light it dimmed the light. And it became NEITHER
+      LIGHT NOR DARKNESS, BUT BECAME SICK." — fol. 11:10-15
+
+      ⲡⲓⲁⲣⲭⲱⲛ ϭⲉ ⲉⲧϣⲟⲛⲉ — "this archon, then, WHO IS SICK"
+    location: "fol. 11:10-15"
+    finding: >
+      The word is ϣⲱⲛⲉ, the ordinary native verb for being ill.
+
+      There is no second substance in this tractate. Light and darkness mix
+      and what results is a PATHOLOGY — a mixture that produced neither of its
+      terms and cannot be either. The first ruler is not defined as a
+      substance opposed to the good; he is defined as a disorder, and the text
+      then refers to him by that condition.
+
+      Everything he does afterward follows from a condition, not from a
+      nature.
+
+      This decides what kind of dualism II,1 has, and the answer is: not the
+      kind usually attributed to it. Evil here has the ontological status of a
+      disease.
+    principles:
+      - opposite_sense
+      - correspondence
+    confidence: strong
+    notes: >
+      Read together with AJ-032 (the refusal of the body / non-body split at
+      fol. 3:23-24) and AJ-034 (the archon as an unwitting conduit), this
+      closes off the reading of II,1 as a myth about escaping matter. The
+      tractate declines the necessary premises in its third folio and supplies
+      a pathology model instead of a substance model in its eleventh.
+
+      This is also why the diagnosis at fol. 11:21-22 is about SOURCE — "he
+      did not know the place from which he came" — and not about wickedness.
+      See AJ-033.
+
+  - id: AJ-032
+    category: explicit_statement
+    passage: |
+      ⲟⲩⲥⲱⲙⲁⲧⲓⲕⲟⲥ ⲁⲛ ⲡⲉ ⲟⲩⲧⲉ ⲟⲩⲁⲧⲥⲱⲙⲁ ⲁⲛ ⲡⲉ
+
+      "He is not corporeal, NOR is he incorporeal." — fol. 3:23-24
+
+      Preceded by a long chain of native ⲁⲧ- privatives: ⲟⲩⲁⲧϣⲓⲧϥ
+      (immeasurable), ⲟⲩⲁⲧϯⲣⲁⲛ ⲉⲣⲟϥ (unnameable), ⲟⲩⲁⲧϣⲁϫⲉ ⲉⲣⲟϥ (ineffable),
+      ⲟⲩⲁⲧⲛⲁⲩ ⲉⲣⲟϥ (invisible).
+    location: "fol. 3:23-24"
+    finding: >
+      Both halves of the body / non-body dichotomy are explicitly declined,
+      symmetrically, in the third folio — before the cosmogony begins.
+
+      Whatever the descent into a body means in this text, it does not mean
+      that the real is defined as the not-material. The frame an interpreter
+      would need in order to read the whole tractate as a flight FROM matter
+      is closed off by the author, deliberately, at the outset.
+
+      The negation is not rhetorical excess. It is placed inside a chain of
+      apophatic privatives where every other member negates ONE thing; this
+      one negates a pair.
+    principles:
+      - discrete_degrees
+      - correspondence
+    confidence: strong
+    notes: >
+      Confirmed by the shape of the ending: the third descent of the Pronoia
+      goes INTO the body (ⲡⲉϣⲧⲉⲕⲟ ⲡⲥⲱⲙⲁ, fol. 31:5-6) rather than calling
+      anyone out of it. See AJ-016.
+
+      This entry matters for how II,1 is cited in framework work. It is
+      routinely used as the type-specimen of matter-rejecting cosmology. The
+      Coptic does not support that at the point where the text defines its own
+      terms.
+
+  - id: AJ-033
+    category: structural_principle
+    passage: |
+      ⲡⲙ̣[ⲁ ⲉ]ⲧⲁϥⲉⲓ ⲛ̅ϩⲏⲧϥ ⲁϥⲃⲱ̣[ⲕ ⲉⲣⲟϥ] — John, answering the Pharisee:
+      "THE PLACE HE CAME FROM, he has gone to it" — fol. 1:11-12
+
+      ⲉϥⲟ ⲛ̅ⲁⲧⲥⲟⲟⲩⲛ ⲙ̅ⲡⲉϥⲧⲁϫⲣⲟ ⲡⲙⲁ ⲉⲛⲧⲁϥⲉⲓ ⲉⲃⲟⲗ ⲙ̅ⲙⲁⲩ — of the first
+      archon: "ignorant of his own strength, THE PLACE FROM WHICH HE CAME"
+      — fol. 11:21-22
+    location: "fol. 1:11-12 and fol. 11:21-22"
+    finding: >
+      The same construction — ⲡⲙⲁ + ⲉⲧⲁϥⲉⲓ, "the place he came from" — stands
+      at both poles of the tractate.
+
+      It opens with a man who knows where his teacher came from and where he
+      returned to. It turns on a being who does not know where he himself came
+      from. The condition the whole book diagnoses is stated twice in the same
+      words, once as possessed and once as lacking.
+
+      This also fixes the character of the diagnosis. The archon's fault is
+      not named as wickedness. It is named as not knowing the source of what
+      is in him — which is the mechanism of the self that claims, in its
+      simplest form: receiving continuously and calling it one's own because
+      one cannot see the giving.
+    principles:
+      - influx
+      - ruling_love
+    confidence: moderate
+    notes: >
+      CONFIDENCE QUALIFIED. The lexical parallel is in the manuscript and the
+      relevant words are among the legible parts of folio 1. But FOLIO 1 IS
+      ALMOST ENTIRELY RESTORATION in Linssen, and that the composer INTENDED
+      an inclusio is inference, not observation. Recorded as moderate for that
+      reason.
+
+      Related folio 1 correction, worth recording because the English invites
+      the error: the "mountain" John withdraws to is NOT in this manuscript.
+      Fol. 1:19 reads ⲉϩⲣⲁⲓ̈ ⲉϫⲛ̅ ⲟⲩⲙⲁ ⲛ̅ϫⲁⲉⲓⲉ, "to a deserted place", and it
+      is bracketed. Do not cite the mountain from II,1 long recension.
+
+  - id: AJ-034
+    category: structural_principle
+    passage: |
+      ⲁϥⲧⲥⲉⲛⲟϥ ⲕⲁⲧⲁ ⲡⲓⲛⲉ ⲛ̅ⲛ̅ϣⲟⲣⲡ [ⲛ̅]ⲁⲓⲱⲛ … ⲟⲩⲭ ϩⲟⲧⲓ ⲛ̅ⲧⲁϥ ϫⲉ ⲁϥⲛⲁⲩ
+      ⲁⲛⲁⲧⲧⲉⲕⲟ ⲁⲗⲗⲁ ⲧϭⲟⲙ ⲉⲧⲛ̅ϩⲏⲧϥ ⲧⲁⲓ̈ ⲉⲛⲧⲁϥϫⲓⲧⲥ̅ ⲉⲃⲟⲗ ϩⲓⲧⲛ̅ ⲧⲉϥⲙⲁⲁⲩ
+      ⲉⲁⲥϫⲡⲟ ⲛ̅ϩⲏⲧϥ ⲙ̅ⲡⲓⲛⲉ
+
+      "He fashioned them after the likeness of the first aeons — NOT BECAUSE
+      HE HAD SEEN the imperishable ones, but the power in him, WHICH HE TOOK
+      FROM HIS MOTHER, produced in him the likeness of the pattern."
+      — fol. 13:1-5
+
+      ⲁϥⲛⲓϥⲉ ⲉϩⲟⲩⲛ ⲉϩⲣⲁϥ ⲙ̅ⲡⲉϥⲡ̅ⲛ̅ⲁ̅ ⲉⲧⲉ ⲧⲁⲓ̈ ⲧⲉ ⲧϭⲟⲙ ⲛ̅ⲧⲉϥⲙⲁⲁⲩ ⲙ̅ⲡⲉϥⲙ̅ⲙⲉ
+      ϫⲉ ϥϣⲟⲟⲡ ϩⲛ̅ ⲟⲩⲙ̅ⲛ̅ⲧ̅ⲁⲧⲥⲟⲟⲩⲛ
+
+      "He blew into him his spirit — WHICH IS HIS MOTHER'S POWER — HE DID NOT
+      KNOW, for he exists in ignorance." — fol. 19:23-28
+    location: "fol. 13:1-5 and fol. 19:21-28"
+    finding: >
+      Influx stated with unusual precision, twice, and both times the receiver
+      is unaware.
+
+      First: the archon reproduces a higher order HE HAS NEVER SEEN. What does
+      the reproducing is the power received from above, operating in him. He
+      is a conduit — and then he says "I am God and there is no other beside
+      me". The tractate is not describing a rival maker. It is describing a
+      conduit that does not know it is one.
+
+      Second, and this is the hinge of the book: at the animation of Adam the
+      one who claims to be sole God gives away, IN THE ACT HE THINKS IS MOST
+      HIS OWN, the thing that was never his — and it lands exactly where it
+      was meant to. The five luminaries engineer this deliberately (ⲁⲩϫⲓ
+      ϣⲟϫⲛⲉ ⲛⲁϥ, "they counselled him", fol. 19:21). He is used at the moment
+      of his greatest self-assertion, and the use is invisible to him.
+
+      Genesis 2:7 is not discarded here. It is kept and re-explained.
+    principles:
+      - influx
+      - ruling_love
+      - accommodation
+    confidence: strong
+    notes: >
+      This is the entry that carries the tractate's account of what the self
+      that claims actually IS. Not malice — a receiver that cannot see the
+      giving. AJ-010 recorded the boast; this records the mechanism behind it.
+
+      Pairs with AJ-033 (the source-ignorance stated in the same phrase at
+      both ends of the book) and AJ-031 (the condition described as sickness
+      rather than as an opposing nature).
+
+  - id: AJ-035
+    category: anomaly
+    passage: >
+      The Pentad: ⲡⲙⲉⲉⲩⲉ (thought), ⲧⲙ̅ⲛ̅ⲧ̅ⲁⲧⲧⲉⲕⲟ (incorruption), ⲡⲱⲛϩ ϣⲁ ⲉⲛⲉϩ
+      (eternal life) and ⲧⲙⲉ (truth) are native; ⲧⲡⲣⲟⲅⲛⲱⲥⲓⲥ is Greek. So is
+      the whole luminary apparatus.
+    location: "fol. 5-6"
+    finding: >
+      The native / Greek register split does NOT map cleanly onto interior /
+      exterior everywhere in this tractate.
+
+      It holds where the text sets up a doublet deliberately — ⲅⲛⲱⲥⲓⲥ/ⲥⲟⲟⲩⲛ,
+      ⲭⲁⲣⲓⲥ/ϩⲙⲟⲧ (AJ-024), ⲥⲙⲁⲧ/ⲙⲟⲣⲫⲏ (AJ-023) — and it does not hold as a
+      general rule of the vocabulary.
+
+      Recorded so that the register findings are not over-extended into a
+      claim the text will not carry.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      The strength of AJ-023 and AJ-024 depends on the doublets being
+      deliberate, not on a blanket rule about Coptic registers. Anyone using
+      those entries should read this one first.
+
+  - id: AJ-036
+    category: anomaly
+    passage: >
+      ⲟⲩⲯⲩⲭⲏ ⲛ̅ⲥⲁⲣⲝ — "a flesh-soul", the third substance — fol. 15:17-18
+    location: "fol. 15:14-23"
+    finding: >
+      Six of the seven body substances are native Egyptian (ⲕⲁⲥ, ⲙⲟⲩⲧ, ⲁⲧⲕⲁⲥ,
+      ⲥⲛⲟϥ, ϣⲁⲁⲣⲉ, ϥⲟⲩϩⲉ). The one exception is FLESH, which takes the Greek
+      ⲥⲁⲣⲝ — the theologically loaded term, and the only one in the series
+      that carries a polemical charge elsewhere in the corpus.
+
+      No explanation is offered here that is not speculation. Recorded as an
+      open anomaly.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      Possible lines of enquiry, none pursued: (a) ⲥⲁⲣⲝ had displaced the
+      native term in this register by the fourth century and the choice is not
+      meaningful; (b) the composer is deliberately marking the substance that
+      his opponents' theology turns on; (c) source-seam. Deciding between
+      these needs comparative work across the Coptic corpus, not more reading
+      of II,1.
+
+  - id: AJ-037
+    category: anomaly
+    passage: |
+      fol. 14:10-12 — Sophia is raised above her son, to the ninth, until her
+      deficiency is corrected.
+
+      fol. 23:21-24 — ⲧⲛ̅ⲥⲱⲛⲉ ⲧⲥⲟⲫⲓⲁ, "our sister Sophia", CAME DOWN IN
+      INNOCENCE to correct her deficiency, and is identified with ⲍⲱⲏ, the
+      mother of the living.
+    location: "fol. 14:10-12 and fol. 23:21-24"
+    finding: >
+      Two accounts of Sophia's restoration that differ in direction as well as
+      emphasis. In the first she is raised and held above until the deficiency
+      is corrected for her; in the second she descends of her own accord to
+      correct it herself.
+
+      Whether these are one movement described twice from different vantage
+      points, or a seam between sources, cannot be settled from the Coptic.
+    principles:
+      - regeneration
+    confidence: strong
+    notes: >
+      Recorded as an anomaly rather than harmonised. The two readings have
+      different consequences for how the repair is understood — done TO her or
+      done BY her — and the tractate does not adjudicate.
+
+      Note this is a different question from the source-critical seams already
+      known between the long and short recensions. It sits inside the long
+      recension.
+
+  - id: AJ-038
+    category: anomaly
+    passage: |
+      ⲧⲡⲏⲅⲏ ⲇⲉ ⲛ̅ⲛⲓⲇⲁⲓⲙⲱⲛ ⲛⲁⲓ̈ ⲉⲧϩⲛ̅ ⲡⲥⲱⲙⲁ ⲧⲏⲣϥ ⲥⲉⲧⲏϣ ⲉϥⲧⲟⲟⲩ ⲟⲩϩⲙ̅ⲙⲉ
+      ⲟⲩⲁⲣⲟϣ ⲟⲩϩⲟϭⲃⲉⲥ ⲟⲩϣⲟⲟⲩⲉ ⲧⲟⲩⲙⲁⲁⲩ ⲇⲉ ⲧⲏⲣⲟⲩ ⲧⲉ ⲧϩⲩⲗⲏ — "heat, cold,
+      wetness, dryness; and the mother of them all is matter" — fol. 18:2-6
+
+      ⲁⲩⲥⲁϣ ⲛ̅ⲧϣⲓⲙⲁⲣⲙⲉⲛⲏ … ⲁⲩⲙⲟⲩⲣ ⲅⲁⲣ ⲛ̅ϩⲛ̅ϣⲓ ⲙⲛ̅ ϩⲛ̅ⲟⲩⲟⲉⲓϣ ⲙⲛ̅ ϩⲛ̅ⲕⲁⲓⲣⲟⲥ
+      — Heimarmene, binding "with measures and times and seasons"
+      — fol. 28:13-16, 28:30-31
+    location: "fol. 18:2-31 and fol. 28:13-31"
+    finding: >
+      CAUTION on the four elemental qualities, the four passions, and
+      Heimarmene. These are shared Hellenistic furniture. Their presence in
+      II,1 says something about the composer's WORLD; it does not by itself
+      say anything about the tradition being traced.
+
+      The four qualities are standard ancient physics. The four passions
+      (ⲧϩⲏⲇⲟⲛⲏ, ⲧⲉⲡⲓⲑⲩⲙⲉⲓⲁ, ⲧⲗⲩⲡⲏ, ⲧⲛⲱϩⲉ) with derivative trees are standard
+      Stoic-derived psychology, and the terms are Greek loans. Heimarmene is
+      the ordinary Hellenistic term for astral determinism.
+
+      What IS distinctive is not the inventory but two moves made with it:
+      (a) the two fourfold systems are laid over each other in the same body,
+      with matter as the mother of one set and sense-perception (ⲉⲥ̅ⲑ̅ⲏ̅ⲛ̅ⲥ̅ⲓ̅ⲥ̅ⲟⲩⲭ
+      ⲉⲡ̅ⲓ̅ⲡ̅ⲧ̅ⲟ̅ⲏ̅, built on αἴσθησις) the mother of the other; and (b) Heimarmene
+      is treated as a PRODUCT and called ϣⲃ̅ⲃⲓⲁⲉⲓⲧ — the same root as the
+      counterfeit spirit and the archon's deviant ⲧⲩⲡⲟⲥ at fol. 10:8. What
+      binds by measure and time is put in the same category as what imitates.
+      Necessity is not the frame of the world here; it is manufactured.
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      DIRECTLY QUALIFIES AJ-007 and AJ-019.
+
+      AJ-019 currently identifies the four elemental rulers as the four
+      cardinal directions of Swedenborg's spiritual compass (East/West/South/
+      North) at confidence "strong", built on angel-name etymologies from the
+      English. Nothing in the Coptic of fol. 18:2-6 names a direction. The
+      text gives four qualities and a mother; the compass is supplied by the
+      reader.
+
+      That does not make AJ-019 wrong, but it is a READING resting on
+      etymological reconstruction, recorded at observation-grade confidence.
+      It should be re-derived from the Coptic and re-graded before it is
+      carried into framework work. The same applies to the scoring in AJ-020,
+      which counts these among its matches.
+
+      Standing rule: do not report shared Hellenistic material as evidence for
+      a distinctive transmission. The distinctive claims in this tractate are
+      AJ-023 through AJ-034; they do not need this passage and should not be
+      argued from it.

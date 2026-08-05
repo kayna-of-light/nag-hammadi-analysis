@@ -134,6 +134,7 @@ Filenames mirror `output/english/tractates/` exactly.
 | `correspondence` | A specific natural→spiritual mapping | "animals in human form" = affections (Philip) |
 | `explicit_statement` | Text explicitly teaches correspondence/influx/degrees | "Truth came in types and images" (Philip) |
 | `structural_principle` | A framework principle operating as structural element | Voice→Speech→Word = discrete degrees (Protennoia) |
+| `person_correspondence` | A named figure functioning as a state rather than a character | Peter = faith apart from love (Gos. Mary, Thomas 114) |
 | `divine_human_anatomy` | Body/substance→spiritual-power mappings | "goodness created a bone-soul" (Ap. John) |
 | `cross_reference` | Connection to other tractate, Swedenborg, or tradition | "written in the book of Zoroaster" (Ap. John) |
 | `anomaly` | Resists or complicates correspondential reading | Christianized editorial layers in Protennoia |
@@ -239,7 +240,11 @@ When analyzing a tractate:
 **Rich (structural key):**
 - Apocalypse of Adam (V,5) — thirteen kingdoms; words on the mountain; the generation without a king
 
-**Not yet analyzed** — remaining 37 tractates.
+All 48 tractates now have findings files. Richness ratings are recorded per file in `findings/tractates/`; a few remain `in_progress`.
+
+### Cross-tractate synthesis
+
+`findings/SYNTHESIS_the_whole_picture.md` — the corpus read as one composition, keyed on persons-as-states. Read it before starting new per-tractate work so findings are recorded against the established person-correspondences rather than re-derived.
 
 ---
 
@@ -250,7 +255,11 @@ When analyzing a tractate:
 - Read the natural sense first, then identify correspondential objects, then read the spiritual sense
 - Record both levels — natural and correspondential — as parallel, not as one replacing the other
 - Check for consistency — the same object should correspond to the same reality across contexts
+- **Read persons as correspondences too.** Named figures are states, not characters. Test a proposed person-correspondence by cross-text behaviour: the same figure should act the same way in unrelated tractates. See `SYNTHESIS_the_whole_picture.md`.
+- **Watch for split names.** When a state divides, these texts split the name (Echamoth/Echmoth; spiritual woman/carnal woman; Sabaoth as archon/Sabaoth elevated). A doubled or near-doubled name is a signal, not a scribal slip.
+- **Derive a person from their relation, not from their name.** A shared name does not merge figures. Philip's three Marys are mother, sister and companion — three distinct relations to the same Lord. Only the companion is the consort, and the consort correspondence comes from *being consort to Divine Wisdom*, not from being called Mary. Pooling figures by name is the standing failure mode here.
 - Report hits as hits — when the framework predicts and the text confirms, say so clearly
+- **Keep outside witnesses distinct in kind.** Swedenborg is *independent derivation* — he resolved the same structure from his own data, published 1749–1771, before these codices existed. The Manichaean Kephalaia is *shared substrate* — same centuries, same ground, overlapping sources, so a convergence there attests transmission, not rediscovery. Both are witnesses; neither is a baseline the texts are measured against.
 - Report anomalies honestly — when the text resists the reading, say so
 - Trace cross-textual patterns — the same correspondence appearing in independent texts is significant
 - Note when the text cites its own sources (e.g., "the book of Zoroaster")
@@ -261,8 +270,12 @@ When analyzing a tractate:
 - Treat "Gnosticism" as a unified system you're confirming or refuting. The texts are diverse.
 - Force the framework where it doesn't fit. Honest reporting of resistance is more valuable than false confirmation.
 - Hedge against confirmed observations to appear "balanced." Accuracy is the goal, not false equidistance.
+- Let the correspondential reading of a person erase the historical-critical one. The polemical layer (e.g. Peter as proto-orthodoxy) is real at the natural plane. Both readings stand; the outer does not cancel the inner.
 - Dismiss the long enumeration lists (angel names, body-part correspondences) as meaningless repetition. They are correspondence maps — investigate them before dismissing.
 - Read correspondences as running both ways. The direction is inside→outside. Influx flows from spiritual to natural.
+- Treat any outside body of work — Swedenborg, the Kephalaia, Zoroastrian material — as the standard these texts are graded against. They are corroborating witnesses. The reading has to stand on cross-text behaviour inside the corpus first.
+- **Report an outside witness as "silent" because a name is absent.** Test for the *state*, never the name. Swedenborg has no figure called Sophia and no Yaldabaoth, but he treats wisdom acting apart from love, and he treats the self that receives influx and declares ownership, at length. A witness writing in a non-personifying register is not disagreeing. Calling that a conflict of "genre" or "ontology" is the name-test failure applied to the witness instead of the tractate.
+- **Mistake the corpus's vocabulary for a foreign mythology.** It is partly scriptural and openly so: Sophia (Prov 8, Sir 24), Sabaoth (LORD of hosts), Melchizedek (Gen 14), the Genesis persons; and the archon's boast is Isa 45:5/46:9 with Exod 20:5 quoted verbatim. The texts argue with the letter explicitly — "as Moses said", "it is written" + Gen/Exod/Num, Hosea 2:2–7, Ps 91:13 LXX. This is exegesis of shared scripture, which makes divergences arguable passage by passage rather than incommensurable.
 
 ---
 
@@ -338,8 +351,19 @@ The clearest ancient statement of correspondential epistemology. Truth cannot en
 
 The 365-angel body-creation passage is a correspondence map of the human form. Seven substance-souls (bone/goodness, sinew/foreknowledge, flesh/divinity, marrow/lordship, blood/kingdom, skin/envy, hair/understanding) progress from structural core to outermost emanation. The text attributes this system to "the book of Zoroaster" — direct evidence for the Ancient Word.
 
-### Silvanus — The Word Used
+### Silvanus — image and true likeness
 
-> "This image reveals the true likeness in correspondence to that which is revealed."
+> εἰκών (`ⲛⲉⲧⲛⲣ`) reveals (`ⲡⲩⲛⲣ̅⳧̅ ⲉⲃⲁⲓ`) the true likeness (`ⲙ̅ⲡⲉⲓⲛⲉ ⲙ̅ⲙⲉ`) — VII,4 fol. 100:27–31
 
-One of the only ancient texts to use the word "correspondence" explicitly in this sense.
+The Greek loan names the outer image; the native Egyptian words name what it discloses. The sentence performs the stratification while describing it.
+
+**Correction (2026-08-03):** earlier drafts of these instructions claimed Silvanus "uses the word 'correspondence' explicitly." It does not. Robinson's "in correspondence to that which is revealed" renders plain `ⲕⲁⲣⲁ` (κατά). Do not cite Silvanus as an ancient attestation of the term. Cite the εἰκών → ⲙⲉ pairing instead — it is better evidence than the claim it replaces.
+
+---
+
+## Working with the Coptic Files
+
+- **Full-text search does not work on Coptic.** `grep_search` returns empty for every Coptic Unicode query in this workspace — the index does not handle the Coptic block. Do not retry it.
+- Navigate `output/coptic/*.md` by **reading directly**. Files are `### Folio N` headings with `**LINE#**` markers; roughly 34–37 lines per folio after an 8–10 line header, so folio offsets are predictable.
+- For pattern work across the Coptic, use a Python or PowerShell pass over the files rather than the search tool.
+- Transcription conventions (Linssen 2024): `[...]` editorial reconstruction of lacunae; `{{...}}` scribal deletion; `˙` and `'` punctuation/stroke marks; combining macron = supralinear stroke (both syllabic-consonant marking **and** *nomina sacra*).
