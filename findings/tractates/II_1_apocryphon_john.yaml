@@ -52,11 +52,22 @@ summary: >
     findings/II_1_apocryphon_john_the_correspondential_teaching.md
   The same material read straight through as one continuous narrative:
     findings/II_1_apocryphon_john_the_story_in_correspondence.md
+  A full seam-by-seam reading (21 seams, fol. 1-32), built per the
+  coptic-correspondential-reading skill format — English translation, the
+  interior sense told as narrative, a per-seam lexicon, and dry translation
+  notes, closing with a "where this reading goes beyond the text" section:
+    findings/readings/II_1_apocryphon_john_reading.md
 
   Status remains in_progress: the 365 angel names (AJ-017 through AJ-021 and
   the companion AJ_angel_name_translations.yaml) were derived from the English
   and have not been checked against the Coptic, and AJ-019 in particular rests
-  on etymological reconstruction that AJ-038 flags for re-derivation.
+  on etymological reconstruction that AJ-038 flags for re-derivation. AJ-039
+  (2026-08-06) closed one open gap flagged in the synthesis document (the
+  luminous cloud used in opposite senses); the seam-by-seam reading pass did
+  not surface further net-new findings beyond what AJ-001 through AJ-038
+  already established, and instead served to organize that evidence into the
+  reading-document format and cross-check it against the raw Coptic seam by
+  seam.
 
 findings:
   - id: AJ-001
@@ -1850,3 +1861,52 @@ findings:
       a distinctive transmission. The distinctive claims in this tractate are
       AJ-023 through AJ-034; they do not need this passage and should not be
       argued from it.
+
+  # ==========================================================================
+  # AJ-039 onward: recorded during the seam-by-seam reading, 2026-08-06.
+  # Full four-part treatment (translation / story / lexicon / notes) in
+  #   findings/readings/II_1_apocryphon_john_reading.md
+  # ==========================================================================
+
+  - id: AJ-039
+    category: correspondence
+    passage: |
+      ⲁⲥⲕⲧⲟ ⲉⲣⲟϥ ⲛ̅ⲟ̣ⲩ̣ⲕⲗⲟⲟⲗⲉ ⲛ̅ⲟⲩⲟⲉⲓⲛ ⲁⲩⲱ ⲁⲥⲕⲱ ⲛ̅ⲟⲩⲑⲣⲟⲛⲟⲥ ϩⲛ̅ ⲧⲙⲏⲧⲉ
+      ⲛ̅ⲧⲉⲕⲗⲟⲟⲗⲉ ϫⲉⲕⲁⲁⲥ ⲛ̅ⲛⲉⲗⲁⲁⲩ ⲛⲁⲩ ⲉⲣⲟϥ ⲉⲓⲙⲏⲧⲓ ⲁⲡⲉⲡⲛ̅ⲁ̅ ⲉⲧⲟⲩⲁⲁⲃ
+
+      "She surrounded it with A LUMINOUS CLOUD, and set a throne in the midst
+      of the cloud, so that no one might see it except the holy Spirit."
+      — fol. 10:14-17 (Sophia hiding Yaldabaoth)
+
+      ⲁⲩϩⲱⲡ ⲙ̅ⲙⲟⲟⲩ ϩⲛ̅ ⲟⲩⲧⲟⲡⲟⲥ ⲟⲩⲙⲟⲛⲟⲛ ⲛⲱϩⲉ ⲁⲗⲗⲁ ϩⲛ̅ⲕⲉⲣⲱⲙⲉ ⲉⲛⲁϣⲱⲟⲩ
+      ⲉⲃⲟⲗ ϩⲛ̅ ⲧⲅⲉⲛⲉⲁ ⲛ̅ⲁⲧⲕⲓⲙ ⲁⲩⲃⲱⲕ ⲉϩⲟⲩⲛ ⲁⲩⲧⲟⲡⲟⲥ ⲁⲩϩⲱⲡ' ⲙ̅ⲙⲟⲟⲩ ϩⲛ̅ ⲟⲩ-
+      ⲕⲗⲟⲟⲗⲉ ⲛ̅ⲟⲩⲟⲉⲓⲛ
+
+      "They were hidden in a place — not only Noah, but many other people
+      from the unshakeable race — they went into a place and hid themselves
+      in A LUMINOUS CLOUD." — fol. 29:8-12
+    location: "fol. 10:14-19 and fol. 29:8-12"
+    finding: >
+      The identical object — ⲟⲩⲕⲗⲟⲟⲗⲉ ⲛ̅ⲟⲩⲟⲉⲓⲛ, "a luminous cloud" — is used
+      twice in this tractate for opposite purposes. Sophia wraps the newborn
+      Yaldabaoth in one to hide her own unfinished work FROM the immortal
+      ones, out of shame (fol. 10:14-17). The unshakeable race hides INSIDE
+      one during the flood, to survive it (fol. 29:8-12), in direct
+      correction of the letter of Genesis 7 (see AJ-028: "not as Moses said,
+      'in an ark'").
+
+      Same correspondence, contrary use: concealment turned against the light
+      in the first instance, concealment used to preserve the light in the
+      second. This is opposite sense operating on a single image across
+      twenty folios, not a repeated motif drained of significance by
+      repetition.
+    principles:
+      - correspondence
+      - opposite_sense
+    confidence: strong
+    notes: >
+      Flagged as an open gap in findings/SYNTHESIS_the_whole_picture.md
+      ("Not currently recorded in the findings file for II,1") and closed
+      here. Recorded during the seam-by-seam reading rather than the earlier
+      apparatus pass, which treated the two occurrences in separate sections
+      (§8 and §21 respectively) without cross-referencing them.
