@@ -92,7 +92,7 @@ Each Coptic tractate file includes:
 | **[literary-compilation](https://github.com/kayna-of-light/literary-compilation)** | The Divine Bricolage — research collection and synthesis |
 | **[structured-data-analysis](https://github.com/kayna-of-light/structured-data-analysis)** | Empirical data analysis — NDE phenomenology, past-life memory, MallWorld dream data |
 | **[manichaean-analysis](https://github.com/kayna-of-light/manichaean-analysis)** | Manichaean corpus — correspondential reading of the Kephalaia and related texts |
-| **[proto-luke-reconstruction](https://github.com/kayna-of-light/ProtoLuke)** | Proto-Luke reconstruction — the Jamesian Protograph |
+| **[proto-luke-reconstruction](https://github.com/kayna-of-light/proto-luke-reconstruction)** | Proto-Luke reconstruction — the Jamesian Protograph |
 
 ## Attribution
 
