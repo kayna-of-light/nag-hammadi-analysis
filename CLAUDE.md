@@ -87,6 +87,7 @@ nag-hammadi-analysis/
 ├── findings/                           # CORRESPONDENTIAL FINDINGS
 │   ├── schema.yaml                    # Schema definition & documentation
 │   └── tractates/                     # Per-tractate findings (YAML, 48 files)
+├── research/                         # Standalone studies (apj_name_patterns: the AJ angel names tested)
 ├── scripts/
 │   ├── extract_tractates.py           # Robinson PDF → English markdown
 │   ├── extract_coptic_pymupdf.py      # Linssen PDF → Coptic markdown

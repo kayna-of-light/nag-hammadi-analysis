@@ -1,0 +1,102 @@
+{
+ "note": "Round 2: every matcher run named the source and is excluded under the registered rule; counts are recorded, not tested.",
+ "matchers": {
+  "A1": {
+   "correct": 5,
+   "n": 14,
+   "p_if_blind": 0.2585,
+   "excluded": "names the source",
+   "correct_words": [
+    "meninges",
+    "rough",
+    "star",
+    "of sacred name",
+    "firm, true"
+   ]
+  },
+  "A2": {
+   "correct": 6,
+   "n": 14,
+   "p_if_blind": 0.1117,
+   "excluded": "names the source",
+   "correct_words": [
+    "of sacred name",
+    "rough",
+    "meninges",
+    "star",
+    "firm, true",
+    "ruler"
+   ]
+  },
+  "A3": {
+   "correct": 5,
+   "n": 14,
+   "p_if_blind": 0.2585,
+   "excluded": "names the source",
+   "correct_words": [
+    "star",
+    "rough",
+    "of sacred name",
+    "meninges",
+    "ruler"
+   ]
+  },
+  "A4": {
+   "correct": 6,
+   "n": 14,
+   "p_if_blind": 0.1117,
+   "excluded": "names the source",
+   "correct_words": [
+    "star",
+    "ruler",
+    "meninges",
+    "of sacred name",
+    "rough",
+    "book"
+   ]
+  },
+  "B1": {
+   "correct": 6,
+   "n": 14,
+   "p_if_blind": 0.1117,
+   "excluded": "names the source",
+   "correct_words": [
+    "body",
+    "firm, true",
+    "star",
+    "rough",
+    "meninges",
+    "judgment"
+   ]
+  },
+  "B2": {
+   "correct": 9,
+   "n": 14,
+   "p_if_blind": 0.0022,
+   "excluded": "names the source",
+   "correct_words": [
+    "firm, true",
+    "break",
+    "rough",
+    "judgment",
+    "star",
+    "of sacred name",
+    "star",
+    "meninges",
+    "book"
+   ]
+  }
+ },
+ "times_correct_by_word": {
+  "meninges": 6,
+  "rough": 6,
+  "star": 7,
+  "of sacred name": 5,
+  "firm, true": 4,
+  "ruler": 3,
+  "book": 2,
+  "body": 1,
+  "judgment": 2,
+  "break": 1
+ }
+}

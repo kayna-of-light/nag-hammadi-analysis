@@ -1,0 +1,46 @@
+Below are 42 short questions. Each gives a word and four parts of the human body. For each question, choose the part that the word fits best, as a name for that part.
+
+Answer from this message alone. Do not use any tools, do not read files, do not search. Reply with one line per question, in the form  Q<number> -> <letter> : <reason in at most six words>  and nothing else. After the last answer add one line beginning SOURCE: that names any text or source these words made you think of, or SOURCE: none
+
+Q1. "knot"  A. foot  B. belly  C. veins  D. teeth
+Q2. "fool"  A. marrow  B. foot  C. kidneys  D. belly
+Q3. "meninges"  A. spleen  B. brain  C. throat  D. tonsils
+Q4. "crown"  A. marrow  B. knee  C. navel  D. breast
+Q5. "seed"  A. stomach  B. hands  C. foot  D. navel
+Q6. "cup"  A. forearm  B. lungs  C. veins  D. heart
+Q7. "rough"  A. fingers  B. foot  C. heart  D. breast
+Q8. "salt"  A. flesh  B. toenails  C. intestines  D. brain
+Q9. "arrow"  A. hands  B. flesh  C. bosom  D. navel
+Q10. "honey"  A. head  B. elbow  C. intestines  D. fingers
+Q11. "cloud"  A. liver  B. teeth  C. shoulder  D. elbow
+Q12. "bridge"  A. tonsils  B. spine  C. toes  D. arteries
+Q13. "ladder"  A. testicles  B. thigh  C. breast  D. loins
+Q14. "break"  A. shoulder  B. ankle  C. foot  D. throat
+Q15. "wheel"  A. forearm  B. head  C. navel  D. tonsils
+Q16. "well-flowering"  A. shoulder  B. spleen  C. forearm  D. bones
+Q17. "door"  A. shin  B. loins  C. arteries  D. sinews
+Q18. "body"  A. genitals  B. stomach  C. nose  D. veins
+Q19. "anchor"  A. forearm  B. foot  C. genitals  D. ear
+Q20. "star"  A. uvula  B. genitals  C. eye  D. stomach
+Q21. "river"  A. eye  B. vertebrae  C. molars  D. ankle
+Q22. "thread"  A. eye  B. toenails  C. spine  D. loins
+Q23. "of sacred name"  A. elbow  B. liver  C. ear  D. toes
+Q24. "lamp"  A. elbow  B. toenails  C. intestines  D. marrow
+Q25. "tower"  A. flesh  B. liver  C. forearm  D. breaths in the members
+Q26. "oil"  A. testicles  B. shin  C. kidneys  D. hypochondrium
+Q27. "root"  A. nails of the hands  B. head  C. brain  D. elbow
+Q28. "shadow"  A. knee  B. arteries  C. bones  D. liver
+Q29. "firm, true"  A. teeth  B. throat  C. ribs  D. intestines
+Q30. "royal"  A. ribs  B. tonsils  C. chest  D. ear
+Q31. "mirror"  A. thigh  B. nails of the hands  C. lips  D. genitals
+Q32. "judgment"  A. nails of the hands  B. sinews  C. spleen  D. belly
+Q33. "wind"  A. elbow  B. arteries  C. nose  D. hypochondrium
+Q34. "ruler"  A. breast  B. elbow  C. spleen  D. liver
+Q35. "stone"  A. ear  B. head  C. intestines  D. ankle
+Q36. "bell"  A. chest  B. hands  C. brain  D. testicles
+Q37. "gate"  A. nose  B. tonsils  C. loins  D. breaths in the members
+Q38. "sword"  A. ear  B. throat  C. shin  D. breaths in the members
+Q39. "wing"  A. spine  B. nails of the hands  C. kidneys  D. thigh
+Q40. "star"  A. breast  B. nails of the hands  C. ribs  D. intestines
+Q41. "iron"  A. vertebrae  B. shoulder  C. knee  D. chest
+Q42. "book"  A. shoulder  B. elbow  C. head  D. kidneys

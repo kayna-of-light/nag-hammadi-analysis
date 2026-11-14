@@ -1,0 +1,607 @@
+{
+ "A_mantel_length_members_L1_L2": {
+  "n_names": 93,
+  "n_pairs": 4278,
+  "r_sound_vs_length_sum": 0.0093,
+  "r_sound_vs_length_diff": -0.0146,
+  "r_meaning_vs_length_sum": -0.1693,
+  "r_given_length": 0.0156,
+  "p_perm": 0.2076,
+  "partial_r_given_length_and_distance": 0.012,
+  "p_perm_partial": 0.2613
+ },
+ "A_mantel_length_L1_only": {
+  "n_names": 65,
+  "n_pairs": 2080,
+  "r_sound_vs_length_sum": 0.0577,
+  "r_sound_vs_length_diff": 0.0132,
+  "r_meaning_vs_length_sum": -0.139,
+  "r_given_length": 0.004,
+  "p_perm": 0.4188,
+  "partial_r_given_length_and_distance": -0.0092,
+  "p_perm_partial": 0.632
+ },
+ "B_grid_neighbourhood_restricted": {
+  "block_size": 5,
+  "n_cells": 2376,
+  "familywise_threshold_p": 0.00018610421836228014,
+  "n_cells_below": 0,
+  "min_p_observed": 0.0008012820512820318
+ },
+ "C1_right_vs_left": {
+  "n_names": 32,
+  "values": [
+   "pol=R",
+   "pol=L"
+  ],
+  "n_cells": 98,
+  "familywise_threshold_p": 0.0033988382153009784,
+  "n_q_below_0_10": 0,
+  "n_below_familywise": 1,
+  "best": [
+   {
+    "feature": "ⲣ",
+    "value": "pol=R",
+    "k": 13,
+    "K": 16,
+    "n_with_feature": 17,
+    "p": 0.00192,
+    "q": 0.189,
+    "replication_L2_forces": {
+     "k": 4,
+     "K": 11,
+     "n_with_feature": 11,
+     "N": 22,
+     "p": 0.9569455312489398
+    }
+   },
+   {
+    "feature": "ⲱ",
+    "value": "pol=R",
+    "k": 6,
+    "K": 16,
+    "n_with_feature": 8,
+    "p": 0.10999,
+    "q": 1.0,
+    "replication_L2_forces": {
+     "k": 2,
+     "K": 11,
+     "n_with_feature": 5,
+     "N": 22,
+     "p": 0.8446115288220641
+    }
+   },
+   {
+    "feature": "ⲱⲛ",
+    "value": "pol=R",
+    "k": 3,
+    "K": 16,
+    "n_with_feature": 3,
+    "p": 0.1129,
+    "q": 1.0,
+    "replication_L2_forces": {
+     "k": 0,
+     "K": 11,
+     "n_with_feature": 2,
+     "N": 22,
+     "p": 1.0
+    }
+   },
+   {
+    "feature": "ⲃⲏ",
+    "value": "pol=L",
+    "k": 3,
+    "K": 16,
+    "n_with_feature": 3,
+    "p": 0.1129,
+    "q": 1.0,
+    "replication_L2_forces": {
+     "k": 0,
+     "K": 11,
+     "n_with_feature": 0,
+     "N": 22,
+     "p": null
+    }
+   },
+   {
+    "feature": "ⲫ",
+    "value": "pol=L",
+    "k": 4,
+    "K": 16,
+    "n_with_feature": 5,
+    "p": 0.1663,
+    "q": 1.0,
+    "replication_L2_forces": {
+     "k": 2,
+     "K": 11,
+     "n_with_feature": 3,
+     "N": 22,
+     "p": 0.5000000000000048
+    }
+   }
+  ]
+ },
+ "C2_will_vs_understanding": {
+  "n_names": 8,
+  "values": [
+   "pol=W",
+   "pol=U"
+  ],
+  "n_cells": 26,
+  "familywise_threshold_p": 0.014285714285714294,
+  "n_q_below_0_10": 0,
+  "n_below_familywise": 0,
+  "best": [
+   {
+    "feature": "ⲁ$",
+    "value": "pol=W",
+    "k": 3,
+    "K": 4,
+    "n_with_feature": 3,
+    "p": 0.07143,
+    "q": 0.929,
+    "replication_L2_forces": {
+     "k": 1,
+     "K": 3,
+     "n_with_feature": 2,
+     "N": 8,
+     "p": 0.6428571428571456
+    }
+   },
+   {
+    "feature": "ⲟ",
+    "value": "pol=W",
+    "k": 4,
+    "K": 4,
+    "n_with_feature": 5,
+    "p": 0.07143,
+    "q": 0.929,
+    "replication_L2_forces": {
+     "k": 2,
+     "K": 3,
+     "n_with_feature": 3,
+     "N": 8,
+     "p": 0.2857142857142867
+    }
+   },
+   {
+    "feature": "ⲉ",
+    "value": "pol=W",
+    "k": 2,
+    "K": 4,
+    "n_with_feature": 3,
+    "p": 0.5,
+    "q": 1.0,
+    "replication_L2_forces": {
+     "k": 0,
+     "K": 3,
+     "n_with_feature": 1,
+     "N": 8,
+     "p": 1.0
+    }
+   },
+   {
+    "feature": "^ⲁ",
+    "value": "pol=U",
+    "k": 2,
+    "K": 4,
+    "n_with_feature": 3,
+    "p": 0.5,
+    "q": 1.0,
+    "replication_L2_forces": {
+     "k": 3,
+     "K": 5,
+     "n_with_feature": 3,
+     "N": 8,
+     "p": 0.17857142857142894
+    }
+   },
+   {
+    "feature": "^ⲃ",
+    "value": "pol=U",
+    "k": 2,
+    "K": 4,
+    "n_with_feature": 3,
+    "p": 0.5,
+    "q": 1.0,
+    "replication_L2_forces": {
+     "k": 0,
+     "K": 5,
+     "n_with_feature": 0,
+     "N": 8,
+     "p": null
+    }
+   }
+  ]
+ },
+ "C3_three_degrees": {
+  "n_names": 58,
+  "values": [
+   "degree=C",
+   "degree=S",
+   "degree=N"
+  ],
+  "n_cells": 288,
+  "familywise_threshold_p": 0.001562423414731165,
+  "n_q_below_0_10": 0,
+  "n_below_familywise": 0,
+  "best": [
+   {
+    "feature": "ⲏⲗ",
+    "value": "degree=N",
+    "k": 4,
+    "K": 18,
+    "n_with_feature": 4,
+    "p": 0.00721,
+    "q": 1.0,
+    "replication_L2_forces": {
+     "k": 0,
+     "K": 26,
+     "n_with_feature": 0,
+     "N": 40,
+     "p": null
+    }
+   },
+   {
+    "feature": "ⲉⲣ",
+    "value": "degree=C",
+    "k": 3,
+    "K": 14,
+    "n_with_feature": 3,
+    "p": 0.0118,
+    "q": 1.0,
+    "replication_L2_forces": {
+     "k": 0,
+     "K": 2,
+     "n_with_feature": 1,
+     "N": 40,
+     "p": 1.0
+    }
+   },
+   {
+    "feature": "ⲙ",
+    "value": "degree=C",
+    "k": 9,
+    "K": 14,
+    "n_with_feature": 22,
+    "p": 0.02278,
+    "q": 1.0,
+    "replication_L2_forces": {
+     "k": 2,
+     "K": 2,
+     "n_with_feature": 10,
+     "N": 40,
+     "p": 0.057692307692309416
+    }
+   },
+   {
+    "feature": "ⲙⲏ",
+    "value": "degree=C",
+    "k": 4,
+    "K": 14,
+    "n_with_feature": 6,
+    "p": 0.02565,
+    "q": 1.0,
+    "replication_L2_forces": {
+     "k": 0,
+     "K": 2,
+     "n_with_feature": 1,
+     "N": 40,
+     "p": 1.0
+    }
+   },
+   {
+    "feature": "^ⲕ",
+    "value": "degree=N",
+    "k": 3,
+    "K": 18,
+    "n_with_feature": 3,
+    "p": 0.02645,
+    "q": 1.0,
+    "replication_L2_forces": {
+     "k": 0,
+     "K": 26,
+     "n_with_feature": 0,
+     "N": 40,
+     "p": null
+    }
+   }
+  ]
+ },
+ "D_detection_floor": {
+  "familywise_threshold_p": 0.00013717906331111587,
+  "N": 65,
+  "by_value": [
+   {
+    "value": "degree=C",
+    "K": 14,
+    "k_min_exclusive": 6,
+    "share": 0.43
+   },
+   {
+    "value": "degree=N",
+    "K": 18,
+    "k_min_exclusive": 7,
+    "share": 0.39
+   },
+   {
+    "value": "degree=S",
+    "K": 26,
+    "k_min_exclusive": 9,
+    "share": 0.35
+   },
+   {
+    "value": "degree=–",
+    "K": 7,
+    "k_min_exclusive": 4,
+    "share": 0.57
+   },
+   {
+    "value": "layer=out",
+    "K": 5,
+    "k_min_exclusive": 4,
+    "share": 0.8
+   },
+   {
+    "value": "pol=L",
+    "K": 16,
+    "k_min_exclusive": 6,
+    "share": 0.38
+   },
+   {
+    "value": "pol=R",
+    "K": 16,
+    "k_min_exclusive": 6,
+    "share": 0.38
+   },
+   {
+    "value": "pol=U",
+    "K": 4,
+    "k_min_exclusive": 3,
+    "share": 0.75
+   },
+   {
+    "value": "pol=W",
+    "K": 4,
+    "k_min_exclusive": 3,
+    "share": 0.75
+   },
+   {
+    "value": "role=CAUSE",
+    "K": 34,
+    "k_min_exclusive": 12,
+    "share": 0.35
+   },
+   {
+    "value": "role=EFFECT",
+    "K": 26,
+    "k_min_exclusive": 9,
+    "share": 0.35
+   },
+   {
+    "value": "role=END",
+    "K": 4,
+    "k_min_exclusive": 3,
+    "share": 0.75
+   },
+   {
+    "value": "use=CIRCULATION",
+    "K": 5,
+    "k_min_exclusive": 4,
+    "share": 0.8
+   },
+   {
+    "value": "use=CONJUGIAL",
+    "K": 9,
+    "k_min_exclusive": 5,
+    "share": 0.56
+   },
+   {
+    "value": "use=CONJUNCTION",
+    "K": 8,
+    "k_min_exclusive": 4,
+    "share": 0.5
+   },
+   {
+    "value": "use=MOTION",
+    "K": 8,
+    "k_min_exclusive": 4,
+    "share": 0.5
+   },
+   {
+    "value": "use=NOURISHMENT",
+    "K": 9,
+    "k_min_exclusive": 5,
+    "share": 0.56
+   },
+   {
+    "value": "use=PERCEPTION",
+    "K": 6,
+    "k_min_exclusive": 4,
+    "share": 0.67
+   },
+   {
+    "value": "use=POWER",
+    "K": 8,
+    "k_min_exclusive": 4,
+    "share": 0.5
+   },
+   {
+    "value": "use=PURIFICATION",
+    "K": 8,
+    "k_min_exclusive": 4,
+    "share": 0.5
+   },
+   {
+    "value": "use=SUPPORT",
+    "K": 11,
+    "k_min_exclusive": 5,
+    "share": 0.45
+   },
+   {
+    "value": "use=THRESHOLD",
+    "K": 6,
+    "k_min_exclusive": 4,
+    "share": 0.67
+   }
+  ]
+ },
+ "names_behind_top6": [
+  {
+   "feature": "ⲉⲛ",
+   "value": "degree=–",
+   "names": [
+    [
+     "38",
+     "ⲁⲃⲏⲛⲗⲉⲛⲁⲣⲭⲉⲓ",
+     "27"
+    ],
+    [
+     "39",
+     "ⲭⲛⲟⲩⲙⲉⲛⲓⲛⲟⲣⲓⲛ",
+     "28"
+    ],
+    [
+     "51",
+     "ⲁⲧⲟⲓⲙⲉⲛⲯⲏⲫⲉⲓ",
+     "40"
+    ]
+   ]
+  },
+  {
+   "feature": "ⲙ",
+   "value": "use=PERCEPTION",
+   "names": [
+    [
+     "3",
+     "ⲁⲥⲧⲉⲣⲉⲭⲙⲏ",
+     "3"
+    ],
+    [
+     "4",
+     "ⲑⲁⲥⲡⲟⲙⲟⲭⲁ",
+     "3"
+    ],
+    [
+     "5",
+     "ⲓⲉⲣⲱⲛⲩⲙⲟⲥ",
+     "4"
+    ],
+    [
+     "6",
+     "ⲃⲓⲥⲥⲟⲩⲙ",
+     "4"
+    ],
+    [
+     "7",
+     "ⲁⲕⲓⲱⲣⲉⲓⲙ",
+     "5"
+    ],
+    [
+     "8",
+     "ⲃⲁⲛⲏⲛⲉⲫⲣⲟⲩⲙ",
+     "6"
+    ]
+   ]
+  },
+  {
+   "feature": "ⲟ",
+   "value": "degree=–",
+   "names": [
+    [
+     "39",
+     "ⲭⲛⲟⲩⲙⲉⲛⲓⲛⲟⲣⲓⲛ",
+     "28"
+    ],
+    [
+     "47",
+     "ⲣⲟⲉⲣⲱⲣ",
+     "36"
+    ],
+    [
+     "49",
+     "ⲓⲡⲟⲩⲥⲡⲟⲃⲱⲃⲁ",
+     "38"
+    ],
+    [
+     "50",
+     "ⲃⲓⲛⲉⲃⲟⲣⲓⲛ",
+     "39"
+    ],
+    [
+     "51",
+     "ⲁⲧⲟⲓⲙⲉⲛⲯⲏⲫⲉⲓ",
+     "40"
+    ],
+    [
+     "52",
+     "ⲏⲛⲑⲟⲗⲗⲉⲓⲁ",
+     "41"
+    ]
+   ]
+  },
+  {
+   "feature": "ⲣⲙ",
+   "value": "use=CONJUGIAL",
+   "names": [
+    [
+     "56",
+     "ⲥⲱⲣⲙⲁ",
+     "43"
+    ],
+    [
+     "57",
+     "ⲅⲟⲣⲙⲁⲕⲁⲓⲟⲭⲗⲁⲃⲁⲣ",
+     "45"
+    ],
+    [
+     "61",
+     "ⲟⲣⲙⲁⲱⲑ",
+     "46"
+    ]
+   ]
+  },
+  {
+   "feature": "ⲣⲙⲁ",
+   "value": "use=CONJUGIAL",
+   "names": [
+    [
+     "56",
+     "ⲥⲱⲣⲙⲁ",
+     "43"
+    ],
+    [
+     "57",
+     "ⲅⲟⲣⲙⲁⲕⲁⲓⲟⲭⲗⲁⲃⲁⲣ",
+     "45"
+    ],
+    [
+     "61",
+     "ⲟⲣⲙⲁⲱⲑ",
+     "46"
+    ]
+   ]
+  },
+  {
+   "feature": "ⲙ$",
+   "value": "use=PERCEPTION",
+   "names": [
+    [
+     "6",
+     "ⲃⲓⲥⲥⲟⲩⲙ",
+     "4"
+    ],
+    [
+     "7",
+     "ⲁⲕⲓⲱⲣⲉⲓⲙ",
+     "5"
+    ],
+    [
+     "8",
+     "ⲃⲁⲛⲏⲛⲉⲫⲣⲟⲩⲙ",
+     "6"
+    ]
+   ]
+  }
+ ]
+}
