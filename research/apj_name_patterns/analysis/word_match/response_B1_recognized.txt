@@ -1,0 +1,24 @@
+RECOGNIZED: the matcher declared that it recognised Task 1 as the Apocryphon of John body-creation list.
+Response follows verbatim.
+
+Task 1
+G1 -> A : stars give light; the eye receives light, understanding
+G2 -> D : lowest natural; feet tread rough ground
+G3 -> J : government upon his shoulder (Isa 9:6); all power
+G4 -> B : milk links star to breast (Milky Way); weak fit
+G5 -> F : reins explored and recorded; book of judgment examines
+G6 -> C : teeth bite and break food
+G7 -> M : guard that admits or rejects is judging
+G8 -> H : ear hears the name; obedience
+G9 -> E : arm's strength rules (Isa 40:10)
+G10 -> I : joint joins members into one body
+G11 -> G : praise and blame without understanding
+G12 -> N : reins signify truth; left side relates to truth
+G13 -> K : generation, fruitfulness; flowering precedes seed
+G14 -> L : meninges envelop the brain
+Task 2
+G1 -> D : ribs hold the chest together
+G2 -> A : Jacob's thigh touched; offspring from his thigh
+G3 -> C : bears loads as earth bears all; weak fit
+G4 -> B : generation reproduces the parent's form
+NOTE (contamination risk): I recognise Task 1 as the Apocryphon of John body-creation list, and I know some of the name etymologies. I matched on the functions given, as asked, but recall may have tipped two close calls. The first is G4 -> B. The second is the choice between F and N, whose descriptions are nearly identical; I broke that tie with "left = truth". For Task 2 I have no reliable recall.

@@ -1,0 +1,24 @@
+EXCLUDED: the matcher recognized the source. Its reasons cite the angel names in the spellings of
+Robinson's English (Kriman, Biblo, Tebar, Asterechme, Basiliademe, Sorma, Trachoun, Asaklas, Evanthen,
+Amen, Mniarchon, Yeronumos, Astrops, Meniggesstroeth), so its pairs are recall, not blind matching.
+Response follows verbatim.
+
+G1 -> B : Kriman, Greek krima "judgment"; nails of the hands
+G2 -> C : Biblo, Greek biblos "book"; kidneys
+G3 -> H : Tebar, Aramaic tbr "to break"; right shoulder
+G4 -> J : Asterechme, aster "star"; right eye
+G5 -> I : Basiliademe, basileios "royal"; tonsils
+G6 -> M : Sorma, close to soma "body"; genitals
+G7 -> G : Trachoun, Greek trachys "rough"; left foot
+G8 -> D : Asaklas, Aramaic sakla "fool"; left kidney
+G9 -> A : Evanthen, euanthes "well-flowering"; left forearm
+G10 -> E : Amen, Hebrew "firm, true"; teeth
+G11 -> F : Mniarchon, contains archon "ruler"; right elbow
+G12 -> L : Yeronumos, Hieronymos "of sacred name"; right ear
+G13 -> N : Astrops, astron "star"; right breast
+G14 -> K : Meniggesstroeth, from meninges; brain
+
+G1 -> D : Shoulders bear load like earth; weakest fit
+G2 -> A : Generative organs pass on the form of the species
+G3 -> C : Jacob's thigh struck at the Jabbok (Gen 32)
+G4 -> B : The rib cage holds the chest together

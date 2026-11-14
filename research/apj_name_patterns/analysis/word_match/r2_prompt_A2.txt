@@ -1,0 +1,46 @@
+Below are 42 short questions. Each gives a word and four parts of the human body. For each question, choose the part that the word fits best, as a name for that part.
+
+Answer from this message alone. Do not use any tools, do not read files, do not search. Reply with one line per question, in the form  Q<number> -> <letter> : <reason in at most six words>  and nothing else. After the last answer add one line beginning SOURCE: that names any text or source these words made you think of, or SOURCE: none
+
+Q1. "shadow"  A. bones  B. toenails  C. genitals  D. foot
+Q2. "body"  A. hypochondrium  B. fingers  C. genitals  D. lungs
+Q3. "break"  A. lips  B. shoulder  C. veins  D. teeth
+Q4. "honey"  A. elbow  B. arteries  C. liver  D. toes
+Q5. "of sacred name"  A. ribs  B. ear  C. lungs  D. toes
+Q6. "bell"  A. arteries  B. ribs  C. hypochondrium  D. neck
+Q7. "thread"  A. kidneys  B. thigh  C. liver  D. hands
+Q8. "rough"  A. foot  B. sinews  C. chest  D. tonsils
+Q9. "sword"  A. shoulder  B. chest  C. hands  D. kidneys
+Q10. "well-flowering"  A. nails of the hands  B. teeth  C. forearm  D. head
+Q11. "crown"  A. brain  B. nails of the hands  C. ankle  D. marrow
+Q12. "anchor"  A. shoulder  B. chest  C. liver  D. genitals
+Q13. "salt"  A. belly  B. ribs  C. forearm  D. breaths in the members
+Q14. "bridge"  A. liver  B. intestines  C. ribs  D. eye
+Q15. "door"  A. genitals  B. tonsils  C. foot  D. ankle
+Q16. "judgment"  A. hands  B. nails of the hands  C. testicles  D. heart
+Q17. "ladder"  A. head  B. nails of the hands  C. forearm  D. veins
+Q18. "cup"  A. nails of the hands  B. shoulder  C. knee  D. lungs
+Q19. "wheel"  A. loins  B. spleen  C. vertebrae  D. heart
+Q20. "gate"  A. forearm  B. arteries  C. eye  D. veins
+Q21. "cloud"  A. arteries  B. hypochondrium  C. breast  D. intestines
+Q22. "wing"  A. throat  B. testicles  C. forearm  D. loins
+Q23. "tower"  A. breaths in the members  B. genitals  C. elbow  D. molars
+Q24. "wind"  A. shin  B. fingers  C. veins  D. forearm
+Q25. "iron"  A. ankle  B. knee  C. forearm  D. thigh
+Q26. "meninges"  A. chest  B. belly  C. brain  D. breast
+Q27. "star"  A. spine  B. testicles  C. eye  D. genitals
+Q28. "fool"  A. lips  B. kidneys  C. hypochondrium  D. hands
+Q29. "star"  A. loins  B. nails of the hands  C. hands  D. breast
+Q30. "lamp"  A. ear  B. spleen  C. breast  D. shoulder
+Q31. "oil"  A. shin  B. elbow  C. throat  D. brain
+Q32. "root"  A. heart  B. uvula  C. toenails  D. breaths in the members
+Q33. "arrow"  A. lips  B. toes  C. bones  D. chest
+Q34. "royal"  A. veins  B. tonsils  C. intestines  D. heart
+Q35. "stone"  A. bones  B. lips  C. kidneys  D. hands
+Q36. "knot"  A. nails of the hands  B. lungs  C. arteries  D. chest
+Q37. "firm, true"  A. teeth  B. chest  C. breaths in the members  D. marrow
+Q38. "book"  A. vertebrae  B. thigh  C. kidneys  D. shoulder
+Q39. "river"  A. sinews  B. shoulder  C. chest  D. elbow
+Q40. "mirror"  A. navel  B. forearm  C. genitals  D. hypochondrium
+Q41. "seed"  A. fingers  B. breast  C. ankle  D. chest
+Q42. "ruler"  A. elbow  B. loins  C. tonsils  D. testicles

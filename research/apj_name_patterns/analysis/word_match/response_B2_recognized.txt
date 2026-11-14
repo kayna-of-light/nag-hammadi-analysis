@@ -1,0 +1,26 @@
+RECOGNIZED: the matcher declared that it recognised List 1 as the angel-name glosses from the Apocryphon of John.
+Response follows verbatim.
+
+Task 1
+G1 -> F : guard admitting or rejecting at entrance, like royal gatekeeping
+G2 -> K : star gives light; eye sees, corresponds to understanding
+G3 -> B : flowering is fruitfulness; generation
+G4 -> L : elbow skin is rough; joint of the arm
+G5 -> A : body is the natural ultimate on which higher rests
+G6 -> D : praise and blame without understanding is folly
+G7 -> E : teeth bite and break food
+G8 -> N : shoulder corresponds to all power
+G9 -> C : ear hears the name; obedience, perceptivity
+G10 -> I : kidneys explore and separate; testing the reins
+G11 -> M : reins signify truth
+G12 -> H : meninges envelop the brain
+G13 -> J : forearm grasps and holds, as a book is held
+G14 -> G : Milky Way: starlight from breast milk
+
+Task 2
+G1 -> A : ribs hold together and support the chest
+G2 -> D : generation reproduces the pattern, the form
+G3 -> C : Jacob's thigh touched at Jabbok; offspring from thigh
+G4 -> B : shoulder bears loads, as Atlas bears earth
+
+Note on blindness: this test was not blind for me. I recognised List 1 as the angel-name glosses from the Apocryphon of John's body-creation passage (NHC II 15–17). I matched on functional fit as instructed, not on what I remember of the text, but that memory may have tipped the close calls. The weakest pairings are Task 1 G1, G4, G13 and Task 2 G2 and G4.

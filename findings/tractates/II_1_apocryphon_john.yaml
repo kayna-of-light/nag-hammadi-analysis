@@ -58,10 +58,12 @@ summary: >
   notes, closing with a "where this reading goes beyond the text" section:
     findings/readings/II_1_apocryphon_john_reading.md
 
-  Status remains in_progress: the 365 angel names (AJ-017 through AJ-021 and
-  the companion AJ_angel_name_translations.yaml) were derived from the English
-  and have not been checked against the Coptic, and AJ-019 in particular rests
-  on etymological reconstruction that AJ-038 flags for re-derivation. AJ-039
+  Status remains in_progress. The angel names (AJ-017 through AJ-021 and the
+  companion AJ_angel_name_translations.yaml) were derived from the English; they
+  have since been read from the Coptic of both codices (AJ-040 to AJ-049,
+  2026-11-14), and the graded readings in AJ_angel_catalogue.yaml supersede the
+  English-based etymologies. AJ-019 rests on etymological reconstruction that
+  AJ-038 flags for re-derivation. AJ-039
   (2026-08-06) closed one open gap flagged in the synthesis document (the
   luminous cloud used in opposite senses); the seam-by-seam reading pass did
   not surface further net-new findings beyond what AJ-001 through AJ-038
@@ -1910,3 +1912,215 @@ findings:
       here. Recorded during the seam-by-seam reading rather than the earlier
       apparatus pass, which treated the two occurrences in separate sections
       (§8 and §21 respectively) without cross-referencing them.
+  # ---------------------------------------------------------------------------
+  # AJ-040 – AJ-049 (2026-11-14): the body-creation passage read from the Coptic
+  # of both codices. Full argument: literary-compilation, data/08_Correspondential_Texts/
+  # "The Body That Waited for Breath". Every name graded in AJ_angel_catalogue.yaml.
+  # ---------------------------------------------------------------------------
+
+  - id: AJ-040
+    category: structural_principle
+    passage: >
+      ⲁϥⲧⲁⲙⲓⲟ … "he created" + name + object marker + member, from the head
+      to the nails of the feet (II 15,29–17,6; IV 24,22–26,16).
+    location: "II 15,29–17,6; IV 24,22–26,16"
+    finding: >
+      The first list is a list of exactly seventy-two makers, recovered only by
+      reading the two witnesses together. Codex II has sixty-nine names, having
+      lost one entry at the shoulder, the elbow and the loins by homoeoteleuton;
+      Codex IV has those entries and has lost the left ankle and the right foot.
+      The union is seventy-two, the thirty-six Egyptian decans doubled
+      (Quack 1995, 98, 110). The members run in anatomical order from the crown
+      to the toenails, with the frame and viscera taken together in the trunk.
+    principles:
+      - divine_human
+      - discrete_degrees
+    confidence: strong
+    notes: >
+      The apparent right/left contradictions of Robinson's English are this
+      II/IV variation (Robinson prints IV's readings in parentheses). Supersedes
+      the counts implied in AJ-017.
+
+  - id: AJ-041
+    category: anomaly
+    passage: >
+      ⲛⲉⲛⲧⲁⲩⲧⲟϣⲟⲩ ⲇⲉ ⲉϩⲣⲁⲓ̈ ⲉϫⲛ̅ ⲛⲁⲓ̈ ⲧⲏⲣⲟⲩ ⲡⲉ ⲍ ⲁⲑⲱⲑ ⲁⲣⲙⲁⲥ ⲕⲁⲗⲓⲗⲁ ⲓ̈ⲁⲃⲏⲗ —
+      "those who were set over all these are 7: Athoth, Armas, Kalila, Iabel"
+    location: "II 17,7–8; IV 26,17–20"
+    finding: >
+      The "four" overseers of Robinson's English are seven, and the angel
+      "Zathoth" does not exist: Codex II writes the numeral ⲍ (7) before the
+      name Athoth and then names only four; Codex IV names all seven — Athoth,
+      Harmas, Kalila, Iabel, Adonaiou called Sabaoth, Cain, Abel — the seven
+      authorities of the chief archon (II 10,28–11,7).
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      The seventy-two members are thus placed under the seven of the archon's
+      own heaven: the makers are his.
+
+  - id: AJ-042
+    category: structural_principle
+    passage: >
+      ⲛⲉⲧⲉⲛⲉⲣⲅⲉⲓ ⲇⲉ ⲕⲁⲧⲁ ⲙⲉⲣⲟⲥ ϩⲣⲁⲓ̈ ϩⲛ̅ ⲛ̅ⲙⲉⲗⲟⲥ ⲧⲁⲡⲉ ⲙⲉⲛ ⲇⲓⲟⲗⲓⲙⲟⲇⲣⲁⲍⲁ
+      ⲡⲙⲟⲩⲧ ⲓⲁⲙⲙⲉⲁⲝ … — "those who are active part by part in the members:
+      the head, Diolimodraza; the neck, Iammeax …"
+    location: "II 17,8–29"
+    finding: >
+      The passage marks each operation with its own grammar. The seven powers
+      make substances (ⲁⲥⲧⲁⲙⲓⲟ ⲛ̅ⲟⲩⲯⲩⲭⲏ ⲛ̅-); the seventy-two make members
+      (ⲁϥⲧⲁⲙⲓⲟ, name, object); the thirty make nothing — they are ἐνεργοῦντες,
+      at work in parts already made, and their list reverses the order, part
+      first and name after. Substance, structure, operation, then faculties,
+      qualities and passions follow in the order in which a body is built,
+      made to move, given perception and bound to matter.
+    principles:
+      - discrete_degrees
+      - influx
+    confidence: strong
+    notes: >
+      Thirty is not the decans' number; Quack connects it with the thirty
+      bright stars of the Greek astrological manuscripts (Quack 1995, 103).
+
+  - id: AJ-043
+    category: correspondence
+    passage: >
+      ⲁⲛⲟⲕ ⲟⲩⲛⲟⲩⲧⲉ ⲛ̅ⲣⲉϥⲕⲱϩ (II 13,8–9); ⲡⲕⲱϩ, the sixth power, makes the
+      soul of skin (II 15,20–22); ⲕⲱϩ among the passions bred by grief
+      (II 18,21); ⲁⲩⲱ ⲁⲩⲕⲱϩ, "and they were jealous" (II 19,34)
+    location: "II 13,8–13; 15,20–22; 18,21; 19,34"
+    finding: >
+      One word, ⲕⲱϩ ("jealousy, envy, zeal"), names a single state at four
+      degrees: the archon's boast, the outermost covering of the body, a passion
+      within it, and the makers' response when the living man shines. The skin
+      the proprium makes is the proprium's own quality in ultimates.
+    principles:
+      - proprium
+      - discrete_degrees
+      - correspondence
+    confidence: strong
+    notes: >
+      Harmas, one of the seven overseers, is "the eye of jealousy" (ⲡⲃⲁⲗ
+      ⲙ̅ⲡⲕⲱϩ, II 10,31). Cross-reference AJ-018 (the substance-souls).
+
+  - id: AJ-044
+    category: explicit_statement
+    passage: >
+      ⲁϥϣⲱⲡⲉ ⲧⲏⲣϥ ⲛ̅ϭⲓ ⲡⲟⲩϩⲱϥ ⲛ̅ⲁⲣⲅⲟⲛ ⲁⲩⲱ ⲛ̅ⲁⲧⲕⲓⲙ ϩⲛ̅ ⲟⲩⲛⲟϭ ⲛ̅ⲟⲩⲟⲉⲓϣ
+      (II 19,12–14) … ⲁϥⲕⲓⲙ ⲁⲩⲱ ⲁϥϭⲙ̅ϭⲟⲙ ⲛ̅ϭⲓ ⲡⲥⲱⲙⲁ ⲁⲩⲱ ⲁϥⲣ̅ ⲟⲩⲟⲉⲓⲛ
+      (II 19,32–33)
+    location: "II 19,12–33"
+    finding: >
+      The completed body — every substance, member, faculty, quality and
+      passion supplied — is ⲁⲣⲅⲟⲛ, "idle", and ⲁⲧⲕⲓⲙ, "without movement",
+      "for a long time". Only after the Mother's power is breathed in does the
+      negated verb turn: ⲁϥⲕⲓⲙ, "it moved", it became strong with that power
+      (ϭⲟⲙ) and it shone. Nothing the 365 made gives life; the vessel is
+      complete and lifeless until influx enters it.
+    principles:
+      - influx
+      - proprium
+    confidence: strong
+    notes: >
+      Swedenborg: angels, spirits and men "are only recipients of life"
+      (AC 3742). The living man's understanding then exceeds his makers'
+      (II 20,3–5) — see AJ-047.
+
+  - id: AJ-045
+    category: correspondence
+    passage: >
+      ⲡⲉⲧϩⲓϫⲛ̅ ⲧⲫⲁⲛⲧⲁⲥⲓⲁ ⲟⲩⲙⲙⲁⲁ — "the one over imagination, Oummaa"
+    location: "II 17,35"
+    finding: >
+      The ruler of the imagination is named ὄμμα, "eye" (grade A). Swedenborg
+      makes the eye "the source of man's imagination": what enters through the
+      eye "is seen inwardly" (AC 4408).
+    principles:
+      - correspondence
+    confidence: strong
+
+  - id: AJ-046
+    category: explicit_statement
+    passage: >
+      ⲟⲛⲟⲣⲑⲟⲭⲣⲁⲥⲁⲉⲓ … ⲥⲧⲏϩ ⲛⲙ̅ⲙⲁⲩ ⲧⲏⲣⲟⲩ — the mother of the four qualities
+      "mixes with them all"
+    location: "II 18,10–14; IV ⲟⲛⲟⲣⲑⲟⲭⲣⲁⲥ"
+    finding: >
+      The four qualities are bounded and their mother is "without limit"; the
+      text glosses her name by her act. Her name carries κρᾶσις, "mixture", and
+      the text says she mixes (ⲥⲧⲏϩ). Unbounded matter is the mixing in which
+      the bounded qualities exist.
+    principles:
+      - correspondence
+    confidence: moderate
+    notes: >
+      The rest of the name is not read (grade B for the element only). See
+      AJ-019 for the four qualities as the quarters; AJ-038 for their
+      Hellenistic background.
+
+  - id: AJ-047
+    category: correspondence
+    passage: >
+      the seventh power, ⲙⲛ̅ⲧⲣⲙⲛ̅ϩⲏⲧ, "understanding", makes the soul of hair
+      (II 15,22); the living man's ⲙⲛ̅ⲧⲣⲙⲛ̅ϩⲏⲧ exceeds his makers' (II 20,3–5)
+    location: "II 15,22; 20,3–5"
+    finding: >
+      The word for understanding is built on ϩⲏⲧ, "heart" (ⲣⲙ̅ⲛ̅ϩⲏⲧ, "a person
+      of heart"). The makers give understanding only at the outermost substance,
+      the hair; the understanding that comes with the breath is greater than
+      theirs. Understanding in the vessel and understanding from influx are the
+      same word at two degrees.
+    principles:
+      - influx
+      - discrete_degrees
+    confidence: moderate
+    notes: >
+      Five of the seven powers are Egyptian words; only goodness (χρηστός) and
+      forethought (πρόνοια) are Greek.
+
+  - id: AJ-048
+    category: anomaly
+    passage: >
+      ⲉⲫⲉⲙⲉⲙⲫⲓ ⲡⲉ ⲡⲁ ⲧϩⲏⲇⲟⲛⲏ ⲓ̈ⲱⲕⲱ ⲡⲉ ⲡⲁⲧ' ⲉⲡⲓⲑⲩⲙⲉⲓⲁ ⲛⲉⲛⲉⲛⲧⲱⲫⲛⲓ ⲡⲉ ⲡⲁⲧⲗⲩⲡⲏ
+      ⲃⲗⲁⲟⲙⲏⲛ ⲡⲉ ⲡⲁⲧϩⲛⲱϩⲉ
+    location: "II 18,15–18; IV 29,1"
+    finding: >
+      Correction to AJ-038: not all four passions are Greek loans. Pleasure,
+      desire and grief are Greek (ἡδονή, ἐπιθυμία, λύπη); fear is native
+      Coptic in both codices — ϩⲛⲱϩⲉ in II (again ⲛⲱϩⲉ at 18,30), ϩⲟⲧⲉ in IV.
+      The four are the Stoic primary passions (Diogenes Laertius 7.110).
+    principles:
+      - correspondence
+    confidence: strong
+    notes: >
+      It may be no more than the habit of each dialect, but both copyists keep
+      fear in the native language independently.
+
+  - id: AJ-049
+    category: anomaly
+    passage: >
+      The 130 surviving names of the catalogue (AJ_angel_catalogue.yaml).
+    location: "II 15,29–19,2; IV 24,22–29,6"
+    finding: >
+      Read from the Coptic with the published identifications, 38 of the 130
+      names can be read at grade A or B. They are of two kinds: words that suit
+      their member (Amen for the teeth, κρίμα for the nails, Tebar "break" for
+      the shoulder, μήνιγγ- for the brain, ὄμμα for the imagination), and
+      Egyptian decan and god names (Ptah, Horus the justified, Haroeris, Horus
+      of Athribis, Khnum or the decan Chnoumis, "the god") that say who rules a
+      member, not what it does. No readable name contradicts its member. The
+      ~80 others have no decan, ritual or Coptic attestation. Registered tests
+      (research/apj_name_patterns) found that neither the letters nor the
+      origin of the names follows the members' meanings, and a blind test of
+      the word-names could not be run blind with language-model matchers.
+    principles:
+      - correspondence
+      - divine_human
+    confidence: strong
+    notes: >
+      Qualifies AJ-017 and AJ-021: the names are not a correspondential
+      lexicon throughout; the relation to function is visible only in the
+      readable words, and about six of the fourteen first-list word-names fit
+      in a way readers find unaided (synthesis/003). Piwowarczyk (2021, xxxi)
+      places the lists in a later, Coptic-stage stratum of the long recension.

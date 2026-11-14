@@ -1,0 +1,110 @@
+list,row,name,member,side,strict,broad,basis
+L1,1,ⲉⲧⲉⲣⲁⲫⲁⲱⲡⲉⲁⲃⲣⲱⲛ,1,-,UN,EG,C: month-name Paophi; a decan or magical ἀβρα- (Quack 114)
+L1,2,ⲙⲏⲛⲓⲅⲅⲉⲥⲥⲧⲣⲱⲏⲑ,2,-,GR,GR,A: μήνιγγ-
+L1,3,ⲁⲥⲧⲉⲣⲉⲭⲙⲏ,3,R,GR,GR,A: ἀστήρ; second element the decan knm.w (Quack 114-115)
+L1,4,ⲑⲁⲥⲡⲟⲙⲟⲭⲁ,3,L,UN,EG,"C: decan ṯms n ḫntt, with emendation (Quack 115)"
+L1,5,ⲓⲉⲣⲱⲛⲩⲙⲟⲥ,4,R,GR,GR,B: ἱερώνυμος
+L1,6,ⲃⲓⲥⲥⲟⲩⲙ,4,L,UN,SE,C: Hebrew bōśem proposed
+L1,7,ⲁⲕⲓⲱⲣⲉⲓⲙ,5,-,UN,UN,C: opaque
+L1,8,ⲃⲁⲛⲏⲛⲉⲫⲣⲟⲩⲙ,6,-,UN,SE,C: Ephraim proposed for the second name
+L1,9,ⲁⲙⲏⲛ,7,-,SE,SE,A: Hebrew ʾāmēn
+L1,10,ⲓⲃⲓⲕⲁⲛ,8,-,UN,UN,C: opaque
+L1,11,ⲃⲁⲥⲓⲗⲓⲁⲇⲏⲙⲏ,9,-,GR,GR,A: βασιλ-
+L1,12,ⲁⲭⲭⲁ,10,-,UN,EG,"C: decan ḫ.wi, Firmicus Acha (Quack 115)"
+L1,13,ⲁⲇⲁⲃⲁⲛ,11,-,UN,SE,C: Semitic dbq proposed
+L1,14,ⲭⲁⲁⲙⲁⲛ,13,-,UN,EG,"C: decan ḥry-ib rmn, with emendation (Quack 115); ""pillar"" (no tradition named)"
+L1,15,ⲇⲉⲁⲣⲭⲱ,12,-,UN,UN,C: decan tpy-ꜥ ꜥkw OR ἀρχ- (two traditions)
+L1,16,ⲧⲏⲃⲁⲣ,14,R,SE,SE,B: Aramaic tbr; Quack compares decan forms
+L1,18,ⲙⲛⲓⲁⲣⲭⲱⲛ,15,R,GR,GR,B: ἄρχων
+L1,20,ⲁⲃⲓⲧⲣⲓⲱⲛ,16,R,UN,UN,C: opaque
+L1,21,ⲉⲩⲁⲛⲑⲏⲛ,16,L,GR,GR,B: εὐανθής; Quack compares a decan
+L1,22,ⲕⲣⲩⲥ,17,R,UN,UN,C: χρυσός OR decan ρυαξ (two traditions)
+L1,23,ⲃⲏⲗⲩⲁⲓ,17,L,UN,SE,C: Belial proposed
+L1,24,ⲧⲣⲏⲛⲉⲩ,18,R,UN,UN,C: opaque
+L1,25,ⲃⲁⲗⲃⲏⲗ,18,L,EG,EG,"B: decan βελβελ (TSol), also magical (Quack 115)"
+L1,26,ⲕⲣⲓⲙⲁ,19,-,GR,GR,B: κρίμα; Quack compares decan forms for IV
+L1,27,ⲁⲥⲧⲣⲱⲯ,20,R,GR,GR,B: ἀστρ-; resembles decan Astiro
+L1,28,ⲃⲁⲣⲣⲱⲫ,20,L,UN,UN,C: opaque
+L1,31,ⲁⲣⲉⲭ,22,-,UN,GR,C: ἀρχή proposed
+L1,32,ⲫⲑⲁⲩⲏ,23,-,EG,EG,B: Ptah the great (Quack 116)
+L1,33,ⲥⲏⲛⲁⲫⲓⲙ,24,-,UN,EG,C: decan sbšsn (Quack 116)
+L1,34,ⲁⲣⲁⲭⲉⲑⲱⲡⲓ,25,R,UN,UN,C: opaque
+L1,35,ⲍⲁⲃⲉⲇⲱ,25,L,UN,UN,C: opaque
+L1,36,ⲃⲁⲣⲓⲁⲥ,26,R,UN,GR,C: βάρος proposed
+L1,37,ⲫⲛⲟⲩⲑ,26,L,EG,EG,"B: pꜣ nṯr, ""the god"" (Quack 116)"
+L1,38,ⲁⲃⲏⲛⲗⲉⲛⲁⲣⲭⲉⲓ,27,-,UN,GR,C: possibly ἀρχ-
+L1,39,ⲭⲛⲟⲩⲙⲉⲛⲓⲛⲟⲣⲓⲛ,28,-,EG,EG,B: Khnum or the decan Chnoumis
+L1,40,ⲅⲏⲥⲟⲗⲉ,29,-,UN,EG,C: decan sꜣ sꜣḥ from IV (Quack 116)
+L1,41,ⲁⲅⲣⲟⲙⲁⲩⲙⲁ,30,-,UN,UN,C: opaque
+L1,42,ⲃⲁⲛⲱ,31,-,UN,UN,C: opaque
+L1,43,ⲥⲱⲥⲧⲣⲁⲡⲁⲗ,32,-,UN,UN,C: opaque
+L1,44,ⲁⲛⲏⲥⲓⲙⲁⲗⲁⲣ,33,-,UN,EG,C: decan Ἀνεσιούμ (Gundel 80; this study)
+L1,45,ⲑⲱⲡⲓⲑⲣⲱ,34,-,UN,EG,C: two decan names (Quack 116)
+L1,46,ⲃⲓⲃⲗⲱ,35,-,GR,GR,B: βίβλος; Quack emends to magical βιβιου
+L1,47,ⲣⲟⲉⲣⲱⲣ,36,-,UN,UN,C: opaque
+L1,48,ⲧⲁⲫⲣⲉⲱ,37,-,UN,GR,C: τάφρος proposed
+L1,49,ⲓⲡⲟⲩⲥⲡⲟⲃⲱⲃⲁ,38,-,UN,EG,C: decan ip-ꜥ.s (Quack 117)
+L1,50,ⲃⲓⲛⲉⲃⲟⲣⲓⲛ,39,-,UN,UN,C: opaque
+L1,51,ⲁⲧⲟⲓⲙⲉⲛⲯⲏⲫⲉⲓ,40,-,UN,EG,"C: pꜣ šfy, ""the divine child"" (Quack 117)"
+L1,52,ⲏⲛⲑⲟⲗⲗⲉⲓⲁ,41,-,UN,UN,C: opaque
+L1,54,ⲁⲣⲁⲃⲏⲉⲓ,44,L,UN,EG,C: decan ḥry-ib wiꜣ (Quack 117)
+L1,55,ⲉⲓⲗⲱ,42,-,UN,UN,C: opaque
+L1,56,ⲥⲱⲣⲙⲁ,43,-,GR,GR,B: σῶμα (IV corrected)
+L1,57,ⲅⲟⲣⲙⲁⲕⲁⲓⲟⲭⲗⲁⲃⲁⲣ,45,R,UN,EG,C: second name perhaps a decan (Quack 117)
+L1,58,ⲛⲉⲃⲣⲓⲑ,45,L,UN,EG,C: nb rḏw (Quack 117)
+L1,60,ⲁⲥⲁⲕⲗⲁⲥ,35,L,SE,SE,"A: Saklas (Aramaic, the archon's name)"
+L1,61,ⲟⲣⲙⲁⲱⲑ,46,R,EG,EG,B: Horus the justified (Quack 117-118)
+L1,62,ⲏⲙⲏⲛⲩⲛ,46,L,UN,UN,C: opaque
+L1,63,ⲕⲛⲩⲝ,47,R,UN,UN,C: opaque
+L1,64,ⲧⲩⲡⲏⲗⲟ,47,L,UN,UN,C: opaque
+L1,65,ⲁⲭⲓⲏⲗ,48,R,SE,SE,B: theophoric -ēl
+L1,66,ⲫⲛⲏⲙⲏ,48,L,UN,EG,"C: ""the dwarf"", title of the sun-god (Quack 118)"
+L1,67,ⲫⲓⲟⲩⲑⲣⲟⲙ,49,R,UN,UN,C: opaque
+L1,68,ⲃⲟⲁⲃⲉⲗ,50,R,UN,SE,C: possibly theophoric
+L1,69,ⲧⲣⲁⲭⲟⲩⲛ,49,L,GR,GR,B: τραχύς
+L1,70,ⲫⲓⲕⲛⲁ,50,L,UN,UN,C: magical φνκρω (no tradition named)
+L1,71,ⲙⲓⲁⲙⲁⲓ,51,-,UN,UN,C: opaque
+L2,1,ⲇⲓⲟⲗⲓⲙⲟⲇⲣⲁⲍⲁ,1,-,UN,UN,C: opaque
+L2,2,ⲓⲁⲙⲙⲉⲁⲝ,11,-,UN,UN,C: opaque
+L2,3,ⲓⲁⲕⲟⲩⲓⲃ,14,R,SE,SE,A: Jacob
+L2,4,ⲟⲩⲉⲣⲧⲱⲛ,14,L,EG,EG,"B: wr-tꜣ, ""great one of the earth"" (Quack 118)"
+L2,5,ⲟⲩⲇⲓⲇⲓ,17,R,UN,UN,C: Hebrew yādîd OR decan οὐδισίτ (two traditions)
+L2,6,ⲁⲣⲃⲁⲟ,17,L,SE,SE,"B: Ἀρβαω, Hebrew ""fourfold Iao"" (Piwowarczyk)"
+L2,7,ⲗⲁⲙⲡⲛⲱ,18,R,UN,UN,C: λάμπω OR decan Ἀμπάναν (two traditions)
+L2,8,ⲗⲏⲉⲕⲁⲫⲁⲣ,18,L,UN,UN,C: opaque
+L2,9,ⲃⲁⲣⲃⲁⲣ,20,R,UN,EG,"C: magical name; Coptic ⲃⲉⲣⲃⲉⲣ ""boil"" (Merkelbach-Totti)"
+L2,10,ⲓⲙⲁⲏ,20,L,UN,SE,C: Aramaic ʾimmā proposed
+L2,11,ⲡⲓⲥⲁⲛⲇⲣⲁⲡⲧⲏⲥ,21,-,UN,GR,C: possibly a Greek compound
+L2,14,ⲁⲥⲫⲓⲝⲓⲝ,25,R,UN,UN,C: opaque
+L2,15,ⲥⲩⲛⲟⲅⲭⲟⲩⲧⲁ,25,L,GR,GR,B: συνοχή
+L2,16,ⲁⲣⲟⲩⲫ,22,-,UN,EG,C: decan Arfa/Amarph (Gundel 78; this study)
+L2,17,ⲥⲁⲃⲁⲗⲱ,52,-,UN,SE,C: Semitic sbl proposed
+L2,18,ⲭⲁⲣⲭⲁⲣⲃ,45,R,UN,EG,"C: decan forms Χαρχαμ, Χαρχνουμις (Gundel 77, 80)"
+L2,19,ⲭⲑⲁⲱⲛ,45,L,GR,GR,B: χθών
+L2,20,ⲃⲁⲑⲓⲛⲱⲑ,43,-,SE,SE,B: Hebrew tabnît; Quack emends to an Egyptian reading
+L2,21,ⲭⲟⲩⲝ,46,R,EG,EG,"B: Kk.w, primordial darkness (Quack 118)"
+L2,22,ⲭⲁⲣⲭⲁ,46,L,UN,UN,C: magical; decan forms; Hebrew kāraʿ (several traditions)
+L2,23,ⲁⲣⲟⲏⲣ,47,R,EG,EG,B: Haroeris (Quack 118)
+L2,24,ⲧⲱⲉⲭⲑⲁ,47,L,UN,UN,C: opaque
+L2,25,ⲁⲱⲗ,48,R,UN,UN,C: opaque
+L2,26,ⲭⲁⲣⲁⲛⲏⲣ,48,L,UN,UN,C: opaque
+L2,27,ⲃⲁⲥⲧⲁⲛ,49,R,UN,GR,C: possibly βαστάζω
+L2,28,ⲁⲣⲭⲉⲛⲧⲉⲭⲑⲁ,50,R,EG,EG,B: Horus of Athribis (Quack 118-119)
+L2,29,ⲙⲁⲣⲉⲫⲛⲟⲩⲛⲑ,49,L,UN,EG,"C: pꜣ nṯr, ""the god"" (Quack 119)"
+L2,30,ⲁⲃⲣⲁⲛⲁ,50,L,UN,UN,C: opaque
+F,F1,ⲁⲣⲭⲉⲛⲇⲉⲕⲧⲁ,F1,-,EG,EG,B: Horus Khentikheti
+F,F2,ⲇⲉⲓⲑⲁⲣⲃⲁⲑⲁⲥ,F2,-,UN,UN,C: opaque
+F,F3,ⲟⲩⲙⲙⲁⲁ,F3,-,GR,GR,A: ὄμμα
+F,F4,ⲁⲁⲭⲓⲁⲣⲁⲙ,F4,-,UN,UN,C: opaque
+F,F5,ⲣⲓⲁⲣⲁⲙⲛⲁⲭⲱ,F5,-,UN,EG,C: decan Ρεμεναχ (Gundel 77; this study)
+F,F6,ⲫⲗⲟⲝⲟⲫⲁ,F6,-,GR,GR,A: φλόξ
+F,F7,ⲟⲣⲟⲟⲣⲣⲟⲑⲟⲥ,F7,-,UN,GR,C: ὀρρωδέω possible
+F,F8,ⲉⲣⲓⲙⲁⲭⲱ,F8,-,UN,GR,C: ἐρημ- possible
+F,F9,ⲁⲑⲩⲣⲱ,F9,-,EG,EG,A: Hathor
+F,F10,ⲟⲛⲟⲣⲑⲟⲭⲣⲁⲥⲁⲉⲓ,F10,-,GR,GR,B: κρᾶσις
+F,F11,ⲉⲫⲉⲙⲉⲙⲫⲓ,F11,-,UN,EG,"C: Nefertem of Memphis, one letter restored"
+F,F11,ⲓⲱⲕⲱ,F11,-,UN,UN,C: opaque
+F,F11,ⲛⲉⲛⲉⲛⲧⲱⲫⲛⲓ,F11,-,UN,UN,C: opaque
+F,F11,ⲃⲗⲁⲟⲙⲏⲛ,F11,-,UN,UN,C: opaque
+F,F12,ⲉⲥⲑⲏⲛⲥⲓⲥ,F12,-,GR,GR,A: αἴσθησις
+F,F13,ⲁⲛⲁⲣⲱ,F13,-,UN,UN,C: opaque

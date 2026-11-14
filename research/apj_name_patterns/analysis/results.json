@@ -1,0 +1,1030 @@
+{
+ "test0a_same_member_L1_vs_L2": {
+  "n_pairs": 25,
+  "mean_sim_true": 0.0275,
+  "mean_sim_null": 0.0171,
+  "p_perm": 0.0697,
+  "median_rank_of_true_partner": 12,
+  "expected_median_rank": 13.0,
+  "pairs": [
+   [
+    "ⲉⲧⲉⲣⲁⲫⲁⲱⲡⲉⲁⲃⲣⲱⲛ",
+    "ⲇⲓⲟⲗⲓⲙⲟⲇⲣⲁⲍⲁ",
+    0.018
+   ],
+   [
+    "ⲁⲇⲁⲃⲁⲛ",
+    "ⲓⲁⲙⲙⲉⲁⲝ",
+    0.0
+   ],
+   [
+    "ⲧⲏⲃⲁⲣ",
+    "ⲓⲁⲕⲟⲩⲓⲃ",
+    0.0
+   ],
+   [
+    "ⲕⲣⲩⲥ",
+    "ⲟⲩⲇⲓⲇⲓ",
+    0.0
+   ],
+   [
+    "ⲃⲏⲗⲩⲁⲓ",
+    "ⲁⲣⲃⲁⲟ",
+    0.0
+   ],
+   [
+    "ⲧⲣⲏⲛⲉⲩ",
+    "ⲗⲁⲙⲡⲛⲱ",
+    0.0
+   ],
+   [
+    "ⲃⲁⲗⲃⲏⲗ",
+    "ⲗⲏⲉⲕⲁⲫⲁⲣ",
+    0.0
+   ],
+   [
+    "ⲁⲥⲧⲣⲱⲯ",
+    "ⲃⲁⲣⲃⲁⲣ",
+    0.0
+   ],
+   [
+    "ⲃⲁⲣⲣⲱⲫ",
+    "ⲓⲙⲁⲏ",
+    0.0
+   ],
+   [
+    "ⲁⲣⲁⲭⲉⲑⲱⲡⲓ",
+    "ⲁⲥⲫⲓⲝⲓⲝ",
+    0.031
+   ],
+   [
+    "ⲍⲁⲃⲉⲇⲱ",
+    "ⲥⲩⲛⲟⲅⲭⲟⲩⲧⲁ",
+    0.0
+   ],
+   [
+    "ⲁⲣⲉⲭ",
+    "ⲁⲣⲟⲩⲫ",
+    0.176
+   ],
+   [
+    "ⲅⲟⲣⲙⲁⲕⲁⲓⲟⲭⲗⲁⲃⲁⲣ",
+    "ⲭⲁⲣⲭⲁⲣⲃ",
+    0.024
+   ],
+   [
+    "ⲛⲉⲃⲣⲓⲑ",
+    "ⲭⲑⲁⲱⲛ",
+    0.0
+   ],
+   [
+    "ⲥⲱⲣⲙⲁ",
+    "ⲃⲁⲑⲓⲛⲱⲑ",
+    0.0
+   ],
+   [
+    "ⲟⲣⲙⲁⲱⲑ",
+    "ⲭⲟⲩⲝ",
+    0.0
+   ],
+   [
+    "ⲏⲙⲏⲛⲩⲛ",
+    "ⲭⲁⲣⲭⲁ",
+    0.0
+   ],
+   [
+    "ⲕⲛⲩⲝ",
+    "ⲁⲣⲟⲏⲣ",
+    0.0
+   ],
+   [
+    "ⲧⲩⲡⲏⲗⲟ",
+    "ⲧⲱⲉⲭⲑⲁ",
+    0.04
+   ],
+   [
+    "ⲁⲭⲓⲏⲗ",
+    "ⲁⲱⲗ",
+    0.125
+   ],
+   [
+    "ⲫⲛⲏⲙⲏ",
+    "ⲭⲁⲣⲁⲛⲏⲣ",
+    0.04
+   ],
+   [
+    "ⲫⲓⲟⲩⲑⲣⲟⲙ",
+    "ⲃⲁⲥⲧⲁⲛ",
+    0.0
+   ],
+   [
+    "ⲃⲟⲁⲃⲉⲗ",
+    "ⲁⲣⲭⲉⲛⲧⲉⲭⲑⲁ",
+    0.0
+   ],
+   [
+    "ⲧⲣⲁⲭⲟⲩⲛ",
+    "ⲙⲁⲣⲉⲫⲛⲟⲩⲛⲑ",
+    0.091
+   ],
+   [
+    "ⲫⲓⲕⲛⲁ",
+    "ⲁⲃⲣⲁⲛⲁ",
+    0.143
+   ]
+  ]
+ },
+ "test0b_right_left_partners": {
+  "n_pairs": 25,
+  "mean_sim_true": 0.0158,
+  "mean_sim_null": 0.0181,
+  "p_perm": 0.5576,
+  "median_rank_of_true_partner": 10,
+  "expected_median_rank": 13.0,
+  "pairs": [
+   [
+    "ⲁⲥⲧⲉⲣⲉⲭⲙⲏ",
+    "ⲑⲁⲥⲡⲟⲙⲟⲭⲁ",
+    0.027
+   ],
+   [
+    "ⲓⲉⲣⲱⲛⲩⲙⲟⲥ",
+    "ⲃⲓⲥⲥⲟⲩⲙ",
+    0.03
+   ],
+   [
+    "ⲁⲃⲓⲧⲣⲓⲱⲛ",
+    "ⲉⲩⲁⲛⲑⲏⲛ",
+    0.032
+   ],
+   [
+    "ⲕⲣⲩⲥ",
+    "ⲃⲏⲗⲩⲁⲓ",
+    0.0
+   ],
+   [
+    "ⲧⲣⲏⲛⲉⲩ",
+    "ⲃⲁⲗⲃⲏⲗ",
+    0.0
+   ],
+   [
+    "ⲁⲥⲧⲣⲱⲯ",
+    "ⲃⲁⲣⲣⲱⲫ",
+    0.04
+   ],
+   [
+    "ⲁⲣⲁⲭⲉⲑⲱⲡⲓ",
+    "ⲍⲁⲃⲉⲇⲱ",
+    0.0
+   ],
+   [
+    "ⲃⲁⲣⲓⲁⲥ",
+    "ⲫⲛⲟⲩⲑ",
+    0.0
+   ],
+   [
+    "ⲅⲟⲣⲙⲁⲕⲁⲓⲟⲭⲗⲁⲃⲁⲣ",
+    "ⲛⲉⲃⲣⲓⲑ",
+    0.0
+   ],
+   [
+    "ⲟⲣⲙⲁⲱⲑ",
+    "ⲏⲙⲏⲛⲩⲛ",
+    0.0
+   ],
+   [
+    "ⲕⲛⲩⲝ",
+    "ⲧⲩⲡⲏⲗⲟ",
+    0.0
+   ],
+   [
+    "ⲁⲭⲓⲏⲗ",
+    "ⲫⲛⲏⲙⲏ",
+    0.0
+   ],
+   [
+    "ⲫⲓⲟⲩⲑⲣⲟⲙ",
+    "ⲧⲣⲁⲭⲟⲩⲛ",
+    0.032
+   ],
+   [
+    "ⲃⲟⲁⲃⲉⲗ",
+    "ⲫⲓⲕⲛⲁ",
+    0.0
+   ],
+   [
+    "ⲓⲁⲕⲟⲩⲓⲃ",
+    "ⲟⲩⲉⲣⲧⲱⲛ",
+    0.034
+   ],
+   [
+    "ⲟⲩⲇⲓⲇⲓ",
+    "ⲁⲣⲃⲁⲟ",
+    0.0
+   ],
+   [
+    "ⲗⲁⲙⲡⲛⲱ",
+    "ⲗⲏⲉⲕⲁⲫⲁⲣ",
+    0.034
+   ],
+   [
+    "ⲃⲁⲣⲃⲁⲣ",
+    "ⲓⲙⲁⲏ",
+    0.0
+   ],
+   [
+    "ⲁⲥⲫⲓⲝⲓⲝ",
+    "ⲥⲩⲛⲟⲅⲭⲟⲩⲧⲁ",
+    0.0
+   ],
+   [
+    "ⲭⲁⲣⲭⲁⲣⲃ",
+    "ⲭⲑⲁⲱⲛ",
+    0.045
+   ],
+   [
+    "ⲭⲟⲩⲝ",
+    "ⲭⲁⲣⲭⲁ",
+    0.056
+   ],
+   [
+    "ⲁⲣⲟⲏⲣ",
+    "ⲧⲱⲉⲭⲑⲁ",
+    0.0
+   ],
+   [
+    "ⲁⲱⲗ",
+    "ⲭⲁⲣⲁⲛⲏⲣ",
+    0.0
+   ],
+   [
+    "ⲃⲁⲥⲧⲁⲛ",
+    "ⲙⲁⲣⲉⲫⲛⲟⲩⲛⲑ",
+    0.0
+   ],
+   [
+    "ⲁⲣⲭⲉⲛⲧⲉⲭⲑⲁ",
+    "ⲁⲃⲣⲁⲛⲁ",
+    0.062
+   ]
+  ]
+ },
+ "test1_mantel_members_L1_L2": {
+  "n_names": 93,
+  "n_pairs": 4278,
+  "r": 0.0158,
+  "p_perm": 0.2038,
+  "partial_r_given_list_distance": 0.0122,
+  "p_perm_partial": 0.2545,
+  "r_meaning_vs_distance": -0.277,
+  "r_sound_vs_distance": -0.0148
+ },
+ "test1_mantel_excluding_same_member_pairs": {
+  "n_names": 93,
+  "n_pairs": 4206,
+  "r": 0.012,
+  "p_perm": 0.2649,
+  "partial_r_given_list_distance": 0.0092,
+  "p_perm_partial": 0.3088,
+  "r_meaning_vs_distance": -0.2362,
+  "r_sound_vs_distance": -0.013
+ },
+ "test1_mantel_L1_only": {
+  "n_names": 65,
+  "n_pairs": 2080,
+  "r": -0.0037,
+  "p_perm": 0.5462,
+  "partial_r_given_list_distance": -0.0159,
+  "p_perm_partial": 0.7377,
+  "r_meaning_vs_distance": -0.314,
+  "r_sound_vs_distance": -0.0363
+ },
+ "test1_mantel_without_egyptian_names": {
+  "n_names": 79,
+  "n_pairs": 3081,
+  "r": 0.0157,
+  "p_perm": 0.2308,
+  "partial_r_given_list_distance": 0.0085,
+  "p_perm_partial": 0.3346,
+  "r_meaning_vs_distance": -0.2875,
+  "r_sound_vs_distance": -0.0262
+ },
+ "test2_grid_L1": {
+  "n_names": 65,
+  "n_features": 108,
+  "n_values": 22,
+  "n_cells": 2376,
+  "familywise_threshold_p": 0.00013717906331111587,
+  "n_cells_q_below_0_10": 0,
+  "n_cells_below_familywise": 0,
+  "top20": [
+   {
+    "feature": "ⲉⲛ",
+    "value": "degree=–",
+    "k": 3,
+    "K": 7,
+    "n_with_feature": 3,
+    "N": 65,
+    "p": 0.0008012820512820318,
+    "q": 0.9138461538461279
+   },
+   {
+    "feature": "ⲙ",
+    "value": "use=PERCEPTION",
+    "k": 6,
+    "K": 6,
+    "n_with_feature": 24,
+    "N": 65,
+    "p": 0.0016295136205236556,
+    "q": 0.9138461538461279
+   },
+   {
+    "feature": "ⲟ",
+    "value": "degree=–",
+    "k": 6,
+    "K": 7,
+    "n_with_feature": 19,
+    "N": 65,
+    "p": 0.0018650927987302114,
+    "q": 0.9138461538461279
+   },
+   {
+    "feature": "ⲣⲙ",
+    "value": "use=CONJUGIAL",
+    "k": 3,
+    "K": 9,
+    "n_with_feature": 3,
+    "N": 65,
+    "p": 0.0019230769230768685,
+    "q": 0.9138461538461279
+   },
+   {
+    "feature": "ⲣⲙⲁ",
+    "value": "use=CONJUGIAL",
+    "k": 3,
+    "K": 9,
+    "n_with_feature": 3,
+    "N": 65,
+    "p": 0.0019230769230768685,
+    "q": 0.9138461538461279
+   },
+   {
+    "feature": "ⲙ$",
+    "value": "use=PERCEPTION",
+    "k": 3,
+    "K": 6,
+    "n_with_feature": 5,
+    "N": 65,
+    "p": 0.004250784030001296,
+    "q": 1.0
+   },
+   {
+    "feature": "ⲩⲙ",
+    "value": "use=PERCEPTION",
+    "k": 3,
+    "K": 6,
+    "n_with_feature": 5,
+    "N": 65,
+    "p": 0.004250784030001296,
+    "q": 1.0
+   },
+   {
+    "feature": "ⲏⲗ",
+    "value": "degree=N",
+    "k": 4,
+    "K": 18,
+    "n_with_feature": 4,
+    "N": 65,
+    "p": 0.0045196738745125345,
+    "q": 1.0
+   },
+   {
+    "feature": "ⲁ$",
+    "value": "pol=W",
+    "k": 3,
+    "K": 4,
+    "n_with_feature": 8,
+    "N": 65,
+    "p": 0.00481803143093468,
+    "q": 1.0
+   },
+   {
+    "feature": "ⲟ",
+    "value": "pol=W",
+    "k": 4,
+    "K": 4,
+    "n_with_feature": 19,
+    "N": 65,
+    "p": 0.005724920241049115,
+    "q": 1.0
+   },
+   {
+    "feature": "ⲑ$",
+    "value": "use=CONJUGIAL",
+    "k": 3,
+    "K": 9,
+    "n_with_feature": 4,
+    "N": 65,
+    "p": 0.007133995037220832,
+    "q": 1.0
+   },
+   {
+    "feature": "ⲣ",
+    "value": "pol=R",
+    "k": 13,
+    "K": 16,
+    "n_with_feature": 34,
+    "N": 65,
+    "p": 0.0075276988100064345,
+    "q": 1.0
+   },
+   {
+    "feature": "ⲉ",
+    "value": "degree=–",
+    "k": 6,
+    "K": 7,
+    "n_with_feature": 24,
+    "N": 65,
+    "p": 0.0084237568518596,
+    "q": 1.0
+   },
+   {
+    "feature": "^ⲫ",
+    "value": "use=MOTION",
+    "k": 3,
+    "K": 8,
+    "n_with_feature": 5,
+    "N": 65,
+    "p": 0.01131032285183566,
+    "q": 1.0
+   },
+   {
+    "feature": "ⲗ",
+    "value": "use=PURIFICATION",
+    "k": 5,
+    "K": 8,
+    "n_with_feature": 15,
+    "N": 65,
+    "p": 0.01294098914923392,
+    "q": 1.0
+   },
+   {
+    "feature": "ⲉⲓ",
+    "value": "degree=–",
+    "k": 3,
+    "K": 7,
+    "n_with_feature": 6,
+    "N": 65,
+    "p": 0.01379001749176192,
+    "q": 1.0
+   },
+   {
+    "feature": "ⲱ$",
+    "value": "degree=S",
+    "k": 6,
+    "K": 26,
+    "n_with_feature": 7,
+    "N": 65,
+    "p": 0.013842144024474909,
+    "q": 1.0
+   },
+   {
+    "feature": "ⲁⲙ",
+    "value": "layer=out",
+    "k": 2,
+    "K": 5,
+    "n_with_feature": 3,
+    "N": 65,
+    "p": 0.013965201465201756,
+    "q": 1.0
+   },
+   {
+    "feature": "ⲅ",
+    "value": "role=END",
+    "k": 2,
+    "K": 4,
+    "n_with_feature": 4,
+    "N": 65,
+    "p": 0.01657952262790958,
+    "q": 1.0
+   },
+   {
+    "feature": "ⲙⲏ",
+    "value": "degree=C",
+    "k": 4,
+    "K": 14,
+    "n_with_feature": 6,
+    "N": 65,
+    "p": 0.01672395557905738,
+    "q": 1.0
+   }
+  ]
+ },
+ "test3_replication_of_top20": [
+  {
+   "feature": "ⲉⲛ",
+   "value": "degree=–",
+   "in_L2": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 1,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 4,
+    "n_with_feature": 2,
+    "N": 16,
+    "p": 1.0
+   }
+  },
+  {
+   "feature": "ⲙ",
+   "value": "use=PERCEPTION",
+   "in_L2": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 5,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 1,
+    "K": 4,
+    "n_with_feature": 6,
+    "N": 16,
+    "p": 0.8846153846153844
+   }
+  },
+  {
+   "feature": "ⲟ",
+   "value": "degree=–",
+   "in_L2": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 10,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 2,
+    "K": 4,
+    "n_with_feature": 5,
+    "N": 16,
+    "p": 0.3653846153846158
+   }
+  },
+  {
+   "feature": "ⲣⲙ",
+   "value": "use=CONJUGIAL",
+   "in_L2": {
+    "k": 0,
+    "K": 5,
+    "n_with_feature": 0,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 0,
+    "N": 16,
+    "p": null
+   }
+  },
+  {
+   "feature": "ⲣⲙⲁ",
+   "value": "use=CONJUGIAL",
+   "in_L2": {
+    "k": 0,
+    "K": 5,
+    "n_with_feature": 0,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 0,
+    "N": 16,
+    "p": null
+   }
+  },
+  {
+   "feature": "ⲙ$",
+   "value": "use=PERCEPTION",
+   "in_L2": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 0,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 4,
+    "n_with_feature": 1,
+    "N": 16,
+    "p": 0.9999999999999978
+   }
+  },
+  {
+   "feature": "ⲩⲙ",
+   "value": "use=PERCEPTION",
+   "in_L2": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 0,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 1,
+    "K": 4,
+    "n_with_feature": 1,
+    "N": 16,
+    "p": 0.2499999999999996
+   }
+  },
+  {
+   "feature": "ⲏⲗ",
+   "value": "degree=N",
+   "in_L2": {
+    "k": 0,
+    "K": 14,
+    "n_with_feature": 0,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 12,
+    "n_with_feature": 0,
+    "N": 16,
+    "p": null
+   }
+  },
+  {
+   "feature": "ⲁ$",
+   "value": "pol=W",
+   "in_L2": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 6,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 1,
+    "K": 3,
+    "n_with_feature": 3,
+    "N": 16,
+    "p": 0.48928571428571366
+   }
+  },
+  {
+   "feature": "ⲟ",
+   "value": "pol=W",
+   "in_L2": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 10,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 2,
+    "K": 3,
+    "n_with_feature": 5,
+    "N": 16,
+    "p": 0.21428571428571458
+   }
+  },
+  {
+   "feature": "ⲑ$",
+   "value": "use=CONJUGIAL",
+   "in_L2": {
+    "k": 1,
+    "K": 5,
+    "n_with_feature": 2,
+    "N": 28,
+    "p": 0.3306878306878389
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 0,
+    "N": 16,
+    "p": null
+   }
+  },
+  {
+   "feature": "ⲣ",
+   "value": "pol=R",
+   "in_L2": {
+    "k": 4,
+    "K": 11,
+    "n_with_feature": 14,
+    "N": 28,
+    "p": 0.9399440630562107
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 9,
+    "N": 16,
+    "p": null
+   }
+  },
+  {
+   "feature": "ⲉ",
+   "value": "degree=–",
+   "in_L2": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 6,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 1,
+    "K": 4,
+    "n_with_feature": 7,
+    "N": 16,
+    "p": 0.9307692307692267
+   }
+  },
+  {
+   "feature": "^ⲫ",
+   "value": "use=MOTION",
+   "in_L2": {
+    "k": 0,
+    "K": 8,
+    "n_with_feature": 0,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 1,
+    "n_with_feature": 1,
+    "N": 16,
+    "p": 0.9999999999999968
+   }
+  },
+  {
+   "feature": "ⲗ",
+   "value": "use=PURIFICATION",
+   "in_L2": {
+    "k": 0,
+    "K": 1,
+    "n_with_feature": 5,
+    "N": 28,
+    "p": 1.0
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 2,
+    "N": 16,
+    "p": null
+   }
+  },
+  {
+   "feature": "ⲉⲓ",
+   "value": "degree=–",
+   "in_L2": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 0,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 4,
+    "n_with_feature": 2,
+    "N": 16,
+    "p": 1.0
+   }
+  },
+  {
+   "feature": "ⲱ$",
+   "value": "degree=S",
+   "in_L2": {
+    "k": 1,
+    "K": 12,
+    "n_with_feature": 2,
+    "N": 28,
+    "p": 0.6825396825396938
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 5,
+    "N": 16,
+    "p": null
+   }
+  },
+  {
+   "feature": "ⲁⲙ",
+   "value": "layer=out",
+   "in_L2": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 2,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 2,
+    "N": 16,
+    "p": null
+   }
+  },
+  {
+   "feature": "ⲅ",
+   "value": "role=END",
+   "in_L2": {
+    "k": 0,
+    "K": 1,
+    "n_with_feature": 1,
+    "N": 28,
+    "p": 1.0
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 1,
+    "n_with_feature": 0,
+    "N": 16,
+    "p": null
+   }
+  },
+  {
+   "feature": "ⲙⲏ",
+   "value": "degree=C",
+   "in_L2": {
+    "k": 0,
+    "K": 2,
+    "n_with_feature": 0,
+    "N": 28,
+    "p": null
+   },
+   "in_forces": {
+    "k": 0,
+    "K": 0,
+    "n_with_feature": 1,
+    "N": 16,
+    "p": null
+   }
+  }
+ ],
+ "robust_test0a_codex_IV_spellings": {
+  "n_pairs": 25,
+  "mean_sim_true": 0.0242,
+  "mean_sim_null": 0.0171,
+  "p_perm": 0.1363,
+  "median_rank_of_true_partner": 12,
+  "expected_median_rank": 13.0,
+  "pairs": [
+   [
+    "ⲉⲧⲉⲣⲁⲫⲁⲱⲡⲉⲁⲃⲣⲱⲛ",
+    "ⲇⲓⲟⲗⲓⲙⲟⲇⲣⲁⲍⲁ",
+    0.018
+   ],
+   [
+    "ⲁⲇⲁⲃⲁⲛ",
+    "ⲓⲁⲙⲙⲉⲁⲝ",
+    0.0
+   ],
+   [
+    "ⲧⲏⲃⲁⲣ",
+    "ⲓⲁⲕⲟⲩⲓⲃ",
+    0.0
+   ],
+   [
+    "ⲕⲣⲩⲥ",
+    "ⲟⲩⲇⲉⲓⲇⲓ",
+    0.0
+   ],
+   [
+    "ⲃⲏⲗⲩⲁⲓ",
+    "ⲁⲣⲃⲁⲟ",
+    0.0
+   ],
+   [
+    "ⲧⲣⲏⲛⲉⲩ",
+    "ⲗⲁⲙⲡⲛⲱ",
+    0.0
+   ],
+   [
+    "ⲃⲁⲗⲃⲏⲗ",
+    "ⲗⲏⲉⲕⲁⲫⲁⲣ",
+    0.0
+   ],
+   [
+    "ⲁⲥⲧⲣⲱⲯ",
+    "ⲃⲁⲣⲃⲁⲣ",
+    0.0
+   ],
+   [
+    "ⲃⲁⲣⲣⲱⲫ",
+    "ⲓⲙⲁⲏ",
+    0.0
+   ],
+   [
+    "ⲁⲣⲁⲭⲉⲑⲱⲡⲓ",
+    "ⲁⲥⲫⲓⲝⲝⲓⲝ",
+    0.029
+   ],
+   [
+    "ⲁⲃⲉⲇⲱ",
+    "ⲥⲟⲩⲛⲟⲅⲭⲟⲩⲧⲁ",
+    0.0
+   ],
+   [
+    "ⲁⲣⲉⲭⲏ",
+    "ⲁⲣⲟⲩⲫ",
+    0.158
+   ],
+   [
+    "ⲅⲟⲣⲙⲁⲕⲁⲓⲟⲭⲗⲁⲃⲁⲣ",
+    "ⲭⲁⲣⲭⲁⲣⲃ",
+    0.024
+   ],
+   [
+    "ⲛⲉⲃⲣⲓⲑ",
+    "ⲭⲑⲁⲱ",
+    0.0
+   ],
+   [
+    "ⲥⲟⲙⲁ",
+    "ⲑⲁⲃⲓⲛⲱⲑ",
+    0.0
+   ],
+   [
+    "ⲓⲟⲣⲙⲁⲱⲑ",
+    "ⲭⲟⲩⲝ",
+    0.0
+   ],
+   [
+    "ⲏⲙⲏⲛⲩⲛ",
+    "ⲭⲁⲣⲭⲁ",
+    0.0
+   ],
+   [
+    "ⲕⲛⲩⲝ",
+    "ⲁⲣⲟⲏⲣ",
+    0.0
+   ],
+   [
+    "ⲧⲩⲡⲏⲗⲟⲛ",
+    "ⲧⲱⲉⲭⲑⲁ",
+    0.037
+   ],
+   [
+    "ⲁⲭⲓⲏⲗ",
+    "ⲁⲱⲗ",
+    0.125
+   ],
+   [
+    "ⲫⲛⲏⲙⲏ",
+    "ⲭⲁⲣⲁⲛⲏⲣ",
+    0.04
+   ],
+   [
+    "ⲫⲓⲟⲩⲑⲣⲟⲙ",
+    "ⲃⲁⲥⲧⲁⲛ",
+    0.0
+   ],
+   [
+    "ⲃⲟⲁⲃⲉⲗ",
+    "ⲁⲣⲭⲉⲛⲧⲉⲭⲑⲁ",
+    0.0
+   ],
+   [
+    "ⲧⲣⲁⲭⲟⲩ",
+    "ⲙⲁⲣⲉⲫⲛⲟⲩⲛⲑ",
+    0.03
+   ],
+   [
+    "ⲫⲓⲕⲛⲁ",
+    "ⲁⲃⲣⲁⲛⲁ",
+    0.143
+   ]
+  ]
+ },
+ "robust_test1_codex_IV_spellings": {
+  "n_names": 93,
+  "n_pairs": 4278,
+  "r": 0.0166,
+  "p_perm": 0.1893,
+  "partial_r_given_list_distance": 0.0105,
+  "p_perm_partial": 0.2779,
+  "r_meaning_vs_distance": -0.277,
+  "r_sound_vs_distance": -0.0236
+ }
+}

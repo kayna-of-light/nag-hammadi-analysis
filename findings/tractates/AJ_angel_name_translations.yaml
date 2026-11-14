@@ -2,6 +2,37 @@
 #
 # Companion to finding AJ-017 in II_1_apocryphon_john.yaml
 #
+# STATUS (2026-11-14) — READ FIRST:
+# The readings in this file were made from Robinson's English and are
+# SUPERSEDED wherever they differ from AJ_angel_catalogue.yaml, which gives
+# every name in the Coptic of both codices with a grade (A transparent,
+# B probable, C possible) and the published identification behind it
+# (Crum, Cerny, Quack 1995, Piwowarczyk 2021, Gundel 1936). Only 38 of the
+# 130 surviving names read at A or B. More than twenty of the first list
+# are Egyptian decan names and others Egyptian gods (Quack): e.g.
+# Chnoumeninorin = Khnum or the decan Chnoumis; Ormaoth = Horus the
+# justified; Phthaue = Ptah the great; Aroer = Haroeris; Archendekta =
+# Horus Khentikheti (not "chief receiver"); Senaphim = the decan sbssn (C),
+# not seraphim. Many etymologies below marked "strong" are grade C or
+# opaque there (Eteraphaope, Thaspomocha, Knyx, Diolimodraza, Anaro ...).
+# Agromauna/Phnene are misprints of Robinson 1990 for Agromauma/Phneme.
+#
+# The COSMOLOGICAL NOTE below (each name a one-word capture of a spiritual
+# quality, identifying a community) was put to three registered tests in
+# research/apj_name_patterns/ (synthesis/001-003):
+#   1. Letters: names of members alike in degree, side, use or role do not
+#      share letters beyond chance (Mantel r = 0.016, p = 0.20) — miss.
+#   2. Origin: Egyptian, Greek and Semitic names are spread over the body
+#      without regard to degree, side or role; Egyptian names do not gather
+#      on the natural members (AC 4967) — miss.
+#   3. Word-names: a blind matching test could not be run blind (language-
+#      model matchers recognised the Apocryphon) — failed; needs human readers.
+# Where a name-member relation can be seen, it is in the single readable
+# word (Amen/teeth, Tebar/shoulder, krima/nails ...). The note stands as a
+# hypothesis, not a finding. Full account: literary-compilation,
+# data/08_Correspondential_Texts/The Body That Waited for Breath (§§2.5,
+# 5.7, 12.3-12.4).
+#
 # COPTIC MANUSCRIPT REVIEW (2026-04-28; corrected 2026-11-07):
 # Every name compared against the Coptic of BOTH long-recension witnesses,
 # NHC II 15-19 and NHC IV 24-26 (Linssen 2024), and against Robinson 1990
@@ -1421,6 +1452,9 @@ material_soul_head:
 # =============================================================================
 # SUMMARY
 # =============================================================================
+#
+# [2026-11-14] The distribution and patterns below are those of the English-
+# based readings; see the STATUS block at the top and AJ_angel_catalogue.yaml.
 #
 # Confidence distribution across all translated names:
 #   strong:    ~20 names (clear roots, precise semantic fit)

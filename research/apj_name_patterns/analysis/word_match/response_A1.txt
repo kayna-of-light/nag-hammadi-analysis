@@ -1,0 +1,19 @@
+G1 -> C : meninges are the brain's coverings
+G2 -> J : bodily strength carried in the arm
+G3 -> D : the foot gives firm, sure standing
+G4 -> L : government rests upon the shoulder
+G5 -> A : left-hand counsel of the reins is folly
+G6 -> F : rough, swollen throat tissue
+G7 -> G : eye shines and sees like a star
+G8 -> E : kidneys (reins) are the seat of judgment
+G9 -> H : teeth break and grind food
+G10 -> B : genitals are the source of flowering fertility
+G11 -> N : nails gleam like small stars
+G12 -> K : breastplate over the heart bore sacred names
+G13 -> I : right arm writes and holds the book
+G14 -> M : the right ear receives a king's decree
+
+G1 -> D : shoulder bears the earth, like Atlas
+G2 -> B : Jacob's thigh was touched while he wrestled
+G3 -> A : genitals pass the form on to offspring
+G4 -> C : the rib cage holds the body together

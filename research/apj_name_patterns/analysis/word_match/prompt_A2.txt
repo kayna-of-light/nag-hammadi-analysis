@@ -1,0 +1,51 @@
+Below are two lists. List 1 gives the meanings of names that an ancient text gives to parts of the human body, one name per part. List 2 gives the parts of the body. Each meaning belongs to exactly one part. Pair them one to one: for every meaning, choose the part it fits best. Use every part exactly once.
+
+Answer from this message alone. Do not use any tools, do not read files, do not search. Reply with one line per meaning, in the form  G<number> -> <letter> : <reason in at most ten words>  and nothing else, first for Task 1, then for Task 2.
+
+Task 1
+
+List 1 (meanings)
+G1. judgment
+G2. book
+G3. break
+G4. star
+G5. royal
+G6. body
+G7. rough
+G8. fool
+G9. well-flowering
+G10. firm, true
+G11. ruler
+G12. of sacred name
+G13. star
+G14. meninges
+
+List 2 (parts)
+A. left forearm
+B. nails of the hands
+C. kidneys
+D. left kidney
+E. teeth
+F. right elbow
+G. left foot
+H. right shoulder
+I. tonsils
+J. right eye
+K. brain
+L. right ear
+M. genitals
+N. right breast
+
+Task 2
+
+List 1 (meanings)
+G1. earth
+G2. pattern, form
+G3. Jacob (the patriarch)
+G4. holding together
+
+List 2 (parts)
+A. all the genitals
+B. left ribs
+C. left thigh
+D. right shoulder

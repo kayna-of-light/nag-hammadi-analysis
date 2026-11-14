@@ -1,0 +1,442 @@
+{
+ "members_strict": {
+  "O1_egypt_on_natural": {
+   "eg_on_N": "4/9",
+   "others_on_N": "28/84",
+   "diff": 0.1111,
+   "p_within_list": 0.4533,
+   "p_within_blocks_of_5": 0.4827,
+   "floor_k_of_K": "6/9"
+  },
+  "origin_x_degree": {
+   "n": 93,
+   "table": {
+    "EG": {
+     "C": 0,
+     "N": 4,
+     "S": 4,
+     "–": 1
+    },
+    "GR": {
+     "C": 4,
+     "N": 4,
+     "S": 5,
+     "–": 0
+    },
+    "SE": {
+     "C": 1,
+     "N": 4,
+     "S": 2,
+     "–": 0
+    },
+    "UN": {
+     "C": 11,
+     "N": 20,
+     "S": 27,
+     "–": 6
+    }
+   },
+   "chi2": 6.806,
+   "p_within_list": 0.6588,
+   "p_within_blocks_of_5": 0.3327
+  },
+  "origin_x_side": {
+   "n": 54,
+   "table": {
+    "EG": {
+     "L": 3,
+     "R": 4
+    },
+    "GR": {
+     "L": 4,
+     "R": 4
+    },
+    "SE": {
+     "L": 2,
+     "R": 3
+    },
+    "UN": {
+     "L": 18,
+     "R": 16
+    }
+   },
+   "chi2": 0.461,
+   "p_within_list": 0.9438,
+   "p_within_blocks_of_5": 0.9386
+  },
+  "origin_x_role": {
+   "n": 92,
+   "table": {
+    "EG": {
+     "CAUSE": 7,
+     "EFFECT": 2,
+     "END": 0
+    },
+    "GR": {
+     "CAUSE": 4,
+     "EFFECT": 8,
+     "END": 1
+    },
+    "SE": {
+     "CAUSE": 4,
+     "EFFECT": 3,
+     "END": 0
+    },
+    "UN": {
+     "CAUSE": 34,
+     "EFFECT": 25,
+     "END": 4
+    }
+   },
+   "chi2": 5.491,
+   "p_within_list": 0.4495,
+   "p_within_blocks_of_5": 0.4671
+  },
+  "holm_O1_O4_p_within_list": {
+   "O1": 1,
+   "O2_degree": 1,
+   "O3_side": 1,
+   "O4_role": 1
+  },
+  "holm_O1_O4_p_within_blocks_of_5": {
+   "O1": 1,
+   "O2_degree": 1,
+   "O3_side": 1,
+   "O4_role": 1
+  }
+ },
+ "members_broad": {
+  "O1_egypt_on_natural": {
+   "eg_on_N": "6/27",
+   "others_on_N": "26/66",
+   "diff": -0.1717,
+   "p_within_list": 0.9721,
+   "p_within_blocks_of_5": 0.66,
+   "floor_k_of_K": "14/27"
+  },
+  "origin_x_degree": {
+   "n": 93,
+   "table": {
+    "EG": {
+     "C": 3,
+     "N": 6,
+     "S": 15,
+     "–": 3
+    },
+    "GR": {
+     "C": 4,
+     "N": 5,
+     "S": 9,
+     "–": 1
+    },
+    "SE": {
+     "C": 4,
+     "N": 6,
+     "S": 4,
+     "–": 0
+    },
+    "UN": {
+     "C": 5,
+     "N": 15,
+     "S": 10,
+     "–": 3
+    }
+   },
+   "chi2": 9.659,
+   "p_within_list": 0.3725,
+   "p_within_blocks_of_5": 0.6154
+  },
+  "origin_x_side": {
+   "n": 54,
+   "table": {
+    "EG": {
+     "L": 8,
+     "R": 7
+    },
+    "GR": {
+     "L": 4,
+     "R": 6
+    },
+    "SE": {
+     "L": 5,
+     "R": 4
+    },
+    "UN": {
+     "L": 10,
+     "R": 10
+    }
+   },
+   "chi2": 0.578,
+   "p_within_list": 0.9254,
+   "p_within_blocks_of_5": 0.9232
+  },
+  "origin_x_role": {
+   "n": 92,
+   "table": {
+    "EG": {
+     "CAUSE": 19,
+     "EFFECT": 7,
+     "END": 1
+    },
+    "GR": {
+     "CAUSE": 9,
+     "EFFECT": 9,
+     "END": 1
+    },
+    "SE": {
+     "CAUSE": 5,
+     "EFFECT": 9,
+     "END": 0
+    },
+    "UN": {
+     "CAUSE": 16,
+     "EFFECT": 13,
+     "END": 3
+    }
+   },
+   "chi2": 7.815,
+   "p_within_list": 0.2507,
+   "p_within_blocks_of_5": 0.3469
+  },
+  "holm_O1_O4_p_within_list": {
+   "O1": 1,
+   "O2_degree": 1,
+   "O3_side": 1,
+   "O4_role": 1
+  },
+  "holm_O1_O4_p_within_blocks_of_5": {
+   "O1": 1,
+   "O2_degree": 1,
+   "O3_side": 1,
+   "O4_role": 1
+  }
+ },
+ "members_and_forces_strict": {
+  "O1_egypt_on_natural": {
+   "eg_on_N": "5/11",
+   "others_on_N": "39/98",
+   "diff": 0.0566,
+   "p_within_list": 0.6025,
+   "p_within_blocks_of_5": 0.5717,
+   "floor_k_of_K": "8/11"
+  },
+  "origin_x_degree": {
+   "n": 109,
+   "table": {
+    "EG": {
+     "C": 0,
+     "N": 5,
+     "S": 4,
+     "–": 2
+    },
+    "GR": {
+     "C": 4,
+     "N": 7,
+     "S": 5,
+     "–": 1
+    },
+    "SE": {
+     "C": 1,
+     "N": 4,
+     "S": 2,
+     "–": 0
+    },
+    "UN": {
+     "C": 11,
+     "N": 28,
+     "S": 27,
+     "–": 8
+    }
+   },
+   "chi2": 5.247,
+   "p_within_list": 0.8169,
+   "p_within_blocks_of_5": 0.5824
+  },
+  "origin_x_side": {
+   "n": 54,
+   "table": {
+    "EG": {
+     "L": 3,
+     "R": 4
+    },
+    "GR": {
+     "L": 4,
+     "R": 4
+    },
+    "SE": {
+     "L": 2,
+     "R": 3
+    },
+    "UN": {
+     "L": 18,
+     "R": 16
+    }
+   },
+   "chi2": 0.461,
+   "p_within_list": 0.9407,
+   "p_within_blocks_of_5": 0.9414
+  },
+  "origin_x_role": {
+   "n": 99,
+   "table": {
+    "EG": {
+     "CAUSE": 7,
+     "EFFECT": 3,
+     "END": 0
+    },
+    "GR": {
+     "CAUSE": 5,
+     "EFFECT": 9,
+     "END": 1
+    },
+    "SE": {
+     "CAUSE": 4,
+     "EFFECT": 3,
+     "END": 0
+    },
+    "UN": {
+     "CAUSE": 37,
+     "EFFECT": 25,
+     "END": 5
+    }
+   },
+   "chi2": 4.822,
+   "p_within_list": 0.5661,
+   "p_within_blocks_of_5": 0.5702
+  }
+ },
+ "members_and_forces_broad": {
+  "O1_egypt_on_natural": {
+   "eg_on_N": "9/31",
+   "others_on_N": "35/78",
+   "diff": -0.1584,
+   "p_within_list": 0.9591,
+   "p_within_blocks_of_5": 0.7145,
+   "floor_k_of_K": "17/31"
+  },
+  "origin_x_degree": {
+   "n": 109,
+   "table": {
+    "EG": {
+     "C": 3,
+     "N": 9,
+     "S": 15,
+     "–": 4
+    },
+    "GR": {
+     "C": 4,
+     "N": 8,
+     "S": 9,
+     "–": 4
+    },
+    "SE": {
+     "C": 4,
+     "N": 6,
+     "S": 4,
+     "–": 0
+    },
+    "UN": {
+     "C": 5,
+     "N": 21,
+     "S": 10,
+     "–": 3
+    }
+   },
+   "chi2": 11.176,
+   "p_within_list": 0.2686,
+   "p_within_blocks_of_5": 0.7814
+  },
+  "origin_x_side": {
+   "n": 54,
+   "table": {
+    "EG": {
+     "L": 8,
+     "R": 7
+    },
+    "GR": {
+     "L": 4,
+     "R": 6
+    },
+    "SE": {
+     "L": 5,
+     "R": 4
+    },
+    "UN": {
+     "L": 10,
+     "R": 10
+    }
+   },
+   "chi2": 0.578,
+   "p_within_list": 0.926,
+   "p_within_blocks_of_5": 0.9274
+  },
+  "origin_x_role": {
+   "n": 99,
+   "table": {
+    "EG": {
+     "CAUSE": 19,
+     "EFFECT": 8,
+     "END": 2
+    },
+    "GR": {
+     "CAUSE": 10,
+     "EFFECT": 10,
+     "END": 1
+    },
+    "SE": {
+     "CAUSE": 5,
+     "EFFECT": 9,
+     "END": 0
+    },
+    "UN": {
+     "CAUSE": 19,
+     "EFFECT": 13,
+     "END": 3
+    }
+   },
+   "chi2": 6.572,
+   "p_within_list": 0.359,
+   "p_within_blocks_of_5": 0.5461
+  }
+ },
+ "O5_origin_by_list": {
+  "strict": {
+   "L1": {
+    "UN": 45,
+    "GR": 11,
+    "SE": 4,
+    "EG": 5
+   },
+   "L2": {
+    "UN": 19,
+    "SE": 3,
+    "EG": 4,
+    "GR": 2
+   },
+   "F": {
+    "EG": 2,
+    "UN": 10,
+    "GR": 4
+   }
+  },
+  "broad": {
+   "L1": {
+    "EG": 19,
+    "GR": 15,
+    "SE": 9,
+    "UN": 22
+   },
+   "L2": {
+    "UN": 11,
+    "SE": 5,
+    "EG": 8,
+    "GR": 4
+   },
+   "F": {
+    "EG": 4,
+    "UN": 6,
+    "GR": 6
+   }
+  }
+ }
+}
