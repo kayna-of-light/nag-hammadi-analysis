@@ -221,23 +221,28 @@ When analyzing a tractate:
 
 ## Tractate Classification
 
-### By Correspondential Richness (from initial analysis)
+### By Correspondential Richness
 
-**Extraordinary** — saturated with correspondential content:
+Ratings count the four criteria of `findings/schema.yaml` (from *The Living Library* §2.3, rescored 2026-11-25 with the deciding passages in the Coptic). Each findings file records `criteria_met` and `criteria_basis`.
+
+**Extraordinary** (all four criteria):
 - Gospel of Thomas (II,2) — the key text; Saying 1 is the editorial instruction
 - Gospel of Philip (II,3) — most systematic; explicitly theorizes correspondence
 - Apocryphon of John (II,1) — cosmogonic myth AS correspondence map; divine human anatomy
 - Gospel of Truth (I,3) — the Living Book; dream/sleep metaphor; fragrance of Spirit
+- Eugnostos / Sophia of Jesus Christ (III,3; III,4) — "go from what is hidden to the end of what is manifest" (III 74,12–20); the calendar "as a type"
+- Valentinian Exposition (XI,2) — "the interpretation of John is the Aeon" (XI 41,31–38); Tetrad, Decad, Dodecad, 360
+- Teachings of Silvanus (VII,4) — εἰκών / ⲉⲓⲛⲉ ⲙ̅ⲙⲉ; "every thing visible is a type of what is hidden"; the threefold human (92,15–25)
 
-**Rich** — deep correspondential patterns throughout:
+**Rich** (three criteria), among them:
 - Exegesis on the Soul (II,6) — regeneration cycle narrated step by step
 - Trimorphic Protennoia (XIII,1) — three descents as discrete degrees of influx
 - Thunder, Perfect Mind (VI,2) — entirely structured as opposite-sense proclamations
 - Hypostasis of the Archons (II,4) — proprium personified; spiritual Woman as awakener
-- Teachings of Silvanus (VII,4) — explicitly uses the word "correspondence"; discrete degrees taught
+- Acts of Peter and the Twelve (VI,1) — the Lord tells Peter the story was a parable (VI 10,22–30)
 
-**Rich (structural key):**
-- Apocalypse of Adam (V,5) — thirteen kingdoms; words on the mountain; the generation without a king
+**Moderate by count, structural key in substance:**
+- Apocalypse of Adam (V,5) — thirteen kingdoms; words on the mountain; the generation without a king. It meets criteria 3 and 4 only because it glosses almost none of its own images; the rating does not measure the depth of its structure.
 
 All 48 tractates now have findings files. Richness ratings are recorded per file in `findings/tractates/`; a few remain `in_progress`.
 

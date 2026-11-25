@@ -2,7 +2,12 @@ tractate: "III,2"
 title: "The Gospel of the Egyptians (The Holy Book of the Great Invisible Spirit)"
 filename: "III_2_gospel_egyptians.md"
 status: complete
-richness: moderate
+richness: rich
+criteria_met: [2, 3, 4]
+criteria_basis: >
+  (2) "The world which is the likeness of the night" (III 51,5; 59,20);
+  Sodom as fruit of the spring of Gomorrah. (3) The likeness of the night,
+  twice. (4) Four lights with assigned qualities; ogdoads.
 
 summary: >
   A Sethian salvation history featuring complex heavenly bureaucracy

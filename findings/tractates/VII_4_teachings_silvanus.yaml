@@ -2,15 +2,23 @@ tractate: "VII,4"
 title: "The Teachings of Silvanus"
 filename: "VII_4_teachings_silvanus.md"
 status: in_progress
-richness: rich
+richness: extraordinary
+criteria_met: [1, 2, 3, 4]
+criteria_basis: >
+  (1) "Every thing that is visible is a type of what is hidden" (VII
+  99,5-7); "this image (εἰκών) reveals the true likeness" (100,27-31). (2)
+  Temple and tomb (106,9-11); the threefold human. (3) Temple used
+  consistently. (4) "You came from three races": body from the earth, the
+  formed from the thought of the Divine, the mind "according to the image
+  of God" (92,15-25).
 
 summary: >
   Explicitly NOT gnostic — anti-gnostic polemic, affirms divine creation,
   rejects demiurgic dualism. Yet deploys the correspondential vocabulary
   with complete fluency. This confirms that the correspondential system is
   NOT a gnostic invention — it is an older substrate that gnostic AND
-  non-gnostic writers both drew upon. Silvanus explicitly uses the word
-  "correspondence," teaches a threefold human (body/soul/mind = earth/formed/
+  non-gnostic writers both drew upon. Silvanus pairs the Greek εἰκών with
+  the native ⲉⲓⲛⲉ ⲙ̅ⲙⲉ ("true likeness"), teaches a threefold human (body/soul/mind = earth/formed/
   divine image), and identifies Christ as the Tree of Life. Reads like
   wisdom literature — practical guidance for spiritual development, grounded
   in correspondential understanding.
@@ -19,26 +27,30 @@ findings:
   - id: TS-001
     category: explicit_statement
     passage: >
-      "This image reveals the true likeness in correspondence to that
-      which is revealed."
-    location: "Middle section"
+      "For this image (εἰκών) reveals the true likeness (ⲡⲓⲛⲉ ⲙ̅ⲙⲉ)
+      according to (ⲕⲁⲧⲁ) what is revealed. A king is not usually known
+      apart from an image."
+    location: "VII 100,27-31"
     finding: >
-      One of the only ancient texts to use the word "correspondence"
-      explicitly in this sense. The image (natural form) reveals the
-      true likeness (spiritual reality) "in correspondence" — the natural
-      IS the spiritual made visible through the correspondential relationship.
+      The image (natural form) reveals the true likeness (spiritual
+      reality). The sentence performs the stratification it describes:
+      the Greek loan names the outer image, the native Egyptian words name
+      the true likeness it discloses.
     principles:
       - correspondence
     confidence: strong
     notes: >
-      The Robinson translation gives "correspondence" directly. This is
-      the framework's own vocabulary appearing in an ancient text.
+      CORRECTION (2026-11-25, from the Coptic). This entry previously said
+      Silvanus uses the word "correspondence". It does not: Robinson's "in
+      correspondence to" renders plain ⲕⲁⲧⲁ, "according to" (VII 100,29).
+      Do not cite Silvanus as an ancient use of the term. Cite the
+      εἰκών / ⲡⲓⲛⲉ ⲙ̅ⲙⲉ pairing instead (see CLAUDE.md, Silvanus).
 
   - id: TS-002
     category: explicit_statement
     passage: >
-      "Everything which is visible is a copy of that which is hidden."
-    location: "Middle section"
+      "Everything which is visible is a type (ⲧⲩⲡⲟⲥ) of that which is hidden."
+    location: "VII 99,5-7"
     finding: >
       Direct statement of the correspondential principle: the visible
       world is a copy (expression in ultimates) of the hidden (spiritual)

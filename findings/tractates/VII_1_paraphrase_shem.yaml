@@ -2,7 +2,12 @@ tractate: "VII,1"
 title: "The Paraphrase of Shem"
 filename: "VII_1_paraphrase_shem.md"
 status: complete
-richness: moderate
+richness: rich
+criteria_met: [2, 3, 4]
+criteria_basis: >
+  (2) "The mind of Darkness, which is the eye of the bitterness of evil";
+  "my garment which is the garment of the light". (3) Garments by level.
+  (4) Light, Spirit and Darkness as the three roots.
 
 summary: >
   A lengthy cosmogonic revelation to Shem featuring a three-root system

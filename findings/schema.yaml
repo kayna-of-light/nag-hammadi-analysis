@@ -22,12 +22,30 @@
 #                 not_started   — Not yet analyzed
 #                 in_progress   — Partially analyzed; more findings expected
 #                 complete      — Fully analyzed; all identifiable findings recorded
-# richness:     Overall correspondential density assessment
-#                 extraordinary — The text is saturated with correspondential content
-#                 rich          — Multiple deep correspondential patterns throughout
-#                 moderate      — Some clear correspondences; mixed with other material
-#                 sparse        — Few correspondential elements; mostly other register
+# richness:     Overall assessment, scored by the four criteria below
+#               (The Living Library §2.3; rescored 2026-11-25)
+#                 extraordinary — meets all four criteria
+#                 rich          — meets three
+#                 moderate      — meets two
+#                 sparse        — meets one or none
+#                 fragmentary   — too damaged to test
 #                 resistant     — The text does not yield to correspondential reading
+# criteria_met: List of the criteria the text meets, e.g. [1, 2, 3]
+#                 1 — the text tells its hearer that what is said or seen
+#                     carries a hidden sense (interpretation, parables,
+#                     the hidden in the visible, a scriptural image meant
+#                     "spiritually"). A correction of scripture counts only
+#                     when it gives the image an inner sense; a name
+#                     translation does not count, nor does cosmogony told
+#                     as narrative.
+#                 2 — the text itself glosses at least two natural images
+#                     with spiritual referents ("X is Y", "X, that is, Y").
+#                 3 — an image recurs with the same referent within the
+#                     text and agrees with its use in another tractate.
+#                 4 — the text, or a major section, is ordered by levels, a
+#                     numbered series or fixed functions of a set of beings,
+#                     recurring in an independent tractate.
+# criteria_basis: The deciding passages, quoted from the Coptic with page,line
 # summary:      Free-form overall assessment (multi-line)
 
 # ---------------------------------------------------------------------------

@@ -2,7 +2,14 @@ tractate: "I,4"
 title: "The Treatise on the Resurrection"
 filename: "I_4_treatise_resurrection.md"
 status: complete
-richness: moderate
+richness: rich
+criteria_met: [1, 2, 3]
+criteria_basis: >
+  (1) "These are the symbols and the likenesses of the resurrection" (I
+  49,6-9). (2) "We are his beams ... until our setting, that is, our death
+  in this life" (45,28-39). (3) Light swallowing darkness and the visible
+  swallowed by the invisible recur. (4) is not met: the spiritual, psychic
+  and fleshly resurrections are one sentence, not a structure.
 
 summary: >
   An epistle to "Rheginos" on the nature of resurrection. Its most
