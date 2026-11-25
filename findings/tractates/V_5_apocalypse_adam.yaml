@@ -2,7 +2,14 @@ tractate: "V,5"
 title: "The Apocalypse of Adam"
 filename: "V_5_apocalypse_adam.md"
 status: complete
-richness: rich
+richness: moderate
+criteria_met: [3, 4]
+criteria_basis: >
+  (3) Water: "came to the water" thirteen times, and the defiled water of
+  life. (4) The thirteen kingdoms and the kingless generation, as in Orig.
+  World. (1) and (2) are not met: the text glosses almost none of its own
+  images. The rating counts explicit statements; it does not measure the
+  depth of the thirteen-kingdom structure.
 
 summary: >
   A structural key to the collection. The thirteen kingdoms passage is a

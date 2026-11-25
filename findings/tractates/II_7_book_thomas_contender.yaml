@@ -2,7 +2,13 @@ tractate: "II,7"
 title: "The Book of Thomas the Contender"
 filename: "II_7_book_thomas_contender.md"
 status: complete
-richness: moderate
+richness: rich
+criteria_met: [1, 2, 3]
+criteria_basis: >
+  (1) "If the things that are manifest to you are hidden from you, how can
+  you hear about the things that are not manifest?" (II 138,27-30). (2)
+  The body is bestial; the fire guiding the passions. (3) Fire as passion
+  throughout.
 
 summary: >
   A dialogue between Jesus and his "twin" Thomas emphasizing self-knowledge

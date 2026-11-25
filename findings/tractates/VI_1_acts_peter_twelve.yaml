@@ -2,7 +2,14 @@ tractate: "VI,1"
 title: "The Acts of Peter and the Twelve Apostles"
 filename: "VI_1_acts_peter_twelve.md"
 status: complete
-richness: moderate
+richness: rich
+criteria_met: [1, 2, 3]
+criteria_basis: >
+  (1) "O Peter, it was necessary for you to understand the parable that I
+  told you" (VI 10,22-25). (2) The name surpasses all wealth and the
+  wisdom of God surpasses gold (10,25-30); "the physicians of souls heal
+  the heart" (11,15-19). (3) On the road, what is carried draws the beast,
+  stated twice with the same mapping.
 
 summary: >
   A narrative allegory of a pearl merchant (Lithargoel) and the apostles'

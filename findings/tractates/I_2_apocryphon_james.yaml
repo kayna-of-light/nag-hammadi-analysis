@@ -2,7 +2,14 @@ tractate: "I,2"
 title: "The Apocryphon of James"
 filename: "I_2_apocryphon_james.md"
 status: complete
-richness: moderate
+richness: rich
+criteria_met: [1, 2, 3]
+criteria_basis: >
+  (1) "At first I spoke with you in parables, and you did not understand"
+  (I 7,1-6). (2) "When you come to know what the head is, and that
+  prophecy issues from the head, understand what 'its head was taken off'
+  means" (6,35-7,1); the word as a grain of wheat. (3) Seed and grain
+  throughout, as in Thomas 9 and 20.
 
 summary: >
   A post-resurrection dialogue framed as a secret revelation to James and

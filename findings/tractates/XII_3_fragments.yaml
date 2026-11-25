@@ -2,7 +2,10 @@ tractate: "XII,3"
 title: "Fragments"
 filename: "XII_3_fragments.md"
 status: complete
-richness: sparse
+richness: fragmentary
+criteria_met: []
+criteria_basis: >
+  Too little text to test.
 
 summary: >
   Nearly nothing survives of this text. The speaker may be Jesus;
